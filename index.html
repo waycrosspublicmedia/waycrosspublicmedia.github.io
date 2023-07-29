@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">&lt;!DOCTYPE html&gt;</p>
+<p class="p1">&lt;html&gt;</p>
+<p class="p1">&lt;head&gt;</p>
+<p class="p1">&lt;title&gt;Page Title&lt;/title&gt;</p>
+<p class="p1">&lt;/head&gt;</p>
+<p class="p1">&lt;body&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;!-- Add a placeholder for the Twitch embed --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;div id="twitch-embed"&gt;&lt;/div&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;!-- Load the Twitch embed script --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;script src="https://embed.twitch.tv/embed/v1.js"&gt;&lt;/script&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;!-- Create a Twitch.Embed object that will render within the "twitch-embed" element. --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;script type="text/javascript"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>var embed = new Twitch.Embed("twitch-embed", {</p>
+<p class="p1"><span class="Apple-converted-space">        </span>width: 854,</p>
+<p class="p1"><span class="Apple-converted-space">        </span>height: 480,</p>
+<p class="p1"><span class="Apple-converted-space">        </span>channel: "waycross_pbs",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>layout: "video",</p>
+<p class="p1"><span class="Apple-converted-space">        </span>autoplay: false,</p>
+<p class="p1"><span class="Apple-converted-space">        </span>// Only needed if this page is going to be embedded on other websites</p>
+<p class="p1"><span class="Apple-converted-space">        </span>parent: ["embed.example.com", "othersite.example.com"]</p>
+<p class="p1"><span class="Apple-converted-space">      </span>});</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">      </span>embed.addEventListener(Twitch.Embed.VIDEO_READY, () =&gt; {</p>
+<p class="p1"><span class="Apple-converted-space">        </span>var player = embed.getPlayer();</p>
+<p class="p1"><span class="Apple-converted-space">        </span>player.play();</p>
+<p class="p1"><span class="Apple-converted-space">      </span>});</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/script&gt;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>&lt;/body&gt;</p>
+<p class="p1">&lt;/html&gt;</p>
+<p class="p2"><br></p>
+</body>
+</html>
