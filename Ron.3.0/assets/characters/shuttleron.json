@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shuttle ron down"
+		},
+		{
+			"offsets": [
+				10,
+				-190
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "shuttle ron idle"
+		},
+		{
+			"offsets": [
+				-10,
+				-195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shuttle ron right"
+		},
+		{
+			"offsets": [
+				10,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shuttle ron left"
+		},
+		{
+			"offsets": [
+				10,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shuttle ron up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shuttle ron",
+	"position": [
+		20,
+		10
+	],
+	"healthicon": "ron-classic",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		232,
+		0
+	],
+	"camera_position": [
+		80,
+		220
+	],
+	"sing_duration": 4,
+	"noteskin": "ron",
+	"scale": 1
+}

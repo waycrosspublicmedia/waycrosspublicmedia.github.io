@@ -1,0 +1,156 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				80,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				119,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				79,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				39,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				143
+			],
+			"anim": "transform",
+			"fps": 24,
+			"name": "eye transform spooky",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				3
+			],
+			"anim": "untransform",
+			"fps": 24,
+			"name": "eye transform back",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				8,
+				143
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "eye idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				147
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "eye left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				69
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "eye down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				188
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "eye up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				149
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "eye right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/newcharstest/bloodshitron",
+	"position": [
+		80,
+		200
+	],
+	"healthicon": "demonron",
+	"flip_x": false,
+	"healthbar_colors": [
+		131,
+		52,
+		52
+	],
+	"camera_position": [
+		0,
+		-20
+	],
+	"sing_duration": 4.9,
+	"noteskin": "demon",
+	"scale": 0.9
+}

@@ -1,0 +1,90 @@
+{
+	"noteskin": "demon",
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-2
+			],
+			"anim": "bruh",
+			"fps": 24,
+			"name": "bruh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hahanotscary",
+	"position": [
+		-120,
+		190
+	],
+	"healthicon": "hahanotscary",
+	"flip_x": false,
+	"healthbar_colors": [
+		162,
+		11,
+		2
+	],
+	"camera_position": [
+		440,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

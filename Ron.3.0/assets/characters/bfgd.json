@@ -1,0 +1,156 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				237
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				236
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				226
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				267
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				245
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				237
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "leftmiss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				227
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downmiss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				267
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upmiss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				247
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rightmiss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				228
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				227
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				227
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "death",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/newcharstest/bfGeometrydash",
+	"position": [
+		-520,
+		-520
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		121,
+		253
+	],
+	"camera_position": [
+		30,
+		-180
+	],
+	"sing_duration": 4,
+	"noteskin": "NOTE_assets",
+	"scale": 0.999999999999999
+}

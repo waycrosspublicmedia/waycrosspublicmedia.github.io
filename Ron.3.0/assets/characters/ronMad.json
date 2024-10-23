@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "jordans",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "jordans",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				129
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				-167
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/newcharstest/thisisronfnf",
+	"position": [
+		-340,
+		40
+	],
+	"healthicon": "ronmad",
+	"flip_x": false,
+	"healthbar_colors": [
+		91,
+		78,
+		0
+	],
+	"camera_position": [
+		180,
+		290
+	],
+	"sing_duration": 4,
+	"noteskin": "ron",
+	"scale": 0.55
+}

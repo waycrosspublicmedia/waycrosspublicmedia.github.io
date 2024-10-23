@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ron idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ron left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ron down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ron up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ron right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/wastedfucker",
+	"position": [
+		-260,
+		170
+	],
+	"healthicon": "icon-ronslightly-classic",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		170,
+		20
+	],
+	"camera_position": [
+		760,
+		190
+	],
+	"sing_duration": 4,
+	"noteskin": "ron",
+	"scale": 0.999999999999999
+}
