@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kit idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kit left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kit down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				19
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kit up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kit right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skykit_normal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sky",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		95,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

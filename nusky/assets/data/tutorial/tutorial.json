@@ -1,0 +1,1202 @@
+{
+    "song": {
+        "song": "Tutorial",
+		"events": [
+			[
+				106438.356164384,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"1",
+						"soul-bf"
+					]
+				]
+			],
+			[
+				132739.726027397,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Change Character",
+						"1",
+						"spooky3"
+					]
+				]
+			],
+			[
+				237945.205479452,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"1",
+						"soul-bf"
+					]
+				]
+			],
+			[
+				290547.94520548,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad7"
+					]
+				]
+			],
+			[
+				290962.66916983,
+				[
+					[
+						"Change Character",
+						"2",
+						"mom3"
+					]
+				]
+			],
+			[
+				406260.108928866,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				406531.193266215,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"1",
+						"soul-bf"
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"2",
+						"no-gf"
+					]
+				]
+			],
+			[
+				408067.337844528,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				409513.120977058,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				410958.904109588,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				412404.687242119,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				413850.470374649,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				415296.253507179,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				416742.036639709,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				418187.819772239,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				419633.602904769,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				421079.386037299,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				422525.169169829,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				423970.952302359,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				425416.73543489,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				426862.51856742,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				428308.30169995,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				429754.08483248,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				431199.86796501,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				432645.65109754,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				434091.43423007,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				435537.2173626,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				436983.00049513,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				438428.78362766,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				439874.566760191,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				441320.349892721,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				442766.133025251,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				444211.916157781,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				445657.699290311,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				447103.482422841,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				448549.265555371,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				449995.048687901,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				451440.831820431,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				452886.614952962,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				454332.398085492,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				455778.181218022,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				457223.964350552,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				458669.747483082,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				460115.530615612,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				461561.313748142,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				463007.096880672,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				464452.880013202,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				465898.663145733,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				467344.446278263,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				468790.229410793,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				470236.012543323,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				471681.795675853,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				473127.578808383,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				474573.361940913,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				476019.145073443,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				477464.928205973,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				478910.711338504,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				480356.494471034,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				481802.277603564,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				483248.060736094,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				484693.843868624,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				486139.627001154,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				487585.410133684,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				489031.193266214,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				490476.976398744,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				491922.759531274,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				493368.542663805,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				494814.325796335,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				496260.108928865,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				497705.892061395,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				499151.675193925,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				500597.458326455,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+        "notes": [
+            { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] },
+            { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] },
+            { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] },
+            { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] },
+            {
+                "mustHitSection": false,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [9600, 0, 0],
+                    [10800, 3, 0]
+                ]
+            },
+            {
+                "mustHitSection": false,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [12000, 0, 0],
+                    [13200, 3, 0]
+                ]
+            },
+            {
+                "mustHitSection": true,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [14400, 0, 0],
+                    [15600, 3, 0]
+                ]
+            },
+            {
+                "mustHitSection": true,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [16800, 0, 0],
+                    [18000, 3, 0]
+                ]
+            },
+            {
+                "mustHitSection": false,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [19200, 2, 0],
+                    [20400, 1, 0]
+                ]
+            },
+            {
+                "mustHitSection": false,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [21600, 2, 0],
+                    [22800, 1, 0]
+                ]
+            },
+            {
+                "mustHitSection": true,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [24000, 2, 0],
+                    [25200, 1, 0]
+                ]
+            },
+            {
+                "mustHitSection": true,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [26400, 2, 0],
+                    [27600, 1, 0]
+                ]
+            },
+            {
+                "mustHitSection": false,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [28800, 0, 0],
+                    [30000, 2, 0]
+                ]
+            },
+            {
+                "mustHitSection": false,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [31200, 1, 0],
+                    [32400, 3, 0]
+                ]
+            },
+            {
+                "mustHitSection": true,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [33600, 0, 0],
+                    [34800, 2, 0]
+                ]
+            },
+            {
+                "mustHitSection": true,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [36000, 1, 0],
+                    [37200, 3, 0]
+                ]
+            },
+            {
+                "mustHitSection": false,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [38400, 1, 0],
+                    [39000, 1, 0],
+                    [39600, 2, 0]
+                ]
+            },
+            {
+                "mustHitSection": false,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [40800, 1, 0],
+                    [41400, 1, 0],
+                    [42000, 3, 0]
+                ]
+            },
+            {
+                "mustHitSection": true,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [43200, 1, 0],
+                    [43800, 1, 0],
+                    [44400, 2, 0]
+                ]
+            },
+            {
+                "mustHitSection": true,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [45600, 1, 0],
+                    [46200, 1, 0],
+                    [46800, 3, 0]
+                ]
+            },
+            {
+                "mustHitSection": false,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [48000, 1, 0],
+                    [48300, 2, 0],
+                    [48600, 3, 0],
+                    [48900, 2, 0],
+                    [49800, 3, 0]
+                ]
+            },
+            {
+                "mustHitSection": true,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [50400, 1, 0],
+                    [50700, 2, 0],
+                    [51000, 3, 0],
+                    [51300, 2, 0],
+                    [52200, 3, 0]
+                ]
+            },
+            {
+                "mustHitSection": true,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [52800, 3, 0],
+                    [53400, 1, 0],
+                    [54000, 0, 0],
+                    [54600, 1, 0]
+                ]
+            },
+            {
+                "mustHitSection": true,
+                "typeOfSection": 0,
+                "lengthInSteps": 16,
+                "sectionNotes": [
+                    [55200, 2, 0],
+                    [55800, 3, 0],
+                    [56400, 0, 0],
+                    [57000, 2, 0]
+                ]
+            },
+            { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [[57600, 1, 750]] },
+            { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] },
+            { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] }
+        ],
+        "bpm": 100,
+        "sections": 0,
+        "needsVoices": false,
+        "player1": "bf",
+        "player2": "gf",
+        "sectionLengths": [],
+        "speed": 1
+    },
+    "bpm": 100,
+    "sections": 27,
+    "notes": [
+        { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] },
+        { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] },
+        { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] },
+        { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] },
+        {
+            "mustHitSection": false,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [9600, 0, 0],
+                [10800, 3, 0]
+            ]
+        },
+        {
+            "mustHitSection": false,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [12000, 0, 0],
+                [13200, 3, 0]
+            ]
+        },
+        {
+            "mustHitSection": true,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [14400, 0, 0],
+                [15600, 3, 0]
+            ]
+        },
+        {
+            "mustHitSection": true,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [16800, 0, 0],
+                [18000, 3, 0]
+            ]
+        },
+        {
+            "mustHitSection": false,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [19200, 2, 0],
+                [20400, 1, 0]
+            ]
+        },
+        {
+            "mustHitSection": false,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [21600, 2, 0],
+                [22800, 1, 0]
+            ]
+        },
+        {
+            "mustHitSection": true,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [24000, 2, 0],
+                [25200, 1, 0]
+            ]
+        },
+        {
+            "mustHitSection": true,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [26400, 2, 0],
+                [27600, 1, 0]
+            ]
+        },
+        {
+            "mustHitSection": false,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [28800, 0, 0],
+                [30000, 2, 0]
+            ]
+        },
+        {
+            "mustHitSection": false,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [31200, 1, 0],
+                [32400, 3, 0]
+            ]
+        },
+        {
+            "mustHitSection": true,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [33600, 0, 0],
+                [34800, 2, 0]
+            ]
+        },
+        {
+            "mustHitSection": true,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [36000, 1, 0],
+                [37200, 3, 0]
+            ]
+        },
+        {
+            "mustHitSection": false,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [38400, 1, 0],
+                [39000, 1, 0],
+                [39600, 2, 0]
+            ]
+        },
+        {
+            "mustHitSection": false,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [40800, 1, 0],
+                [41400, 1, 0],
+                [42000, 3, 0]
+            ]
+        },
+        {
+            "mustHitSection": true,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [43200, 1, 0],
+                [43800, 1, 0],
+                [44400, 2, 0]
+            ]
+        },
+        {
+            "mustHitSection": true,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [45600, 1, 0],
+                [46200, 1, 0],
+                [46800, 3, 0]
+            ]
+        },
+        {
+            "mustHitSection": false,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [48000, 1, 0],
+                [48300, 2, 0],
+                [48600, 3, 0],
+                [48900, 2, 0],
+                [49800, 3, 0]
+            ]
+        },
+        {
+            "mustHitSection": true,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [50400, 1, 0],
+                [50700, 2, 0],
+                [51000, 3, 0],
+                [51300, 2, 0],
+                [52200, 3, 0]
+            ]
+        },
+        {
+            "mustHitSection": true,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [52800, 3, 0],
+                [53400, 1, 0],
+                [54000, 0, 0],
+                [54600, 1, 0]
+            ]
+        },
+        {
+            "mustHitSection": true,
+            "typeOfSection": 0,
+            "lengthInSteps": 16,
+            "sectionNotes": [
+                [55200, 2, 0],
+                [55800, 3, 0],
+                [56400, 0, 0],
+                [57000, 2, 0]
+            ]
+        },
+        { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [[57600, 1, 750]] },
+        { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] },
+        { "mustHitSection": true, "typeOfSection": 0, "lengthInSteps": 16, "sectionNotes": [] }
+    ]
+}

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg_os.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf combo break0000" x="964" y="411" width="472" height="404" frameX="-5" frameY="-2" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0001" x="964" y="411" width="472" height="404" frameX="-5" frameY="-2" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0002" x="1443" y="0" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0003" x="1443" y="0" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0004" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0005" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0006" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0007" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0008" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0009" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0010" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0011" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0012" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0013" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0014" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0015" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0016" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0017" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0018" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0019" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0020" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0021" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0022" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0023" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0024" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0025" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0026" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0027" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0028" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0029" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0030" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0031" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0032" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0033" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0034" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0035" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0036" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0037" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0038" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0039" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0040" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0041" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0042" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0043" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0044" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0045" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0046" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0047" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0048" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0049" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0050" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0051" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0052" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0053" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0054" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0055" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0056" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0057" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0058" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0059" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0060" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0061" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0062" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0063" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0064" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0065" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0066" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0067" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0068" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0069" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0070" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0071" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0072" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0073" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0074" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0075" x="481" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0076" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0077" x="1443" y="407" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0078" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf combo break0079" x="0" y="413" width="479" height="405" frameX="0" frameY="0" frameWidth="479" frameHeight="406"/>
+	<SubTexture name="bf idle0000" x="1438" y="814" width="466" height="404" frameX="-9" frameY="-7" frameWidth="480" frameHeight="411"/>
+	<SubTexture name="bf idle0001" x="1438" y="814" width="466" height="404" frameX="-9" frameY="-7" frameWidth="480" frameHeight="411"/>
+	<SubTexture name="bf idle0002" x="962" y="817" width="466" height="402" frameX="-9" frameY="-9" frameWidth="480" frameHeight="411"/>
+	<SubTexture name="bf idle0003" x="962" y="817" width="466" height="402" frameX="-9" frameY="-9" frameWidth="480" frameHeight="411"/>
+	<SubTexture name="bf idle0004" x="964" y="0" width="477" height="409" frameX="-3" frameY="-2" frameWidth="480" frameHeight="411"/>
+	<SubTexture name="bf idle0005" x="964" y="0" width="477" height="409" frameX="-3" frameY="-2" frameWidth="480" frameHeight="411"/>
+	<SubTexture name="bf idle0006" x="0" y="0" width="480" height="411"/>
+	<SubTexture name="bf idle0007" x="0" y="0" width="480" height="411"/>
+	<SubTexture name="bf idle0008" x="482" y="0" width="480" height="411"/>
+	<SubTexture name="bf idle0009" x="482" y="0" width="480" height="411"/>
+	<SubTexture name="bf idle0010" x="482" y="0" width="480" height="411"/>
+	<SubTexture name="bf idle0011" x="482" y="0" width="480" height="411"/>
+</TextureAtlas>

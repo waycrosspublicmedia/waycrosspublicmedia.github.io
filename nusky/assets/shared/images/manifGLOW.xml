@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="manifGLOW.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="manifestglow0000" x="1022" y="0" width="1026" height="1911" frameX="-2" frameY="0" frameWidth="1028" frameHeight="1952"/>
+	<SubTexture name="manifestglow0001" x="2050" y="0" width="1026" height="1911" frameX="-2" frameY="0" frameWidth="1028" frameHeight="1952"/>
+	<SubTexture name="manifestglow0002" x="0" y="0" width="1020" height="1946" frameX="0" frameY="-6" frameWidth="1028" frameHeight="1952"/>
+</TextureAtlas>

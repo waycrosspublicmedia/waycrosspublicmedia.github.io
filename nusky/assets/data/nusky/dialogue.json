@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "annoyed",
+			"text": "Ohh i uhh.. thought you were coming alone. like usual..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky"
+		},
+		{
+			"expression": "talk",
+			"text": "i stopped by my boyfriend's house to see if he wanted to come along,i hope that's ok!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "stare2",
+			"text": "..''boyfriend''?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky"
+		},
+		{
+			"expression": "happy",
+			"text": "yeah,his name's bf!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "normal",
+			"text": "beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "oh..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky"
+		},
+		{
+			"expression": "normal",
+			"text": "bep boop?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "right",
+			"text": "yea no. HEY SHORT STACK!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky"
+		},
+		{
+			"expression": "realize",
+			"text": "ske beep bloop bap",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confident",
+			"text": "*ahem*,i'm gonna beat box my way into your girlfriend's heart,loser",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky"
+		},
+		{
+			"expression": "confused",
+			"text": "h-huh??",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "upset",
+			"text": "*offended beeps*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "i-..sky what the freak??",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}

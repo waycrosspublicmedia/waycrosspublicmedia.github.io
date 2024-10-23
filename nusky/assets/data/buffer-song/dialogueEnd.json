@@ -1,0 +1,94 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "..okay that wasn't even fair you kept inturupting me!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "troll",
+			"text": "cope"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "right_annoyed",
+			"text": "oh so NOW you start talking like an actual person huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "weird",
+			"text": "I'M the asshole? You're literally trying to steal my woman."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "stare2",
+			"text": "PLEASE. she deserves WAY better then you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "stare0",
+			"text": "I mean she was clearly peeved at you earlier"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "noo",
+			"text": "(omfg can we have a NORMAL friday for once??)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Are gonna do the third song or can i leave yet"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "oh you want a third song? I'll give you a THIRD SONG..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "right_annoyed",
+			"text": "..TRANSFORMATION"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "you cannot be serious."
+		}
+
+
+	]
+}

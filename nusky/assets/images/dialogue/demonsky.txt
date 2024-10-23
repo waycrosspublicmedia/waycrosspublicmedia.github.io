@@ -1,0 +1,63 @@
+{
+	"position": [
+		150,
+		20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "demonsky",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "grin",
+			"idle_name": "sky demon grin",
+			"loop_name": "sky demon grin"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_name": "sky demon pissed",
+			"loop_name": "sky demon pissed"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "right",
+			"idle_name": "sky demon right",
+			"loop_name": "sky demon right"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "laugh",
+			"idle_name": "sky demon laugh",
+			"loop_name": "sky demon laugh"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf flirt0000" x="301" y="0" width="299" height="517"/>
+	<SubTexture name="bf normal loop0000" x="0" y="0" width="299" height="517"/>
+	<SubTexture name="bf realize0000" x="301" y="1038" width="299" height="517"/>
+	<SubTexture name="bf shocked0000" x="0" y="1038" width="299" height="517"/>
+	<SubTexture name="bf thinking0000" x="301" y="519" width="299" height="517"/>
+	<SubTexture name="bf thinking20000" x="602" y="0" width="299" height="517"/>
+	<SubTexture name="bf troll0000" x="602" y="519" width="299" height="517"/>
+	<SubTexture name="bf upset0000" x="0" y="519" width="299" height="517"/>
+	<SubTexture name="bf weird0000" x="602" y="1038" width="299" height="517"/>
+</TextureAtlas>

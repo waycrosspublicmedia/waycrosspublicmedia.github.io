@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sky.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sky angry0000" x="1308" y="615" width="314" height="611"/>
+	<SubTexture name="sky annoyed0000" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0001" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0002" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0003" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0004" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0005" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0006" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0007" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0008" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0009" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0010" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0011" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0012" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0013" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0014" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky annoyed0015" x="1628" y="0" width="318" height="613"/>
+	<SubTexture name="sky confident 0000" x="333" y="1231" width="333" height="602"/>
+	<SubTexture name="sky confident 0001" x="333" y="1231" width="333" height="602"/>
+	<SubTexture name="sky confident 0002" x="333" y="1231" width="333" height="602"/>
+	<SubTexture name="sky grr0000" x="0" y="618" width="331" height="610" frameX="0" frameY="-1" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky grr0001" x="333" y="618" width="329" height="611" frameX="-1" frameY="0" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky grr0002" x="0" y="1230" width="331" height="610" frameX="0" frameY="-1" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky grr0003" x="664" y="613" width="327" height="611" frameX="-2" frameY="0" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky grr0004" x="346" y="0" width="329" height="611" frameX="-1" frameY="0" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky grr0005" x="677" y="0" width="327" height="611" frameX="-2" frameY="0" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky normal0000" x="988" y="1226" width="318" height="613"/>
+	<SubTexture name="sky normal0001" x="988" y="1226" width="318" height="613"/>
+	<SubTexture name="sky normal0002" x="988" y="1226" width="318" height="613"/>
+	<SubTexture name="sky right0000" x="0" y="0" width="344" height="616"/>
+	<SubTexture name="sky right0001" x="0" y="0" width="344" height="616"/>
+	<SubTexture name="sky right0002" x="0" y="0" width="344" height="616"/>
+	<SubTexture name="sky right0003" x="0" y="0" width="344" height="616"/>
+	<SubTexture name="sky right annoyed0000" x="1624" y="615" width="344" height="427"/>
+	<SubTexture name="sky right annoyed0001" x="1624" y="615" width="344" height="427"/>
+	<SubTexture name="sky stare0000" x="1308" y="0" width="318" height="613"/>
+	<SubTexture name="sky stare0001" x="1308" y="0" width="318" height="613"/>
+	<SubTexture name="sky stare20000" x="668" y="1226" width="318" height="613"/>
+	<SubTexture name="sky stare20001" x="668" y="1226" width="318" height="613"/>
+	<SubTexture name="sky stare20002" x="668" y="1226" width="318" height="613"/>
+</TextureAtlas>

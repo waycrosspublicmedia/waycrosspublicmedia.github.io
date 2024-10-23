@@ -1,0 +1,191 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "yotsuba idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "yotsuba idle",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "clap",
+			"fps": 24,
+			"name": "yotsuba clap",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "yotsuba trumpet left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "yotsuba trumpet down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "yotsuba trumpet up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "yotsuba trumpet right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				17,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft-trumpet",
+			"indices": [],
+			"name": "yotsuba trumpet idle"
+		},
+		{
+			"offsets": [
+				17,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight-trumpet",
+			"indices": [],
+			"name": "yotsuba trumpet idle"
+		},
+		{
+			"offsets": [
+				-2,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "boombox",
+			"indices": [],
+			"name": "yotsuba boombox"
+		},
+		{
+			"offsets": [
+				26,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gameboy",
+			"indices": [],
+			"name": "yotsuba gameboy"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				18
+			],
+			"anim": "click",
+			"fps": 24,
+			"name": "yotsuba boombox",
+			"indices": [
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			]
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "chachacha",
+			"loop": false,
+			"name": "yotsuba chachacha"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yotsuba",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "yotsuba",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		155,
+		115
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

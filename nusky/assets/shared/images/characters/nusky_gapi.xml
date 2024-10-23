@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nusky_gapi.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kit down0000" x="3591" y="0" width="312" height="549" frameX="-3" frameY="-19" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0001" x="3591" y="0" width="312" height="549" frameX="-3" frameY="-19" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0002" x="2994" y="0" width="307" height="568" frameX="0" frameY="0" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0003" x="2994" y="0" width="307" height="568" frameX="0" frameY="0" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0004" x="2682" y="0" width="310" height="567" frameX="0" frameY="-1" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0005" x="2682" y="0" width="310" height="567" frameX="0" frameY="-1" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0006" x="2367" y="0" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0007" x="2367" y="0" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0008" x="2367" y="0" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0009" x="2367" y="0" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0010" x="2367" y="0" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0011" x="2367" y="0" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0012" x="2367" y="0" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0013" x="2367" y="0" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0014" x="2367" y="0" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0015" x="2367" y="0" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit idle0000" x="0" y="0" width="348" height="583" frameX="0" frameY="-10" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0001" x="0" y="0" width="348" height="583" frameX="0" frameY="-10" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0002" x="350" y="0" width="345" height="586" frameX="0" frameY="-8" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0003" x="350" y="0" width="345" height="586" frameX="0" frameY="-8" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0004" x="697" y="0" width="336" height="591" frameX="0" frameY="-2" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0005" x="697" y="0" width="336" height="591" frameX="0" frameY="-2" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0006" x="1035" y="0" width="333" height="592" frameX="0" frameY="0" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0007" x="1035" y="0" width="333" height="592" frameX="0" frameY="0" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit kitty0000" x="0" y="585" width="239" height="361"/>
+	<SubTexture name="kit kitty0001" x="2038" y="587" width="239" height="361"/>
+	<SubTexture name="kit kitty0002" x="241" y="588" width="239" height="361"/>
+	<SubTexture name="kit left0000" x="2646" y="569" width="297" height="549" frameX="0" frameY="-13" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0001" x="2646" y="569" width="297" height="549" frameX="0" frameY="-13" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0002" x="2945" y="570" width="290" height="562" frameX="-7" frameY="0" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0003" x="2945" y="570" width="290" height="562" frameX="-7" frameY="0" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0004" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0005" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0006" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0007" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0008" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0009" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0010" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0011" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0012" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0013" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0014" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0015" x="1370" y="583" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit notice0000" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0001" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0002" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0003" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0004" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0005" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0006" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0007" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0008" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0009" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0010" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0011" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0012" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0013" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0014" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0015" x="482" y="593" width="231" height="365"/>
+	<SubTexture name="kit notice0016" x="482" y="593" width="231" height="365"/>
+	<SubTexture name="kit notice0017" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0018" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0019" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0020" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0021" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0022" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0023" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0024" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0025" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0026" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0027" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0028" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0029" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0030" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0031" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0032" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0033" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0034" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0035" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0036" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0037" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0038" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0039" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0040" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0041" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0042" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0043" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0044" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0045" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0046" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0047" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0048" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0049" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0050" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0051" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0052" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0053" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0054" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0055" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0056" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0057" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0058" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0059" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0060" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0061" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0062" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0063" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0064" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0065" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0066" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0067" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0068" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0069" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0070" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0071" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0072" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0073" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0074" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0075" x="482" y="593" width="231" height="365"/>
+	<SubTexture name="kit notice0076" x="482" y="593" width="231" height="365"/>
+	<SubTexture name="kit notice0077" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0078" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0079" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0080" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0081" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0082" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0083" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0084" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0085" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0086" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0087" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0088" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0089" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0090" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0091" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0092" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0093" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit notice0094" x="1662" y="588" width="231" height="365"/>
+	<SubTexture name="kit right0000" x="1370" y="0" width="337" height="581" frameX="0" frameY="-5" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0001" x="1370" y="0" width="337" height="581" frameX="0" frameY="-5" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0002" x="2038" y="0" width="327" height="585" frameX="0" frameY="-1" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0003" x="2038" y="0" width="327" height="585" frameX="0" frameY="-1" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0004" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0005" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0006" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0007" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0008" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0009" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0010" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0011" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0012" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0013" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0014" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit right0015" x="1709" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="337" frameHeight="586"/>
+	<SubTexture name="kit up0000" x="2367" y="568" width="277" height="612" frameX="0" frameY="0" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0001" x="2367" y="568" width="277" height="612" frameX="0" frameY="0" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0002" x="3303" y="0" width="286" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0003" x="3303" y="0" width="286" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0004" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0005" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0006" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0007" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0008" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0009" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0010" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0011" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0012" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0013" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0014" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0015" x="3591" y="551" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+</TextureAtlas>

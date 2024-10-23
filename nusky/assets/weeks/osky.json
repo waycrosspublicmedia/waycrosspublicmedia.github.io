@@ -1,0 +1,42 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "sky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"wife-whenever",
+			"osky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dandelion",
+			"skyog",
+			[
+				146,
+				113,
+				253
+			]
+		]
+		
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="faker.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="faker down0000" x="0" y="0" width="330" height="462" frameX="0" frameY="0" frameWidth="331" frameHeight="462"/>
+	<SubTexture name="faker down0001" x="332" y="0" width="331" height="462"/>
+	<SubTexture name="faker down0002" x="665" y="0" width="331" height="462"/>
+	<SubTexture name="faker idle0000" x="998" y="0" width="330" height="483" frameX="0" frameY="0" frameWidth="331" frameHeight="483"/>
+	<SubTexture name="faker idle0001" x="1330" y="0" width="331" height="483"/>
+	<SubTexture name="faker idle0002" x="1663" y="0" width="331" height="483"/>
+	<SubTexture name="faker left0000" x="0" y="485" width="330" height="478"/>
+	<SubTexture name="faker left0001" x="332" y="485" width="330" height="478"/>
+	<SubTexture name="faker left0002" x="664" y="485" width="330" height="478"/>
+	<SubTexture name="faker right0000" x="996" y="485" width="348" height="461"/>
+	<SubTexture name="faker right0001" x="1346" y="485" width="348" height="460" frameX="0" frameY="-1" frameWidth="348" frameHeight="461"/>
+	<SubTexture name="faker right0002" x="1696" y="485" width="348" height="459" frameX="0" frameY="-2" frameWidth="348" frameHeight="461"/>
+	<SubTexture name="faker up0000" x="0" y="965" width="330" height="485" frameX="0" frameY="0" frameWidth="331" frameHeight="485"/>
+	<SubTexture name="faker up0001" x="332" y="965" width="331" height="485"/>
+	<SubTexture name="faker up0002" x="665" y="965" width="331" height="485"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nusky_dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="textsky0000" x="0" y="0" width="110" height="62" frameX="-285" frameY="-109" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0001" x="112" y="0" width="396" height="148" frameX="0" frameY="-58" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0002" x="510" y="0" width="361" height="116" frameX="-32" frameY="-73" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0003" x="510" y="0" width="361" height="116" frameX="-32" frameY="-73" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0004" x="873" y="0" width="362" height="116" frameX="-31" frameY="-73" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0005" x="873" y="0" width="362" height="116" frameX="-31" frameY="-73" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0006" x="1237" y="0" width="362" height="116" frameX="-31" frameY="-73" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0007" x="1237" y="0" width="362" height="116" frameX="-31" frameY="-73" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0008" x="0" y="0" width="110" height="62" frameX="-285" frameY="-109" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0009" x="112" y="0" width="396" height="148" frameX="0" frameY="-58" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0010" x="1601" y="0" width="362" height="195" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0011" x="1601" y="0" width="362" height="195" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0012" x="0" y="197" width="362" height="194" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0013" x="0" y="197" width="362" height="194" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0014" x="364" y="197" width="362" height="195" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0015" x="364" y="197" width="362" height="195" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0016" x="728" y="197" width="109" height="105" frameX="-286" frameY="-93" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0017" x="839" y="197" width="395" height="249" frameX="-2" frameY="0" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0018" x="1236" y="197" width="362" height="195" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0019" x="1236" y="197" width="362" height="195" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0020" x="1600" y="197" width="362" height="194" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0021" x="1600" y="197" width="362" height="194" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0022" x="0" y="448" width="362" height="195" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+	<SubTexture name="textsky0023" x="0" y="448" width="362" height="195" frameX="-32" frameY="-31" frameWidth="397" frameHeight="249"/>
+</TextureAtlas>

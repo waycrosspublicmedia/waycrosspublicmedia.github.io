@@ -1,0 +1,49 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Blue",
+			"skyblue",
+			[
+				235,
+				235,
+				255
+			]
+		],
+		[
+			"Star",
+			"sarukysky",
+			[
+				0,
+				80,
+				100
+			]
+		],
+		[
+			"sky-forever",
+			"skyog",
+			[
+				146,
+				33,
+				193
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

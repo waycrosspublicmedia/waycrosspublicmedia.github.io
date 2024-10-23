@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="osky.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="osky down0000" x="1264" y="1285" width="268" height="441" frameX="-3" frameY="0" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0001" x="1264" y="1285" width="268" height="441" frameX="-3" frameY="0" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0002" x="830" y="427" width="280" height="424" frameX="0" frameY="-15" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0003" x="830" y="427" width="280" height="424" frameX="0" frameY="-15" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0004" x="1040" y="853" width="276" height="430" frameX="-2" frameY="-9" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0005" x="1040" y="853" width="276" height="430" frameX="-2" frameY="-9" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0006" x="1040" y="853" width="276" height="430" frameX="-2" frameY="-9" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0007" x="1040" y="853" width="276" height="430" frameX="-2" frameY="-9" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0008" x="1040" y="853" width="276" height="430" frameX="-2" frameY="-9" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0009" x="1040" y="853" width="276" height="430" frameX="-2" frameY="-9" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0010" x="1040" y="853" width="276" height="430" frameX="-2" frameY="-9" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0011" x="1040" y="853" width="276" height="430" frameX="-2" frameY="-9" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky down0012" x="1040" y="853" width="276" height="430" frameX="-2" frameY="-9" frameWidth="280" frameHeight="441"/>
+	<SubTexture name="osky idle0000" x="1534" y="866" width="273" height="426" frameX="-9" frameY="-8" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky idle0001" x="1534" y="866" width="273" height="426" frameX="-9" frameY="-8" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky idle0002" x="1534" y="1294" width="273" height="425" frameX="-9" frameY="-10" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky idle0003" x="1534" y="1294" width="273" height="425" frameX="-9" frameY="-10" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky idle0004" x="1534" y="434" width="273" height="430" frameX="-8" frameY="-4" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky idle0005" x="1534" y="434" width="273" height="430" frameX="-8" frameY="-4" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky idle0006" x="701" y="1295" width="282" height="434" frameX="0" frameY="0" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky idle0007" x="701" y="1295" width="282" height="434" frameX="0" frameY="0" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky idle0008" x="756" y="856" width="282" height="434" frameX="0" frameY="0" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky idle0009" x="756" y="856" width="282" height="434" frameX="0" frameY="0" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky idle0010" x="756" y="856" width="282" height="434" frameX="0" frameY="0" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky idle0011" x="756" y="856" width="282" height="434" frameX="0" frameY="0" frameWidth="282" frameHeight="435"/>
+	<SubTexture name="osky left0000" x="415" y="1295" width="284" height="435"/>
+	<SubTexture name="osky left0001" x="415" y="1295" width="284" height="435"/>
+	<SubTexture name="osky left0002" x="985" y="1292" width="277" height="433" frameX="-3" frameY="-2" frameWidth="284" frameHeight="435"/>
+	<SubTexture name="osky left0003" x="985" y="1292" width="277" height="433" frameX="-3" frameY="-2" frameWidth="284" frameHeight="435"/>
+	<SubTexture name="osky left0004" x="1534" y="0" width="273" height="432" frameX="-3" frameY="-3" frameWidth="284" frameHeight="435"/>
+	<SubTexture name="osky left0005" x="1534" y="0" width="273" height="432" frameX="-3" frameY="-3" frameWidth="284" frameHeight="435"/>
+	<SubTexture name="osky left0006" x="1112" y="0" width="273" height="432" frameX="-2" frameY="-3" frameWidth="284" frameHeight="435"/>
+	<SubTexture name="osky left0007" x="1112" y="0" width="273" height="432" frameX="-2" frameY="-3" frameWidth="284" frameHeight="435"/>
+	<SubTexture name="osky left0008" x="1112" y="0" width="273" height="432" frameX="-2" frameY="-3" frameWidth="284" frameHeight="435"/>
+	<SubTexture name="osky left0009" x="1112" y="0" width="273" height="432" frameX="-2" frameY="-3" frameWidth="284" frameHeight="435"/>
+	<SubTexture name="osky left0010" x="1112" y="0" width="273" height="432" frameX="-2" frameY="-3" frameWidth="284" frameHeight="435"/>
+	<SubTexture name="osky left0011" x="1112" y="0" width="273" height="432" frameX="-2" frameY="-3" frameWidth="284" frameHeight="435"/>
+	<SubTexture name="osky left0012" x="1112" y="0" width="273" height="432" frameX="-2" frameY="-3" frameWidth="284" frameHeight="435"/>
+	<SubTexture name="osky right0000" x="0" y="0" width="416" height="429"/>
+	<SubTexture name="osky right0001" x="0" y="0" width="416" height="429"/>
+	<SubTexture name="osky right0002" x="0" y="431" width="413" height="426" frameX="0" frameY="-2" frameWidth="416" frameHeight="429"/>
+	<SubTexture name="osky right0003" x="0" y="431" width="413" height="426" frameX="0" frameY="-2" frameWidth="416" frameHeight="429"/>
+	<SubTexture name="osky right0004" x="0" y="1285" width="413" height="423" frameX="0" frameY="-5" frameWidth="416" frameHeight="429"/>
+	<SubTexture name="osky right0005" x="0" y="1285" width="413" height="423" frameX="0" frameY="-5" frameWidth="416" frameHeight="429"/>
+	<SubTexture name="osky right0006" x="0" y="859" width="413" height="424" frameX="0" frameY="-4" frameWidth="416" frameHeight="429"/>
+	<SubTexture name="osky right0007" x="0" y="859" width="413" height="424" frameX="0" frameY="-4" frameWidth="416" frameHeight="429"/>
+	<SubTexture name="osky right0008" x="415" y="431" width="413" height="423" frameX="0" frameY="-5" frameWidth="416" frameHeight="429"/>
+	<SubTexture name="osky right0009" x="415" y="431" width="413" height="423" frameX="0" frameY="-5" frameWidth="416" frameHeight="429"/>
+	<SubTexture name="osky right0010" x="415" y="431" width="413" height="423" frameX="0" frameY="-5" frameWidth="416" frameHeight="429"/>
+	<SubTexture name="osky right0011" x="415" y="431" width="413" height="423" frameX="0" frameY="-5" frameWidth="416" frameHeight="429"/>
+	<SubTexture name="osky right0012" x="415" y="431" width="413" height="423" frameX="0" frameY="-5" frameWidth="416" frameHeight="429"/>
+	<SubTexture name="osky up0000" x="415" y="856" width="339" height="437" frameX="-5" frameY="0" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0001" x="415" y="856" width="339" height="437" frameX="-5" frameY="0" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0002" x="418" y="0" width="346" height="422" frameX="0" frameY="-15" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0003" x="418" y="0" width="346" height="422" frameX="0" frameY="-15" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0004" x="766" y="0" width="343" height="425" frameX="-3" frameY="-12" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0005" x="766" y="0" width="343" height="425" frameX="-3" frameY="-12" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0006" x="766" y="0" width="343" height="425" frameX="-3" frameY="-12" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0007" x="766" y="0" width="343" height="425" frameX="-3" frameY="-12" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0008" x="766" y="0" width="343" height="425" frameX="-3" frameY="-12" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0009" x="766" y="0" width="343" height="425" frameX="-3" frameY="-12" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0010" x="766" y="0" width="343" height="425" frameX="-3" frameY="-12" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0011" x="766" y="0" width="343" height="425" frameX="-3" frameY="-12" frameWidth="346" frameHeight="437"/>
+	<SubTexture name="osky up0012" x="766" y="0" width="343" height="425" frameX="-3" frameY="-12" frameWidth="346" frameHeight="437"/>
+</TextureAtlas>

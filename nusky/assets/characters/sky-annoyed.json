@@ -1,0 +1,265 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sky left annoyed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sky down annoyed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sky up annoyed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sky right annoyed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				10
+			],
+			"anim": "micdown",
+			"fps": 24,
+			"name": "sky mic drop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				7
+			],
+			"anim": "micup",
+			"fps": 25,
+			"name": "sky mic pick up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-fumble",
+			"fps": 24,
+			"name": "sky left fumble",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-20
+			],
+			"anim": "singDOWN-fumble",
+			"fps": 24,
+			"name": "sky down fumble",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-fumble",
+			"fps": 24,
+			"name": "sky up annoyed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-fumble",
+			"fps": 24,
+			"name": "sky up annoyed",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sky idle annoyed"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "confident",
+			"indices": [],
+			"name": "sky confident"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "sky idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "sky left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-14
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "sky down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "sky right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				10
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "sky up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "grr",
+			"indices": [],
+			"name": "sky idle grr"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-13,
+				0
+			],
+			"anim": "test",
+			"fps": 24,
+			"name": "sky testing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-13,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "annoyed",
+			"indices": [],
+			"name": "sky annoyed"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-angry",
+			"indices": [],
+			"name": "sky idle angry"
+		},
+		{
+			"offsets": [
+				80,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "manifest",
+			"indices": [],
+			"name": "sky manifest"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sky_assets_annoyed",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "sky",
+	"flip_x": false,
+	"healthbar_colors": [
+		172,
+		101,
+		209
+	],
+	"camera_position": [
+		-140,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

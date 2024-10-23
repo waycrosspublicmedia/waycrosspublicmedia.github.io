@@ -1,0 +1,333 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "blue idle"
+		},
+		{
+			"offsets": [
+				50,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "blue left"
+		},
+		{
+			"offsets": [
+				48,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "blue down"
+		},
+		{
+			"offsets": [
+				80,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "blue up"
+		},
+		{
+			"offsets": [
+				20,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "blue right"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "blue alt idle"
+		},
+		{
+			"offsets": [
+				50,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "blue alt left"
+		},
+		{
+			"offsets": [
+				48,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "blue alt down"
+		},
+		{
+			"offsets": [
+				80,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "blue alt up"
+		},
+		{
+			"offsets": [
+				20,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "blue pol board"
+		},
+		{
+			"offsets": [
+				50,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "blue left"
+		},
+		{
+			"offsets": [
+				48,
+				-80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "blue down"
+		},
+		{
+			"offsets": [
+				80,
+				19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "blue up"
+		},
+		{
+			"offsets": [
+				20,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "blue right"
+		},
+		{
+			"offsets": [
+				50,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-alt-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "blue alt left"
+		},
+		{
+			"offsets": [
+				48,
+				-80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-alt-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "blue alt down"
+		},
+		{
+			"offsets": [
+				80,
+				19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-alt-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "blue alt up"
+		},
+		{
+			"offsets": [
+				20,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-alt-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "blue pol board"
+		},
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "dia1",
+			"indices": [],
+			"name": "blue dia1"
+		},
+		{
+			"offsets": [
+				-4,
+				-4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "dia2",
+			"indices": [],
+			"name": "blue dia2"
+		},
+		{
+			"offsets": [
+				-3,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "dia3",
+			"indices": [],
+			"name": "blue dia3"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "chachacha",
+			"fps": 24,
+			"name": "blue chachacha",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-love",
+			"loop": false,
+			"name": "blue swoon left"
+		},
+		{
+			"offsets": [
+				50,
+				-75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-love",
+			"loop": false,
+			"name": "blue love down"
+		},
+		{
+			"offsets": [
+				100,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-love",
+			"loop": false,
+			"name": "blue love up"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-love",
+			"loop": false,
+			"name": "blue love right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skyblue",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "skyblue",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		41,
+		241
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

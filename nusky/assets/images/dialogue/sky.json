@@ -1,0 +1,128 @@
+{
+	"position": [
+		150,
+		20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "sky",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_name": "sky angry",
+			"loop_name": "sky angry"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "annoyed",
+			"idle_name": "sky annoyed",
+			"loop_name": "sky annoyed"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confident",
+			"idle_name": "sky confident",
+			"loop_name": "sky confident"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "grr",
+			"idle_name": "sky grr",
+			"loop_name": "sky grr"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_name": "sky normal",
+			"loop_name": "sky normal"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "right",
+			"idle_name": "sky right0",
+			"loop_name": "sky right0"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "right_annoyed",
+			"idle_name": "sky right annoyed",
+			"loop_name": "sky right annoyed"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "stare",
+			"idle_name": "sky stare0",
+			"loop_name": "sky stare0"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "stare2",
+			"idle_name": "sky stare2",
+			"loop_name": "sky stare2"
+		}
+	]
+}

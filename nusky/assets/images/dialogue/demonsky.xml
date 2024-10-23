@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="demonsky.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sky demon grin0000" x="1439" y="613" width="619" height="616"/>
+	<SubTexture name="sky demon grin0001" x="1439" y="613" width="619" height="616"/>
+	<SubTexture name="sky demon grin0002" x="1439" y="613" width="619" height="616"/>
+	<SubTexture name="sky demon grin0003" x="1439" y="613" width="619" height="616"/>
+	<SubTexture name="sky demon grin0004" x="1439" y="613" width="619" height="616"/>
+	<SubTexture name="sky demon laugh0000" x="726" y="589" width="711" height="620" frameX="-21" frameY="-2" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0001" x="726" y="589" width="711" height="620" frameX="-21" frameY="-2" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0002" x="0" y="539" width="724" height="614" frameX="-17" frameY="0" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0003" x="0" y="539" width="724" height="614" frameX="-17" frameY="0" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0004" x="3202" y="0" width="739" height="611" frameX="-9" frameY="-3" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0005" x="3202" y="0" width="739" height="611" frameX="-9" frameY="-3" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0006" x="1681" y="0" width="761" height="611" frameX="0" frameY="-3" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0007" x="1681" y="0" width="761" height="611" frameX="0" frameY="-3" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0008" x="2444" y="0" width="756" height="611" frameX="-2" frameY="-3" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0009" x="2444" y="0" width="756" height="611" frameX="-2" frameY="-3" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0010" x="2444" y="0" width="756" height="611" frameX="-2" frameY="-3" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0011" x="2444" y="0" width="756" height="611" frameX="-2" frameY="-3" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0012" x="2444" y="0" width="756" height="611" frameX="-2" frameY="-3" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0013" x="2444" y="0" width="756" height="611" frameX="-2" frameY="-3" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon laugh0014" x="2444" y="0" width="756" height="611" frameX="-2" frameY="-3" frameWidth="761" frameHeight="622"/>
+	<SubTexture name="sky demon pissed0000" x="881" y="0" width="798" height="587"/>
+	<SubTexture name="sky demon pissed0001" x="881" y="0" width="798" height="587"/>
+	<SubTexture name="sky demon pissed0002" x="881" y="0" width="798" height="587"/>
+	<SubTexture name="sky demon pissed0003" x="881" y="0" width="798" height="587"/>
+	<SubTexture name="sky demon pissed0004" x="881" y="0" width="798" height="587"/>
+	<SubTexture name="sky demon pissed0005" x="881" y="0" width="798" height="587"/>
+	<SubTexture name="sky demon pissed0006" x="881" y="0" width="798" height="587"/>
+	<SubTexture name="sky demon pissed0007" x="881" y="0" width="798" height="587"/>
+	<SubTexture name="sky demon right0000" x="0" y="0" width="879" height="537"/>
+</TextureAtlas>

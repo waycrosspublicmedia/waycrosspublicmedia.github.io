@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menugraphic.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menugraphic0000" x="574" y="1182" width="447" height="532" frameX="-123" frameY="-7" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0001" x="574" y="1182" width="447" height="532" frameX="-123" frameY="-7" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0002" x="1023" y="1112" width="447" height="532" frameX="-123" frameY="-7" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0003" x="1023" y="1112" width="447" height="532" frameX="-123" frameY="-7" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0004" x="1343" y="522" width="447" height="532" frameX="-123" frameY="-7" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0005" x="1343" y="522" width="447" height="532" frameX="-123" frameY="-7" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0006" x="0" y="1182" width="572" height="520" frameX="0" frameY="-48" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0007" x="0" y="1182" width="572" height="520" frameX="0" frameY="-48" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0008" x="672" y="590" width="572" height="520" frameX="0" frameY="-48" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0009" x="672" y="590" width="572" height="520" frameX="0" frameY="-48" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0010" x="1343" y="0" width="571" height="520" frameX="0" frameY="-48" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0011" x="1343" y="0" width="571" height="520" frameX="0" frameY="-48" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0012" x="672" y="0" width="669" height="588" frameX="-67" frameY="-1" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0013" x="672" y="0" width="669" height="588" frameX="-67" frameY="-1" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0014" x="0" y="0" width="670" height="589" frameX="-66" frameY="0" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0015" x="0" y="0" width="670" height="589" frameX="-66" frameY="0" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0016" x="0" y="591" width="670" height="589" frameX="-66" frameY="0" frameWidth="736" frameHeight="589"/>
+	<SubTexture name="menugraphic0017" x="0" y="591" width="670" height="589" frameX="-66" frameY="0" frameWidth="736" frameHeight="589"/>
+</TextureAtlas>

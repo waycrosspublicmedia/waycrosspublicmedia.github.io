@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skyblue_dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="textblue0000" x="0" y="0" width="119" height="220" frameX="-24" frameY="-91" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0001" x="121" y="0" width="466" height="322" frameX="-3" frameY="0" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0002" x="589" y="0" width="448" height="242" frameX="-3" frameY="-51" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0003" x="589" y="0" width="448" height="242" frameX="-3" frameY="-51" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0004" x="1039" y="0" width="446" height="240" frameX="-2" frameY="-53" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0005" x="1039" y="0" width="446" height="240" frameX="-2" frameY="-53" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0006" x="1487" y="0" width="442" height="244" frameX="-7" frameY="-51" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0007" x="1487" y="0" width="442" height="244" frameX="-7" frameY="-51" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0008" x="1931" y="0" width="112" height="107" frameX="-21" frameY="-180" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0009" x="0" y="324" width="450" height="211" frameX="-1" frameY="-74" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0010" x="452" y="324" width="429" height="161" frameX="-1" frameY="-117" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0011" x="452" y="324" width="429" height="161" frameX="-1" frameY="-117" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0012" x="883" y="324" width="427" height="161" frameX="0" frameY="-116" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0013" x="883" y="324" width="427" height="161" frameX="0" frameY="-116" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0014" x="1312" y="324" width="423" height="159" frameX="-5" frameY="-119" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0015" x="1312" y="324" width="423" height="159" frameX="-5" frameY="-119" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0016" x="1737" y="324" width="288" height="155" frameX="-21" frameY="-132" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0017" x="0" y="324" width="450" height="211" frameX="-1" frameY="-74" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0018" x="0" y="537" width="429" height="161" frameX="-1" frameY="-117" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0019" x="431" y="537" width="429" height="161" frameX="-1" frameY="-117" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0020" x="862" y="537" width="427" height="161" frameX="0" frameY="-116" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0021" x="862" y="537" width="427" height="161" frameX="0" frameY="-116" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0022" x="1291" y="537" width="423" height="159" frameX="-5" frameY="-119" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0023" x="1291" y="537" width="423" height="159" frameX="-5" frameY="-119" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0024" x="1931" y="0" width="112" height="107" frameX="-21" frameY="-180" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0025" x="0" y="324" width="450" height="211" frameX="-1" frameY="-74" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0026" x="0" y="700" width="429" height="161" frameX="-1" frameY="-117" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0027" x="0" y="700" width="429" height="161" frameX="-1" frameY="-117" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0028" x="431" y="700" width="427" height="161" frameX="0" frameY="-116" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0029" x="431" y="700" width="427" height="161" frameX="0" frameY="-116" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0030" x="860" y="700" width="423" height="159" frameX="-5" frameY="-119" frameWidth="469" frameHeight="322"/>
+	<SubTexture name="textblue0031" x="860" y="700" width="423" height="159" frameX="-5" frameY="-119" frameWidth="469" frameHeight="322"/>
+</TextureAtlas>

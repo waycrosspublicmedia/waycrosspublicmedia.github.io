@@ -1,0 +1,777 @@
+{
+  "song": {
+    "song": "Expulsion",
+    "notes": [],
+    "events": [
+      [
+        1632,
+        [
+          [
+            "remove static",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        13474,
+        [
+          [
+            "Baldi Jumpscare",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        13770,
+        [
+          [
+            "Baldi Jumpscare",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        19790,
+        [
+          [
+            "Baldi Jumpscare",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        20086,
+        [
+          [
+            "Baldi Jumpscare",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        39530,
+        [
+          [
+            "Change Character",
+            "dad",
+            "baldipixel"
+          ]
+        ]
+      ],
+	  [
+        39530,
+        [
+          [
+            "Change Character",
+            "bf",
+            "poly-bf"
+          ]
+        ]
+      ],
+	  [
+        39530,
+        [
+          [
+            "pixelbackground",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        39527,
+        [
+          [
+            "hud shake",
+            "43",
+            ""
+          ]
+        ]
+      ],
+      [
+        39527,
+        [
+          [
+            "flashbang",
+            "1.5",
+            ""
+          ]
+        ]
+      ],
+      [
+        60027,
+        [
+          [
+            "Static",
+            "0.6",
+            ""
+          ]
+        ]
+      ],
+      [
+        60860,
+        [
+          [
+            "remove static",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        82194,
+        [
+          [
+            "flashbang",
+            "1.5",
+            ""
+          ]
+        ]
+      ],
+	  [
+        82194,
+        [
+          [
+            "staticbackground",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        82197,
+        [
+          [
+            "Change Character",
+            "dad",
+            "filename2"
+          ]
+        ]
+      ],
+      [
+        82204,
+        [
+          [
+            "MoveArrow",
+            "0",
+            "0,0,0,0,0.1"
+          ]
+        ]
+      ],
+      [
+        82209,
+        [
+          [
+            "gfdisappear",
+            "3",
+            "0,0,0,0,0.1"
+          ]
+        ]
+      ],
+      [
+        85194,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85235,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85277,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85319,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85360,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85402,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85423,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85496,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85527,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85551,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85610,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85652,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85673,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85777,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85819,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85860,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        85881,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        86089,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        110569,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        110694,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        110735,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        110919,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        110944,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111194,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111136,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111110,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111235,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111319,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111569,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111694,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111735,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111819,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111860,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        112069,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111970,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        111944,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        112110,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        112235,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        112277,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        112527,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        112569,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        112777,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        112569,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        112902,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        113194,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        113277,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        113360,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        113444,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        113527,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        113860,
+        [
+          [
+            "dad reconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        113652,
+        [
+          [
+            "dad disconnect",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        124860,
+        [
+          [
+            "flashbang",
+            "1.5",
+            ""
+          ]
+        ]
+      ],
+	  [
+        124860,
+        [
+          [
+            "background",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        124864,
+        [
+          [
+            "Change Character",
+            "dad",
+            "baldigrr"
+          ]
+        ]
+      ],
+	  [
+        124864,
+        [
+          [
+            "Change Character",
+            "bf",
+            "bf"
+          ]
+        ]
+      ],
+      [
+        124871,
+        [
+          [
+            "MoveArrow",
+            "0",
+            "0,0,0,1,0.1"
+          ]
+        ]
+      ],
+      [
+        124864,
+        [
+          [
+            "move dad back",
+            "3",
+            "0,0,0,1,0.1"
+          ]
+        ]
+      ],
+      [
+        124878,
+        [
+          [
+            "gfreappear",
+            "3",
+            "0,0,0,1,0.1"
+          ]
+        ]
+      ],
+      [
+        146194,
+        [
+          [
+            "blackscreen",
+            "0.3",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "bpm": 152,
+    "needsVoices": true,
+    "speed": 2.7,
+    "player1": "bf",
+    "player2": "baldigrr",
+    "player3": null,
+    "gfVersion": "gf-chaise",
+    "stage": "classroom",
+    "validScore": false
+  }
+}

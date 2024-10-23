@@ -1,0 +1,889 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "gapi",
+		"player1": "skygapi",
+		"player2": "skyruky",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"4"
+					]
+				]
+			],
+			[
+				5647.05882352941,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						"4"
+					]
+				]
+			],
+			[
+				11294.1176470588,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				11470.5882352941,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				14117.6470588235,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				14294.1176470588,
+				[
+					[
+						"onBeat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				36705.8823529412,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				70588.2352941176,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				79058.8235294117,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"3"
+					]
+				]
+			],
+			[
+				81088.2352941175,
+				[
+					[
+						"Play Sound",
+						"Lights_Shut_off",
+						"0.4"
+					]
+				]
+			],
+			[
+				81176.4705882352,
+				[
+					[
+						"STARLIGHTS!!!",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				81705.8823529411,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				81882.3529411764,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"1"
+					]
+				]
+			],
+			[
+				82235.2941176469,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"2"
+					]
+				]
+			],
+			[
+				82588.2352941175,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"3"
+					]
+				]
+			],
+			[
+				82941.1764705881,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"4"
+					]
+				]
+			],
+			[
+				83294.1176470587,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"5"
+					]
+				]
+			],
+			[
+				83647.0588235293,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"6"
+					]
+				]
+			],
+			[
+				83999.9999999999,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"7"
+					]
+				]
+			],
+			[
+				84705.8823529411,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"1"
+					]
+				]
+			],
+			[
+				85058.8235294116,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"2"
+					]
+				]
+			],
+			[
+				85411.7647058822,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"3"
+					]
+				]
+			],
+			[
+				85764.7058823528,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"4"
+					]
+				]
+			],
+			[
+				86117.6470588234,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"5"
+					]
+				]
+			],
+			[
+				86470.588235294,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"6"
+					]
+				]
+			],
+			[
+				86823.5294117646,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"7"
+					]
+				]
+			],
+			[
+				87529.4117647058,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"1"
+					]
+				]
+			],
+			[
+				88235.2941176469,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"2"
+					]
+				]
+			],
+			[
+				88941.1764705881,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"3"
+					]
+				]
+			],
+			[
+				89647.0588235293,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"4"
+					]
+				]
+			],
+			[
+				90352.9411764705,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"5"
+					]
+				]
+			],
+			[
+				91058.8235294116,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"6"
+					]
+				]
+			],
+			[
+				91764.7058823528,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"7"
+					]
+				]
+			],
+			[
+				93176.4705882352,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"1"
+					]
+				]
+			],
+			[
+				93529.4117647058,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"2"
+					]
+				]
+			],
+			[
+				93882.3529411764,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"3"
+					]
+				]
+			],
+			[
+				94235.2941176469,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"4"
+					]
+				]
+			],
+			[
+				94588.2352941175,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"5"
+					]
+				]
+			],
+			[
+				94941.1764705881,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"6"
+					]
+				]
+			],
+			[
+				95294.1176470587,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"7"
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"1"
+					]
+				]
+			],
+			[
+				96352.9411764705,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"2"
+					]
+				]
+			],
+			[
+				96705.8823529411,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"3"
+					]
+				]
+			],
+			[
+				97058.8235294116,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"4"
+					]
+				]
+			],
+			[
+				97411.7647058822,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"5"
+					]
+				]
+			],
+			[
+				97764.7058823528,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"6"
+					]
+				]
+			],
+			[
+				98117.6470588234,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"7"
+					]
+				]
+			],
+			[
+				98823.5294117646,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"1"
+					]
+				]
+			],
+			[
+				98999.9999999999,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"2"
+					]
+				]
+			],
+			[
+				99176.4705882351,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"3"
+					]
+				]
+			],
+			[
+				99352.9411764704,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"4"
+					]
+				]
+			],
+			[
+				99529.4117647057,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"5"
+					]
+				]
+			],
+			[
+				99705.882352941,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"6"
+					]
+				]
+			],
+			[
+				99882.3529411763,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"7"
+					]
+				]
+			],
+			[
+				100235.294117647,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"1"
+					]
+				]
+			],
+			[
+				100411.764705882,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"2"
+					]
+				]
+			],
+			[
+				100588.235294117,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"3"
+					]
+				]
+			],
+			[
+				100764.705882353,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"4"
+					]
+				]
+			],
+			[
+				100941.176470588,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"5"
+					]
+				]
+			],
+			[
+				101117.647058823,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"6"
+					]
+				]
+			],
+			[
+				101294.117647059,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"7"
+					]
+				]
+			],
+			[
+				101647.058823529,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"1"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"2"
+					]
+				]
+			],
+			[
+				102352.94117647,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"3"
+					]
+				]
+			],
+			[
+				102705.882352941,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"4"
+					]
+				]
+			],
+			[
+				103058.823529412,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"5"
+					]
+				]
+			],
+			[
+				103411.764705882,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"6"
+					]
+				]
+			],
+			[
+				103764.705882353,
+				[
+					[
+						"Object Play Animation",
+						"ind",
+						"7"
+					]
+				]
+			],
+			[
+				104470.588235294,
+				[
+					[
+						"doctorHandler",
+						"4",
+						"0,0,0,0,0,0"
+					]
+				]
+			],
+			[
+				107294.117647059,
+				[
+					[
+						"doctorHandler",
+						"4",
+						"0,0,0,0,0,0"
+					]
+				]
+			],
+			[
+				110029.411764706,
+				[
+					[
+						"doctorHandler",
+						"",
+						""
+					]
+				]
+			],
+			[
+				110117.647058823,
+				[
+					[
+						"doctorHandler",
+						"8",
+						"0,0,0,0,0,0"
+					]
+				]
+			],
+			[
+				115764.705882353,
+				[
+					[
+						"doctorHandler",
+						"4",
+						"0,0,0,1,0,0"
+					]
+				]
+			],
+			[
+				118588.235294117,
+				[
+					[
+						"doctorHandler",
+						"4",
+						"0,0,0,1,1,0"
+					]
+				]
+			],
+			[
+				121411.764705882,
+				[
+					[
+						"doctorHandler",
+						"2",
+						"0,0,0,0,0,0"
+					]
+				]
+			],
+			[
+				122823.529411764,
+				[
+					[
+						"doctorHandler",
+						"2",
+						"0,0,0,0,0,1"
+					]
+				]
+			],
+			[
+				124235.294117647,
+				[
+					[
+						"doctorHandler",
+						"4",
+						"1,1,1,1,1,1"
+					]
+				]
+			],
+			[
+				127058.823529412,
+				[
+					[
+						"doctorHandler",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				127235.294117647,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"3"
+					]
+				]
+			],
+			[
+				127323.529411764,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				131647.058823529,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"STARLIGHTS!!!",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				149647.058823529,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				155294.117647059,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				160941.176470588,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				172323.529411764,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				176470.588235294,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "star"
+	}
+}

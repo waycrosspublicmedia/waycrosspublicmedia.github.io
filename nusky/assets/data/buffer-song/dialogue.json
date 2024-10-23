@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "stare",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "what?you guys looked like you were having fun! don't expect me to just bop my head all the time"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "flirt",
+			"text": "beep bop blep ske da beep!♥"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "swoon",
+			"text": "aww!!thanks hun! ♥"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "augh..can we just move on to the next song?i'm not done yet"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "beep ske bloop ba bee dah boop"
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "go die."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "a"
+		}
+	]
+}

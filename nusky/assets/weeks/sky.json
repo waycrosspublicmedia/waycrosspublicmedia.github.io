@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"nusky",
+			"nusky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"buffer-song",
+			"sky-annoyed",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"chainlock",
+			"demon-sky",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

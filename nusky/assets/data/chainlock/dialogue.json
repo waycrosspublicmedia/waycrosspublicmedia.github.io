@@ -1,0 +1,166 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "*sigh* of course theres a third song transformation."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..sky."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "demonsky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "what are you trying to gain from this?! you chained bf!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "demonsky",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "he's an asshole! why can't you see that?! he deserves it."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "what?? i literally just met you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "demonsky",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "SHUT UP! you ruined my life THAT'S what you did!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "demonsky",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "does ''skylar'' ring a bell?"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "eeehhh......umm..."
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "thinking2",
+			"text": "..."
+		},
+
+		{
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "realize",
+			"text": "...OH..oh freak my bad"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Boof, what's she talking about"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "demonsky",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "*ahem* Anyways, as much as i'd love to just kill you, that'd be unfair, wouldn't it?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "KILL?????"
+		},
+
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "demonsky",
+			"boxState": "normal",
+			"expression": "right",
+			"text": "so you'll be forced to sing with me,even without your mic."
+		},
+		{
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "demonsky",
+			"boxState": "normal",
+			"expression": "grin",
+			"text": "i want to make sure you have to scream every. last. note"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "demonsky",
+			"boxState": "normal",
+			"expression": "grin",
+			"text": "sound good?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "*sigh*,not like i have much choice here,bring it on, Skylar."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "sky im gonna freaking break your legs"
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"position": [
+		10,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 1.25,
+	"image": "gf",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_name": "gf confused stop",
+			"loop_name": "gf confused loop"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "normal",
+			"idle_name": "gf normal stop",
+			"loop_name": "gf normal loop"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "noo",
+			"idle_name": "gf noo",
+			"loop_name": "gf noo"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_name": "gf happy stop",
+			"loop_name": "gf happy loop"
+		},
+		{
+			"loop_name": "gf scared loop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gf scared stop",
+			"anim": "scared",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gf swoon",
+			"idle_offsets": [
+				20,
+				0
+			],
+			"idle_name": "gf swoon",
+			"anim": "swoon",
+			"loop_offsets": [
+				20,
+				0
+			]
+		},
+		{
+			"loop_name": "gf pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gf pissed",
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

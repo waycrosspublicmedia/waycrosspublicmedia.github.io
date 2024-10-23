@@ -1,0 +1,129 @@
+{
+	"position": [
+		-50,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "bf",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "flirt",
+			"idle_name": "bf flirt",
+			"loop_name": "bf flirt"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_name": "bf normal",
+			"loop_name": "bf normal"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "thinking",
+			"idle_name": "bf thinking0",
+			"loop_name": "bf thinking0"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "thinking2",
+			"idle_name": "bf thinking2",
+			"loop_name": "bf thinking2"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "upset",
+			"idle_name": "bf upset",
+			"loop_name": "bf upset"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "realize",
+			"idle_name": "bf realize",
+			"loop_name": "bf realize"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"idle_name": "bf shocked",
+			"loop_name": "bf shocked"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "troll",
+			"idle_name": "bf troll",
+			"loop_name": "bf troll"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "weird",
+			"idle_name": "bf weird",
+			"loop_name": "bf weird"
+		}
+
+	]
+}

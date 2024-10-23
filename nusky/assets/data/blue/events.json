@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "blue",
+		"player1": "kit",
+		"player2": "blue",
+		"player3": null,
+		"events": [
+			[
+				32000,
+				[
+					[
+						"onBeat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				53250,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				58666.6666666667,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Thought BF",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				77666.6666666667,
+				[
+					[
+						"Thought BF",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Thought BF",
+						"off",
+						"2"
+					]
+				]
+			],
+			[
+				86000,
+				[
+					[
+						"Thought GF",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Thought GF",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				90666.6666666666,
+				[
+					[
+						"Thought GF",
+						"off",
+						"2"
+					]
+				]
+			],
+			[
+				94666.6666666666,
+				[
+					[
+						"Play Animation",
+						"chachacha",
+						"bf"
+					]
+				]
+			],
+			[
+				95249.9999999999,
+				[
+					[
+						"Play Animation",
+						"chachacha",
+						"gf"
+					]
+				]
+			],
+			[
+				95333.3333333333,
+				[
+					[
+						"Play Animation",
+						"chachacha",
+						"dad"
+					]
+				]
+			],
+			[
+				138500,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-trumpet"
+					]
+				]
+			],
+			[
+				138666.666666667,
+				[
+					[
+						"onBeat",
+						"f",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "yotsuba",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Blue"
+	}
+}

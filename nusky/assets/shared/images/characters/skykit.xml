@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skykit.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kit alt down0000" x="0" y="1172" width="312" height="549" frameX="-3" frameY="-19" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0001" x="0" y="1172" width="312" height="549" frameX="-3" frameY="-19" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0002" x="658" y="1156" width="307" height="568" frameX="0" frameY="0" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0003" x="658" y="1156" width="307" height="568" frameX="0" frameY="0" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0004" x="1600" y="593" width="310" height="567" frameX="0" frameY="-1" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0005" x="1600" y="593" width="310" height="567" frameX="0" frameY="-1" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0006" x="973" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0007" x="973" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0008" x="973" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0009" x="973" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0010" x="973" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0011" x="973" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0012" x="973" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0013" x="973" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0014" x="973" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt down0015" x="973" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit alt idle0000" x="350" y="0" width="348" height="583" frameX="0" frameY="-10" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit alt idle0001" x="350" y="0" width="348" height="583" frameX="0" frameY="-10" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit alt idle0002" x="1047" y="0" width="345" height="586" frameX="0" frameY="-8" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit alt idle0003" x="1047" y="0" width="345" height="586" frameX="0" frameY="-8" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit alt idle0004" x="1733" y="0" width="337" height="591" frameX="0" frameY="-2" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit alt idle0005" x="1733" y="0" width="337" height="591" frameX="0" frameY="-2" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit alt idle0006" x="2408" y="0" width="334" height="592" frameX="0" frameY="0" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit alt idle0007" x="2408" y="0" width="334" height="592" frameX="0" frameY="0" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit alt idle0008" x="2408" y="0" width="334" height="592" frameX="0" frameY="0" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit alt idle0009" x="2408" y="0" width="334" height="592" frameX="0" frameY="0" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit alt left0000" x="1774" y="1788" width="297" height="549" frameX="0" frameY="-13" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0001" x="1774" y="1788" width="297" height="549" frameX="0" frameY="-13" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0002" x="2975" y="2334" width="290" height="562" frameX="-7" frameY="0" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0003" x="2975" y="2334" width="290" height="562" frameX="-7" frameY="0" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0004" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0005" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0006" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0007" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0008" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0009" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0010" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0011" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0012" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0013" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0014" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt left0015" x="1181" y="2341" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit alt right0000" x="3084" y="0" width="338" height="582" frameX="0" frameY="-5" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0001" x="3084" y="0" width="338" height="582" frameX="0" frameY="-5" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0002" x="0" y="585" width="327" height="585" frameX="0" frameY="-1" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0003" x="0" y="585" width="327" height="585" frameX="0" frameY="-1" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0004" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0005" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0006" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0007" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0008" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0009" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0010" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0011" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0012" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0013" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0014" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt right0015" x="2744" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit alt up0000" x="610" y="1726" width="277" height="612" frameX="0" frameY="0" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0001" x="610" y="1726" width="277" height="612" frameX="0" frameY="0" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0002" x="1255" y="1162" width="286" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0003" x="1255" y="1162" width="286" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0004" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0005" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0006" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0007" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0008" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0009" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0010" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0011" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0012" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0013" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0014" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit alt up0015" x="3095" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit chachacha0000" x="2216" y="1164" width="299" height="581" frameX="0" frameY="0" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0001" x="2216" y="1164" width="299" height="581" frameX="0" frameY="0" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0002" x="314" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0003" x="314" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0004" x="2392" y="2339" width="281" height="578" frameX="-1" frameY="-2" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0005" x="2392" y="2339" width="281" height="578" frameX="-1" frameY="-2" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0006" x="889" y="1767" width="290" height="578" frameX="-1" frameY="-2" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0007" x="889" y="1767" width="290" height="578" frameX="-1" frameY="-2" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0008" x="3716" y="1182" width="295" height="578" frameX="-1" frameY="-2" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0009" x="3716" y="1182" width="295" height="578" frameX="-1" frameY="-2" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0010" x="1912" y="594" width="302" height="581"/>
+	<SubTexture name="kit chachacha0011" x="1912" y="594" width="302" height="581"/>
+	<SubTexture name="kit chachacha0012" x="3377" y="1722" width="293" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0013" x="3377" y="1722" width="293" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0014" x="2517" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0015" x="2517" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0016" x="2517" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0017" x="2517" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0018" x="2517" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0019" x="2517" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0020" x="2517" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0021" x="2517" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0022" x="2517" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0023" x="2517" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit chachacha0024" x="2517" y="1172" width="294" height="580" frameX="-1" frameY="-1" frameWidth="302" frameHeight="581"/>
+	<SubTexture name="kit dia10000" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10001" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10002" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10003" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10004" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10005" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10006" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10007" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10008" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10009" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10010" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10011" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10012" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10013" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10014" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia10015" x="3731" y="588" width="297" height="592"/>
+	<SubTexture name="kit dia20000" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20001" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20002" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20003" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20004" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20005" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20006" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20007" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20008" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20009" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20010" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20011" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia20012" x="2392" y="1754" width="289" height="583"/>
+	<SubTexture name="kit dia30000" x="279" y="1754" width="289" height="586"/>
+	<SubTexture name="kit dia30001" x="279" y="1754" width="289" height="586"/>
+	<SubTexture name="kit dia30002" x="279" y="1754" width="289" height="586"/>
+	<SubTexture name="kit dia30003" x="279" y="1754" width="289" height="586"/>
+	<SubTexture name="kit dia30004" x="279" y="1754" width="289" height="586"/>
+	<SubTexture name="kit dia30005" x="279" y="1754" width="289" height="586"/>
+	<SubTexture name="kit dia30006" x="279" y="1754" width="289" height="586"/>
+	<SubTexture name="kit dia30007" x="279" y="1754" width="289" height="586"/>
+	<SubTexture name="kit dia30008" x="279" y="1754" width="289" height="586"/>
+	<SubTexture name="kit dia30009" x="279" y="1754" width="289" height="586"/>
+	<SubTexture name="kit down0000" x="3402" y="1171" width="312" height="549" frameX="-3" frameY="-19" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0001" x="3402" y="1171" width="312" height="549" frameX="-3" frameY="-19" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0002" x="2216" y="594" width="307" height="568" frameX="0" frameY="0" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0003" x="2216" y="594" width="307" height="568" frameX="0" frameY="0" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0004" x="1288" y="593" width="310" height="567" frameX="0" frameY="-1" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0005" x="1288" y="593" width="310" height="567" frameX="0" frameY="-1" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0006" x="658" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0007" x="658" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0008" x="658" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0009" x="658" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0010" x="658" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0011" x="658" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0012" x="658" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0013" x="658" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0014" x="658" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit down0015" x="658" y="588" width="313" height="566" frameX="0" frameY="-2" frameWidth="315" frameHeight="568"/>
+	<SubTexture name="kit idle0000" x="0" y="0" width="348" height="583" frameX="0" frameY="-10" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0001" x="0" y="0" width="348" height="583" frameX="0" frameY="-10" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0002" x="700" y="0" width="345" height="586" frameX="0" frameY="-8" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0003" x="700" y="0" width="345" height="586" frameX="0" frameY="-8" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0004" x="1394" y="0" width="337" height="591" frameX="0" frameY="-2" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0005" x="1394" y="0" width="337" height="591" frameX="0" frameY="-2" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0006" x="2072" y="0" width="334" height="592" frameX="0" frameY="0" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0007" x="2072" y="0" width="334" height="592" frameX="0" frameY="0" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0008" x="2072" y="0" width="334" height="592" frameX="0" frameY="0" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit idle0009" x="2072" y="0" width="334" height="592" frameX="0" frameY="0" frameWidth="348" frameHeight="594"/>
+	<SubTexture name="kit left0000" x="2975" y="1783" width="297" height="549" frameX="0" frameY="-13" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0001" x="2975" y="1783" width="297" height="549" frameX="0" frameY="-13" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0002" x="3573" y="2313" width="290" height="562" frameX="-7" frameY="0" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0003" x="3573" y="2313" width="290" height="562" frameX="-7" frameY="0" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0004" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0005" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0006" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0007" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0008" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0009" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0010" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0011" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0012" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0013" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0014" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit left0015" x="570" y="2340" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love down0000" x="3672" y="1762" width="306" height="549" frameX="0" frameY="-19" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0001" x="3672" y="1762" width="306" height="549" frameX="0" frameY="-19" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0002" x="2683" y="1783" width="290" height="568" frameX="-8" frameY="0" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0003" x="2683" y="1783" width="290" height="568" frameX="-8" frameY="0" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0004" x="1479" y="1773" width="293" height="567" frameX="-8" frameY="-1" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0005" x="1479" y="1773" width="293" height="567" frameX="-8" frameY="-1" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0006" x="1181" y="1773" width="296" height="566" frameX="-8" frameY="-2" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0007" x="1181" y="1773" width="296" height="566" frameX="-8" frameY="-2" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0008" x="1181" y="1773" width="296" height="566" frameX="-8" frameY="-2" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0009" x="1181" y="1773" width="296" height="566" frameX="-8" frameY="-2" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0010" x="1181" y="1773" width="296" height="566" frameX="-8" frameY="-2" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0011" x="1181" y="1773" width="296" height="566" frameX="-8" frameY="-2" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0012" x="1181" y="1773" width="296" height="566" frameX="-8" frameY="-2" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0013" x="1181" y="1773" width="296" height="566" frameX="-8" frameY="-2" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0014" x="1181" y="1773" width="296" height="566" frameX="-8" frameY="-2" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love down0015" x="1181" y="1773" width="296" height="566" frameX="-8" frameY="-2" frameWidth="306" frameHeight="568"/>
+	<SubTexture name="kit love left0000" x="3274" y="2304" width="297" height="549" frameX="0" frameY="-13" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0001" x="3274" y="2304" width="297" height="549" frameX="0" frameY="-13" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0002" x="1774" y="2339" width="290" height="562" frameX="-7" frameY="0" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0003" x="1774" y="2339" width="290" height="562" frameX="-7" frameY="0" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0004" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0005" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0006" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0007" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0008" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0009" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0010" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0011" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0012" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0013" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0014" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love left0015" x="0" y="2342" width="290" height="560" frameX="-7" frameY="-2" frameWidth="297" frameHeight="562"/>
+	<SubTexture name="kit love right0000" x="3424" y="0" width="338" height="582" frameX="0" frameY="-5" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0001" x="3424" y="0" width="338" height="582" frameX="0" frameY="-5" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0002" x="329" y="585" width="327" height="585" frameX="0" frameY="-1" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0003" x="329" y="585" width="327" height="585" frameX="0" frameY="-1" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0004" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0005" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0006" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0007" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0008" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0009" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0010" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0011" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0012" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0013" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0014" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love right0015" x="3073" y="584" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit love up0000" x="2113" y="1747" width="277" height="612" frameX="0" frameY="0" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0001" x="2113" y="1747" width="277" height="612" frameX="0" frameY="0" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0002" x="1543" y="1162" width="286" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0003" x="1543" y="1162" width="286" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0004" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0005" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0006" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0007" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0008" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0009" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0010" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0011" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0012" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0013" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0014" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit love up0015" x="1831" y="1177" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit right0000" x="2744" y="0" width="338" height="582" frameX="0" frameY="-5" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0001" x="2744" y="0" width="338" height="582" frameX="0" frameY="-5" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0002" x="3402" y="584" width="327" height="585" frameX="0" frameY="-1" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0003" x="3402" y="584" width="327" height="585" frameX="0" frameY="-1" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0004" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0005" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0006" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0007" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0008" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0009" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0010" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0011" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0012" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0013" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0014" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit right0015" x="3764" y="0" width="327" height="586" frameX="0" frameY="0" frameWidth="338" frameHeight="587"/>
+	<SubTexture name="kit up0000" x="0" y="1723" width="277" height="612" frameX="0" frameY="0" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0001" x="0" y="1723" width="277" height="612" frameX="0" frameY="0" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0002" x="967" y="1156" width="286" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0003" x="967" y="1156" width="286" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0004" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0005" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0006" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0007" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0008" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0009" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0010" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0011" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0012" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0013" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0014" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+	<SubTexture name="kit up0015" x="2813" y="1172" width="280" height="609" frameX="0" frameY="-3" frameWidth="286" frameHeight="612"/>
+</TextureAtlas>

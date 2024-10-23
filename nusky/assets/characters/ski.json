@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ski left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ski down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				262
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ski up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ski right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ski idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				-9
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "ski fuckyou",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ski",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "skykit",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		95,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

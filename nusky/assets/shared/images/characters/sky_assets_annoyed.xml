@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sky_assets_annoyed.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sky annoyed0000" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0001" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0002" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0003" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0004" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0005" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0006" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0007" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0008" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0009" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0010" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0011" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0012" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0013" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0014" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky annoyed0015" x="973" y="3062" width="318" height="613"/>
+	<SubTexture name="sky confident 0000" x="5194" y="2488" width="329" height="605" frameX="-7" frameY="-5" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0001" x="5194" y="2488" width="329" height="605" frameX="-7" frameY="-5" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0002" x="649" y="2596" width="322" height="611" frameX="-10" frameY="0" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0003" x="649" y="2596" width="322" height="611" frameX="-10" frameY="0" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0004" x="2074" y="2485" width="329" height="608" frameX="-7" frameY="-2" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0005" x="2074" y="2485" width="329" height="608" frameX="-7" frameY="-2" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0006" x="2074" y="2485" width="329" height="608" frameX="-7" frameY="-2" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0007" x="2074" y="2485" width="329" height="608" frameX="-7" frameY="-2" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0008" x="2074" y="2485" width="329" height="608" frameX="-7" frameY="-2" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0009" x="2074" y="2485" width="329" height="608" frameX="-7" frameY="-2" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0010" x="2074" y="2485" width="329" height="608" frameX="-7" frameY="-2" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0011" x="2074" y="2485" width="329" height="608" frameX="-7" frameY="-2" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0012" x="2074" y="2485" width="329" height="608" frameX="-7" frameY="-2" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0013" x="2074" y="2485" width="329" height="608" frameX="-7" frameY="-2" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0014" x="2074" y="2485" width="329" height="608" frameX="-7" frameY="-2" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0015" x="4570" y="1867" width="337" height="601" frameX="-2" frameY="-9" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0016" x="4570" y="1867" width="337" height="601" frameX="-2" frameY="-9" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0017" x="6455" y="1837" width="342" height="598" frameX="0" frameY="-12" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0018" x="6455" y="1837" width="342" height="598" frameX="0" frameY="-12" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0019" x="5988" y="1866" width="338" height="600" frameX="-2" frameY="-10" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0020" x="5988" y="1866" width="338" height="600" frameX="-2" frameY="-10" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0021" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0022" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0023" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0024" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0025" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0026" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0027" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0028" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0029" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0030" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0031" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0032" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0033" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0034" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0035" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0036" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0037" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0038" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0039" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0040" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0041" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0042" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0043" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0044" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0045" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0046" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0047" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0048" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky confident 0049" x="4530" y="2470" width="333" height="602" frameX="-4" frameY="-8" frameWidth="342" frameHeight="611"/>
+	<SubTexture name="sky down0000" x="7658" y="639" width="367" height="599" frameX="0" frameY="0" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0001" x="7658" y="639" width="367" height="599" frameX="0" frameY="0" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0002" x="1392" y="1378" width="347" height="595" frameX="-13" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0003" x="1392" y="1378" width="347" height="595" frameX="-13" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0004" x="694" y="1382" width="345" height="595" frameX="-14" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0005" x="694" y="1382" width="345" height="595" frameX="-14" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0006" x="7597" y="1846" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0007" x="7597" y="1846" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0008" x="7597" y="1846" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0009" x="7597" y="1846" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0010" x="7597" y="1846" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0011" x="7597" y="1846" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0012" x="7597" y="1846" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0013" x="7597" y="1846" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down0014" x="7597" y="1846" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0000" x="7289" y="639" width="367" height="599" frameX="0" frameY="0" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0001" x="7289" y="639" width="367" height="599" frameX="0" frameY="0" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0002" x="2031" y="1371" width="347" height="595" frameX="-13" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0003" x="2031" y="1371" width="347" height="595" frameX="-13" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0004" x="347" y="1382" width="345" height="595" frameX="-14" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0005" x="347" y="1382" width="345" height="595" frameX="-14" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0006" x="2731" y="1843" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0007" x="2731" y="1843" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0008" x="2731" y="1843" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0009" x="2731" y="1843" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0010" x="2731" y="1843" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0011" x="2731" y="1843" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0012" x="2731" y="1843" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0013" x="2731" y="1843" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down annoyed0014" x="2731" y="1843" width="343" height="595" frameX="-15" frameY="-5" frameWidth="367" frameHeight="600"/>
+	<SubTexture name="sky down fumble0000" x="6551" y="639" width="381" height="599" frameX="0" frameY="0" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0001" x="6551" y="639" width="381" height="599" frameX="0" frameY="0" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0002" x="3517" y="754" width="357" height="595" frameX="-13" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0003" x="3517" y="754" width="357" height="595" frameX="-13" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0004" x="6541" y="1240" width="356" height="595" frameX="-14" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0005" x="6541" y="1240" width="356" height="595" frameX="-14" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0006" x="7289" y="1240" width="355" height="595" frameX="-15" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0007" x="7289" y="1240" width="355" height="595" frameX="-15" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0008" x="7289" y="1240" width="355" height="595" frameX="-15" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0009" x="7289" y="1240" width="355" height="595" frameX="-15" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0010" x="7289" y="1240" width="355" height="595" frameX="-15" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0011" x="7289" y="1240" width="355" height="595" frameX="-15" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0012" x="7289" y="1240" width="355" height="595" frameX="-15" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0013" x="7289" y="1240" width="355" height="595" frameX="-15" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky down fumble0014" x="7289" y="1240" width="355" height="595" frameX="-15" frameY="-5" frameWidth="381" frameHeight="600"/>
+	<SubTexture name="sky idle0000" x="4223" y="1273" width="345" height="599" frameX="-1" frameY="-15" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0001" x="4223" y="1273" width="345" height="599" frameX="-1" frameY="-15" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0002" x="1042" y="1252" width="348" height="598" frameX="0" frameY="-16" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0003" x="1042" y="1252" width="348" height="598" frameX="0" frameY="-16" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0004" x="3409" y="1952" width="331" height="610" frameX="-7" frameY="-3" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0005" x="3409" y="1952" width="331" height="610" frameX="-7" frameY="-3" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0006" x="325" y="2596" width="322" height="613" frameX="-11" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0007" x="325" y="2596" width="322" height="613" frameX="-11" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0008" x="6224" y="3054" width="320" height="613" frameX="-12" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0009" x="6224" y="3054" width="320" height="613" frameX="-12" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0010" x="7426" y="3060" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0011" x="7426" y="3060" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0012" x="7426" y="3060" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0013" x="7426" y="3060" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0014" x="7426" y="3060" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle0015" x="7426" y="3060" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle angry0000" x="3517" y="1351" width="345" height="599" frameX="-1" frameY="-14" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0001" x="0" y="1369" width="345" height="599" frameX="-1" frameY="-14" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0002" x="5755" y="1261" width="348" height="598" frameX="0" frameY="-15" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0003" x="6899" y="1265" width="348" height="598" frameX="0" frameY="-15" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0004" x="7646" y="1240" width="348" height="604" frameX="0" frameY="-9" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0005" x="6105" y="1266" width="348" height="598" frameX="0" frameY="-15" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0006" x="4593" y="1267" width="348" height="598" frameX="0" frameY="-15" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0007" x="2381" y="1268" width="348" height="598" frameX="0" frameY="-15" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0008" x="4943" y="1269" width="348" height="598" frameX="0" frameY="-15" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0009" x="5293" y="1271" width="348" height="598" frameX="0" frameY="-15" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0010" x="1741" y="1968" width="331" height="610" frameX="-7" frameY="-2" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0011" x="0" y="1970" width="331" height="610" frameX="-7" frameY="-2" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0012" x="4071" y="2486" width="327" height="611" frameX="-9" frameY="-1" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0013" x="4865" y="2486" width="327" height="611" frameX="-9" frameY="-1" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0014" x="3040" y="2509" width="324" height="612" frameX="-10" frameY="0" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0015" x="3366" y="2564" width="324" height="612" frameX="-10" frameY="0" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0016" x="1716" y="2580" width="323" height="612" frameX="-11" frameY="0" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0017" x="0" y="2582" width="323" height="612" frameX="-11" frameY="0" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0018" x="4400" y="3074" width="314" height="611" frameX="-16" frameY="-1" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle angry0019" x="2041" y="3095" width="314" height="611" frameX="-16" frameY="-1" frameWidth="348" frameHeight="613"/>
+	<SubTexture name="sky idle annoyed0000" x="3876" y="1273" width="345" height="599" frameX="-1" frameY="-15" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0001" x="3876" y="1273" width="345" height="599" frameX="-1" frameY="-15" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0002" x="2768" y="1243" width="348" height="598" frameX="0" frameY="-16" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0003" x="2768" y="1243" width="348" height="598" frameX="0" frameY="-16" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0004" x="3864" y="1874" width="331" height="610" frameX="-7" frameY="-3" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0005" x="3864" y="1874" width="331" height="610" frameX="-7" frameY="-3" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0006" x="1324" y="2592" width="322" height="613" frameX="-11" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0007" x="1324" y="2592" width="322" height="613" frameX="-11" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0008" x="5902" y="2990" width="320" height="613" frameX="-12" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0009" x="5902" y="2990" width="320" height="613" frameX="-12" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0010" x="7862" y="3056" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0011" x="7862" y="3056" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0012" x="7862" y="3056" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0013" x="7862" y="3056" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0014" x="7862" y="3056" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle annoyed0015" x="7862" y="3056" width="318" height="613" frameX="-13" frameY="0" frameWidth="348" frameHeight="614"/>
+	<SubTexture name="sky idle grr0000" x="4197" y="1874" width="331" height="610" frameX="0" frameY="-1" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky idle grr0001" x="993" y="2449" width="329" height="611" frameX="-1" frameY="0" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky idle grr0002" x="3076" y="1897" width="331" height="610" frameX="0" frameY="-1" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky idle grr0003" x="7862" y="2443" width="327" height="611" frameX="-2" frameY="0" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky idle grr0004" x="5571" y="2458" width="329" height="611" frameX="-1" frameY="0" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky idle grr0005" x="3742" y="2486" width="327" height="611" frameX="-2" frameY="0" frameWidth="331" frameHeight="611"/>
+	<SubTexture name="sky left0000" x="3692" y="3099" width="308" height="617" frameX="-20" frameY="0" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0001" x="3692" y="3099" width="308" height="617" frameX="-20" frameY="0" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0002" x="7533" y="2443" width="327" height="615" frameX="-2" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0003" x="7533" y="2443" width="327" height="615" frameX="-2" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0004" x="663" y="1979" width="328" height="615" frameX="-1" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0005" x="663" y="1979" width="328" height="615" frameX="-1" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0006" x="5240" y="1871" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0007" x="5240" y="1871" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0008" x="5240" y="1871" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0009" x="5240" y="1871" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0010" x="5240" y="1871" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0011" x="5240" y="1871" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0012" x="5240" y="1871" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0013" x="5240" y="1871" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left0014" x="5240" y="1871" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0000" x="5194" y="3095" width="308" height="617" frameX="-20" frameY="0" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0001" x="5194" y="3095" width="308" height="617" frameX="-20" frameY="0" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0002" x="6328" y="2437" width="327" height="615" frameX="-2" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0003" x="6328" y="2437" width="327" height="615" frameX="-2" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0004" x="1386" y="1975" width="328" height="615" frameX="-1" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0005" x="1386" y="1975" width="328" height="615" frameX="-1" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0006" x="2380" y="1868" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0007" x="2380" y="1868" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0008" x="2380" y="1868" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0009" x="2380" y="1868" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0010" x="2380" y="1868" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0011" x="2380" y="1868" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0012" x="2380" y="1868" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0013" x="2380" y="1868" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left annoyed0014" x="2380" y="1868" width="329" height="615" frameX="0" frameY="-2" frameWidth="329" frameHeight="617"/>
+	<SubTexture name="sky left fumble0000" x="2725" y="3057" width="310" height="614" frameX="-16" frameY="-1" frameWidth="329" frameHeight="615"/>
+	<SubTexture name="sky left fumble0001" x="2725" y="3057" width="310" height="614" frameX="-16" frameY="-1" frameWidth="329" frameHeight="615"/>
+	<SubTexture name="sky left fumble0002" x="2711" y="2440" width="327" height="615" frameX="-2" frameY="0" frameWidth="329" frameHeight="615"/>
+	<SubTexture name="sky left fumble0003" x="2711" y="2440" width="327" height="615" frameX="-2" frameY="0" frameWidth="329" frameHeight="615"/>
+	<SubTexture name="sky left fumble0004" x="333" y="1979" width="328" height="615" frameX="-1" frameY="0" frameWidth="329" frameHeight="615"/>
+	<SubTexture name="sky left fumble0005" x="333" y="1979" width="328" height="615" frameX="-1" frameY="0" frameWidth="329" frameHeight="615"/>
+	<SubTexture name="sky left fumble0006" x="4909" y="1869" width="329" height="615"/>
+	<SubTexture name="sky left fumble0007" x="4909" y="1869" width="329" height="615"/>
+	<SubTexture name="sky left fumble0008" x="4909" y="1869" width="329" height="615"/>
+	<SubTexture name="sky left fumble0009" x="4909" y="1869" width="329" height="615"/>
+	<SubTexture name="sky left fumble0010" x="4909" y="1869" width="329" height="615"/>
+	<SubTexture name="sky left fumble0011" x="4909" y="1869" width="329" height="615"/>
+	<SubTexture name="sky left fumble0012" x="4909" y="1869" width="329" height="615"/>
+	<SubTexture name="sky left fumble0013" x="4909" y="1869" width="329" height="615"/>
+	<SubTexture name="sky left fumble0014" x="4909" y="1869" width="329" height="615"/>
+	<SubTexture name="sky manifest0000" x="7249" y="1837" width="346" height="591" frameX="-115" frameY="-161" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0001" x="7249" y="1837" width="346" height="591" frameX="-115" frameY="-161" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0002" x="6799" y="1865" width="343" height="594" frameX="-116" frameY="-158" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0003" x="6799" y="1865" width="343" height="594" frameX="-116" frameY="-158" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0004" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0005" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0006" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0007" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0008" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0009" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0010" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0011" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0012" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0013" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0014" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0015" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0016" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0017" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0018" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0019" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0020" x="1041" y="1852" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0021" x="5643" y="1861" width="343" height="595" frameX="-116" frameY="-157" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0022" x="0" y="0" width="593" height="742" frameX="0" frameY="-58" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0023" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0024" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0025" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0026" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0027" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0028" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0029" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0030" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0031" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0032" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0033" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0034" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0035" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0036" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0037" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0038" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0039" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0040" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0041" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0042" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0043" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0044" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0045" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0046" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0047" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0048" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0049" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0050" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0051" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0052" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0053" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0054" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0055" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0056" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0057" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0058" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0059" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0060" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0061" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0062" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0063" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0064" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0065" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0066" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0067" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0068" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0069" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0070" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0071" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0072" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0073" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0074" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0075" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0076" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0077" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0078" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0079" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0080" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0081" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0082" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0083" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0084" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0085" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0086" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0087" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0088" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0089" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0090" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0091" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0092" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0093" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0094" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0095" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0096" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0097" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0098" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0099" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0100" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0101" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0102" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0103" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0104" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0105" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0106" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0107" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0108" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0109" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0110" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0111" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0112" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0113" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0114" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0115" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0116" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0117" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0118" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0119" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0120" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0121" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0122" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0123" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0124" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0125" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0126" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0127" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0128" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0129" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0130" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0131" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0132" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0133" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0134" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0135" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0136" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0137" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0138" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0139" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0140" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0141" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0142" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0143" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0144" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0145" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0146" x="954" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0147" x="3554" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0148" x="2073" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0149" x="595" y="0" width="357" height="748" frameX="-124" frameY="-4" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0150" x="3221" y="0" width="331" height="752" frameX="-146" frameY="0" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky manifest0151" x="1733" y="0" width="338" height="751" frameX="-139" frameY="-1" frameWidth="593" frameHeight="800"/>
+	<SubTexture name="sky mic drop0000" x="6188" y="0" width="361" height="641" frameX="-2" frameY="0" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0001" x="6188" y="0" width="361" height="641" frameX="-2" frameY="0" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0002" x="6551" y="0" width="363" height="637" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0003" x="6916" y="0" width="363" height="637" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0004" x="7281" y="0" width="363" height="637" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0005" x="7281" y="0" width="363" height="637" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0006" x="7646" y="0" width="362" height="637" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0007" x="7646" y="0" width="362" height="637" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0008" x="2804" y="604" width="362" height="637" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0009" x="5817" y="0" width="369" height="637" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0010" x="5434" y="0" width="381" height="645" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0011" x="5434" y="0" width="381" height="645" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0012" x="4661" y="0" width="384" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0013" x="4661" y="0" width="384" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0014" x="5047" y="0" width="385" height="643" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0015" x="5047" y="0" width="385" height="643" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0016" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0017" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0018" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0019" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0020" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0021" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0022" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0023" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0024" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0025" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0026" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0027" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0028" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0029" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0030" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0031" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0032" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0033" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0034" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0035" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0036" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0037" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0038" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0039" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0040" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0041" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0042" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0043" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0044" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0045" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0046" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0047" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0048" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0049" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0050" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0051" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0052" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0053" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0054" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic drop0055" x="3887" y="0" width="385" height="646" frameX="0" frameY="-3" frameWidth="385" frameHeight="649"/>
+	<SubTexture name="sky mic pick up0000" x="4274" y="0" width="385" height="646" frameX="-33" frameY="0" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0001" x="4274" y="0" width="385" height="646" frameX="-33" frameY="0" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0002" x="2413" y="0" width="389" height="643" frameX="-29" frameY="-3" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0003" x="2413" y="0" width="389" height="643" frameX="-29" frameY="-3" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0004" x="2413" y="0" width="389" height="643" frameX="-29" frameY="-3" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0005" x="2413" y="0" width="389" height="643" frameX="-29" frameY="-3" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0006" x="2413" y="0" width="389" height="643" frameX="-29" frameY="-3" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0007" x="2413" y="0" width="389" height="643" frameX="-29" frameY="-3" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0008" x="2413" y="0" width="389" height="643" frameX="-29" frameY="-3" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0009" x="1313" y="0" width="418" height="621" frameX="0" frameY="-25" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0010" x="1313" y="0" width="418" height="621" frameX="0" frameY="-25" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0011" x="2804" y="0" width="415" height="602" frameX="-3" frameY="-44" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0012" x="3118" y="1372" width="395" height="523" frameX="-23" frameY="-130" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0013" x="3118" y="1372" width="395" height="523" frameX="-23" frameY="-130" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0014" x="7144" y="2430" width="387" height="520" frameX="-31" frameY="-134" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0015" x="7144" y="2430" width="387" height="520" frameX="-31" frameY="-134" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0016" x="6657" y="2461" width="386" height="520" frameX="-32" frameY="-135" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0017" x="6657" y="2461" width="386" height="520" frameX="-32" frameY="-135" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0018" x="5902" y="2468" width="386" height="520" frameX="-32" frameY="-135" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0019" x="5902" y="2468" width="386" height="520" frameX="-32" frameY="-135" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0020" x="7045" y="2952" width="379" height="520" frameX="-32" frameY="-135" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0021" x="7045" y="2952" width="379" height="520" frameX="-32" frameY="-135" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0022" x="6657" y="2983" width="379" height="520" frameX="-32" frameY="-135" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0023" x="5525" y="3071" width="372" height="520" frameX="-32" frameY="-135" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0024" x="5525" y="3071" width="372" height="520" frameX="-32" frameY="-135" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0025" x="4002" y="3099" width="363" height="520" frameX="-36" frameY="-132" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky mic pick up0026" x="4002" y="3099" width="363" height="520" frameX="-36" frameY="-132" frameWidth="418" frameHeight="655"/>
+	<SubTexture name="sky right0000" x="5817" y="639" width="367" height="620"/>
+	<SubTexture name="sky right0001" x="5817" y="639" width="367" height="620"/>
+	<SubTexture name="sky right0002" x="4593" y="648" width="353" height="617" frameX="-5" frameY="-3" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0003" x="4593" y="648" width="353" height="617" frameX="-5" frameY="-3" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0004" x="2031" y="753" width="348" height="616" frameX="-8" frameY="-4" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0005" x="2031" y="753" width="348" height="616" frameX="-8" frameY="-4" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0006" x="3168" y="754" width="347" height="616" frameX="-9" frameY="-4" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0007" x="3168" y="754" width="347" height="616" frameX="-9" frameY="-4" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0008" x="3168" y="754" width="347" height="616" frameX="-9" frameY="-4" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0009" x="3168" y="754" width="347" height="616" frameX="-9" frameY="-4" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0010" x="3168" y="754" width="347" height="616" frameX="-9" frameY="-4" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0011" x="3168" y="754" width="347" height="616" frameX="-9" frameY="-4" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0012" x="3168" y="754" width="347" height="616" frameX="-9" frameY="-4" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0013" x="3168" y="754" width="347" height="616" frameX="-9" frameY="-4" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right0014" x="3168" y="754" width="347" height="616" frameX="-9" frameY="-4" frameWidth="367" frameHeight="620"/>
+	<SubTexture name="sky right annoyed0000" x="1313" y="623" width="367" height="627"/>
+	<SubTexture name="sky right annoyed0001" x="1313" y="623" width="367" height="627"/>
+	<SubTexture name="sky right annoyed0002" x="6934" y="639" width="353" height="624" frameX="-5" frameY="-3" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0003" x="6934" y="639" width="353" height="624" frameX="-5" frameY="-3" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0004" x="0" y="744" width="348" height="623" frameX="-8" frameY="-4" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0005" x="0" y="744" width="348" height="623" frameX="-8" frameY="-4" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0006" x="1682" y="753" width="347" height="623" frameX="-9" frameY="-4" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0007" x="1682" y="753" width="347" height="623" frameX="-9" frameY="-4" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0008" x="1682" y="753" width="347" height="623" frameX="-9" frameY="-4" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0009" x="1682" y="753" width="347" height="623" frameX="-9" frameY="-4" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0010" x="1682" y="753" width="347" height="623" frameX="-9" frameY="-4" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0011" x="1682" y="753" width="347" height="623" frameX="-9" frameY="-4" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0012" x="1682" y="753" width="347" height="623" frameX="-9" frameY="-4" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0013" x="1682" y="753" width="347" height="623" frameX="-9" frameY="-4" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky right annoyed0014" x="1682" y="753" width="347" height="623" frameX="-9" frameY="-4" frameWidth="367" frameHeight="627"/>
+	<SubTexture name="sky testing0000" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0001" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0002" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0003" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0004" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0005" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0006" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0007" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0008" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0009" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0010" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0011" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0012" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0013" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0014" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky testing0015" x="2405" y="3057" width="318" height="613"/>
+	<SubTexture name="sky up0000" x="696" y="750" width="344" height="630" frameX="-7" frameY="0" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0001" x="696" y="750" width="344" height="630" frameX="-7" frameY="0" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0002" x="4240" y="648" width="351" height="623" frameX="-2" frameY="-5" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0003" x="4240" y="648" width="351" height="623" frameX="-2" frameY="-5" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0004" x="5401" y="647" width="352" height="622" frameX="-1" frameY="-6" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0005" x="5401" y="647" width="352" height="622" frameX="-1" frameY="-6" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0006" x="2413" y="645" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0007" x="2413" y="645" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0008" x="2413" y="645" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0009" x="2413" y="645" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0010" x="2413" y="645" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0011" x="2413" y="645" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0012" x="2413" y="645" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0013" x="2413" y="645" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up0014" x="2413" y="645" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0000" x="350" y="750" width="344" height="630" frameX="-7" frameY="0" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0001" x="350" y="750" width="344" height="630" frameX="-7" frameY="0" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0002" x="3887" y="648" width="351" height="623" frameX="-2" frameY="-5" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0003" x="3887" y="648" width="351" height="623" frameX="-2" frameY="-5" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0004" x="5047" y="645" width="352" height="622" frameX="-1" frameY="-6" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0005" x="5047" y="645" width="352" height="622" frameX="-1" frameY="-6" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0006" x="6186" y="643" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0007" x="6186" y="643" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0008" x="6186" y="643" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0009" x="6186" y="643" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0010" x="6186" y="643" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0011" x="6186" y="643" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0012" x="6186" y="643" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0013" x="6186" y="643" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+	<SubTexture name="sky up annoyed0014" x="6186" y="643" width="353" height="621" frameX="0" frameY="-7" frameWidth="353" frameHeight="630"/>
+</TextureAtlas>

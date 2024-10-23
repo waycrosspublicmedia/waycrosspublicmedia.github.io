@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "rukysky idle"
+		},
+		{
+			"offsets": [
+				44,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "rukysky left"
+		},
+		{
+			"offsets": [
+				10,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rukysky down"
+		},
+		{
+			"offsets": [
+				-8,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rukysky up"
+		},
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rukysky right"
+		},
+		{
+			"offsets": [
+				-6,
+				-1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "hey",
+			"indices": [],
+			"name": "rukysky cat"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-12,
+				3
+			],
+			"anim": "dia",
+			"fps": 24,
+			"name": "rukysky dialogue",
+			"indices": []
+		},
+		{
+			"offsets": [
+				490,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "kitty",
+			"loop": false,
+			"name": "rukysky kitty"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarukysky",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sarukysky",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		160,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
