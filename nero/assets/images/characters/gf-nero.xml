@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfnero.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downgf0000" x="20" y="20" width="420" height="523" frameX="-1" frameY="0" frameWidth="421" frameHeight="531"/>
+	<SubTexture name="downgf0001" x="20" y="20" width="420" height="523" frameX="-1" frameY="0" frameWidth="421" frameHeight="531"/>
+	<SubTexture name="downgf0002" x="460" y="20" width="413" height="528" frameX="0" frameY="-3" frameWidth="421" frameHeight="531"/>
+	<SubTexture name="downgf0003" x="460" y="20" width="413" height="528" frameX="0" frameY="-3" frameWidth="421" frameHeight="531"/>
+	<SubTexture name="downgf0004" x="460" y="20" width="413" height="528" frameX="0" frameY="-3" frameWidth="421" frameHeight="531"/>
+	<SubTexture name="downgf0005" x="460" y="20" width="413" height="528" frameX="0" frameY="-3" frameWidth="421" frameHeight="531"/>
+	<SubTexture name="idlegf0000" x="893" y="20" width="260" height="558" frameX="-1" frameY="0" frameWidth="265" frameHeight="560"/>
+	<SubTexture name="idlegf0001" x="893" y="20" width="260" height="558" frameX="-1" frameY="0" frameWidth="265" frameHeight="560"/>
+	<SubTexture name="idlegf0002" x="1173" y="20" width="263" height="554" frameX="0" frameY="-3" frameWidth="265" frameHeight="560"/>
+	<SubTexture name="idlegf0003" x="1173" y="20" width="263" height="554" frameX="0" frameY="-3" frameWidth="265" frameHeight="560"/>
+	<SubTexture name="idlegf0004" x="1456" y="20" width="265" height="555" frameX="0" frameY="-5" frameWidth="265" frameHeight="560"/>
+	<SubTexture name="idlegf0005" x="1456" y="20" width="265" height="555" frameX="0" frameY="-5" frameWidth="265" frameHeight="560"/>
+	<SubTexture name="leftgf0000" x="20" y="598" width="291" height="542" frameX="0" frameY="-6" frameWidth="291" frameHeight="548"/>
+	<SubTexture name="leftgf0001" x="20" y="598" width="291" height="542" frameX="0" frameY="-6" frameWidth="291" frameHeight="548"/>
+	<SubTexture name="leftgf0002" x="331" y="598" width="290" height="545" frameX="-1" frameY="0" frameWidth="291" frameHeight="548"/>
+	<SubTexture name="leftgf0003" x="331" y="598" width="290" height="545" frameX="-1" frameY="0" frameWidth="291" frameHeight="548"/>
+	<SubTexture name="leftgf0004" x="331" y="598" width="290" height="545" frameX="-1" frameY="0" frameWidth="291" frameHeight="548"/>
+	<SubTexture name="leftgf0005" x="331" y="598" width="290" height="545" frameX="-1" frameY="0" frameWidth="291" frameHeight="548"/>
+	<SubTexture name="rightgf0000" x="641" y="598" width="354" height="558" frameX="0" frameY="-6" frameWidth="364" frameHeight="566"/>
+	<SubTexture name="rightgf0001" x="641" y="598" width="354" height="558" frameX="0" frameY="-6" frameWidth="364" frameHeight="566"/>
+	<SubTexture name="rightgf0002" x="1015" y="598" width="288" height="566" frameX="-76" frameY="0" frameWidth="364" frameHeight="566"/>
+	<SubTexture name="rightgf0003" x="1015" y="598" width="288" height="566" frameX="-76" frameY="0" frameWidth="364" frameHeight="566"/>
+	<SubTexture name="rightgf0004" x="1015" y="598" width="288" height="566" frameX="-76" frameY="0" frameWidth="364" frameHeight="566"/>
+	<SubTexture name="upgf0000" x="1323" y="598" width="254" height="544" frameX="-4" frameY="-7" frameWidth="262" frameHeight="555"/>
+	<SubTexture name="upgf0001" x="1323" y="598" width="254" height="544" frameX="-4" frameY="-7" frameWidth="262" frameHeight="555"/>
+	<SubTexture name="upgf0002" x="1597" y="598" width="262" height="555"/>
+	<SubTexture name="upgf0003" x="1597" y="598" width="262" height="555"/>
+</TextureAtlas>
