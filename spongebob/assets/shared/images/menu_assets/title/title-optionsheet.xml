@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="title-optionsheet.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="startSelected0000" x="0" y="0" width="2560" height="1440"/>
+	<SubTexture name="startNormal0000" x="2560" y="0" width="2560" height="1440"/>
+	<SubTexture name="exitSelected0000" x="0" y="1440" width="2560" height="1440"/>
+	<SubTexture name="exitNormal0000" x="2560" y="1440" width="2560" height="1440"/>
+</TextureAtlas>

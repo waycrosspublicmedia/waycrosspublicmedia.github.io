@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="old_static.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="static_filter0000" x="0" y="0" width="960" height="720"/>
+	<SubTexture name="static_filter0001" x="960" y="0" width="960" height="720"/>
+	<SubTexture name="static_filter0002" x="0" y="720" width="960" height="720"/>
+	<SubTexture name="static_filter0003" x="960" y="720" width="960" height="720"/>
+</TextureAtlas>

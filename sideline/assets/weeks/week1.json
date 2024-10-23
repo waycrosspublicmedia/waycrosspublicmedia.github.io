@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sharki",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Rogue Wire",
+			"rika",
+			[
+				255,
+				195,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Sharki"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="junk bg.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="main junk bg instance 10000" x="10" y="10" width="1807" height="689"/>
+	<SubTexture name="main junk bg instance 10001" x="10" y="10" width="1807" height="689"/>
+	<SubTexture name="main junk bg instance 10002" x="10" y="10" width="1807" height="689"/>
+	<SubTexture name="main junk bg instance 10003" x="10" y="709" width="1807" height="689"/>
+	<SubTexture name="main junk bg instance 10004" x="10" y="709" width="1807" height="689"/>
+	<SubTexture name="main junk bg instance 10005" x="10" y="709" width="1807" height="689"/>
+	<SubTexture name="main junk bg instance 10006" x="10" y="1408" width="1807" height="689"/>
+	<SubTexture name="main junk bg instance 10007" x="10" y="1408" width="1807" height="689"/>
+	<SubTexture name="main junk bg instance 10008" x="10" y="1408" width="1807" height="689"/>
+</TextureAtlas>

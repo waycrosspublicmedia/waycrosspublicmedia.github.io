@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fg tankmen.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tank soldier 1 frown copy instance 10000" x="10" y="10" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10001" x="10" y="10" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10002" x="290" y="10" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10003" x="570" y="10" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10004" x="10" y="554" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10005" x="10" y="554" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10006" x="290" y="554" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10007" x="570" y="554" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10008" x="570" y="554" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10009" x="10" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10010" x="10" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10011" x="10" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10012" x="290" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10013" x="290" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10014" x="290" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10015" x="570" y="554" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10016" x="570" y="554" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10017" x="570" y="554" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10018" x="10" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10019" x="10" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10020" x="10" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10021" x="290" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10022" x="290" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10023" x="290" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10024" x="570" y="554" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10025" x="570" y="554" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10026" x="570" y="554" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10027" x="10" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10028" x="10" y="1098" width="270" height="534"/>
+	<SubTexture name="tank soldier 1 frown copy instance 10029" x="10" y="1098" width="270" height="534"/>
+</TextureAtlas>

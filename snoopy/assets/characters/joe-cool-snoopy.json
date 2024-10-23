@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-334
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "joe cool idle"
+		},
+		{
+			"offsets": [
+				20,
+				-348
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "joe cool left"
+		},
+		{
+			"offsets": [
+				-77,
+				-332
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "joe cool down"
+		},
+		{
+			"offsets": [
+				-64,
+				-224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "joe cool up"
+		},
+		{
+			"offsets": [
+				-146,
+				-314
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "joe cool right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/joe cool snoopy assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "joe-cool-p",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		110,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

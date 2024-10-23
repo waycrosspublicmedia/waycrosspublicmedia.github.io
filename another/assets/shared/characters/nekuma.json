@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				72
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-131
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-47
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/nekuma",
+	"position": [
+		-180,
+		30
+	],
+	"healthicon": "nekuma",
+	"flip_x": false,
+	"healthbar_colors": [
+		199,
+		48,
+		50
+	],
+	"camera_position": [
+		200,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

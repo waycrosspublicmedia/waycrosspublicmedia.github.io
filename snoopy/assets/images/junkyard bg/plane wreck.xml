@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="plane wreck.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="plane wreck0000" x="10" y="10" width="920" height="1038"/>
+	<SubTexture name="plane wreck0001" x="10" y="10" width="920" height="1038"/>
+	<SubTexture name="plane wreck0002" x="10" y="10" width="920" height="1038"/>
+	<SubTexture name="plane wreck0003" x="940" y="10" width="920" height="1038"/>
+	<SubTexture name="plane wreck0004" x="940" y="10" width="920" height="1038"/>
+	<SubTexture name="plane wreck0005" x="940" y="10" width="920" height="1038"/>
+	<SubTexture name="plane wreck0006" x="10" y="1058" width="920" height="1038"/>
+	<SubTexture name="plane wreck0007" x="10" y="1058" width="920" height="1038"/>
+	<SubTexture name="plane wreck0008" x="10" y="1058" width="920" height="1038"/>
+	<SubTexture name="plane wreck0009" x="940" y="1058" width="920" height="1038"/>
+	<SubTexture name="plane wreck0010" x="940" y="1058" width="920" height="1038"/>
+	<SubTexture name="plane wreck0011" x="940" y="1058" width="920" height="1038"/>
+	<SubTexture name="plane wreck0012" x="10" y="2106" width="920" height="1038"/>
+	<SubTexture name="plane wreck0013" x="10" y="2106" width="920" height="1038"/>
+	<SubTexture name="plane wreck0014" x="10" y="2106" width="920" height="1038"/>
+	<SubTexture name="plane wreck0015" x="940" y="2106" width="920" height="1038"/>
+	<SubTexture name="plane wreck0016" x="940" y="2106" width="920" height="1038"/>
+	<SubTexture name="plane wreck0017" x="940" y="2106" width="920" height="1038"/>
+</TextureAtlas>

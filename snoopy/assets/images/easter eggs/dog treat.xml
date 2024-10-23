@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dog treat.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dog treat stuffs0000" x="10" y="10" width="128" height="155"/>
+	<SubTexture name="dog treat stuffs0001" x="148" y="10" width="128" height="155"/>
+	<SubTexture name="dog treat stuffs0002" x="286" y="10" width="128" height="155"/>
+	<SubTexture name="dog treat stuffs0003" x="10" y="175" width="128" height="155"/>
+</TextureAtlas>

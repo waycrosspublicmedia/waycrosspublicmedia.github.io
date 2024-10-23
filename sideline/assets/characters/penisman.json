@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf"
+		},
+		{
+			"offsets": [
+				13,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left instance "
+		},
+		{
+			"offsets": [
+				12,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instance "
+		},
+		{
+			"offsets": [
+				-21,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up instance "
+		},
+		{
+			"offsets": [
+				-30,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right instance "
+		},
+		{
+			"offsets": [
+				251,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "leftMISS instance "
+		},
+		{
+			"offsets": [
+				179,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "downMISS instance "
+		},
+		{
+			"offsets": [
+				187,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upMISS instance "
+		},
+		{
+			"offsets": [
+				177,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rightMISS instance "
+		}
+	],
+	"no_antialiasing": false,
+	"speaker_character": false,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/bfandthechaactrr",
+	"position": [
+		10,
+		140
+	],
+	"healthicon": "bf-rika",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		235,
+		135
+	],
+	"camera_position": [
+		10,
+		120
+	],
+	"skin_properties": [
+		"NOTE_assets",
+		"noteSplashes"
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ground shadow.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ground shadow0000" x="10" y="10" width="384" height="31"/>
+	<SubTexture name="ground shadow0001" x="10" y="10" width="384" height="31"/>
+	<SubTexture name="ground shadow0002" x="10" y="10" width="384" height="31"/>
+	<SubTexture name="ground shadow0003" x="10" y="51" width="384" height="31"/>
+	<SubTexture name="ground shadow0004" x="10" y="51" width="384" height="31"/>
+	<SubTexture name="ground shadow0005" x="10" y="51" width="384" height="31"/>
+	<SubTexture name="ground shadow0006" x="10" y="92" width="384" height="31"/>
+	<SubTexture name="ground shadow0007" x="10" y="92" width="384" height="31"/>
+	<SubTexture name="ground shadow0008" x="10" y="92" width="384" height="31"/>
+</TextureAtlas>

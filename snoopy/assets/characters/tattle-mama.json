@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				270,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mama idle"
+		},
+		{
+			"offsets": [
+				270,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mama left"
+		},
+		{
+			"offsets": [
+				270,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mama down"
+		},
+		{
+			"offsets": [
+				270,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mama up"
+		},
+		{
+			"offsets": [
+				270,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mama right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MAMA",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

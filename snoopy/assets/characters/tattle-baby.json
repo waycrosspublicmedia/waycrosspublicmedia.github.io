@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				470
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BABY LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				470
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BABY DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				470
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BABY UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				470
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BABY RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				470
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "BABY IDLE"
+		},
+		{
+			"offsets": [
+				-15,
+				470
+			],
+			"indices": [
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "BABY IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BABY",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		330,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

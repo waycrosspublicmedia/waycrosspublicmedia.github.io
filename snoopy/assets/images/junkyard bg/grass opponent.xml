@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grass opponent.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grass shadow opp0000" x="10" y="10" width="716" height="82"/>
+	<SubTexture name="grass shadow opp0001" x="10" y="10" width="716" height="82"/>
+	<SubTexture name="grass shadow opp0002" x="10" y="10" width="716" height="82"/>
+	<SubTexture name="grass shadow opp0003" x="10" y="102" width="716" height="82"/>
+	<SubTexture name="grass shadow opp0004" x="10" y="102" width="716" height="82"/>
+	<SubTexture name="grass shadow opp0005" x="10" y="102" width="716" height="82"/>
+	<SubTexture name="grass shadow opp0006" x="10" y="194" width="716" height="82"/>
+	<SubTexture name="grass shadow opp0007" x="10" y="194" width="716" height="82"/>
+	<SubTexture name="grass shadow opp0008" x="10" y="194" width="716" height="82"/>
+</TextureAtlas>

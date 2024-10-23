@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gameover_exit song.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exit song idle0000" x="10" y="10" width="472" height="95"/>
+	<SubTexture name="exit song selected0000" x="10" y="115" width="472" height="95"/>
+	<SubTexture name="exit song selected0001" x="10" y="115" width="472" height="95"/>
+	<SubTexture name="exit song selected0002" x="10" y="115" width="472" height="95"/>
+	<SubTexture name="exit song selected0003" x="10" y="115" width="472" height="95"/>
+	<SubTexture name="exit song selected0004" x="10" y="115" width="472" height="95"/>
+	<SubTexture name="exit song selected0005" x="10" y="220" width="472" height="95"/>
+	<SubTexture name="exit song selected0006" x="10" y="220" width="472" height="95"/>
+	<SubTexture name="exit song selected0007" x="10" y="220" width="472" height="95"/>
+	<SubTexture name="exit song selected0008" x="10" y="220" width="472" height="95"/>
+	<SubTexture name="exit song selected0009" x="10" y="220" width="472" height="95"/>
+	<SubTexture name="exit song selected0010" x="10" y="325" width="472" height="95"/>
+	<SubTexture name="exit song selected0011" x="10" y="325" width="472" height="95"/>
+	<SubTexture name="exit song selected0012" x="10" y="325" width="472" height="95"/>
+	<SubTexture name="exit song selected0013" x="10" y="325" width="472" height="95"/>
+	<SubTexture name="exit song selected0014" x="10" y="325" width="472" height="95"/>
+</TextureAtlas>

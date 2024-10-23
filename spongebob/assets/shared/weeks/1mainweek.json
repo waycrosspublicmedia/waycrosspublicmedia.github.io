@@ -1,0 +1,50 @@
+{
+	"storyName": "Classic Showdown",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Warm Welcoming",
+			"spongebob",
+			[
+				116,
+				79,
+				77
+			]
+		],
+		[
+			"Dimwit",
+			"patrick",
+			[
+				209,
+				113,
+				123
+			]
+		],
+		[
+			"Doofus Duo",
+			"patrick",
+			[
+				209,
+				113,
+				123
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "MainWeek",
+	"hiddenUntilUnlocked": false
+}

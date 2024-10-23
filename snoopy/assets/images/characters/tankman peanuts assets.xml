@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankman peanuts assets.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tank p beat it0000" x="10" y="10" width="445" height="699"/>
+	<SubTexture name="tank p beat it0001" x="465" y="10" width="445" height="699"/>
+	<SubTexture name="tank p beat it0002" x="465" y="10" width="445" height="699"/>
+	<SubTexture name="tank p beat it0003" x="920" y="10" width="445" height="699"/>
+	<SubTexture name="tank p beat it0004" x="920" y="10" width="445" height="699"/>
+	<SubTexture name="tank p beat it0005" x="1375" y="10" width="445" height="699"/>
+	<SubTexture name="tank p beat it0006" x="1830" y="10" width="445" height="699"/>
+	<SubTexture name="tank p beat it0007" x="2285" y="10" width="445" height="699"/>
+	<SubTexture name="tank p beat it0008" x="2740" y="10" width="445" height="699"/>
+	<SubTexture name="tank p beat it0009" x="2740" y="10" width="445" height="699"/>
+	<SubTexture name="tank p beat it0010" x="3195" y="10" width="445" height="699"/>
+	<SubTexture name="tank p beat it0011" x="10" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0012" x="10" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0013" x="465" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0014" x="920" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0015" x="920" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0016" x="1375" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0017" x="1830" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0018" x="1830" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0019" x="2285" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0020" x="2285" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0021" x="2285" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0022" x="2740" y="719" width="445" height="699"/>
+	<SubTexture name="tank p beat it0023" x="2740" y="719" width="445" height="699"/>
+	<SubTexture name="tank p down0000" x="3195" y="719" width="439" height="561"/>
+	<SubTexture name="tank p down0001" x="3195" y="719" width="439" height="561"/>
+	<SubTexture name="tank p down0002" x="3644" y="719" width="439" height="561"/>
+	<SubTexture name="tank p down0003" x="3644" y="719" width="439" height="561"/>
+	<SubTexture name="tank p down0004" x="10" y="1428" width="439" height="561"/>
+	<SubTexture name="tank p down0005" x="10" y="1428" width="439" height="561"/>
+	<SubTexture name="tank p down0006" x="459" y="1428" width="439" height="561"/>
+	<SubTexture name="tank p down0007" x="459" y="1428" width="439" height="561"/>
+	<SubTexture name="tank p down0008" x="459" y="1428" width="439" height="561"/>
+	<SubTexture name="tank p down0009" x="908" y="1428" width="439" height="561"/>
+	<SubTexture name="tank p down0010" x="908" y="1428" width="439" height="561"/>
+	<SubTexture name="tank p down0011" x="908" y="1428" width="439" height="561"/>
+	<SubTexture name="tank p down0012" x="1357" y="1428" width="439" height="561"/>
+	<SubTexture name="tank p down0013" x="1357" y="1428" width="439" height="561"/>
+	<SubTexture name="tank p down0014" x="1357" y="1428" width="439" height="561"/>
+	<SubTexture name="tank p idle0000" x="1806" y="1428" width="358" height="710"/>
+	<SubTexture name="tank p idle0001" x="1806" y="1428" width="358" height="710"/>
+	<SubTexture name="tank p idle0002" x="2174" y="1428" width="358" height="710"/>
+	<SubTexture name="tank p idle0003" x="2542" y="1428" width="358" height="710"/>
+	<SubTexture name="tank p idle0004" x="2910" y="1428" width="358" height="710"/>
+	<SubTexture name="tank p idle0005" x="2910" y="1428" width="358" height="710"/>
+	<SubTexture name="tank p idle0006" x="3278" y="1428" width="358" height="710"/>
+	<SubTexture name="tank p idle0007" x="3278" y="1428" width="358" height="710"/>
+	<SubTexture name="tank p idle0008" x="3646" y="1428" width="358" height="710"/>
+	<SubTexture name="tank p idle0009" x="10" y="2148" width="358" height="710"/>
+	<SubTexture name="tank p idle0010" x="10" y="2148" width="358" height="710"/>
+	<SubTexture name="tank p idle0011" x="10" y="2148" width="358" height="710"/>
+	<SubTexture name="tank p idle0012" x="378" y="2148" width="358" height="710"/>
+	<SubTexture name="tank p idle0013" x="378" y="2148" width="358" height="710"/>
+	<SubTexture name="tank p left0000" x="746" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0001" x="746" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0002" x="1184" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0003" x="1184" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0004" x="1622" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0005" x="1622" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0006" x="2060" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0007" x="2060" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0008" x="2060" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0009" x="2498" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0010" x="2498" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0011" x="2498" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0012" x="2936" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0013" x="2936" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p left0014" x="2936" y="2148" width="428" height="697"/>
+	<SubTexture name="tank p right0000" x="3374" y="2148" width="401" height="689"/>
+	<SubTexture name="tank p right0001" x="3374" y="2148" width="401" height="689"/>
+	<SubTexture name="tank p right0002" x="10" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0003" x="10" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0004" x="421" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0005" x="421" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0006" x="832" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0007" x="832" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0008" x="832" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0009" x="1243" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0010" x="1243" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0011" x="1243" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0012" x="1654" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0013" x="1654" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p right0014" x="1654" y="2868" width="401" height="689"/>
+	<SubTexture name="tank p ugh0000" x="2065" y="2868" width="384" height="732"/>
+	<SubTexture name="tank p ugh0001" x="2065" y="2868" width="384" height="732"/>
+	<SubTexture name="tank p ugh0002" x="2459" y="2868" width="384" height="732"/>
+	<SubTexture name="tank p ugh0003" x="2853" y="2868" width="384" height="732"/>
+	<SubTexture name="tank p ugh0004" x="3247" y="2868" width="384" height="732"/>
+	<SubTexture name="tank p ugh0005" x="3247" y="2868" width="384" height="732"/>
+	<SubTexture name="tank p ugh0006" x="3641" y="2868" width="384" height="732"/>
+	<SubTexture name="tank p ugh0007" x="3641" y="2868" width="384" height="732"/>
+	<SubTexture name="tank p ugh0008" x="3641" y="2868" width="384" height="732"/>
+	<SubTexture name="tank p ugh0009" x="10" y="3610" width="384" height="732"/>
+	<SubTexture name="tank p ugh0010" x="10" y="3610" width="384" height="732"/>
+	<SubTexture name="tank p ugh0011" x="10" y="3610" width="384" height="732"/>
+	<SubTexture name="tank p ugh0012" x="404" y="3610" width="384" height="732"/>
+	<SubTexture name="tank p ugh0013" x="404" y="3610" width="384" height="732"/>
+	<SubTexture name="tank p ugh0014" x="404" y="3610" width="384" height="732"/>
+	<SubTexture name="tank p up0000" x="798" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0001" x="798" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0002" x="1182" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0003" x="1182" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0004" x="1566" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0005" x="1566" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0006" x="1950" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0007" x="1950" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0008" x="1950" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0009" x="2334" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0010" x="2334" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0011" x="2334" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0012" x="2718" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0013" x="2718" y="3610" width="374" height="761"/>
+	<SubTexture name="tank p up0014" x="2718" y="3610" width="374" height="761"/>
+</TextureAtlas>

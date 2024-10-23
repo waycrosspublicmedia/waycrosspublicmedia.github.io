@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PENCILASSETS.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pencildown0000" x="11" y="11" width="132" height="256" frameX="0" frameY="-3" frameWidth="132" frameHeight="259"/>
+	<SubTexture name="pencildown0001" x="187" y="11" width="132" height="257" frameX="0" frameY="-2" frameWidth="132" frameHeight="259"/>
+	<SubTexture name="pencildown0002" x="363" y="11" width="132" height="258" frameX="0" frameY="-1" frameWidth="132" frameHeight="259"/>
+	<SubTexture name="pencildown0003" x="539" y="11" width="132" height="259"/>
+	<SubTexture name="pencildown0004" x="715" y="11" width="132" height="259"/>
+	<SubTexture name="pencildown0005" x="891" y="11" width="132" height="259"/>
+	<SubTexture name="pencildown0006" x="1067" y="11" width="132" height="259"/>
+	<SubTexture name="pencildown0007" x="1243" y="11" width="132" height="259"/>
+	<SubTexture name="pencildown0008" x="1419" y="11" width="132" height="259"/>
+	<SubTexture name="pencildown0009" x="1419" y="11" width="132" height="259"/>
+	<SubTexture name="pencildown0010" x="1419" y="11" width="132" height="259"/>
+	<SubTexture name="pencildown0011" x="1419" y="11" width="132" height="259"/>
+	<SubTexture name="pencildown0012" x="1419" y="11" width="132" height="259"/>
+	<SubTexture name="pencildown0013" x="1419" y="11" width="132" height="259"/>
+	<SubTexture name="pencildown0014" x="1419" y="11" width="132" height="259"/>
+	<SubTexture name="pencilidle0000" x="1595" y="11" width="117" height="259" frameX="0" frameY="-8" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0001" x="1756" y="11" width="116" height="260" frameX="-1" frameY="-7" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0002" x="1916" y="11" width="115" height="261" frameX="-2" frameY="-6" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0003" x="11" y="316" width="114" height="262" frameX="-3" frameY="-5" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0004" x="169" y="316" width="113" height="263" frameX="-4" frameY="-4" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0005" x="326" y="316" width="112" height="265" frameX="-5" frameY="-2" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0006" x="482" y="316" width="111" height="266" frameX="-6" frameY="-1" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0007" x="637" y="316" width="110" height="267" frameX="-7" frameY="0" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0008" x="791" y="316" width="110" height="267" frameX="-7" frameY="0" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0009" x="945" y="316" width="110" height="267" frameX="-7" frameY="0" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0010" x="1099" y="316" width="110" height="267" frameX="-7" frameY="0" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0011" x="1253" y="316" width="110" height="267" frameX="-7" frameY="0" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0012" x="1407" y="316" width="110" height="267" frameX="-7" frameY="0" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0013" x="1561" y="316" width="110" height="267" frameX="-7" frameY="0" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilidle0014" x="1715" y="316" width="110" height="267" frameX="-7" frameY="0" frameWidth="117" frameHeight="267"/>
+	<SubTexture name="pencilleft0000" x="1869" y="316" width="124" height="267"/>
+	<SubTexture name="pencilleft0001" x="11" y="627" width="124" height="267"/>
+	<SubTexture name="pencilleft0002" x="179" y="627" width="123" height="267" frameX="-1" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0003" x="346" y="627" width="123" height="267" frameX="-1" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0004" x="513" y="627" width="123" height="267" frameX="-1" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0005" x="680" y="627" width="122" height="267" frameX="-2" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0006" x="846" y="627" width="122" height="267" frameX="-2" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0007" x="1012" y="627" width="122" height="267" frameX="-2" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0008" x="1178" y="627" width="122" height="267" frameX="-2" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0009" x="1178" y="627" width="122" height="267" frameX="-2" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0010" x="1178" y="627" width="122" height="267" frameX="-2" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0011" x="1178" y="627" width="122" height="267" frameX="-2" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0012" x="1178" y="627" width="122" height="267" frameX="-2" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0013" x="1178" y="627" width="122" height="267" frameX="-2" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilleft0014" x="1178" y="627" width="122" height="267" frameX="-2" frameY="0" frameWidth="124" frameHeight="267"/>
+	<SubTexture name="pencilright0000" x="1344" y="627" width="142" height="268" frameX="-1" frameY="-2" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0001" x="1530" y="627" width="139" height="268" frameX="-4" frameY="-2" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0002" x="1713" y="627" width="136" height="269" frameX="-7" frameY="-1" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0003" x="1893" y="627" width="134" height="269" frameX="-9" frameY="-1" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0004" x="11" y="940" width="133" height="269" frameX="-10" frameY="-1" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0005" x="188" y="940" width="132" height="269" frameX="-11" frameY="-1" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0006" x="364" y="940" width="132" height="269" frameX="-11" frameY="-1" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0007" x="540" y="940" width="132" height="269" frameX="-11" frameY="-1" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0008" x="716" y="940" width="132" height="269" frameX="-11" frameY="-1" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0009" x="892" y="940" width="132" height="270" frameX="-11" frameY="0" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0010" x="1068" y="940" width="132" height="270" frameX="-11" frameY="0" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0011" x="1068" y="940" width="132" height="270" frameX="-11" frameY="0" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0012" x="1068" y="940" width="132" height="270" frameX="-11" frameY="0" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0013" x="1068" y="940" width="132" height="270" frameX="-11" frameY="0" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilright0014" x="1068" y="940" width="132" height="270" frameX="-11" frameY="0" frameWidth="143" frameHeight="270"/>
+	<SubTexture name="pencilup0000" x="1244" y="940" width="99" height="278" frameX="-1" frameY="0" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0001" x="1387" y="940" width="97" height="275" frameX="-3" frameY="-3" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0002" x="1528" y="940" width="100" height="274" frameX="0" frameY="-4" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0003" x="1672" y="940" width="98" height="273" frameX="-2" frameY="-5" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0004" x="1814" y="940" width="99" height="272" frameX="-1" frameY="-6" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0005" x="11" y="1262" width="99" height="272" frameX="-1" frameY="-6" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0006" x="154" y="1262" width="100" height="272" frameX="0" frameY="-6" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0007" x="154" y="1262" width="100" height="272" frameX="0" frameY="-6" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0008" x="298" y="1262" width="100" height="272" frameX="0" frameY="-6" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0009" x="298" y="1262" width="100" height="272" frameX="0" frameY="-6" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0010" x="298" y="1262" width="100" height="272" frameX="0" frameY="-6" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0011" x="298" y="1262" width="100" height="272" frameX="0" frameY="-6" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0012" x="298" y="1262" width="100" height="272" frameX="0" frameY="-6" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0013" x="298" y="1262" width="100" height="272" frameX="0" frameY="-6" frameWidth="100" frameHeight="278"/>
+	<SubTexture name="pencilup0014" x="298" y="1262" width="100" height="272" frameX="0" frameY="-6" frameWidth="100" frameHeight="278"/>
+</TextureAtlas>

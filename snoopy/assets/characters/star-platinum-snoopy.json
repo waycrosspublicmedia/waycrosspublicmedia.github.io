@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				68,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "star snoopy idle"
+		},
+		{
+			"offsets": [
+				197,
+				-255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "star snoopy left"
+		},
+		{
+			"offsets": [
+				-77,
+				-282
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "star snoopy down"
+		},
+		{
+			"offsets": [
+				134,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "star snoopy up"
+		},
+		{
+			"offsets": [
+				-146,
+				-227
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "star snoopy right"
+		},
+		{
+			"offsets": [
+				84,
+				-211
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "entrance",
+			"loop": false,
+			"name": "star snoopy appear"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/platinum snoopy assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "joe-cool-p",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		110,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

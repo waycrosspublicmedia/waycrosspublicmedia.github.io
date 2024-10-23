@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TheBopASSETS.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TheBop0000" x="11" y="11" width="1185" height="298" frameX="0" frameY="-3" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0001" x="11" y="11" width="1185" height="298" frameX="0" frameY="-3" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0002" x="11" y="353" width="1180" height="300" frameX="-4" frameY="-1" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0003" x="11" y="353" width="1180" height="300" frameX="-4" frameY="-1" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0004" x="11" y="697" width="1179" height="300" frameX="-5" frameY="0" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0005" x="11" y="697" width="1179" height="300" frameX="-5" frameY="0" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0006" x="11" y="697" width="1179" height="300" frameX="-5" frameY="0" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0007" x="11" y="697" width="1179" height="300" frameX="-5" frameY="0" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0008" x="11" y="697" width="1179" height="300" frameX="-5" frameY="0" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0009" x="11" y="697" width="1179" height="300" frameX="-5" frameY="0" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0010" x="11" y="697" width="1179" height="300" frameX="-5" frameY="0" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0011" x="11" y="697" width="1179" height="300" frameX="-5" frameY="0" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0012" x="11" y="697" width="1179" height="300" frameX="-5" frameY="0" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0013" x="11" y="697" width="1179" height="300" frameX="-5" frameY="0" frameWidth="1185" frameHeight="301"/>
+	<SubTexture name="TheBop0014" x="11" y="697" width="1179" height="300" frameX="-5" frameY="0" frameWidth="1185" frameHeight="301"/>
+</TextureAtlas>

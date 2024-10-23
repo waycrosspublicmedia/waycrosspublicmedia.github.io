@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-330
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "snoopy idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-13,
+				-329
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "snoopy left"
+		},
+		{
+			"offsets": [
+				-77,
+				-359
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "snoopy down"
+		},
+		{
+			"offsets": [
+				-74,
+				-277
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "snoopy up"
+		},
+		{
+			"offsets": [
+				-106,
+				-311
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "snoopy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snoopy assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "snoopy-p",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		110,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

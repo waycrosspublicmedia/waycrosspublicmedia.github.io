@@ -1,0 +1,209 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				44
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-85,
+				40
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		},
+		{
+			"offsets": [
+				-6,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-58,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-77,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-97,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "angry snoopy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "angry snoopy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "angry snoopy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				89
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "angry snoopy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "angry snoopy right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snoopy JY assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "snoopy-p",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		20,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

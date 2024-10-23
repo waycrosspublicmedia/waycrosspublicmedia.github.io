@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-330
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "snoopy happy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-386
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "snoopy happy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-211
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "snoopy happy up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-306
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "snoopy happy right"
+		},
+		{
+			"offsets": [
+				-56,
+				-362
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "snoopy happy left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/happy snoopy assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "snoopy-p",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		30,
+		380
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

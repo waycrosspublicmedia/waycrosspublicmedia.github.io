@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stage curtains wop.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="curtains0000" x="10" y="10" width="1176" height="741"/>
+	<SubTexture name="curtains0001" x="10" y="10" width="1176" height="741"/>
+	<SubTexture name="curtains0002" x="10" y="10" width="1176" height="741"/>
+	<SubTexture name="curtains0003" x="10" y="761" width="1176" height="741"/>
+	<SubTexture name="curtains0004" x="10" y="761" width="1176" height="741"/>
+	<SubTexture name="curtains0005" x="10" y="761" width="1176" height="741"/>
+	<SubTexture name="curtains0006" x="10" y="1512" width="1176" height="741"/>
+	<SubTexture name="curtains0007" x="10" y="1512" width="1176" height="741"/>
+	<SubTexture name="curtains0008" x="10" y="1512" width="1176" height="741"/>
+</TextureAtlas>

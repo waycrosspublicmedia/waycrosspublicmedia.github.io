@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tank talk1.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beat it speech0000" x="10" y="10" width="813" height="611"/>
+	<SubTexture name="beat it speech0001" x="10" y="10" width="813" height="611"/>
+	<SubTexture name="beat it speech0002" x="833" y="10" width="813" height="611"/>
+	<SubTexture name="beat it speech0003" x="833" y="10" width="813" height="611"/>
+	<SubTexture name="beat it speech0004" x="10" y="631" width="813" height="611"/>
+	<SubTexture name="beat it speech0005" x="10" y="631" width="813" height="611"/>
+	<SubTexture name="beat it speech0006" x="833" y="631" width="813" height="611"/>
+	<SubTexture name="beat it speech0007" x="833" y="631" width="813" height="611"/>
+	<SubTexture name="beat it speech0008" x="10" y="1252" width="813" height="611"/>
+	<SubTexture name="beat it speech0009" x="833" y="1252" width="813" height="611"/>
+	<SubTexture name="beat it speech0010" x="10" y="1873" width="813" height="611"/>
+	<SubTexture name="beat it speech0011" x="10" y="1873" width="813" height="611"/>
+	<SubTexture name="beat it speech0012" x="833" y="1873" width="813" height="611"/>
+	<SubTexture name="beat it speech0013" x="833" y="1873" width="813" height="611"/>
+	<SubTexture name="beat it speech0014" x="833" y="1873" width="813" height="611"/>
+	<SubTexture name="beat it speech0015" x="10" y="2494" width="813" height="611"/>
+	<SubTexture name="beat it speech0016" x="10" y="2494" width="813" height="611"/>
+	<SubTexture name="beat it speech0017" x="10" y="2494" width="813" height="611"/>
+	<SubTexture name="beat it speech0018" x="10" y="1873" width="813" height="611"/>
+	<SubTexture name="beat it speech0019" x="10" y="1873" width="813" height="611"/>
+	<SubTexture name="beat it speech0020" x="833" y="2494" width="813" height="611"/>
+	<SubTexture name="beat it speech0021" x="10" y="3115" width="813" height="611"/>
+	<SubTexture name="beat it speech0022" x="10" y="10" width="813" height="611"/>
+	<SubTexture name="beat it speech0023" x="10" y="10" width="813" height="611"/>
+</TextureAtlas>

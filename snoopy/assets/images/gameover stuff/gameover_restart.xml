@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gameover_restart.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="restart idle0000" x="10" y="10" width="360" height="90"/>
+	<SubTexture name="restart selected0000" x="10" y="110" width="361" height="90"/>
+	<SubTexture name="restart selected0001" x="10" y="110" width="361" height="90"/>
+	<SubTexture name="restart selected0002" x="10" y="110" width="361" height="90"/>
+	<SubTexture name="restart selected0003" x="10" y="110" width="361" height="90"/>
+	<SubTexture name="restart selected0004" x="10" y="110" width="361" height="90"/>
+	<SubTexture name="restart selected0005" x="10" y="210" width="361" height="90"/>
+	<SubTexture name="restart selected0006" x="10" y="210" width="361" height="90"/>
+	<SubTexture name="restart selected0007" x="10" y="210" width="361" height="90"/>
+	<SubTexture name="restart selected0008" x="10" y="210" width="361" height="90"/>
+	<SubTexture name="restart selected0009" x="10" y="210" width="361" height="90"/>
+	<SubTexture name="restart selected0010" x="10" y="310" width="361" height="90"/>
+	<SubTexture name="restart selected0011" x="10" y="310" width="361" height="90"/>
+	<SubTexture name="restart selected0012" x="10" y="310" width="361" height="90"/>
+	<SubTexture name="restart selected0013" x="10" y="310" width="361" height="90"/>
+	<SubTexture name="restart selected0014" x="10" y="310" width="361" height="90"/>
+</TextureAtlas>

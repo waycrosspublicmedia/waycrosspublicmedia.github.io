@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hill ground.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="base ground0000" x="10" y="10" width="2133" height="341"/>
+	<SubTexture name="base ground0001" x="10" y="10" width="2133" height="341"/>
+	<SubTexture name="base ground0002" x="10" y="10" width="2133" height="341"/>
+	<SubTexture name="base ground0003" x="10" y="361" width="2133" height="341"/>
+	<SubTexture name="base ground0004" x="10" y="361" width="2133" height="341"/>
+	<SubTexture name="base ground0005" x="10" y="361" width="2133" height="341"/>
+	<SubTexture name="base ground0006" x="10" y="712" width="2133" height="341"/>
+	<SubTexture name="base ground0007" x="10" y="712" width="2133" height="341"/>
+	<SubTexture name="base ground0008" x="10" y="712" width="2133" height="341"/>
+</TextureAtlas>

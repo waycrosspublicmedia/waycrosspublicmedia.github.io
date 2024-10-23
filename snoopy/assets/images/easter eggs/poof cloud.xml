@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="poof cloud.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="poofin0000" x="10" y="10" width="970" height="819"/>
+	<SubTexture name="poofin0001" x="990" y="10" width="970" height="819"/>
+	<SubTexture name="poofin0002" x="990" y="10" width="970" height="819"/>
+	<SubTexture name="poofin0003" x="10" y="839" width="970" height="819"/>
+	<SubTexture name="poofin0004" x="10" y="839" width="970" height="819"/>
+	<SubTexture name="poofin0005" x="990" y="839" width="970" height="819"/>
+	<SubTexture name="poofin0006" x="990" y="839" width="970" height="819"/>
+	<SubTexture name="poofin0007" x="990" y="839" width="970" height="819"/>
+	<SubTexture name="poofin0008" x="10" y="1668" width="970" height="819"/>
+	<SubTexture name="poofin0009" x="10" y="1668" width="970" height="819"/>
+	<SubTexture name="poofin0010" x="10" y="1668" width="970" height="819"/>
+	<SubTexture name="poofin0011" x="990" y="1668" width="970" height="819"/>
+	<SubTexture name="poofin0012" x="990" y="1668" width="970" height="819"/>
+	<SubTexture name="poofin0013" x="990" y="1668" width="970" height="819"/>
+	<SubTexture name="poofin0014" x="10" y="2497" width="970" height="819"/>
+	<SubTexture name="poofin0015" x="10" y="2497" width="970" height="819"/>
+	<SubTexture name="poofin0016" x="10" y="2497" width="970" height="819"/>
+	<SubTexture name="poofin0017" x="990" y="2497" width="970" height="819"/>
+	<SubTexture name="poofin0018" x="990" y="2497" width="970" height="819"/>
+	<SubTexture name="poofin0019" x="990" y="2497" width="970" height="819"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-68
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ga dad idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				-258
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ga dad left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				-90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ga dad right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-234
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ga dad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ga dad up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GA caillou assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cailloudad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="squidfard.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SquidwardAppear0000" x="0" y="0" width="640" height="480"/>
+	<SubTexture name="SquidwardAppear0001" x="640" y="0" width="640" height="480"/>
+	<SubTexture name="SquidwardAppear0002" x="1280" y="0" width="640" height="480"/>
+	<SubTexture name="SquidwardAppear0003" x="1920" y="0" width="640" height="480"/>
+	<SubTexture name="SquidwardAppear0004" x="2560" y="0" width="640" height="480"/>
+	<SubTexture name="SquidwardAppear0005" x="0" y="480" width="640" height="480"/>
+	<SubTexture name="SquidwardAppear0006" x="640" y="480" width="640" height="480"/>
+	<SubTexture name="SquidwardAppear0007" x="1280" y="480" width="640" height="480"/>
+	<SubTexture name="Idle0000" x="0" y="960" width="640" height="480"/>
+	<SubTexture name="Idle0001" x="640" y="960" width="640" height="480"/>
+	<SubTexture name="Idle0002" x="1280" y="960" width="640" height="480"/>
+	<SubTexture name="Idle0003" x="1920" y="960" width="640" height="480"/>
+	<SubTexture name="Idle0004" x="2560" y="960" width="640" height="480"/>
+</TextureAtlas>

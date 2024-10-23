@@ -1,0 +1,26 @@
+{
+	"storyName": "V.S RIKA",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "rika",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Highrise",
+			"rika",
+			[
+				46,
+				120,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

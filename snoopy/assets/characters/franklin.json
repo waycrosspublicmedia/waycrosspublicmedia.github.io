@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-213
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "franklin idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-243
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "franklin left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-303
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "franklin down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-176
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "franklin up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-221
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "franklin right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/franklin assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "franklin-p",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		10,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

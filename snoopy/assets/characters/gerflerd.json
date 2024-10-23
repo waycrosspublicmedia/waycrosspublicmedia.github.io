@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-175
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gerflerd idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				-107
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gerflerd left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				-179
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gerflerd down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				42
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gerflerd up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-221
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gerflerd right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gerflerd assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gerflerd",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		90,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

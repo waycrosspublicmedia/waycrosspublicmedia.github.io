@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="akatsuki assets.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="akatsuki activate0000" x="10" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0001" x="10" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0002" x="340" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0003" x="670" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0004" x="670" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0005" x="1000" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0006" x="1330" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0007" x="1000" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0008" x="1330" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0009" x="1000" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0010" x="1330" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0011" x="1000" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0012" x="1330" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0013" x="1000" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0014" x="1330" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0015" x="1000" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0016" x="1330" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0017" x="1000" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0018" x="1330" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0019" x="1000" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0020" x="1330" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0021" x="1000" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0022" x="1330" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0023" x="1000" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0024" x="1330" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0025" x="1000" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki activate0026" x="1330" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0000" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0001" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0002" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0003" x="1000" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0004" x="1000" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0005" x="1000" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0006" x="670" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0007" x="670" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0008" x="670" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0009" x="340" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0010" x="340" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0011" x="340" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0012" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0013" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0014" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0015" x="1660" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0016" x="1660" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki back walk0017" x="1660" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0000" x="1660" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0001" x="1660" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0002" x="1660" y="10" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0003" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0004" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0005" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0006" x="340" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0007" x="340" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0008" x="340" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0009" x="670" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0010" x="670" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0011" x="670" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0012" x="1000" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0013" x="1000" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0014" x="1000" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0015" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0016" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki forward walk0017" x="10" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0000" x="1330" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0001" x="1330" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0002" x="1660" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0003" x="1660" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0004" x="10" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0005" x="10" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0006" x="340" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0007" x="340" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0008" x="670" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0009" x="670" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0010" x="1000" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0011" x="1000" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0012" x="10" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0013" x="10" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0014" x="1660" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki idle0015" x="1660" y="308" width="320" height="288"/>
+	<SubTexture name="akatsuki super0000" x="1330" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki super0001" x="1330" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki super0002" x="1660" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki super0003" x="1660" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki super0004" x="10" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0005" x="10" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0006" x="340" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0007" x="670" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0008" x="1000" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0009" x="1000" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0010" x="670" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0011" x="1330" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0012" x="1330" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0013" x="670" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0014" x="1660" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0015" x="1660" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0016" x="10" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0017" x="340" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0018" x="340" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0019" x="670" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0020" x="1000" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0021" x="1000" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0022" x="1330" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0023" x="1660" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0024" x="1660" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0025" x="1330" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki super0026" x="10" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0027" x="10" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0028" x="340" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0029" x="670" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0030" x="670" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0031" x="1000" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0032" x="1330" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0033" x="1330" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0034" x="1660" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0035" x="10" y="1798" width="320" height="288"/>
+	<SubTexture name="akatsuki super0036" x="10" y="1798" width="320" height="288"/>
+	<SubTexture name="akatsuki super0037" x="1660" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki super0038" x="10" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0039" x="10" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0040" x="670" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0041" x="1000" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0042" x="670" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0043" x="1330" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0044" x="340" y="1798" width="320" height="288"/>
+	<SubTexture name="akatsuki super0045" x="1660" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0046" x="340" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0047" x="670" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0048" x="1000" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0049" x="1330" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0050" x="1660" y="1202" width="320" height="288"/>
+	<SubTexture name="akatsuki super0051" x="1330" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki super0052" x="10" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0053" x="670" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0054" x="1000" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0055" x="1330" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0056" x="1660" y="1500" width="320" height="288"/>
+	<SubTexture name="akatsuki super0057" x="10" y="1798" width="320" height="288"/>
+	<SubTexture name="akatsuki super0058" x="670" y="1798" width="320" height="288"/>
+	<SubTexture name="akatsuki super0059" x="1000" y="1798" width="320" height="288"/>
+	<SubTexture name="akatsuki super0060" x="1330" y="1798" width="320" height="288"/>
+	<SubTexture name="akatsuki super0061" x="1660" y="1798" width="320" height="288"/>
+	<SubTexture name="akatsuki super0062" x="670" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0063" x="1330" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0064" x="1330" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0065" x="1330" y="904" width="320" height="288"/>
+	<SubTexture name="akatsuki super0066" x="10" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0067" x="10" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0068" x="1660" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki super0069" x="1660" y="606" width="320" height="288"/>
+	<SubTexture name="akatsuki super0070" x="340" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0071" x="670" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0072" x="1000" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0073" x="1000" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0074" x="1000" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0075" x="1000" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0076" x="1330" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0077" x="1330" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0078" x="1660" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0079" x="1660" y="2096" width="320" height="288"/>
+	<SubTexture name="akatsuki super0080" x="10" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0081" x="340" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0082" x="670" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0083" x="670" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0084" x="670" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0085" x="670" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0086" x="670" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0087" x="1000" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0088" x="1000" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0089" x="1330" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0090" x="1330" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0091" x="1330" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0092" x="1660" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0093" x="1660" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0094" x="1660" y="2394" width="320" height="288"/>
+	<SubTexture name="akatsuki super0095" x="10" y="2692" width="320" height="288"/>
+	<SubTexture name="akatsuki super0096" x="10" y="2692" width="320" height="288"/>
+	<SubTexture name="akatsuki super0097" x="10" y="2692" width="320" height="288"/>
+</TextureAtlas>

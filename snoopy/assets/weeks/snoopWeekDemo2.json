@@ -1,0 +1,68 @@
+{
+	"storyName": "extras #1",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "snoopy",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"good grief",
+			"jojo-charlie-p",
+			[
+				235,
+				235,
+				235
+			]
+		],
+		[
+			"red carpet",
+			"joe-cool-p",
+			[
+				255,
+				215,
+				215
+			]
+		],
+		[
+			"junkyard",
+			"tankman-p",
+			[
+				255,
+				235,
+				215
+			]
+		],
+		[
+			"basswood",
+			"patricia-p",
+			[
+				215,
+				255,
+				175
+			]
+		],
+		[
+			"mar mar",
+			"franklin-p",
+			[
+				255,
+				215,
+				195
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

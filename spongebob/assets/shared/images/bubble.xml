@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bubble.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bubble0000" x="0" y="0" width="270" height="270"/>
+	<SubTexture name="bubble0001" x="270" y="0" width="270" height="270"/>
+	<SubTexture name="bubble0002" x="0" y="270" width="270" height="270"/>
+	<SubTexture name="bubble0003" x="270" y="270" width="270" height="270"/>
+</TextureAtlas>

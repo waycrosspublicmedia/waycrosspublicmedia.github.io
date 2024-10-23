@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_orders.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="continue0000" x="0" y="0" width="849" height="156"/>
+	<SubTexture name="restart0000" x="0" y="156" width="849" height="156"/>
+	<SubTexture name="options0000" x="0" y="324" width="849" height="156"/>
+	<SubTexture name="exit0000" x="0" y="488" width="849" height="156"/>
+</TextureAtlas>

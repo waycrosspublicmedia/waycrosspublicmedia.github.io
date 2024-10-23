@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pencilidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pencilleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pencildown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pencilup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pencilright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PENCILASSETS",
+	"position": [
+		0,
+		420
+	],
+	"healthicon": "pencil",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		169,
+		9
+	],
+	"camera_position": [
+		-100,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

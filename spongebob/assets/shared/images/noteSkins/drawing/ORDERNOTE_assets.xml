@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ORDERNOTE_assets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowDOWN0000" x="2" y="2" width="162" height="149"/>
+	<SubTexture name="arrowLEFT0000" x="166" y="2" width="160" height="166"/>
+	<SubTexture name="arrowRIGHT0000" x="328" y="2" width="160" height="164"/>
+	<SubTexture name="arrowUP0000" x="490" y="2" width="164" height="156"/>
+	<SubTexture name="blue0000" x="2" y="2" width="162" height="149"/>
+	<SubTexture name="blue hold end0000" x="656" y="2" width="55" height="68"/>
+	<SubTexture name="blue hold piece0000" x="713" y="2" width="56" height="58"/>
+	<SubTexture name="blueee0000" x="2" y="2" width="162" height="149"/>
+	<SubTexture name="down confirm0000" x="771" y="2" width="188" height="173"/>
+	<SubTexture name="down press0000" x="2" y="2" width="162" height="149"/>
+	<SubTexture name="green0000" x="490" y="2" width="164" height="156"/>
+	<SubTexture name="green hold end0000" x="961" y="2" width="55" height="69"/>
+	<SubTexture name="green hold piece0000" x="2" y="177" width="57" height="63"/>
+	<SubTexture name="greennn0000" x="490" y="2" width="164" height="156"/>
+	<SubTexture name="left confirm0000" x="61" y="177" width="176" height="183"/>
+	<SubTexture name="left press0000" x="166" y="2" width="160" height="166"/>
+	<SubTexture name="pruiple0000" x="166" y="2" width="160" height="166"/>
+	<SubTexture name="pruple end hold0000" x="239" y="177" width="55" height="69"/>
+	<SubTexture name="purple0000" x="166" y="2" width="160" height="166"/>
+	<SubTexture name="purple hold piece0000" x="296" y="177" width="57" height="57"/>
+	<SubTexture name="red0000" x="328" y="2" width="160" height="164"/>
+	<SubTexture name="red hold end0000" x="355" y="177" width="53" height="67"/>
+	<SubTexture name="red hold piece0000" x="410" y="177" width="54" height="59"/>
+	<SubTexture name="reddd0000" x="328" y="2" width="160" height="164"/>
+	<SubTexture name="right confirm0000" x="466" y="177" width="181" height="186"/>
+	<SubTexture name="right press0000" x="328" y="2" width="160" height="164"/>
+	<SubTexture name="up confirm0000" x="649" y="177" width="183" height="175"/>
+	<SubTexture name="up press0000" x="490" y="2" width="164" height="156"/>
+</TextureAtlas>

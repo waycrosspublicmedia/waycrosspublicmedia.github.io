@@ -1,0 +1,68 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "snoopextras",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"tee bo",
+			"teeboo",
+			[
+				86,
+				93,
+				135
+			]
+		],
+		[
+			"art block",
+			"franklin-p",
+			[
+				126,
+				73,
+				173
+			]
+		],
+		[
+			"paperback snoopy mix",
+			"bf-d",
+			[
+				246,
+				253,
+				255
+			]
+		],
+		[
+			"double u",
+			"cailloudad",
+			[
+				55,
+				255,
+				60
+			]
+		],
+		[
+			"blubber-gerf",
+			"gerflerd",
+			[
+				246,
+				253,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg house.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snoopy house0000" x="10" y="10" width="555" height="541"/>
+	<SubTexture name="snoopy house0001" x="10" y="10" width="555" height="541"/>
+	<SubTexture name="snoopy house0002" x="10" y="10" width="555" height="541"/>
+	<SubTexture name="snoopy house0003" x="10" y="561" width="555" height="541"/>
+	<SubTexture name="snoopy house0004" x="10" y="561" width="555" height="541"/>
+	<SubTexture name="snoopy house0005" x="10" y="561" width="555" height="541"/>
+	<SubTexture name="snoopy house0006" x="10" y="1112" width="555" height="541"/>
+	<SubTexture name="snoopy house0007" x="10" y="1112" width="555" height="541"/>
+	<SubTexture name="snoopy house0008" x="10" y="1112" width="555" height="541"/>
+</TextureAtlas>

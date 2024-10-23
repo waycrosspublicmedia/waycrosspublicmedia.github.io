@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stage ground.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stage ground0000" x="10" y="10" width="2368" height="1267"/>
+	<SubTexture name="stage ground0001" x="10" y="10" width="2368" height="1267"/>
+	<SubTexture name="stage ground0002" x="10" y="10" width="2368" height="1267"/>
+	<SubTexture name="stage ground0003" x="10" y="1287" width="2368" height="1267"/>
+	<SubTexture name="stage ground0004" x="10" y="1287" width="2368" height="1267"/>
+	<SubTexture name="stage ground0005" x="10" y="1287" width="2368" height="1267"/>
+	<SubTexture name="stage ground0006" x="10" y="2564" width="2368" height="1267"/>
+	<SubTexture name="stage ground0007" x="10" y="2564" width="2368" height="1267"/>
+	<SubTexture name="stage ground0008" x="10" y="2564" width="2368" height="1267"/>
+</TextureAtlas>

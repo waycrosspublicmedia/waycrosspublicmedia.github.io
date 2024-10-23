@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dancing icon.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance icon idle0000" x="10" y="10" width="179" height="118"/>
+	<SubTexture name="dance icon idle0001" x="10" y="10" width="179" height="118"/>
+	<SubTexture name="dance icon idle0002" x="10" y="10" width="179" height="118"/>
+	<SubTexture name="dance icon idle0003" x="10" y="138" width="179" height="118"/>
+	<SubTexture name="dance icon idle0004" x="10" y="138" width="179" height="118"/>
+	<SubTexture name="dance icon idle0005" x="10" y="138" width="179" height="118"/>
+	<SubTexture name="dance icon idle0006" x="10" y="266" width="179" height="118"/>
+	<SubTexture name="dance icon idle0007" x="10" y="266" width="179" height="118"/>
+	<SubTexture name="dance icon idle0008" x="10" y="266" width="179" height="118"/>
+</TextureAtlas>

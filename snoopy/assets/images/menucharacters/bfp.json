@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "BF idle menu",
+	"idle_anim": "BF idle menu",
+	"position": [
+		-450,
+		-21
+	],
+	"scale": 1.1,
+	"image": "bf menu",
+	"flipX": false
+}

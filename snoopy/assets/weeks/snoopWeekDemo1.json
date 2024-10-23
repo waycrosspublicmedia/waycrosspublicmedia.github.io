@@ -1,0 +1,31 @@
+{
+	"storyName": "funkin' peanuts demo",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "snoopy",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"outback",
+			"snoopy-p",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bfp",
+		""
+	],
+	"weekName": "peanutsdemo"
+}

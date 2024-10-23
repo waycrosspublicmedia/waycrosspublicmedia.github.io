@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tank p idle"
+		},
+		{
+			"offsets": [
+				7,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tank p up"
+		},
+		{
+			"offsets": [
+				-4,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tank p down"
+		},
+		{
+			"offsets": [
+				56,
+				127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tank p left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				119
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tank p right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				129
+			],
+			"anim": "beat it",
+			"fps": 24,
+			"name": "tank p beat it",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				162
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "tank p ugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tankman peanuts assets",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "tankman-p",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		150,
+		150
+	],
+	"camera_position": [
+		0,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

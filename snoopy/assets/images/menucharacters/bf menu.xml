@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf menu.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle menu0000" x="10" y="10" width="319" height="336"/>
+	<SubTexture name="BF idle menu0001" x="10" y="10" width="319" height="336"/>
+	<SubTexture name="BF idle menu0002" x="10" y="10" width="319" height="336"/>
+	<SubTexture name="BF idle menu0003" x="339" y="10" width="319" height="336"/>
+	<SubTexture name="BF idle menu0004" x="339" y="10" width="319" height="336"/>
+	<SubTexture name="BF idle menu0005" x="339" y="10" width="319" height="336"/>
+	<SubTexture name="BF idle menu0006" x="668" y="10" width="319" height="336"/>
+	<SubTexture name="BF idle menu0007" x="668" y="10" width="319" height="336"/>
+	<SubTexture name="BF idle menu0008" x="668" y="10" width="319" height="336"/>
+</TextureAtlas>

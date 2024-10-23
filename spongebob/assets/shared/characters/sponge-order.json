@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-372,
+				-432
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-333,
+				-435
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-376,
+				-468
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-368,
+				-388
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-375,
+				-463
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-326,
+				-416
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "dos miss2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-374,
+				-456
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "uno miss1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-370,
+				-377
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "cuatro miss4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-361,
+				-452
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "tres miss3",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Sponge_order",
+	"position": [
+		-320,
+		-90
+	],
+	"healthicon": "spongeboyorder",
+	"flip_x": true,
+	"healthbar_colors": [
+		240,
+		245,
+		246
+	],
+	"camera_position": [
+		-350,
+		500
+	],
+	"sing_duration": 6.1,
+	"scale": 0.85
+}

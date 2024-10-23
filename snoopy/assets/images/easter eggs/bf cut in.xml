@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf cut in.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cut in shake0000" x="10" y="10" width="813" height="1017"/>
+	<SubTexture name="cut in shake0001" x="833" y="10" width="813" height="1017"/>
+	<SubTexture name="cut in shake0002" x="10" y="1037" width="813" height="1017"/>
+	<SubTexture name="cut in shake0003" x="833" y="1037" width="813" height="1017"/>
+	<SubTexture name="cut in shake0004" x="10" y="2064" width="813" height="1017"/>
+	<SubTexture name="cut in shake0005" x="833" y="2064" width="813" height="1017"/>
+</TextureAtlas>

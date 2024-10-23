@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thinking tree.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thinking tree0000" x="10" y="10" width="1934" height="1501"/>
+	<SubTexture name="thinking tree0001" x="10" y="10" width="1934" height="1501"/>
+	<SubTexture name="thinking tree0002" x="10" y="10" width="1934" height="1501"/>
+	<SubTexture name="thinking tree0003" x="1954" y="10" width="1934" height="1501"/>
+	<SubTexture name="thinking tree0004" x="1954" y="10" width="1934" height="1501"/>
+	<SubTexture name="thinking tree0005" x="1954" y="10" width="1934" height="1501"/>
+	<SubTexture name="thinking tree0006" x="10" y="1521" width="1934" height="1501"/>
+	<SubTexture name="thinking tree0007" x="10" y="1521" width="1934" height="1501"/>
+	<SubTexture name="thinking tree0008" x="10" y="1521" width="1934" height="1501"/>
+</TextureAtlas>

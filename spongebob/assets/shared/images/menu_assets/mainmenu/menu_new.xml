@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_new.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu_mainstory0000" x="0" y="0" width="456" height="168"/>
+	<SubTexture name="menu_2mainstory selected0000" x="456" y="0" width="456" height="168"/>
+	<SubTexture name="menu_freeplay0000" x="0" y="168" width="456" height="168"/>
+	<SubTexture name="menu_2freeplay selected0000" x="456" y="168" width="456" height="168"/>
+	<SubTexture name="menu_extras0000" x="0" y="336" width="456" height="168"/>
+	<SubTexture name="menu_2extras selected0000" x="456" y="336" width="456" height="168"/>
+	<SubTexture name="menu_options0000" x="0" y="504" width="456" height="168"/>
+	<SubTexture name="menu_2options selected0000" x="456" y="504" width="456" height="168"/>
+</TextureAtlas>

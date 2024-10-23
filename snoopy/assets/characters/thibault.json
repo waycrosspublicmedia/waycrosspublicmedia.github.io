@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				86,
+				-243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "franklin left"
+		},
+		{
+			"offsets": [
+				-16,
+				-303
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "franklin down"
+		},
+		{
+			"offsets": [
+				-22,
+				-176
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "franklin up"
+		},
+		{
+			"offsets": [
+				-95,
+				-221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "franklin right"
+		},
+		{
+			"offsets": [
+				-70,
+				-329
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "thibault idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thibault assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "teeboo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		380
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

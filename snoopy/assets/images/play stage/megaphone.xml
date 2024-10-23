@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="megaphone.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="megphone instance 10000" x="10" y="10" width="236" height="347"/>
+	<SubTexture name="megphone instance 10001" x="10" y="10" width="236" height="347"/>
+	<SubTexture name="megphone instance 10002" x="10" y="10" width="236" height="347"/>
+	<SubTexture name="megphone instance 10003" x="256" y="10" width="236" height="347"/>
+	<SubTexture name="megphone instance 10004" x="256" y="10" width="236" height="347"/>
+	<SubTexture name="megphone instance 10005" x="256" y="10" width="236" height="347"/>
+	<SubTexture name="megphone instance 10006" x="10" y="367" width="236" height="347"/>
+	<SubTexture name="megphone instance 10007" x="10" y="367" width="236" height="347"/>
+	<SubTexture name="megphone instance 10008" x="10" y="367" width="236" height="347"/>
+</TextureAtlas>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="texture.png" width="3407" height="3264">
+	<SubTexture name="gf_cutscene0000" x="1" y="1" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0001" x="1" y="654" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0002" x="771" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0003" x="1" y="1" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0004" x="771" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0005" x="1" y="654" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0006" x="1" y="1" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0007" x="1" y="1" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0008" x="771" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0009" x="1" y="654" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0010" x="771" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0011" x="1" y="654" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0012" x="771" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0013" x="1" y="654" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0014" x="771" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0015" x="1" y="654" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0016" x="771" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0017" x="1" y="654" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0018" x="771" y="771" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0019" x="1" y="1307" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0020" x="1" y="1307" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0021" x="1424" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0022" x="1424" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0023" x="1" y="1307" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0024" x="1" y="1307" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0025" x="1424" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0026" x="1424" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0027" x="1" y="1307" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0028" x="1424" y="771" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0029" x="1" y="1960" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0030" x="771" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0031" x="1424" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0032" x="1" y="1307" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0033" x="1424" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0034" x="1424" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0035" x="1" y="1307" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0036" x="1" y="1307" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0037" x="1424" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0038" x="1424" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0039" x="1" y="1307" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0040" x="1" y="1307" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0041" x="1424" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0042" x="1424" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0043" x="2077" y="1" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0044" x="2077" y="771" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0045" x="2077" y="771" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0046" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0047" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0048" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0049" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0050" x="1" y="2613" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0051" x="1" y="2613" width="767" height="650" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0052" x="771" y="2311" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0053" x="771" y="2311" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0054" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0055" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0056" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0057" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0058" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0059" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0060" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0061" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0062" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0063" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0064" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0065" x="1424" y="2311" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0066" x="1424" y="2311" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0067" x="771" y="2311" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0068" x="771" y="2311" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0069" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0070" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0071" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0072" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0073" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_cutscene0074" x="2077" y="1541" width="650" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="650"/>
+	<SubTexture name="gf_scared0000" x="2730" y="1" width="676" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0001" x="2730" y="1" width="676" height="767" rotated="true" frameX="-0" frameY="-0" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0002" x="2730" y="771" width="650" height="767" rotated="true" frameX="-0" frameY="-26" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0003" x="2730" y="771" width="650" height="767" rotated="true" frameX="-0" frameY="-26" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0004" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0005" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0006" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0007" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0008" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0009" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0010" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0011" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0012" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0013" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0014" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0015" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0016" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0017" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0018" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0019" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0020" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0021" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0022" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0023" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0024" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0025" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0026" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0027" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0028" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0029" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0030" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0031" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0032" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0033" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0034" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0035" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0036" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0037" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0038" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0039" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0040" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0041" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0042" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0043" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0044" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0045" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0046" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0047" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0048" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0049" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0050" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0051" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0052" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0053" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0054" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0055" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0056" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0057" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0058" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0059" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0060" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0061" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0062" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0063" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0064" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0065" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0066" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0067" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0068" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0069" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0070" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0071" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0072" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0073" x="2730" y="1541" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0074" x="2077" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+	<SubTexture name="gf_scared0075" x="2733" y="2311" width="653" height="767" rotated="true" frameX="-0" frameY="-23" frameWidth="767" frameHeight="676"/>
+</TextureAtlas>

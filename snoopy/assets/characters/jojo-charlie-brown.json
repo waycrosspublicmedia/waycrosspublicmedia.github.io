@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jojo brown idle"
+		},
+		{
+			"offsets": [
+				96,
+				-175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jojo brown left"
+		},
+		{
+			"offsets": [
+				4,
+				-196
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jojo brown down"
+		},
+		{
+			"offsets": [
+				13,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jojo brown up"
+		},
+		{
+			"offsets": [
+				3,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jojo brown right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jojo charlie brown assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jojo-charlie-p",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		60,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

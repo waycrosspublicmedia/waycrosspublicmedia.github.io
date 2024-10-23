@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-62
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-31
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				39
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"speaker_character": false,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/minusrikaorsomething_1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rika",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		160,
+		255
+	],
+	"camera_position": [
+		10,
+		70
+	],
+	"skin_properties": [
+		"NOTE_assets",
+		"noteSplashes"
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

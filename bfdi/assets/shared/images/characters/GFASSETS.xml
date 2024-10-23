@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFASSETS.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfbeat0000" x="11" y="11" width="230" height="197" frameX="-801" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0001" x="285" y="11" width="229" height="197" frameX="-802" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0002" x="558" y="11" width="227" height="197" frameX="-805" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0003" x="829" y="11" width="226" height="197" frameX="-806" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0004" x="1099" y="11" width="225" height="197" frameX="-807" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0005" x="1368" y="11" width="224" height="197" frameX="-808" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0006" x="1636" y="11" width="223" height="197" frameX="-809" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0007" x="11" y="252" width="240" height="197" frameX="-792" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0008" x="295" y="252" width="249" height="197" frameX="-783" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0009" x="588" y="252" width="320" height="197" frameX="-712" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0010" x="952" y="252" width="404" height="207" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0011" x="1400" y="252" width="221" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0012" x="1400" y="252" width="221" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0013" x="1665" y="252" width="221" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0014" x="11" y="503" width="221" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0015" x="276" y="503" width="228" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0016" x="548" y="503" width="227" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0017" x="819" y="503" width="247" height="197" frameX="-790" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0018" x="1110" y="503" width="225" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0019" x="1379" y="503" width="224" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0020" x="1647" y="503" width="223" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0021" x="11" y="744" width="237" height="197" frameX="-797" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0022" x="292" y="744" width="252" height="197" frameX="-781" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0023" x="588" y="744" width="275" height="197" frameX="-758" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0024" x="1400" y="252" width="221" height="197" frameX="0" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0025" x="1400" y="252" width="221" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0026" x="1400" y="252" width="221" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0027" x="588" y="744" width="275" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0028" x="907" y="744" width="222" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+	<SubTexture name="gfbeat0029" x="11" y="503" width="221" height="197" frameX="-811" frameY="0" frameWidth="1215" frameHeight="207"/>
+</TextureAtlas>

@@ -1,0 +1,59 @@
+{
+	"storyName": "bra",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"bopeeboo",
+			"dad",
+			[
+				175,
+				80,
+				200
+			]
+		],
+		[
+			"teki",
+			"nekuma",
+			[
+				206,
+				60,
+				73
+			]
+		],
+		[
+			"supacute",
+			"canhead",
+			[
+				255,
+				173,
+				55
+			]
+		],
+		[
+			"omega",
+			"nekuma",
+			[
+				206,
+				60,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week",
+	"hiddenUntilUnlocked": false
+}

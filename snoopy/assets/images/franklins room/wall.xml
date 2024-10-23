@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wall.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="frank walls0000" x="10" y="10" width="3057" height="1359"/>
+	<SubTexture name="frank walls0001" x="10" y="10" width="3057" height="1359"/>
+	<SubTexture name="frank walls0002" x="10" y="10" width="3057" height="1359"/>
+	<SubTexture name="frank walls0003" x="10" y="1379" width="3057" height="1359"/>
+	<SubTexture name="frank walls0004" x="10" y="1379" width="3057" height="1359"/>
+	<SubTexture name="frank walls0005" x="10" y="1379" width="3057" height="1359"/>
+	<SubTexture name="frank walls0006" x="10" y="2748" width="3057" height="1359"/>
+	<SubTexture name="frank walls0007" x="10" y="2748" width="3057" height="1359"/>
+	<SubTexture name="frank walls0008" x="10" y="2748" width="3057" height="1359"/>
+</TextureAtlas>

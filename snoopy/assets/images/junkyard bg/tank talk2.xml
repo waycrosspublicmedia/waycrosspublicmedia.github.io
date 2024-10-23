@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tank talk2.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ugh speech0000" x="10" y="10" width="667" height="605"/>
+	<SubTexture name="ugh speech0001" x="10" y="10" width="667" height="605"/>
+	<SubTexture name="ugh speech0002" x="687" y="10" width="667" height="605"/>
+	<SubTexture name="ugh speech0003" x="687" y="10" width="667" height="605"/>
+	<SubTexture name="ugh speech0004" x="1364" y="10" width="667" height="605"/>
+	<SubTexture name="ugh speech0005" x="1364" y="10" width="667" height="605"/>
+	<SubTexture name="ugh speech0006" x="10" y="625" width="667" height="605"/>
+	<SubTexture name="ugh speech0007" x="10" y="625" width="667" height="605"/>
+	<SubTexture name="ugh speech0008" x="687" y="625" width="667" height="605"/>
+	<SubTexture name="ugh speech0009" x="687" y="625" width="667" height="605"/>
+	<SubTexture name="ugh speech0010" x="1364" y="625" width="667" height="605"/>
+	<SubTexture name="ugh speech0011" x="1364" y="625" width="667" height="605"/>
+	<SubTexture name="ugh speech0012" x="10" y="1240" width="667" height="605"/>
+	<SubTexture name="ugh speech0013" x="10" y="1240" width="667" height="605"/>
+	<SubTexture name="ugh speech0014" x="687" y="1240" width="667" height="605"/>
+	<SubTexture name="ugh speech0015" x="687" y="1240" width="667" height="605"/>
+	<SubTexture name="ugh speech0016" x="1364" y="1240" width="667" height="605"/>
+	<SubTexture name="ugh speech0017" x="10" y="1855" width="667" height="605"/>
+	<SubTexture name="ugh speech0018" x="687" y="1855" width="667" height="605"/>
+	<SubTexture name="ugh speech0019" x="10" y="10" width="667" height="605"/>
+	<SubTexture name="ugh speech0020" x="10" y="10" width="667" height="605"/>
+</TextureAtlas>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="charging.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="super charge0000" x="10" y="10" width="560" height="637"/>
+	<SubTexture name="super charge0001" x="580" y="10" width="560" height="637"/>
+	<SubTexture name="super charge0002" x="1150" y="10" width="560" height="637"/>
+	<SubTexture name="super charge0003" x="1720" y="10" width="560" height="637"/>
+	<SubTexture name="super charge0004" x="2290" y="10" width="560" height="637"/>
+	<SubTexture name="super charge0005" x="2860" y="10" width="560" height="637"/>
+	<SubTexture name="super charge0006" x="3430" y="10" width="560" height="637"/>
+	<SubTexture name="super charge0007" x="10" y="657" width="560" height="637"/>
+	<SubTexture name="super charge0008" x="580" y="657" width="560" height="637"/>
+	<SubTexture name="super charge0009" x="1150" y="657" width="560" height="637"/>
+	<SubTexture name="super charge0010" x="1720" y="657" width="560" height="637"/>
+	<SubTexture name="super charge0011" x="2290" y="657" width="560" height="637"/>
+	<SubTexture name="super charge0012" x="2860" y="657" width="560" height="637"/>
+	<SubTexture name="super charge0013" x="3430" y="657" width="560" height="637"/>
+	<SubTexture name="super charge0014" x="10" y="1304" width="560" height="637"/>
+	<SubTexture name="super charge0015" x="580" y="1304" width="560" height="637"/>
+	<SubTexture name="super charge0016" x="1150" y="1304" width="560" height="637"/>
+	<SubTexture name="super charge0017" x="1720" y="1304" width="560" height="637"/>
+	<SubTexture name="super charge0018" x="2290" y="1304" width="560" height="637"/>
+	<SubTexture name="super charge0019" x="2860" y="1304" width="560" height="637"/>
+	<SubTexture name="super charge0020" x="3430" y="1304" width="560" height="637"/>
+	<SubTexture name="super charge0021" x="10" y="1951" width="560" height="637"/>
+	<SubTexture name="super charge0022" x="580" y="1951" width="560" height="637"/>
+	<SubTexture name="super charge0023" x="1150" y="1951" width="560" height="637"/>
+	<SubTexture name="super charge0024" x="1720" y="1951" width="560" height="637"/>
+	<SubTexture name="super charge0025" x="2290" y="1951" width="560" height="637"/>
+	<SubTexture name="super charge0026" x="2860" y="1951" width="560" height="637"/>
+</TextureAtlas>

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-70,
+				-225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bfish idle  instance 1"
+		},
+		{
+			"offsets": [
+				62,
+				-244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bfish left  instance 1"
+		},
+		{
+			"offsets": [
+				-2,
+				-279
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bfish down  instance 1"
+		},
+		{
+			"offsets": [
+				-25,
+				-182
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bfish up instance 1"
+		},
+		{
+			"offsets": [
+				-74,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bfish right instance 1"
+		},
+		{
+			"offsets": [
+				80,
+				-254
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bfish missleft instance 1"
+		},
+		{
+			"offsets": [
+				-8,
+				-290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bfish missdown instance 1"
+		},
+		{
+			"offsets": [
+				-24,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bfish missup instance 1"
+		},
+		{
+			"offsets": [
+				-22,
+				-232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bfish missright instance 1"
+		},
+		{
+			"offsets": [
+				-74,
+				-215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "bfish hey  instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BoyfriendFish-Helmet",
+	"position": [
+		-90,
+		0
+	],
+	"healthicon": "bffish",
+	"flip_x": true,
+	"healthbar_colors": [
+		97,
+		185,
+		184
+	],
+	"camera_position": [
+		-10,
+		340
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="back tents.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backtents0000" x="10" y="10" width="693" height="291"/>
+	<SubTexture name="backtents0001" x="10" y="10" width="693" height="291"/>
+	<SubTexture name="backtents0002" x="10" y="10" width="693" height="291"/>
+	<SubTexture name="backtents0003" x="10" y="311" width="693" height="291"/>
+	<SubTexture name="backtents0004" x="10" y="311" width="693" height="291"/>
+	<SubTexture name="backtents0005" x="10" y="311" width="693" height="291"/>
+	<SubTexture name="backtents0006" x="10" y="612" width="693" height="291"/>
+	<SubTexture name="backtents0007" x="10" y="612" width="693" height="291"/>
+	<SubTexture name="backtents0008" x="10" y="612" width="693" height="291"/>
+</TextureAtlas>

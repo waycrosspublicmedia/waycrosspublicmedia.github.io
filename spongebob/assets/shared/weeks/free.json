@@ -1,0 +1,42 @@
+{
+	"storyName": "Classic Showdown",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ahoy",
+			"squidorder",
+			[
+				116,
+				79,
+				77
+			]
+		],
+		[
+			"texas-style",
+			"sandy",
+			[
+				209,
+				113,
+				123
+			]
+		]
+	
+	],
+	"hideStoryMode": true,
+	"weekName": "MainWeek",
+	"hiddenUntilUnlocked": false
+}

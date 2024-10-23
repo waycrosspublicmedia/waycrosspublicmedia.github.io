@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fucking fla.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sharki instance 10000" x="30" y="30" width="493" height="1044" frameX="-1" frameY="-10" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10001" x="30" y="30" width="493" height="1044" frameX="-1" frameY="-10" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10002" x="553" y="30" width="497" height="1045" frameX="0" frameY="-9" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10003" x="553" y="30" width="497" height="1045" frameX="0" frameY="-9" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10004" x="1080" y="30" width="498" height="1048" frameX="-1" frameY="-6" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10005" x="1080" y="30" width="498" height="1048" frameX="-1" frameY="-6" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10006" x="1608" y="30" width="487" height="1046" frameX="-1" frameY="-8" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10007" x="2125" y="30" width="465" height="1043" frameX="-6" frameY="-11" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10008" x="2125" y="30" width="465" height="1043" frameX="-6" frameY="-11" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10009" x="2620" y="30" width="465" height="1043" frameX="-6" frameY="-11" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10010" x="3115" y="30" width="461" height="1045" frameX="-7" frameY="-9" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10011" x="30" y="1108" width="461" height="1045" frameX="-7" frameY="-9" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10012" x="30" y="1108" width="461" height="1045" frameX="-7" frameY="-9" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10013" x="521" y="1108" width="460" height="1046" frameX="-8" frameY="-8" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10014" x="521" y="1108" width="460" height="1046" frameX="-8" frameY="-8" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10015" x="521" y="1108" width="460" height="1046" frameX="-8" frameY="-8" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10016" x="1011" y="1108" width="447" height="1048" frameX="-12" frameY="-6" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10017" x="1011" y="1108" width="447" height="1048" frameX="-12" frameY="-6" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10018" x="1488" y="1108" width="446" height="1049" frameX="-13" frameY="-5" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10019" x="1488" y="1108" width="446" height="1049" frameX="-13" frameY="-5" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10020" x="1964" y="1108" width="451" height="1054" frameX="-12" frameY="0" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10021" x="1964" y="1108" width="451" height="1054" frameX="-12" frameY="0" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10022" x="2445" y="1108" width="454" height="1052" frameX="-12" frameY="-2" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10023" x="2929" y="1108" width="457" height="1051" frameX="-10" frameY="-3" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10024" x="3416" y="1108" width="457" height="1051" frameX="-10" frameY="-3" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10025" x="3416" y="1108" width="457" height="1051" frameX="-10" frameY="-3" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10026" x="30" y="2192" width="458" height="1048" frameX="-9" frameY="-6" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10027" x="30" y="2192" width="458" height="1048" frameX="-9" frameY="-6" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10028" x="30" y="2192" width="458" height="1048" frameX="-9" frameY="-6" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10029" x="518" y="2192" width="459" height="1046" frameX="-8" frameY="-8" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10030" x="518" y="2192" width="459" height="1046" frameX="-8" frameY="-8" frameWidth="499" frameHeight="1054"/>
+	<SubTexture name="sharki instance 10031" x="518" y="2192" width="459" height="1046" frameX="-8" frameY="-8" frameWidth="499" frameHeight="1054"/>
+</TextureAtlas>
