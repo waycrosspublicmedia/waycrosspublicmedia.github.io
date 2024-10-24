@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"horkglorpgloop",
+			"firey",
+			[
+				255,
+				173,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"firey",
+		"leafy",
+		""
+	],
+	"storyName": "cake at steak...?",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

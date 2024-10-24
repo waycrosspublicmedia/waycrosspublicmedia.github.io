@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "prize",
+			"loop": false,
+			"name": "fireyprize"
+		},
+		{
+			"offsets": [
+				-187,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fireyleftfinal"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "fireyidleb"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fireyb",
+	"position": [
+		720,
+		-120
+	],
+	"healthicon": "firey",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		40
+	],
+	"camera_position": [
+		-430,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

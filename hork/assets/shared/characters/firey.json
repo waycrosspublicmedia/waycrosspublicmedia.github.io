@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "FireyIdle"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "FireyLeft"
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "FireyRight"
+		},
+		{
+			"offsets": [
+				10,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "FireyDown"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "FireyUp"
+		},
+		{
+			"offsets": [
+				8,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "GetIt",
+			"loop": false,
+			"name": "FireyGetIt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Friends",
+			"loop": false,
+			"name": "FireyFriends"
+		},
+		{
+			"offsets": [
+				18,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Scream",
+			"loop": false,
+			"name": "FireyScream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fireya",
+	"position": [
+		190,
+		430
+	],
+	"healthicon": "firey",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		40
+	],
+	"camera_position": [
+		-110,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

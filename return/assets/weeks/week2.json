@@ -1,0 +1,59 @@
+{
+	"storyName": "return of whitty",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"gallant",
+			"whitty",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"low-revs",
+			"whitty",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"bomblitz",
+			"whittya",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"untold-loneliness",
+			"whittyu",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

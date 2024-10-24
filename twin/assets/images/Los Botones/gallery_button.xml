@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gallery button.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gallery locked0000" x="0" y="0" width="278" height="107"/>
+	<SubTexture name="gallery normal0000" x="0" y="117" width="278" height="106"/>
+	<SubTexture name="gallery press0000" x="0" y="233" width="272" height="104"/>
+	<SubTexture name="gallery selected0000" x="0" y="347" width="278" height="106"/>
+</TextureAtlas>

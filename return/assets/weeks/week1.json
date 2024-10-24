@@ -1,0 +1,50 @@
+{
+	"storyName": "return of whitty",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "WhiteOG",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"rellfight",
+			"whitty",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"cluste",
+			"whitty",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"oxide",
+			"whittya",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"WhiteOG",
+		"gf",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

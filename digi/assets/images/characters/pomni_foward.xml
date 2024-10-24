@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pomni_foward.png"><SubTexture name="pomni_foward idle0000" x="0" y="0" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward idle0001" x="637" y="0" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward idle0002" x="1274" y="0" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward idle0003" x="1911" y="0" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward idle0004" x="0" y="613" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward idle0005" x="637" y="613" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward idle0006" x="1274" y="613" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward idle0007" x="1911" y="613" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward idle0008" x="0" y="1226" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward idle0009" x="637" y="1226" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward up0000" x="1274" y="1226" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward up0001" x="1911" y="1226" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward up0002" x="0" y="1839" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward up0003" x="637" y="1839" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward up0004" x="1274" y="1839" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward right0000" x="1911" y="1839" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward right0001" x="0" y="2452" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward right0002" x="637" y="2452" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward right0003" x="1274" y="2452" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward right0004" x="1911" y="2452" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward down0000" x="0" y="3065" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward down0001" x="637" y="3065" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward down0002" x="1274" y="3065" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward down0003" x="1911" y="3065" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward down0004" x="0" y="3678" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward left0000" x="637" y="3678" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward left0001" x="1274" y="3678" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward left0002" x="1911" y="3678" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward left0003" x="0" y="4291" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+<SubTexture name="pomni_foward left0004" x="637" y="4291" width="637" height="613" frameX="0" frameY="0" frameWidth="637" frameHeight="613" />
+</TextureAtlas>
