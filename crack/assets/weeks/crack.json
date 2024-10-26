@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"crack",
+			"peter",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "bg",
+	"difficulties": "",
+	"weekCharacters": [
+		"peter",
+		"brian",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

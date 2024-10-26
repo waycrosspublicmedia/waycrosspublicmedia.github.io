@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"the girl from planet 024",
+			"nikku",
+			[
+				178,
+				14,
+				54
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "17nikku",
+	"weekName": "saruky 17bucks",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "jax idle left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "jax idle right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "jax left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "jax right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "jax up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "jax down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jax",
+	"position": [
+		-440,
+		-240
+	],
+	"healthicon": "jax",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		242,
+		0
+	],
+	"camera_position": [
+		-20,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

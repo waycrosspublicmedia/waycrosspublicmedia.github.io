@@ -1,0 +1,33 @@
+{
+	"storyName": "The Girl From Planet 024",
+	"difficulties": "Boyfriend, Nikku",
+	"hideFreeplay": false,
+	"weekBackground": "17",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"songs": [
+		[
+			"The Girl From Planet 024",
+	
+			"nikku",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "TheGirlFromPlanet024",
+	"hiddenUntilUnlocked": false
+}

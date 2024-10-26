@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jax.png"><SubTexture name="jax idle left0000" x="0" y="0" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax idle left0001" x="958" y="0" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax idle left0002" x="1916" y="0" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax idle left0003" x="2874" y="0" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax idle left0004" x="0" y="1004" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax idle left0005" x="958" y="1004" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax idle right0000" x="1916" y="1004" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax idle right0001" x="2874" y="1004" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax idle right0002" x="0" y="2008" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax idle right0003" x="958" y="2008" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax idle right0004" x="1916" y="2008" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax idle right0005" x="2874" y="2008" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax up0000" x="0" y="3012" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax up0001" x="958" y="3012" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax up0002" x="1916" y="3012" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax up0003" x="2874" y="3012" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax up0004" x="0" y="4016" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax right0000" x="958" y="4016" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax right0001" x="1916" y="4016" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax right0002" x="2874" y="4016" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax right0003" x="0" y="5020" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax right0004" x="958" y="5020" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax down0000" x="1916" y="5020" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax down0001" x="2874" y="5020" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax down0002" x="0" y="6024" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax down0003" x="958" y="6024" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax down0004" x="1916" y="6024" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax left0000" x="2874" y="6024" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax left0001" x="0" y="7028" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax left0002" x="958" y="7028" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax left0003" x="1916" y="7028" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+<SubTexture name="jax left0004" x="2874" y="7028" width="958" height="1004" frameX="0" frameY="0" frameWidth="958" frameHeight="1004" />
+</TextureAtlas>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leafya.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LeafyDown0000" x="0" y="0" width="167" height="218" frameX="0" frameY="-4" frameWidth="167" frameHeight="222"/>
+	<SubTexture name="LeafyDown0001" x="0" y="0" width="167" height="218" frameX="0" frameY="-4" frameWidth="167" frameHeight="222"/>
+	<SubTexture name="LeafyDown0002" x="167" y="0" width="167" height="218" frameX="0" frameY="0" frameWidth="167" frameHeight="222"/>
+	<SubTexture name="LeafyDown0003" x="167" y="0" width="167" height="218" frameX="0" frameY="0" frameWidth="167" frameHeight="222"/>
+	<SubTexture name="LeafyDown0004" x="167" y="0" width="167" height="218" frameX="0" frameY="0" frameWidth="167" frameHeight="222"/>
+	<SubTexture name="LeafyDown0005" x="167" y="0" width="167" height="218" frameX="0" frameY="0" frameWidth="167" frameHeight="222"/>
+	<SubTexture name="LeafyDown0006" x="167" y="0" width="167" height="218" frameX="0" frameY="0" frameWidth="167" frameHeight="222"/>
+	<SubTexture name="LeafyIdle0000" x="334" y="0" width="166" height="194" frameX="0" frameY="-43" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0001" x="334" y="0" width="166" height="194" frameX="0" frameY="-43" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0002" x="500" y="0" width="166" height="216" frameX="-6" frameY="-39" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0003" x="500" y="0" width="166" height="216" frameX="-6" frameY="-39" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0004" x="666" y="0" width="134" height="254" frameX="-42" frameY="0" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0005" x="666" y="0" width="134" height="254" frameX="-42" frameY="0" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0006" x="800" y="0" width="167" height="217" frameX="-10" frameY="-36" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0007" x="800" y="0" width="167" height="217" frameX="-10" frameY="-36" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0008" x="0" y="254" width="168" height="201" frameX="-10" frameY="-36" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0009" x="0" y="254" width="168" height="201" frameX="-10" frameY="-36" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0010" x="168" y="254" width="167" height="217" frameX="-11" frameY="-36" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0011" x="168" y="254" width="167" height="217" frameX="-11" frameY="-36" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0012" x="168" y="254" width="167" height="217" frameX="-11" frameY="-36" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0013" x="168" y="254" width="167" height="217" frameX="-11" frameY="-36" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyIdle0014" x="168" y="254" width="167" height="217" frameX="-11" frameY="-36" frameWidth="178" frameHeight="255"/>
+	<SubTexture name="LeafyLeft0000" x="335" y="254" width="134" height="254" frameX="-27" frameY="0" frameWidth="167" frameHeight="254"/>
+	<SubTexture name="LeafyLeft0001" x="335" y="254" width="134" height="254" frameX="-27" frameY="0" frameWidth="167" frameHeight="254"/>
+	<SubTexture name="LeafyLeft0002" x="469" y="254" width="167" height="217" frameX="0" frameY="-36" frameWidth="167" frameHeight="254"/>
+	<SubTexture name="LeafyLeft0003" x="469" y="254" width="167" height="217" frameX="0" frameY="-36" frameWidth="167" frameHeight="254"/>
+	<SubTexture name="LeafyLeft0004" x="469" y="254" width="167" height="217" frameX="0" frameY="-36" frameWidth="167" frameHeight="254"/>
+	<SubTexture name="LeafyRight0000" x="636" y="254" width="167" height="217" frameX="-4" frameY="0" frameWidth="171" frameHeight="217"/>
+	<SubTexture name="LeafyRight0001" x="636" y="254" width="167" height="217" frameX="-4" frameY="0" frameWidth="171" frameHeight="217"/>
+	<SubTexture name="LeafyRight0002" x="803" y="254" width="167" height="217" frameX="0" frameY="0" frameWidth="171" frameHeight="217"/>
+	<SubTexture name="LeafyRight0003" x="803" y="254" width="167" height="217" frameX="0" frameY="0" frameWidth="171" frameHeight="217"/>
+	<SubTexture name="LeafyRight0004" x="803" y="254" width="167" height="217" frameX="0" frameY="0" frameWidth="171" frameHeight="217"/>
+	<SubTexture name="LeafyRight0005" x="803" y="254" width="167" height="217" frameX="0" frameY="0" frameWidth="171" frameHeight="217"/>
+	<SubTexture name="LeafyRight0006" x="803" y="254" width="167" height="217" frameX="0" frameY="0" frameWidth="171" frameHeight="217"/>
+	<SubTexture name="LeafyRight0007" x="803" y="254" width="167" height="217" frameX="0" frameY="0" frameWidth="171" frameHeight="217"/>
+	<SubTexture name="LeafyUp0000" x="0" y="508" width="167" height="217" frameX="0" frameY="0" frameWidth="167" frameHeight="221"/>
+	<SubTexture name="LeafyUp0001" x="0" y="508" width="167" height="217" frameX="0" frameY="0" frameWidth="167" frameHeight="221"/>
+	<SubTexture name="LeafyUp0002" x="167" y="508" width="167" height="217" frameX="0" frameY="-4" frameWidth="167" frameHeight="221"/>
+	<SubTexture name="LeafyUp0003" x="167" y="508" width="167" height="217" frameX="0" frameY="-4" frameWidth="167" frameHeight="221"/>
+	<SubTexture name="LeafyUp0004" x="167" y="508" width="167" height="217" frameX="0" frameY="-4" frameWidth="167" frameHeight="221"/>
+	<SubTexture name="LeafyUp0005" x="167" y="508" width="167" height="217" frameX="0" frameY="-4" frameWidth="167" frameHeight="221"/>
+	<SubTexture name="LeafyUp0006" x="167" y="508" width="167" height="217" frameX="0" frameY="-4" frameWidth="167" frameHeight="221"/>
+	<SubTexture name="LeafyUp0007" x="167" y="508" width="167" height="217" frameX="0" frameY="-4" frameWidth="167" frameHeight="221"/>
+	<SubTexture name="LeafyUp0008" x="167" y="508" width="167" height="217" frameX="0" frameY="-4" frameWidth="167" frameHeight="221"/>
+	<SubTexture name="LeafyUp0009" x="167" y="508" width="167" height="217" frameX="0" frameY="-4" frameWidth="167" frameHeight="221"/>
+	<SubTexture name="LeafyUp0010" x="167" y="508" width="167" height="217" frameX="0" frameY="-4" frameWidth="167" frameHeight="221"/>
+	<SubTexture name="LeafyUp0011" x="167" y="508" width="167" height="217" frameX="0" frameY="-4" frameWidth="167" frameHeight="221"/>
+</TextureAtlas>

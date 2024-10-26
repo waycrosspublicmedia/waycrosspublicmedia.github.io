@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leafyOUT.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LeafyAll0000" x="0" y="0" width="142" height="216" frameX="-1" frameY="-3" frameWidth="143" frameHeight="219"/>
+	<SubTexture name="LeafyAll0001" x="142" y="0" width="142" height="216" frameX="-1" frameY="-3" frameWidth="143" frameHeight="219"/>
+	<SubTexture name="LeafyAll0002" x="284" y="0" width="142" height="216" frameX="0" frameY="0" frameWidth="143" frameHeight="219"/>
+	<SubTexture name="LeafyAll0003" x="0" y="216" width="142" height="216" frameX="0" frameY="0" frameWidth="143" frameHeight="219"/>
+	<SubTexture name="LeafyAll0004" x="0" y="216" width="142" height="216" frameX="0" frameY="0" frameWidth="143" frameHeight="219"/>
+</TextureAtlas>
