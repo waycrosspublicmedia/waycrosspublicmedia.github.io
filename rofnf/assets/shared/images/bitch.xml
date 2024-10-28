@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bitch.png">
+<SubTexture name="the bopping0000" x="1996" y="0" width="1025" height="1791" frameX="-107" frameY="-10" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0001" x="957" y="0" width="1039" height="1792" frameX="-93" frameY="-10" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0002" x="0" y="3583" width="1070" height="1761" frameX="-79" frameY="-38" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0003" x="1070" y="3583" width="1083" height="1761" frameX="-66" frameY="-38" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0004" x="5286" y="1781" width="1101" height="1768" frameX="-53" frameY="-29" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0005" x="4161" y="1781" width="1112" height="1768" frameX="-42" frameY="-29" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0006" x="4161" y="0" width="1125" height="1781" frameX="-31" frameY="-14" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0007" x="5286" y="0" width="1134" height="1781" frameX="-22" frameY="-14" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0008" x="1142" y="1793" width="1137" height="1789" frameX="-14" frameY="-5" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0009" x="2279" y="1793" width="1143" height="1789" frameX="-8" frameY="-5" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0010" x="3021" y="0" width="1140" height="1790" frameX="-3" frameY="-3" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0011" x="0" y="1793" width="1142" height="1790" frameX="-1" frameY="-3" frameWidth="1156" frameHeight="1802" />
+<SubTexture name="the bopping0012" x="0" y="0" width="957" height="1793" frameX="-182" frameY="0" frameWidth="1156" frameHeight="1802" />
+</TextureAtlas>

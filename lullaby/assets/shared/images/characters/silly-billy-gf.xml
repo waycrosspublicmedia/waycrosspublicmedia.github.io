@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="silly-billy-gf.png">
+<SubTexture name="silly-billy-gf idle0000" x="825" y="887" width="238" height="428" frameX="-593" frameY="-114" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf idle0001" x="1511" y="426" width="238" height="425" frameX="-593" frameY="-117" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf idle0002" x="1075" y="1318" width="237" height="411" frameX="-593" frameY="-131" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf idle0003" x="1511" y="851" width="238" height="425" frameX="-593" frameY="-117" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf idle0004" x="610" y="1318" width="236" height="420" frameX="-593" frameY="-122" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf down0000" x="810" y="0" width="229" height="438" frameX="-593" frameY="-104" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf down0001" x="1282" y="0" width="229" height="432" frameX="-593" frameY="-110" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf down0002" x="1282" y="432" width="229" height="432" frameX="-593" frameY="-110" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf down0003" x="846" y="1318" width="229" height="417" frameX="-593" frameY="-125" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf left0000" x="0" y="887" width="239" height="431" frameX="-593" frameY="-111" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf left0001" x="530" y="449" width="240" height="435" frameX="-593" frameY="-107" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf left0002" x="770" y="449" width="247" height="435" frameX="-586" frameY="-107" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf left0003" x="1039" y="0" width="243" height="435" frameX="-590" frameY="-107" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf left0004" x="1039" y="435" width="243" height="435" frameX="-590" frameY="-107" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf right0000" x="1063" y="887" width="312" height="426" frameX="-593" frameY="-116" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf right0001" x="239" y="887" width="316" height="431" frameX="-593" frameY="-111" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf right0002" x="318" y="1318" width="292" height="423" frameX="-593" frameY="-119" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf right0003" x="1511" y="0" width="315" height="426" frameX="-593" frameY="-116" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf right0004" x="0" y="1318" width="318" height="426" frameX="-593" frameY="-116" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf up0000" x="555" y="887" width="270" height="431" frameX="-593" frameY="-111" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf up0001" x="273" y="0" width="272" height="443" frameX="-593" frameY="-99" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf up0002" x="0" y="0" width="273" height="449" frameX="-593" frameY="-93" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf up0003" x="545" y="0" width="265" height="439" frameX="-593" frameY="-103" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf up0004" x="0" y="449" width="265" height="438" frameX="-593" frameY="-104" frameWidth="1024" frameHeight="576" />
+<SubTexture name="silly-billy-gf up0005" x="265" y="449" width="265" height="438" frameX="-593" frameY="-104" frameWidth="1024" frameHeight="576" />
+</TextureAtlas>

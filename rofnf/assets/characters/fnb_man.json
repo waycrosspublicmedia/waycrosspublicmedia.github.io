@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idleDance"
+		},
+		{
+			"offsets": [
+				73,
+				126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "noteLeft"
+		},
+		{
+			"offsets": [
+				-83,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "noteDown"
+		},
+		{
+			"offsets": [
+				88,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "noteUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				192
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "noteRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				362
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scream",
+			"loop": false,
+			"name": "scream_aaaa"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fnb_guy_sprites",
+	"position": [
+		40,
+		180
+	],
+	"healthicon": "fnb_man",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		91,
+		45
+	],
+	"camera_position": [
+		0,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

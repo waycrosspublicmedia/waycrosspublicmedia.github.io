@@ -1,0 +1,32 @@
+{
+	"storyName": "I thought we would stay together forever. . .",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"cheater",
+			"DOODLEgf",
+			[
+				215,
+				215,
+				215
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "cheated",
+	"hiddenUntilUnlocked": false
+}

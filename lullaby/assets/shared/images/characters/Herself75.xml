@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Herself75.png">
+<SubTexture name="Herself75 Idle0000" x="1392" y="1407" width="754" height="1253" frameX="-837" frameY="-154" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0001" x="1392" y="1407" width="754" height="1253" frameX="-837" frameY="-154" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0002" x="1392" y="1407" width="754" height="1253" frameX="-837" frameY="-154" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0003" x="2780" y="1253" width="749" height="1248" frameX="-842" frameY="-159" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0004" x="2780" y="1253" width="749" height="1248" frameX="-842" frameY="-159" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0005" x="2780" y="1253" width="749" height="1248" frameX="-842" frameY="-159" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0006" x="4286" y="1237" width="728" height="1231" frameX="-864" frameY="-176" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0007" x="4286" y="1237" width="728" height="1231" frameX="-864" frameY="-176" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0008" x="2205" y="2693" width="735" height="1241" frameX="-856" frameY="-165" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0009" x="2205" y="2693" width="735" height="1241" frameX="-856" frameY="-165" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0010" x="3532" y="1253" width="752" height="1252" frameX="-839" frameY="-155" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0011" x="3532" y="1253" width="752" height="1252" frameX="-839" frameY="-155" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0012" x="2780" y="0" width="752" height="1253" frameX="-839" frameY="-154" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0013" x="2780" y="0" width="752" height="1253" frameX="-839" frameY="-154" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Idle0014" x="3532" y="0" width="754" height="1253" frameX="-837" frameY="-154" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Left0000" x="1366" y="2693" width="839" height="1244" frameX="-767" frameY="-163" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Left0001" x="1366" y="2693" width="839" height="1244" frameX="-767" frameY="-163" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Left0002" x="2940" y="2693" width="843" height="1237" frameX="-775" frameY="-170" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Left0003" x="4286" y="0" width="837" height="1237" frameX="-780" frameY="-170" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Left0004" x="4286" y="0" width="837" height="1237" frameX="-780" frameY="-170" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Left0005" x="4286" y="0" width="837" height="1237" frameX="-780" frameY="-170" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Left0006" x="4286" y="0" width="837" height="1237" frameX="-780" frameY="-170" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Down0000" x="1464" y="3940" width="772" height="920" frameX="-852" frameY="-439" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Down0001" x="1464" y="3940" width="772" height="920" frameX="-852" frameY="-439" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Down0002" x="731" y="3940" width="733" height="944" frameX="-883" frameY="-418" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Down0003" x="0" y="3940" width="731" height="946" frameX="-885" frameY="-416" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Down0004" x="4286" y="2468" width="733" height="951" frameX="-883" frameY="-411" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Down0005" x="4286" y="2468" width="733" height="951" frameX="-883" frameY="-411" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Down0006" x="4286" y="2468" width="733" height="951" frameX="-883" frameY="-411" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Down0007" x="4286" y="2468" width="733" height="951" frameX="-883" frameY="-411" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Up0000" x="703" y="0" width="698" height="1326" frameX="-873" frameY="-81" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Up0001" x="703" y="0" width="698" height="1326" frameX="-873" frameY="-81" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Up0002" x="1401" y="0" width="686" height="1314" frameX="-889" frameY="-93" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Up0003" x="2087" y="0" width="693" height="1296" frameX="-879" frameY="-111" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Up0004" x="0" y="1407" width="707" height="1286" frameX="-865" frameY="-121" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Up0005" x="0" y="1407" width="707" height="1286" frameX="-865" frameY="-121" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Up0006" x="0" y="1407" width="707" height="1286" frameX="-865" frameY="-121" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Right0000" x="707" y="1407" width="685" height="1262" frameX="-908" frameY="-145" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Right0001" x="0" y="0" width="703" height="1407" frameX="-908" frameY="0" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Right0002" x="0" y="2693" width="679" height="1247" frameX="-914" frameY="-160" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Right0003" x="679" y="2693" width="687" height="1246" frameX="-906" frameY="-161" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Right0004" x="679" y="2693" width="687" height="1246" frameX="-906" frameY="-161" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Right0005" x="679" y="2693" width="687" height="1246" frameX="-906" frameY="-161" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="Herself75 Right0006" x="679" y="2693" width="687" height="1246" frameX="-906" frameY="-161" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

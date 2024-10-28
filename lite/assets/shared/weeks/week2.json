@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Spookeez",
+			"spookids",
+			[
+				255,
+				204,
+				140
+			]
+		],
+		[
+			"South",
+			"spookids",
+			[
+				255,
+				204,
+				140
+			]
+		],
+		[
+			"Monster",
+			"monster",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "2",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Spooky Month",
+	"weekName": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"expression": "neutral",
+			"text": "Huh? What the-?",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "OMG! You're Whitty!",
+			"boxState": "normal",
+			"portrait": "bfWhitty",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "Well I'll be damned. . .",
+			"boxState": "normal",
+			"portrait": "gfWhitty",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "frown",
+			"text": "Oh. . . great. . . YOU two. . .",
+			"boxState": "normal",
+			"portrait": "whitty",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "This is the luckiest night of my life!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty"
+		},
+		{
+			"expression": "neutral",
+			"text": ". . . Right. . . Uh, look, would you two kindly move along? I don't really want anyone knowin' I'm here.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "happy",
+			"text": "Can you believe this, babe?! One of my biggest musical idols! And we just RAN INTO him!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty"
+		},
+		{
+			"expression": "neutral",
+			"text": "Uh. . . are you listenin', kid?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "happy",
+			"text": "Please oh PLEASE sing with me, Whitty! I gotta look good in front of my girlfriend, Girlfriend!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty"
+		},
+		{
+			"expression": "neutral",
+			"text": "C'mon, man. He's gotta look good for me.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfWhitty"
+		},
+		{
+			"expression": "frown",
+			"text": "Dude. . . no. I ain't in the mood for singin' right now.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "happy",
+			"text": "What?!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty"
+		},
+		{
+			"expression": "neutral",
+			"text": "I just wanna be left alone, ok kid?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "neutral",
+			"text": "Besides. . . I haven't sang in a long time. . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "smirk",
+			"text": "Hmm. . . Oh, I see! You're just chicken!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty"
+		},
+		{
+			"expression": "neutral",
+			"text": "Huh. . .?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty"
+		},
+		{
+			"expression": "smirk",
+			"text": "You saw how I beat ol' double D so bad! Now you're afraid I'll kick YOUR ass!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty"
+		},
+		{
+			"expression": "smirk",
+			"text": "And y'know what? I WOULD! Unless YOU wanna prove me wrong. . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty"
+		},
+		{
+			"expression": "smirk",
+			"text": "How about THAT? Are you in the mood for singing NOW?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty"
+		},
+		{
+			"expression": "frown",
+			"text": "*Grrrh* Good, god. . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty"
+		}
+	]
+}

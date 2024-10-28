@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": ". . .I see how we're doing this."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Hah! What's wrong, short fuse? Didn't you like our song?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Who are YOU calling SHORT, you little blue runt?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Well at least my girlfriend liked it. Isn't that right, babe?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfWhitty",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I am so in LOVE with you right now. . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "But how about this time, you actually TRY to keep up? Sound good?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "frown",
+			"text": "Well how about you go die in a ditch instead?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Yea-heah! That's right! There's the Whitty I was looking for! Bring it on!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "frown",
+			"text": ". . .Y'know what? Fine, but remember, you WANTED this!"
+		}
+	]
+}

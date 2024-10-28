@@ -1,0 +1,115 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				191,
+				474
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				184,
+				451
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				183,
+				468
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				167,
+				439
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				154,
+				575
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				189,
+				479
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "grunt",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11
+			],
+			"name": "grunt"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/whitty",
+	"position": [
+		150,
+		420
+	],
+	"healthicon": "whitty",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		66,
+		78
+	],
+	"camera_position": [
+		-200,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

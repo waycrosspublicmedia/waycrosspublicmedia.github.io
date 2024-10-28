@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "neutral",
+			"idle_offsets": [
+				-60,
+				110
+			],
+			"idle_name": "neutral",
+			"anim": "neutral",
+			"loop_offsets": [
+				-60,
+				110
+			]
+		},
+		{
+			"loop_name": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "frown",
+			"idle_offsets": [
+				-70,
+				75
+			],
+			"idle_name": "frown",
+			"anim": "frown",
+			"loop_offsets": [
+				-70,
+				75
+			]
+		}
+	],
+	"image": "whitty_Dialogue"
+}

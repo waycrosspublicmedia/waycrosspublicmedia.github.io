@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="picoPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Portrait Enter0000" x="0" y="0" width="420" height="460" frameX="0" frameY="0" frameWidth="467" frameHeight="460"/>
+	<SubTexture name="Pico Portrait Enter0001" x="0" y="0" width="420" height="460" frameX="-12" frameY="0" frameWidth="467" frameHeight="460"/>
+	<SubTexture name="Pico Portrait Enter0002" x="0" y="0" width="420" height="460" frameX="-18" frameY="0" frameWidth="467" frameHeight="460"/>
+	<SubTexture name="Pico Portrait Enter0003" x="0" y="0" width="420" height="460" frameX="-23" frameY="0" frameWidth="467" frameHeight="460"/>
+	<SubTexture name="Pico Portrait Enter0004" x="0" y="0" width="420" height="460" frameX="-27" frameY="0" frameWidth="467" frameHeight="460"/>
+	<SubTexture name="Pico Portrait Enter0005" x="0" y="0" width="420" height="460" frameX="-34" frameY="0" frameWidth="467" frameHeight="460"/>
+	<SubTexture name="Pico Portrait Enter0006" x="0" y="0" width="420" height="460" frameX="-46" frameY="0" frameWidth="467" frameHeight="460"/>
+</TextureAtlas>

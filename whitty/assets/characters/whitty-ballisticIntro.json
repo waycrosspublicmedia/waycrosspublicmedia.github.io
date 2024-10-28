@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				683,
+				207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ballisticIntro",
+			"indices": [],
+			"name": "intro"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/whitty-ballisticIntro",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "whittyCrazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		0,
+		40
+	],
+	"camera_position": [
+		-190,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

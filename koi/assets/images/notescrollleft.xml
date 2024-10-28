@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="notescrollleft.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="notescrolling copy 20000" x="0" y="0" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20001" x="0" y="136" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20002" x="0" y="272" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20003" x="0" y="408" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20004" x="0" y="544" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20005" x="0" y="680" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20006" x="0" y="816" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20007" x="0" y="952" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20008" x="0" y="1088" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20009" x="0" y="1224" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20010" x="0" y="1360" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20011" x="0" y="1496" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20012" x="0" y="1632" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20013" x="0" y="1768" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20014" x="0" y="1904" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20015" x="0" y="2040" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20016" x="0" y="2176" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20017" x="0" y="2312" width="4487" height="136"/>
+	<SubTexture name="notescrolling copy 20018" x="0" y="2448" width="4487" height="136"/>
+</TextureAtlas>

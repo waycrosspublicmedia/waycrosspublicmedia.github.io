@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="foreground.png">
+<SubTexture name="foreground idle0000" x="0" y="0" width="2860" height="1624" frameX="-34" frameY="-3" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="foreground idle0001" x="0" y="0" width="2860" height="1624" frameX="-34" frameY="-3" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="foreground idle0002" x="0" y="0" width="2860" height="1624" frameX="-34" frameY="-3" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="foreground idle0003" x="0" y="0" width="2860" height="1624" frameX="-34" frameY="-3" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="foreground idle0004" x="2860" y="0" width="2863" height="1617" frameX="-31" frameY="-10" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="foreground idle0005" x="2860" y="0" width="2863" height="1617" frameX="-31" frameY="-10" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="foreground idle0006" x="2860" y="0" width="2863" height="1617" frameX="-31" frameY="-10" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="foreground idle0007" x="2860" y="0" width="2863" height="1617" frameX="-31" frameY="-10" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="foreground idle0008" x="0" y="1624" width="2859" height="1617" frameX="-35" frameY="-10" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="foreground idle0009" x="0" y="1624" width="2859" height="1617" frameX="-35" frameY="-10" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="foreground idle0010" x="0" y="1624" width="2859" height="1617" frameX="-35" frameY="-10" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="foreground idle0011" x="0" y="1624" width="2859" height="1617" frameX="-35" frameY="-10" frameWidth="2947" frameHeight="1627" />
+</TextureAtlas>

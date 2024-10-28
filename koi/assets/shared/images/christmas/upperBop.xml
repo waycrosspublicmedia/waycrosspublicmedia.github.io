@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="upperBop.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Upper Crowd Bob instance 10000" x="0" y="0" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10001" x="0" y="0" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10002" x="1512" y="0" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10003" x="1512" y="0" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10004" x="0" y="994" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10005" x="1512" y="994" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10006" x="0" y="1988" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10007" x="1512" y="1988" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10008" x="1512" y="1988" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10009" x="1512" y="1988" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10010" x="1512" y="1988" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10011" x="1512" y="1988" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10012" x="1512" y="1988" width="1512" height="994"/>
+	<SubTexture name="Upper Crowd Bob instance 10013" x="1512" y="1988" width="1512" height="994"/>
+</TextureAtlas>

@@ -1,0 +1,172 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF LEFT"
+		},
+		{
+			"offsets": [
+				-17,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF DOWN"
+		},
+		{
+			"offsets": [
+				-44,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF UP"
+		},
+		{
+			"offsets": [
+				-42,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF RIGHT"
+		},
+		{
+			"offsets": [
+				-11,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF MISS DOWN"
+		},
+		{
+			"offsets": [
+				-15,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF MISS LEFT"
+		},
+		{
+			"offsets": [
+				-45,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF MISS UP"
+		},
+		{
+			"offsets": [
+				-39,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF MISS RIGHT"
+		},
+		{
+			"offsets": [
+				15,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "CRACK"
+		},
+		{
+			"offsets": [
+				-4,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "SELECT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				4
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "GO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				15
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF IDLE",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				0,
+				1
+			]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bf-whitty",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfWhitty",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		255,
+		230
+	],
+	"camera_position": [
+		60,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfWhitty_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crap" x="10" y="10" width="369" height="407"/>
+	<SubTexture name="happy" x="389" y="10" width="402" height="440"/>
+	<SubTexture name="smirk" x="10" y="460" width="436" height="447"/>
+	<SubTexture name="taunting" x="456" y="460" width="487" height="449"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfWhitty_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="neutral" x="10" y="10" width="436" height="421"/>
+	<SubTexture name="shocked" x="456" y="10" width="456" height="434"/>
+</TextureAtlas>

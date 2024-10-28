@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GfPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Portrait Enter0000" x="0" y="0" width="292" height="404" frameX="0" frameY="0" frameWidth="321" frameHeight="404"/>
+	<SubTexture name="GF Portrait Enter0001" x="292" y="0" width="292" height="404" frameX="-5" frameY="0" frameWidth="321" frameHeight="404"/>
+	<SubTexture name="GF Portrait Enter0002" x="292" y="0" width="292" height="404" frameX="-10" frameY="0" frameWidth="321" frameHeight="404"/>
+	<SubTexture name="GF Portrait Enter0003" x="292" y="0" width="292" height="404" frameX="-15" frameY="0" frameWidth="321" frameHeight="404"/>
+	<SubTexture name="GF Portrait Enter0004" x="292" y="0" width="292" height="404" frameX="-20" frameY="0" frameWidth="321" frameHeight="404"/>
+	<SubTexture name="GF Portrait Enter0005" x="292" y="0" width="292" height="404" frameX="-25" frameY="0" frameWidth="321" frameHeight="404"/>
+	<SubTexture name="GF Portrait Enter0006" x="292" y="0" width="292" height="404" frameX="-30" frameY="0" frameWidth="321" frameHeight="404"/>
+</TextureAtlas>

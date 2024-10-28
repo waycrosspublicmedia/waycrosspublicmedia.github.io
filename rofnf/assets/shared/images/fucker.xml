@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lints_stupid_commission_1.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="the bopping0000" x="0" y="0" width="1124" height="1749" frameX="-10" frameY="-6" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0001" x="1124" y="0" width="1124" height="1749" frameX="-10" frameY="-6" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0002" x="2248" y="0" width="1141" height="1712" frameX="-4" frameY="-42" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0003" x="3389" y="0" width="1141" height="1712" frameX="-4" frameY="-42" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0004" x="4530" y="0" width="1146" height="1708" frameX="-2" frameY="-45" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0005" x="5676" y="0" width="1146" height="1708" frameX="-2" frameY="-45" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0006" x="6822" y="0" width="1149" height="1714" frameX="0" frameY="-38" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0007" x="0" y="1749" width="1149" height="1714" frameX="0" frameY="-38" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0008" x="1149" y="1749" width="1143" height="1737" frameX="-2" frameY="-15" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0009" x="2292" y="1749" width="1143" height="1737" frameX="-2" frameY="-15" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0010" x="3435" y="1749" width="1139" height="1743" frameX="-4" frameY="-8" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0011" x="4574" y="1749" width="1139" height="1743" frameX="-4" frameY="-8" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0012" x="5713" y="1749" width="1133" height="1749" frameX="-6" frameY="-2" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0013" x="6846" y="1749" width="1133" height="1749" frameX="-6" frameY="-2" frameWidth="1149" frameHeight="1755"/>
+	<SubTexture name="the bopping0014" x="0" y="3498" width="1133" height="1751" frameX="-6" frameY="0" frameWidth="1149" frameHeight="1755"/>
+</TextureAtlas>

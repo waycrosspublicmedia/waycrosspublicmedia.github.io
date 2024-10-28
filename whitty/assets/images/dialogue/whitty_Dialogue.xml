@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whitty_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry" x="10" y="10" width="516" height="426"/>
+	<SubTexture name="frown" x="536" y="10" width="328" height="488"/>
+	<SubTexture name="neutral" x="874" y="10" width="361" height="524"/>
+</TextureAtlas>

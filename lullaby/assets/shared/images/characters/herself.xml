@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="herself.png">
+<SubTexture name="herself left0000" x="843" y="0" width="328" height="346" frameX="-353" frameY="-44" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself left0001" x="484" y="795" width="341" height="338" frameX="-363" frameY="-50" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself left0002" x="825" y="795" width="330" height="338" frameX="-374" frameY="-67" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself left0003" x="825" y="795" width="330" height="338" frameX="-374" frameY="-67" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself up0000" x="1171" y="0" width="236" height="338" frameX="-469" frameY="-67" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself up0001" x="843" y="346" width="223" height="345" frameX="-480" frameY="-62" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself up0002" x="542" y="406" width="222" height="345" frameX="-481" frameY="-62" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself up0003" x="542" y="406" width="222" height="345" frameX="-481" frameY="-62" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself right0000" x="1407" y="0" width="281" height="338" frameX="-469" frameY="-67" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself right0001" x="1407" y="338" width="269" height="338" frameX="-469" frameY="-67" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself right0002" x="0" y="795" width="242" height="344" frameX="-467" frameY="-62" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself right0003" x="242" y="795" width="242" height="344" frameX="-467" frameY="-62" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself down0000" x="1407" y="676" width="235" height="338" frameX="-469" frameY="-67" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself down0001" x="1171" y="338" width="235" height="338" frameX="-469" frameY="-86" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself down0002" x="1171" y="676" width="235" height="338" frameX="-469" frameY="-116" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself down0003" x="0" y="1139" width="235" height="338" frameX="-469" frameY="-67" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself down0004" x="0" y="1139" width="235" height="338" frameX="-469" frameY="-67" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself idle0000" x="0" y="0" width="281" height="406" frameX="-406" frameY="-61" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself idle0001" x="0" y="0" width="281" height="406" frameX="-406" frameY="-61" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself idle0002" x="0" y="406" width="271" height="389" frameX="-416" frameY="-81" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself idle0003" x="271" y="406" width="271" height="389" frameX="-416" frameY="-96" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself idle0004" x="281" y="0" width="281" height="406" frameX="-406" frameY="-61" frameWidth="1024" frameHeight="576" />
+<SubTexture name="herself idle0005" x="562" y="0" width="281" height="406" frameX="-406" frameY="-61" frameWidth="1024" frameHeight="576" />
+</TextureAtlas>

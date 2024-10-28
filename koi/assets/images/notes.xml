@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="notes.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="notescrolling0000" x="0" y="0" width="4144" height="134" frameX="0" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0001" x="0" y="0" width="4144" height="134" frameX="-18" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0002" x="0" y="0" width="4144" height="134" frameX="-36" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0003" x="0" y="134" width="4144" height="134" frameX="-54" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0004" x="0" y="268" width="4143" height="134" frameX="-72" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0005" x="0" y="268" width="4143" height="134" frameX="-90" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0006" x="0" y="402" width="4143" height="134" frameX="-108" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0007" x="0" y="268" width="4143" height="134" frameX="-126" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0008" x="0" y="402" width="4143" height="134" frameX="-144" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0009" x="0" y="402" width="4143" height="134" frameX="-162" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0010" x="0" y="536" width="4143" height="134" frameX="-181" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0011" x="0" y="536" width="4143" height="134" frameX="-199" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0012" x="0" y="536" width="4143" height="134" frameX="-217" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0013" x="0" y="670" width="4143" height="134" frameX="-235" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0014" x="0" y="670" width="4143" height="134" frameX="-253" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0015" x="0" y="670" width="4143" height="134" frameX="-271" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0016" x="0" y="804" width="4143" height="134" frameX="-289" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0017" x="0" y="938" width="4143" height="134" frameX="-307" frameY="0" frameWidth="4468" frameHeight="134"/>
+	<SubTexture name="notescrolling0018" x="0" y="804" width="4143" height="134" frameX="-325" frameY="0" frameWidth="4468" frameHeight="134"/>
+</TextureAtlas>

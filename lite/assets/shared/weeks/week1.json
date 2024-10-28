@@ -1,0 +1,50 @@
+{
+	"storyName": "Awesome Battle",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"BPB",
+			"dad",
+			[
+				211,
+				164,
+				255
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				211,
+				164,
+				255
+			]
+		],
+		[
+			"Daddybattle",
+			"dad",
+			[
+				211,
+				164,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week1"
+}

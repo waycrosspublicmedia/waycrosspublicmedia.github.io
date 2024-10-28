@@ -1,0 +1,50 @@
+{
+	"storyName": "Whitty-ERECT",
+	"difficulties": "erect",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lo-fight",
+			"whitty",
+			[
+				40,
+				33,
+				93
+			]
+		],
+		[
+			"overhead",
+			"whitty",
+			[
+				40,
+				33,
+				93
+			]
+		],
+		[
+			"ballistic",
+			"whittyCrazy",
+			[
+				115,
+				13,
+				13
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "whitty-erect"
+}

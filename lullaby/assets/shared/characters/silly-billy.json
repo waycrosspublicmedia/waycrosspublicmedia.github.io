@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "idle",
+			"loop": false,
+			"name": "silly-billy idle"
+		},
+		{
+			"offsets": [
+				-4,
+				-1
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "silly-billy down"
+		},
+		{
+			"offsets": [
+				-4,
+				-1
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "silly-billy left"
+		},
+		{
+			"offsets": [
+				-4,
+				-1
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "singUP",
+			"loop": false,
+			"name": "silly-billy up"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "silly-billy right"
+		}
+	],
+	"no_antialiasing": true,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/silly-billy",
+	"position": [
+		-810,
+		430
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		700,
+		-560
+	],
+	"sing_duration": 5.6,
+	"scale": 4
+}

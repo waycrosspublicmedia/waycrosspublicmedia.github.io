@@ -1,0 +1,171 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				361
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				167,
+				272
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				165,
+				196
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				167,
+				413
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				166,
+				362
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				179,
+				338
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "timesUp",
+			"indices": [],
+			"name": "voiceline"
+		},
+		{
+			"offsets": [
+				181,
+				361
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				167,
+				272
+			],
+			"indices": [
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				164,
+				195
+			],
+			"indices": [
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				168,
+				412
+			],
+			"indices": [
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				168,
+				363
+			],
+			"indices": [
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/whitty-crazy",
+	"position": [
+		70,
+		400
+	],
+	"healthicon": "whittyCrazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		29,
+		96
+	],
+	"camera_position": [
+		-190,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

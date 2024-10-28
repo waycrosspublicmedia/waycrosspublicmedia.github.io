@@ -1,0 +1,173 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				73,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "noteLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "noteDown"
+		},
+		{
+			"offsets": [
+				-7,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "noteUp"
+		},
+		{
+			"offsets": [
+				-30,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "noteRight"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deuces",
+			"indices": [],
+			"name": "deuces"
+		},
+		{
+			"offsets": [
+				-5,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reading",
+			"indices": [],
+			"name": "reading"
+		},
+		{
+			"offsets": [
+				-4,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "smug",
+			"indices": [],
+			"name": "smug_anim"
+		},
+		{
+			"offsets": [
+				130,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "taunt",
+			"indices": [],
+			"name": "taunt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "scared_anim"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-200
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "pray_anim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				2
+			],
+			"anim": "angry",
+			"fps": 15,
+			"name": "angy",
+			"indices": []
+		},
+		{
+			"offsets": [
+				83,
+				-4
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "mugged",
+			"loop": false,
+			"name": "mugged"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mmm_sprites",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "mmm_icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

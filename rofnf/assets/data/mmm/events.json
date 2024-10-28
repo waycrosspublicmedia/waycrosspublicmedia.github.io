@@ -1,0 +1,696 @@
+{
+	"song": {
+		"events": [
+			[
+				46285.7142857143,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"0.6"
+					]
+				]
+			],
+			[
+				51428.5714285715,
+				[
+					[
+						"Play Animation",
+						"deuces",
+						"Dad"
+					]
+				]
+			],
+			[
+				65142.8571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					],
+					[
+						"Play Animation",
+						"taunt",
+						"Dad"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Cinematics (UnderLap)",
+						"1",
+						"50"
+					]
+				]
+			],
+			[
+				73607.1428571429,
+				[
+					[
+						"Change Character",
+						"BF",
+						"exe"
+					]
+				]
+			],
+			[
+				73714.2857142858,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Cinematics (UnderLap)",
+						"1",
+						"0"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"Dad"
+					]
+				]
+			],
+			[
+				98142.8571428571,
+				[
+					[
+						"Play Animation",
+						"angry",
+						"Dad"
+					]
+				]
+			],
+			[
+				104571.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				104625,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				104678.571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				104732.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				104785.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				104839.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				104892.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				104946.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105053.571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105107.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105160.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105214.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105267.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105321.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105375,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105428.571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105482.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105535.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105589.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105642.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105696.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105750,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105803.571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105910.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				105964.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106017.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106071.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106125,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106178.571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106232.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106285.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106339.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106392.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106446.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106553.571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106607.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106660.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106767.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106821.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106875,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106928.571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				106982.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				107035.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				107089.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				107142.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				107196.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bloxf"
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				109071.428571429,
+				[
+					[
+						"Play Animation",
+						"smug",
+						"Dad"
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				116571.428571429,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				138857.142857143,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				140571.428571428,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Play Animation",
+						"mugged",
+						"Dad"
+					]
+				]
+			],
+			[
+				152571.428571428,
+				[
+					[
+						"Flash Camera",
+						"3",
+						"000000"
+					]
+				]
+			]
+		]
+	}
+}

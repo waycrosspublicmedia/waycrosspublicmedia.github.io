@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Tutorial",
+			"gf",
+			[
+				255,
+				181,
+				185
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "0",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Literally Tutorial",
+	"weekName": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

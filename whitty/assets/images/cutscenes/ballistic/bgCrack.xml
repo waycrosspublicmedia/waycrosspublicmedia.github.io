@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgCrack.png">
+<SubTexture name="bgCracking idle0000" x="0" y="0" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0001" x="2947" y="0" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0002" x="2947" y="0" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0003" x="2947" y="0" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0004" x="0" y="1627" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0005" x="2947" y="1627" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0006" x="0" y="3254" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0007" x="0" y="3254" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0008" x="0" y="3254" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0009" x="2947" y="3254" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0010" x="2947" y="3254" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0011" x="2947" y="3254" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+<SubTexture name="bgCracking idle0012" x="2947" y="3254" width="2947" height="1627" frameX="0" frameY="0" frameWidth="2947" frameHeight="1627" />
+</TextureAtlas>

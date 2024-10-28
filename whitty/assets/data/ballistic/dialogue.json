@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "THAT DOES IT! I'M DONE BEING PATIENT!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "ALL I WANTED WAS SOME PEACE AND QUIET FROM THE ENDLESS CYCLE OF TORMENT I CALL MY LIFE!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "AND YOU CAME ALONG AND RUINED IT!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "AND THE WORST PART OF IT ALL. . . YOU BROUGHT HER!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "frown",
+			"text": "I'll reduce you to atoms. . . and give that HACK something to REALLY sing about. . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "HERE I AM, YOU BASTARDS! HERE! I! AM!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfWhitty",
+			"boxState": "normal",
+			"expression": "crap",
+			"text": "Oh. . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfWhitty",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": ". . .Shit."
+		}
+	]
+}

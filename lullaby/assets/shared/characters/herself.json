@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				4,
+				3,
+				2,
+				1
+			],
+			"name": "herself idle"
+		},
+		{
+			"offsets": [
+				0,
+				-19
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "herself left"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "herself down"
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "herself up"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "herself right"
+		}
+	],
+	"no_antialiasing": true,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/herself",
+	"position": [
+		600,
+		400
+	],
+	"healthicon": "Herself",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		8,
+		13
+	],
+	"camera_position": [
+		-400,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 4
+}

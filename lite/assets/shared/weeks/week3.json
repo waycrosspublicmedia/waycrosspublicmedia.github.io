@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"lilPico",
+			"pico",
+			[
+				196,
+				255,
+				104
+			]
+		],
+		[
+			"Philly Nice",
+			"pico",
+			[
+				196,
+				255,
+				104
+			]
+		],
+		[
+			"Blammed",
+			"pico",
+			[
+				196,
+				255,
+				104
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "3",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Meet old friend",
+	"weekName": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

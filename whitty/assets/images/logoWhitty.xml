@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="logoWhitty.png">
+<SubTexture name="LogoWhitty Spray0000" x="0" y="2432" width="768" height="778" frameX="-94" frameY="-95" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0001" x="0" y="2432" width="768" height="778" frameX="-94" frameY="-95" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0002" x="768" y="2432" width="768" height="778" frameX="-94" frameY="-95" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0003" x="768" y="2432" width="768" height="778" frameX="-94" frameY="-95" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0004" x="1536" y="2432" width="768" height="778" frameX="-94" frameY="-95" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0005" x="3183" y="1619" width="781" height="793" frameX="-90" frameY="-95" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0006" x="3183" y="1619" width="781" height="793" frameX="-90" frameY="-95" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0007" x="3183" y="810" width="793" height="809" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0008" x="3183" y="810" width="793" height="809" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0009" x="801" y="0" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0010" x="801" y="0" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0011" x="801" y="0" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0012" x="1595" y="0" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0013" x="1595" y="0" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0014" x="0" y="812" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0015" x="794" y="812" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0016" x="1588" y="812" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0017" x="2389" y="0" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0018" x="2389" y="810" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0019" x="0" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Spray0020" x="0" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0000" x="794" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0001" x="794" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0002" x="794" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0003" x="794" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0004" x="794" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0005" x="794" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0006" x="794" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0007" x="1588" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0008" x="1588" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0009" x="0" y="0" width="801" height="812" frameX="-78" frameY="-78" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0010" x="0" y="0" width="801" height="812" frameX="-78" frameY="-78" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0011" x="2382" y="1622" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0012" x="3183" y="0" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+<SubTexture name="LogoWhitty Bump0013" x="3183" y="0" width="794" height="810" frameX="-79" frameY="-79" frameWidth="956" frameHeight="967" />
+</TextureAtlas>

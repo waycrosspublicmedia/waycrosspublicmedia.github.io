@@ -1,0 +1,31 @@
+{
+	"storyName": "i miss you hunny",
+	"weekSong": "CMENU0",
+	"difficulties": "sad",
+	"weekBackground": "",
+	"hideFreeplay": false,
+	"weekBefore": "tutorial",
+	"addToBSideMenu": false,
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"addToExtrasMenu": true,
+	"songs": [
+		[
+			"i-miss-you",
+			"Herself",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Week1",
+	"weekVideo": "1Preview",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,9 @@
+tutorial:gf:1
+senpai:dad:1
+whyteepee:dad:1
+rock:dad:1
+bomb:dad:1
+hairball:dad:2
+broccobox:pico:3
+fart:gf:3
+night:dad:3
