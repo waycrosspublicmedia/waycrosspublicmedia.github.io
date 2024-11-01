@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfyeah.png"><SubTexture name="gfyeah danceLeft0000" x="244" y="265" width="250" height="259" frameX="-191" frameY="-306" frameWidth="720" frameHeight="720" />
+<SubTexture name="gfyeah danceLeft0001" x="244" y="0" width="246" height="264" frameX="-195" frameY="-301" frameWidth="720" frameHeight="720" />
+<SubTexture name="gfyeah danceLeft0002" x="0" y="0" width="244" height="265" frameX="-197" frameY="-300" frameWidth="720" frameHeight="720" />
+<SubTexture name="gfyeah danceRight0000" x="0" y="265" width="244" height="262" frameX="-197" frameY="-303" frameWidth="720" frameHeight="720" />
+<SubTexture name="gfyeah danceRight0001" x="490" y="0" width="244" height="264" frameX="-197" frameY="-301" frameWidth="720" frameHeight="720" />
+<SubTexture name="gfyeah danceRight0002" x="0" y="0" width="244" height="265" frameX="-197" frameY="-300" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ybf.png"><SubTexture name="ybf idle0000" x="0" y="827" width="302" height="264" frameX="-135" frameY="-301" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf idle0001" x="0" y="558" width="295" height="269" frameX="-142" frameY="-296" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf idle0002" x="286" y="280" width="293" height="270" frameX="-144" frameY="-295" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf left0000" x="828" y="266" width="297" height="265" frameX="-140" frameY="-300" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf left0001" x="295" y="558" width="309" height="266" frameX="-128" frameY="-299" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf up0000" x="0" y="0" width="271" height="280" frameX="-166" frameY="-285" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf up0001" x="542" y="0" width="286" height="278" frameX="-151" frameY="-287" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf down0000" x="1137" y="260" width="274" height="244" frameX="-163" frameY="-321" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf down0001" x="0" y="1091" width="296" height="249" frameX="-141" frameY="-316" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf right0000" x="302" y="827" width="254" height="262" frameX="-183" frameY="-303" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf right0001" x="810" y="827" width="284" height="260" frameX="-153" frameY="-305" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf missleft0000" x="828" y="531" width="297" height="265" frameX="-140" frameY="-300" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf missleft0001" x="828" y="0" width="309" height="266" frameX="-128" frameY="-299" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf missup0000" x="271" y="0" width="271" height="280" frameX="-166" frameY="-285" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf missup0001" x="0" y="280" width="286" height="278" frameX="-151" frameY="-287" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf missdown0000" x="1137" y="504" width="274" height="244" frameX="-163" frameY="-321" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf missdown0001" x="296" y="1091" width="296" height="249" frameX="-141" frameY="-316" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf missright0000" x="556" y="827" width="254" height="262" frameX="-183" frameY="-303" frameWidth="720" frameHeight="720" />
+<SubTexture name="ybf missright0001" x="1137" y="0" width="284" height="260" frameX="-153" frameY="-305" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

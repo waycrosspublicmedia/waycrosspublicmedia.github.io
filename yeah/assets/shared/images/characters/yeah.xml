@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yeah.png"><SubTexture name="yeah idle0000" x="628" y="0" width="314" height="277" frameX="-129" frameY="-303" frameWidth="720" frameHeight="720" />
+<SubTexture name="yeah idle0001" x="0" y="294" width="314" height="285" frameX="-129" frameY="-295" frameWidth="720" frameHeight="720" />
+<SubTexture name="yeah idle0002" x="314" y="0" width="314" height="286" frameX="-129" frameY="-294" frameWidth="720" frameHeight="720" />
+<SubTexture name="yeah idle0003" x="314" y="0" width="314" height="286" frameX="-129" frameY="-294" frameWidth="720" frameHeight="720" />
+<SubTexture name="yeah left0000" x="628" y="579" width="314" height="261" frameX="-129" frameY="-305" frameWidth="720" frameHeight="720" />
+<SubTexture name="yeah left0001" x="628" y="277" width="314" height="271" frameX="-129" frameY="-295" frameWidth="720" frameHeight="720" />
+<SubTexture name="yeah down0000" x="942" y="231" width="314" height="218" frameX="-129" frameY="-348" frameWidth="720" frameHeight="720" />
+<SubTexture name="yeah down0001" x="942" y="0" width="314" height="231" frameX="-129" frameY="-335" frameWidth="720" frameHeight="720" />
+<SubTexture name="yeah up0000" x="0" y="0" width="314" height="294" frameX="-129" frameY="-272" frameWidth="720" frameHeight="720" />
+<SubTexture name="yeah up0001" x="314" y="294" width="314" height="279" frameX="-129" frameY="-287" frameWidth="720" frameHeight="720" />
+<SubTexture name="yeah right0000" x="314" y="579" width="314" height="264" frameX="-129" frameY="-302" frameWidth="720" frameHeight="720" />
+<SubTexture name="yeah right0001" x="0" y="579" width="314" height="271" frameX="-129" frameY="-295" frameWidth="720" frameHeight="720" />
+</TextureAtlas>
