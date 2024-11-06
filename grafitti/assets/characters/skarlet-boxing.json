@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-151,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-147,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-146,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-143,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-143,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-145,
+				63
+			],
+			"anim": "frontkick",
+			"fps": 24,
+			"name": "frontkick",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-1
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skarlet_boxing",
+	"position": [
+		-90,
+		0
+	],
+	"healthicon": "skarlet",
+	"flip_x": true,
+	"healthbar_colors": [
+		225,
+		47,
+		106
+	],
+	"camera_position": [
+		-400,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

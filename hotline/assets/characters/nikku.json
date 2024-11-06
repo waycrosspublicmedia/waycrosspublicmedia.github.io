@@ -9,58 +9,69 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Nikku Idle"
+			"name": "NikkuIDLE"
 		},
 		{
 			"offsets": [
-				-30,
-				-20
+				-50,
+				-70
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Nikku Right"
+			"name": "NikkuRIGHT"
 		},
 		{
 			"offsets": [
-				60,
-				-50
+				80,
+				-40
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Nikku Left"
+			"name": "NikkuLEFT"
 		},
 		{
 			"offsets": [
-				-20,
-				10
+				-13,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Nikku Up"
+			"name": "NikkuUP"
 		},
 		{
 			"offsets": [
-				-30,
-				-160
+				-25,
+				-157
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Nikku Down"
+			"name": "NikkuDOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-10
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "NikkuUGH",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/NikkuAssets",
 	"position": [
-		0,
-		-170
+		40,
+		-160
 	],
 	"healthicon": "nikku",
 	"flip_x": false,
@@ -74,5 +85,5 @@
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 0.8
+	"scale": 0.9
 }

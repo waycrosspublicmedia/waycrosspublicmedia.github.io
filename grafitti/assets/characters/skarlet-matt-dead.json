@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "skarlet dies0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "death confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-41,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "skarlet death loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skarlet_gameover_matt",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

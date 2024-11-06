@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skarlet-gameover.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skarlet dies0000" x="374" y="6248" width="375" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0001" x="378" y="4464" width="375" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0002" x="746" y="7121" width="373" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0003" x="752" y="6230" width="373" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0004" x="752" y="6230" width="373" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0005" x="1113" y="5335" width="373" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0006" x="1125" y="4445" width="373" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0007" x="1125" y="4445" width="373" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0008" x="1125" y="4445" width="373" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0009" x="1125" y="4445" width="373" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0010" x="1125" y="4445" width="373" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0011" x="1125" y="4445" width="373" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0012" x="1125" y="4445" width="373" height="870" frameX="-2" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0013" x="1128" y="6208" width="372" height="870" frameX="-3" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0014" x="1128" y="6208" width="372" height="870" frameX="-3" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0015" x="754" y="3572" width="375" height="870" frameX="0" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0016" x="754" y="3572" width="375" height="870" frameX="0" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0017" x="755" y="2676" width="374" height="870" frameX="-1" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0018" x="755" y="2676" width="374" height="870" frameX="-1" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0019" x="1503" y="6208" width="368" height="870" frameX="-7" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0020" x="1503" y="6208" width="368" height="870" frameX="-7" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0021" x="1132" y="3572" width="365" height="870" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0022" x="1132" y="3572" width="365" height="870" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0023" x="757" y="893" width="362" height="870" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0024" x="757" y="893" width="362" height="870" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0025" x="2211" y="4465" width="353" height="887" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0026" x="2211" y="4465" width="353" height="887" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0027" x="1489" y="5318" width="363" height="887" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0028" x="2217" y="0" width="363" height="887" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0029" x="1122" y="7103" width="365" height="887" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0030" x="756" y="4445" width="366" height="887" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0031" x="756" y="1782" width="367" height="886" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0032" x="0" y="7133" width="370" height="886" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0033" x="373" y="7133" width="370" height="886" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0034" x="0" y="5355" width="371" height="886" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0035" x="0" y="6244" width="371" height="886" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0036" x="382" y="893" width="372" height="886" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0037" x="381" y="1786" width="372" height="887" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0038" x="0" y="4465" width="375" height="887" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0039" x="377" y="3572" width="374" height="889" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0040" x="1874" y="5358" width="353" height="889" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0041" x="1497" y="2679" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0042" x="1497" y="2679" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0043" x="1497" y="2679" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0044" x="1497" y="2679" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0045" x="1497" y="2679" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0046" x="1856" y="7081" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0047" x="1856" y="7081" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0048" x="1501" y="3572" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0049" x="1501" y="3572" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0050" x="1853" y="2679" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0051" x="1853" y="2679" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0052" x="1862" y="1786" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0053" x="1862" y="1786" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0054" x="1862" y="1786" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0055" x="1862" y="1786" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0056" x="1862" y="1786" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies0057" x="1862" y="1786" width="353" height="890" frameX="-8" frameY="0" frameWidth="383" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0000" x="1855" y="4465" width="353" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0001" x="757" y="0" width="362" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0002" x="757" y="0" width="362" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0003" x="1122" y="0" width="362" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0004" x="1126" y="893" width="362" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0005" x="1487" y="0" width="362" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0006" x="1132" y="1786" width="362" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0007" x="1491" y="893" width="362" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0008" x="1852" y="0" width="362" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0009" x="1132" y="2679" width="362" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0010" x="1497" y="1786" width="362" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0011" x="1856" y="893" width="362" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0012" x="1490" y="7081" width="363" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0013" x="745" y="5337" width="365" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0014" x="374" y="5355" width="368" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0015" x="384" y="0" width="370" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0016" x="379" y="2679" width="373" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0017" x="0" y="3572" width="374" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0018" x="0" y="2679" width="376" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0019" x="0" y="1786" width="378" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0020" x="0" y="893" width="379" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0021" x="0" y="893" width="379" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0022" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0023" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0024" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0025" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0026" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0027" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0028" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0029" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0030" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0031" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0032" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies confirm0033" x="0" y="0" width="381" height="890" frameX="0" frameY="0" frameWidth="382" frameHeight="890"/>
+	<SubTexture name="skarlet dies loop0000" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0001" x="2209" y="2679" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0002" x="2209" y="2679" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0003" x="2218" y="1786" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0004" x="2218" y="1786" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0005" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0006" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0007" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0008" x="2221" y="890" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0009" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0010" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0011" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0012" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0013" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0014" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0015" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0016" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0017" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0018" x="2209" y="2679" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0019" x="2209" y="2679" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0020" x="2218" y="1786" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0021" x="2218" y="1786" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0022" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0023" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0024" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0025" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0026" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0027" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0028" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0029" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0030" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0031" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0032" x="1857" y="3572" width="353" height="890"/>
+	<SubTexture name="skarlet dies loop0033" x="1857" y="3572" width="353" height="890"/>
+</TextureAtlas>

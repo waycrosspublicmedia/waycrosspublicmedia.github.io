@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				5,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				2,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				1,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "nod",
+			"indices": [],
+			"name": "nod"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				0
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/the_man_himself",
+	"position": [
+		100,
+		160
+	],
+	"healthicon": "matt",
+	"flip_x": false,
+	"healthbar_colors": [
+		232,
+		136,
+		39
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

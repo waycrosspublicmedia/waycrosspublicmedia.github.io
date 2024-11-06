@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-74,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-124,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-175,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-172,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-172,
+				75
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-124,
+				-97
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-175,
+				-57
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-80
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-41,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/playableskarlet",
+	"position": [
+		0,
+		110
+	],
+	"healthicon": "skarlet",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		25,
+		82
+	],
+	"camera_position": [
+		0,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

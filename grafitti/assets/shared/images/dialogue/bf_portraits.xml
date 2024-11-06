@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_portraits.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beep0000" x="1834" y="2" width="605" height="617"/>
+	<SubTexture name="beep0001" x="1834" y="2" width="605" height="617"/>
+	<SubTexture name="beep0002" x="2441" y="2" width="605" height="617"/>
+	<SubTexture name="beep0003" x="2441" y="2" width="605" height="617"/>
+	<SubTexture name="beep0004" x="3048" y="2" width="605" height="617"/>
+	<SubTexture name="beep0005" x="3048" y="2" width="605" height="617"/>
+	<SubTexture name="beep0006" x="2" y="621" width="605" height="617"/>
+	<SubTexture name="beep0007" x="2" y="621" width="605" height="617"/>
+	<SubTexture name="beep0008" x="609" y="621" width="605" height="617"/>
+	<SubTexture name="beep0009" x="609" y="621" width="605" height="617"/>
+	<SubTexture name="beep0010" x="1216" y="621" width="605" height="617"/>
+	<SubTexture name="beep0011" x="1216" y="621" width="605" height="617"/>
+	<SubTexture name="beep0012" x="1216" y="621" width="605" height="617"/>
+	<SubTexture name="beep0013" x="1216" y="621" width="605" height="617"/>
+	<SubTexture name="empty0000" x="1823" y="621" width="605" height="617"/>
+	<SubTexture name="empty0001" x="1823" y="621" width="605" height="617"/>
+	<SubTexture name="nod0000" x="615" y="2" width="608" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0001" x="615" y="2" width="608" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0002" x="2" y="2" width="611" height="617"/>
+	<SubTexture name="nod0003" x="2" y="2" width="611" height="617"/>
+	<SubTexture name="nod0004" x="1225" y="2" width="607" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0005" x="1225" y="2" width="607" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0006" x="2430" y="621" width="605" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0007" x="2430" y="621" width="605" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0008" x="3037" y="621" width="605" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0009" x="3037" y="621" width="605" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0010" x="3037" y="621" width="605" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0011" x="3037" y="621" width="605" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0012" x="3037" y="621" width="605" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0013" x="3037" y="621" width="605" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+	<SubTexture name="nod0014" x="3037" y="621" width="605" height="617" frameX="0" frameY="0" frameWidth="611" frameHeight="617"/>
+</TextureAtlas>
