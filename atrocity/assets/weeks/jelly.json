@@ -1,0 +1,31 @@
+{
+	"storyName": "jellybean vs skeletons",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "perez",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Atrocity",
+			"skeleton",
+			[
+				255,
+				113,
+				95
+			]
+		]
+	],
+	"weekCharacters": [
+		"skele-dad",
+		"skele",
+		"skele-gf"
+	],
+	"weekName": "Jelly maniac"
+}

@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "bg",
+		"player1": "Jellybean",
+		"player2": "skeleton",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Follow Pos",
+						"1080",
+						"550"
+					]
+				]
+			],
+			[
+				78.9473684210526,
+				[
+					[
+						"Play Animation",
+						"hate",
+						"BF"
+					]
+				]
+			],
+			[
+				119842.105263158,
+				[
+					[
+						"Play Animation",
+						"shutup",
+						"Dad"
+					]
+				]
+			],
+			[
+				121263.157894737,
+				[
+					[
+						"Change Character",
+						"1",
+						"gskeleton"
+					]
+				]
+			],
+			[
+				130105.263157895,
+				[
+					[
+						"Play Animation",
+						"hold up",
+						"BF"
+					]
+				]
+			],
+			[
+				146526.315789474,
+				[
+					[
+						"Play Animation",
+						"broke",
+						"BF"
+					]
+				]
+			],
+			[
+				148105.263157895,
+				[
+					[
+						"Play Animation",
+						"brain",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Atrocity"
+	}
+}

@@ -1,0 +1,281 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-94,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-82,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-88,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-70,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-30,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down miss"
+		},
+		{
+			"offsets": [
+				-26,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left miss"
+		},
+		{
+			"offsets": [
+				-30,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right miss"
+		},
+		{
+			"offsets": [
+				-29,
+				117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up miss"
+		},
+		{
+			"offsets": [
+				-126,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hate",
+			"indices": [],
+			"name": "hatecomments"
+		},
+		{
+			"offsets": [
+				-51,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hold up",
+			"indices": [],
+			"name": "hold up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				0
+			],
+			"anim": "broke",
+			"fps": 24,
+			"name": "brokesomething",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				0
+			],
+			"anim": "no",
+			"fps": 24,
+			"name": "brokesomething",
+			"indices": [
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				0
+			],
+			"anim": "no-loop",
+			"fps": 24,
+			"name": "brokesomething",
+			"indices": [
+				126,
+				127,
+				128,
+				129,
+				130,
+				131
+			]
+		},
+		{
+			"offsets": [
+				-52,
+				0
+			],
+			"indices": [
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "brokesomething"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jellybean",
+	"position": [
+		360,
+		270
+	],
+	"healthicon": "jellybean",
+	"flip_x": true,
+	"healthbar_colors": [
+		126,
+		59,
+		144
+	],
+	"camera_position": [
+		350,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
