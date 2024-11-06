@@ -15,6 +15,7 @@
 	"storyName": "",
 	"weekBefore": "tutorial",
 	"weekName": "Main Week",
+	"difficulties": "normal",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
