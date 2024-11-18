@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:7668d7131a1f9701bdbd0ecdfe2fafd0:90651fa189c7441519abb7bf030ea412:780d5fb79e8980957356f0f66a31d7d5$ -->
+<TextureAtlas imagePath="kaiju.png" width="6884" height="15357">
+    <SubTexture name="Kaiju0001" x="3458" y="6733" rotated="true" width="3216" height="2308" frameX="-29" frameY="-242" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0002" x="3463" y="4462" rotated="true" width="3294" height="2269" frameX="-48" frameY="-165" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0003" x="3463" y="2221" rotated="true" width="3354" height="2239" frameX="-63" frameY="-105" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0004" x="3464" y="1" rotated="true" width="3399" height="2218" frameX="-74" frameY="-61" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0005" x="3453" y="9043" rotated="true" width="3430" height="2203" frameX="-81" frameY="-30" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0006" x="1" y="8766" rotated="true" width="3450" height="2194" frameX="-86" frameY="-11" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0007" x="1" y="2191" rotated="true" width="3460" height="2189" frameX="-88" frameY="-1" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0008" x="1" y="1" rotated="true" width="3461" height="2188" frameX="-89" frameY="0" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0009" x="1" y="4382" rotated="true" width="3460" height="2189" frameX="-88" frameY="-1" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0010" x="1" y="6573" rotated="true" width="3455" height="2191" frameX="-87" frameY="-6" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0011" x="1" y="10962" rotated="true" width="3448" height="2195" frameX="-85" frameY="-13" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0012" x="1" y="13159" rotated="true" width="3443" height="2197" frameX="-84" frameY="-18" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0013" x="3451" y="11248" width="2198" height="3440" frameX="-84" frameY="-21" frameWidth="2368" frameHeight="3470"/>
+    <SubTexture name="Kaiju0014" x="3451" y="11248" width="2198" height="3440" frameX="-84" frameY="-21" frameWidth="2368" frameHeight="3470"/>
+</TextureAtlas>

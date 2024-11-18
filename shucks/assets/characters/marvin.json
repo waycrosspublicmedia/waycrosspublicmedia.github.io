@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				69,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				35,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-109,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-45,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				148
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-13,
+				145
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "talk"
+		},
+		{
+			"offsets": [
+				-13,
+				145
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "talk"
+		},
+		{
+			"offsets": [
+				-13,
+				145
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "talk"
+		},
+		{
+			"offsets": [
+				-13,
+				145
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "talk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/marvin",
+	"position": [
+		110,
+		330
+	],
+	"healthicon": "marvin",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-10,
+		30
+	],
+	"sing_duration": 7.5,
+	"scale": 0.7
+}

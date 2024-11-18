@@ -1,0 +1,17 @@
+{
+  "storyName": "PROJECT FUNKIN",
+  "difficulties": "Normal",
+  "hideFreeplay": false,
+  "weekBackground": "M1KU",
+  "weekBefore": "tutorial",
+  "freeplayColor": [146, 113, 253],
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "songs": [
+    ["Future Sound", "M1KU", [40, 255, 255]],
+    ["Fantasy Girl 01", "M1KU", [40, 255, 255]],
+	["Rabbit Hole Extended", "M1KU", [40, 255, 255]]
+  ],
+  "weekCharacters": ["M1KU", "bf", "gf"],
+  "weekName": "PROJECTFUNKIN"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speakers.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backspeakers0000" x="2" y="2" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0001" x="2" y="2" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0002" x="1879" y="2" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0003" x="1879" y="2" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0004" x="1879" y="2" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0005" x="2" y="1172" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0006" x="1879" y="1172" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0007" x="2" y="2342" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0008" x="1879" y="2342" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0009" x="1879" y="2342" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0010" x="2" y="3512" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0011" x="2" y="3512" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0012" x="1879" y="3512" width="1861" height="1154"/>
+	<SubTexture name="backspeakers0013" x="1879" y="3512" width="1861" height="1154"/>
+</TextureAtlas>

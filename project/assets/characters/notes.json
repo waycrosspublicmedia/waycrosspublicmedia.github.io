@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "purple",
+			"loop": false,
+			"name": "purple0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "red",
+			"loop": false,
+			"name": "red0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "arrowRIGHT",
+			"loop": false,
+			"name": "arrowRIGHT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "NOTE_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "M1KU",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		247
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

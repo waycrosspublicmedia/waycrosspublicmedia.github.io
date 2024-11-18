@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTESPLASHES.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Note_Impact_Blue0000" x="5" y="5" width="640" height="577" pivotX="359.95" pivotY="288.4"/>
+	<SubTexture name="Note_Impact_Blue0001" x="650" y="5" width="640" height="577"/>
+	<SubTexture name="Note_Impact_Blue0002" x="1295" y="5" width="640" height="577"/>
+	<SubTexture name="Note_Impact_Blue0003" x="1940" y="5" width="640" height="577"/>
+	<SubTexture name="Note_Impact_Blue0004" x="2585" y="5" width="640" height="577"/>
+	<SubTexture name="Note_Impact_Blue0005" x="2585" y="5" width="640" height="577"/>
+	<SubTexture name="Note_Impact_Blue0006" x="3230" y="5" width="640" height="577"/>
+	<SubTexture name="Note_Impact_Blue0007" x="3230" y="5" width="640" height="577"/>
+	<SubTexture name="Note_Impact_Blue0008" x="5" y="587" width="640" height="577"/>
+	<SubTexture name="Note_Impact_Green0000" x="650" y="587" width="660" height="626" pivotX="393.2" pivotY="300.45"/>
+	<SubTexture name="Note_Impact_Green0001" x="1315" y="587" width="660" height="626"/>
+	<SubTexture name="Note_Impact_Green0002" x="1980" y="587" width="660" height="626"/>
+	<SubTexture name="Note_Impact_Green0003" x="2645" y="587" width="660" height="626"/>
+	<SubTexture name="Note_Impact_Green0004" x="3310" y="587" width="660" height="626"/>
+	<SubTexture name="Note_Impact_Green0005" x="3310" y="587" width="660" height="626"/>
+	<SubTexture name="Note_Impact_Green0006" x="5" y="1218" width="660" height="626"/>
+	<SubTexture name="Note_Impact_Purple0000" x="670" y="1218" width="674" height="587" pivotX="399.6" pivotY="261.05"/>
+	<SubTexture name="Note_Impact_Purple0001" x="1349" y="1218" width="674" height="587"/>
+	<SubTexture name="Note_Impact_Purple0002" x="2028" y="1218" width="674" height="587"/>
+	<SubTexture name="Note_Impact_Purple0003" x="2707" y="1218" width="674" height="587"/>
+	<SubTexture name="Note_Impact_Purple0004" x="3386" y="1218" width="674" height="587"/>
+	<SubTexture name="Note_Impact_Purple0005" x="3386" y="1218" width="674" height="587"/>
+	<SubTexture name="Note_Impact_Purple0006" x="5" y="1849" width="674" height="587"/>
+	<SubTexture name="Note_Impact_Red0000" x="684" y="1849" width="674" height="587" pivotX="399.6" pivotY="261.05"/>
+	<SubTexture name="Note_Impact_Red0001" x="1363" y="1849" width="674" height="587"/>
+	<SubTexture name="Note_Impact_Red0002" x="2042" y="1849" width="674" height="587"/>
+	<SubTexture name="Note_Impact_Red0003" x="2721" y="1849" width="674" height="587"/>
+	<SubTexture name="Note_Impact_Red0004" x="3400" y="1849" width="674" height="587"/>
+	<SubTexture name="Note_Impact_Red0005" x="3400" y="1849" width="674" height="587"/>
+	<SubTexture name="Note_Impact_Red0006" x="5" y="1849" width="674" height="587"/>
+</TextureAtlas>

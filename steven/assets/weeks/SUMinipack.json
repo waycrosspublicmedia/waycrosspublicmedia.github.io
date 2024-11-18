@@ -1,0 +1,50 @@
+{
+	"storyName": "Love Like Funk!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "SUMinipack",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"My Monster",
+			"steven",
+			[
+				120,
+				160,
+				255
+			]
+		],
+		[
+			"Spinterview",
+			"spinel",
+			[
+				255,
+				0,
+				175
+			]
+		],
+		[
+			"Aint Shiz",
+			"sud",
+			[
+				86,
+				73,
+				193
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "SUMinipack"
+}

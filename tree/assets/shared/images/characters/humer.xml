@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="humer.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="humer down 0000" x="25" y="25" width="987" height="826" frameX="0" frameY="-20" frameWidth="987" frameHeight="846"/>
+	<SubTexture name="humer down 0001" x="25" y="25" width="987" height="826" frameX="0" frameY="-20" frameWidth="987" frameHeight="846"/>
+	<SubTexture name="humer down 0002" x="1037" y="25" width="972" height="835" frameX="-11" frameY="-11" frameWidth="987" frameHeight="846"/>
+	<SubTexture name="humer down 0003" x="1037" y="25" width="972" height="835" frameX="-11" frameY="-11" frameWidth="987" frameHeight="846"/>
+	<SubTexture name="humer down 0004" x="2034" y="25" width="961" height="844" frameX="-17" frameY="-2" frameWidth="987" frameHeight="846"/>
+	<SubTexture name="humer down 0005" x="2034" y="25" width="961" height="844" frameX="-17" frameY="-2" frameWidth="987" frameHeight="846"/>
+	<SubTexture name="humer down 0006" x="3020" y="25" width="957" height="846" frameX="-21" frameY="0" frameWidth="987" frameHeight="846"/>
+	<SubTexture name="humer down 0007" x="3020" y="25" width="957" height="846" frameX="-21" frameY="0" frameWidth="987" frameHeight="846"/>
+	<SubTexture name="humer down 0008" x="3020" y="25" width="957" height="846" frameX="-21" frameY="0" frameWidth="987" frameHeight="846"/>
+	<SubTexture name="humer idle 0000" x="4002" y="25" width="860" height="887" frameX="0" frameY="-27" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0001" x="4002" y="25" width="860" height="887" frameX="0" frameY="-27" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0002" x="4887" y="25" width="856" height="891" frameX="-5" frameY="-23" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0003" x="4887" y="25" width="856" height="891" frameX="-5" frameY="-23" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0004" x="25" y="941" width="840" height="891" frameX="-21" frameY="-23" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0005" x="25" y="941" width="840" height="891" frameX="-21" frameY="-23" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0006" x="890" y="941" width="820" height="906" frameX="-41" frameY="-8" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0007" x="890" y="941" width="820" height="906" frameX="-41" frameY="-8" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0008" x="1735" y="941" width="814" height="912" frameX="-47" frameY="-2" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0009" x="1735" y="941" width="814" height="912" frameX="-47" frameY="-2" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0010" x="2574" y="941" width="808" height="914" frameX="-53" frameY="0" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0011" x="2574" y="941" width="808" height="914" frameX="-53" frameY="0" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0012" x="2574" y="941" width="808" height="914" frameX="-53" frameY="0" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0013" x="2574" y="941" width="808" height="914" frameX="-53" frameY="0" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0014" x="2574" y="941" width="808" height="914" frameX="-53" frameY="0" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0015" x="2574" y="941" width="808" height="914" frameX="-53" frameY="0" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0016" x="3407" y="941" width="800" height="909" frameX="-61" frameY="-5" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer idle 0017" x="3407" y="941" width="800" height="909" frameX="-61" frameY="-5" frameWidth="861" frameHeight="914"/>
+	<SubTexture name="humer left 0000" x="4232" y="941" width="949" height="910" frameX="-24" frameY="-8" frameWidth="973" frameHeight="918"/>
+	<SubTexture name="humer left 0001" x="4232" y="941" width="949" height="910" frameX="-24" frameY="-8" frameWidth="973" frameHeight="918"/>
+	<SubTexture name="humer left 0002" x="5206" y="941" width="971" height="906" frameX="0" frameY="-10" frameWidth="973" frameHeight="918"/>
+	<SubTexture name="humer left 0003" x="5206" y="941" width="971" height="906" frameX="0" frameY="-10" frameWidth="973" frameHeight="918"/>
+	<SubTexture name="humer left 0004" x="25" y="1880" width="949" height="913" frameX="-4" frameY="-3" frameWidth="973" frameHeight="918"/>
+	<SubTexture name="humer left 0005" x="25" y="1880" width="949" height="913" frameX="-4" frameY="-3" frameWidth="973" frameHeight="918"/>
+	<SubTexture name="humer left 0006" x="999" y="1880" width="921" height="916" frameX="-12" frameY="0" frameWidth="973" frameHeight="918"/>
+	<SubTexture name="humer left 0007" x="999" y="1880" width="921" height="916" frameX="-12" frameY="0" frameWidth="973" frameHeight="918"/>
+	<SubTexture name="humer left 0008" x="999" y="1880" width="921" height="916" frameX="-12" frameY="0" frameWidth="973" frameHeight="918"/>
+	<SubTexture name="humer right 0000" x="1945" y="1880" width="1012" height="877" frameX="0" frameY="-4" frameWidth="1012" frameHeight="881"/>
+	<SubTexture name="humer right 0001" x="1945" y="1880" width="1012" height="877" frameX="0" frameY="-4" frameWidth="1012" frameHeight="881"/>
+	<SubTexture name="humer right 0002" x="2982" y="1880" width="996" height="875" frameX="-13" frameY="-6" frameWidth="1012" frameHeight="881"/>
+	<SubTexture name="humer right 0003" x="2982" y="1880" width="996" height="875" frameX="-13" frameY="-6" frameWidth="1012" frameHeight="881"/>
+	<SubTexture name="humer right 0004" x="4003" y="1880" width="975" height="872" frameX="-34" frameY="-9" frameWidth="1012" frameHeight="881"/>
+	<SubTexture name="humer right 0005" x="4003" y="1880" width="975" height="872" frameX="-34" frameY="-9" frameWidth="1012" frameHeight="881"/>
+	<SubTexture name="humer right 0006" x="5003" y="1880" width="966" height="879" frameX="-43" frameY="-2" frameWidth="1012" frameHeight="881"/>
+	<SubTexture name="humer right 0007" x="5003" y="1880" width="966" height="879" frameX="-43" frameY="-2" frameWidth="1012" frameHeight="881"/>
+	<SubTexture name="humer right 0008" x="25" y="2821" width="970" height="881" frameX="-39" frameY="0" frameWidth="1012" frameHeight="881"/>
+	<SubTexture name="humer right 0009" x="25" y="2821" width="970" height="881" frameX="-39" frameY="0" frameWidth="1012" frameHeight="881"/>
+	<SubTexture name="humer right 0010" x="25" y="2821" width="970" height="881" frameX="-39" frameY="0" frameWidth="1012" frameHeight="881"/>
+	<SubTexture name="humer up 0000" x="1020" y="2821" width="837" height="1183" frameX="-32" frameY="0" frameWidth="869" frameHeight="1183"/>
+	<SubTexture name="humer up 0001" x="1020" y="2821" width="837" height="1183" frameX="-32" frameY="0" frameWidth="869" frameHeight="1183"/>
+	<SubTexture name="humer up 0002" x="1882" y="2821" width="837" height="1163" frameX="-17" frameY="-20" frameWidth="869" frameHeight="1183"/>
+	<SubTexture name="humer up 0003" x="1882" y="2821" width="837" height="1163" frameX="-17" frameY="-20" frameWidth="869" frameHeight="1183"/>
+	<SubTexture name="humer up 0004" x="2744" y="2821" width="839" height="1151" frameX="-5" frameY="-32" frameWidth="869" frameHeight="1183"/>
+	<SubTexture name="humer up 0005" x="2744" y="2821" width="839" height="1151" frameX="-5" frameY="-32" frameWidth="869" frameHeight="1183"/>
+	<SubTexture name="humer up 0006" x="3608" y="2821" width="840" height="1146" frameX="0" frameY="-37" frameWidth="869" frameHeight="1183"/>
+	<SubTexture name="humer up 0007" x="3608" y="2821" width="840" height="1146" frameX="0" frameY="-37" frameWidth="869" frameHeight="1183"/>
+	<SubTexture name="humer up 0008" x="3608" y="2821" width="840" height="1146" frameX="0" frameY="-37" frameWidth="869" frameHeight="1183"/>
+</TextureAtlas>

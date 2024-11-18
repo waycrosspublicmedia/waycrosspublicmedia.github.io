@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:3939b30b78ed33a4686f73b2ad6593f7:ba8c0e537de0b252535ff36f1044659c:0a0eaecbd9eba7eb10807d7e3eb69d7c$ -->
+<TextureAtlas imagePath="Stars.png" width="7802" height="5018">
+    <SubTexture name="Stars/Stars0001" x="5469" y="3326" rotated="true" width="770" height="1656" frameX="-10" frameY="-16" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0002" x="4720" y="1" rotated="true" width="772" height="1658" frameX="-10" frameY="-15" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0003" x="3944" y="1" rotated="true" width="774" height="1662" frameX="-9" frameY="-13" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0004" x="781" y="3353" rotated="true" width="777" height="1663" frameX="-9" frameY="-11" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0005" x="1560" y="3352" rotated="true" width="779" height="1665" frameX="-8" frameY="-9" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0006" x="3157" y="1672" rotated="true" width="781" height="1667" frameX="-7" frameY="-7" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0007" x="2341" y="3349" rotated="true" width="784" height="1668" frameX="-6" frameY="-4" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0008" x="2370" y="1" rotated="true" width="785" height="1670" frameX="-4" frameY="-3" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0009" x="1581" y="1676" rotated="true" width="786" height="1671" frameX="-3" frameY="-2" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0010" x="1581" y="1" rotated="true" width="787" height="1673" frameX="-1" frameY="-1" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0011" x="1" y="1" rotated="true" width="788" height="1674"/>
+    <SubTexture name="Stars/Stars0012" x="1" y="1677" rotated="true" width="788" height="1674"/>
+    <SubTexture name="Stars/Stars0013" x="791" y="1" rotated="true" width="788" height="1674"/>
+    <SubTexture name="Stars/Stars0014" x="791" y="1677" rotated="true" width="788" height="1673" frameX="0" frameY="0" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0015" x="2369" y="1676" rotated="true" width="786" height="1671" frameX="0" frameY="-2" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0016" x="3157" y="1" rotated="true" width="785" height="1669" frameX="0" frameY="-2" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0017" x="3127" y="3349" rotated="true" width="783" height="1668" frameX="0" frameY="-4" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0018" x="3912" y="3341" rotated="true" width="780" height="1666" frameX="0" frameY="-6" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0019" x="1" y="3353" rotated="true" width="778" height="1664" frameX="0" frameY="-7" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0020" x="3940" y="1672" rotated="true" width="775" height="1663" frameX="-1" frameY="-10" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0021" x="4694" y="3337" rotated="true" width="773" height="1660" frameX="-2" frameY="-12" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0022" x="4717" y="1665" rotated="true" width="771" height="1659" frameX="-3" frameY="-14" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0023" x="5490" y="1661" rotated="true" width="769" height="1656" frameX="-5" frameY="-15" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0024" x="5494" y="1" rotated="true" width="768" height="1655" frameX="-6" frameY="-16" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0025" x="7011" y="3314" rotated="true" width="767" height="1654" frameX="-7" frameY="-17" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0026" x="7034" y="1" rotated="true" width="767" height="1653" frameX="-8" frameY="-17" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0027" x="7031" y="1657" rotated="true" width="768" height="1653" frameX="-9" frameY="-17" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0028" x="6261" y="1658" rotated="true" width="768" height="1654" frameX="-9" frameY="-17" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0029" x="6264" y="1" rotated="true" width="768" height="1654" frameX="-10" frameY="-17" frameWidth="1674" frameHeight="788"/>
+    <SubTexture name="Stars/Stars0030" x="6241" y="3319" rotated="true" width="768" height="1655" frameX="-10" frameY="-17" frameWidth="1674" frameHeight="788"/>
+</TextureAtlas>

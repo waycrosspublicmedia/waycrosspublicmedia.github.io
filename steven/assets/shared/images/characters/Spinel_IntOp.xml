@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:458351bdda0e19f57fa39dd5745673ea:ffb2ae33f9b380b848a882d492ce1853:6c516b5a689a5577b28f01334c6aa9e4$ -->
+<TextureAtlas imagePath="Spinel_IntOp.png" width="3972" height="3644">
+    <SubTexture name="Spinel/Down/Spin_Shadow0039" x="1548" y="692" width="788" height="719" frameX="-359" frameY="-381" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Down/Spin_Shadow0040" x="1548" y="692" width="788" height="719" frameX="-359" frameY="-381" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Down/Spin_Shadow0041" x="782" y="1" width="787" height="680" frameX="-359" frameY="-420" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Down/Spin_Shadow0042" x="782" y="1" width="787" height="680" frameX="-359" frameY="-420" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Down/Spin_Shadow0043" x="2365" y="1" width="792" height="690" frameX="-357" frameY="-410" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Down/Spin_Shadow0044" x="2365" y="1" width="792" height="690" frameX="-357" frameY="-410" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Down/Spin_Shadow0045" x="2365" y="1" width="792" height="690" frameX="-357" frameY="-410" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Down/Spin_Shadow0046" x="2365" y="1" width="792" height="690" frameX="-357" frameY="-410" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Down/Spin_Shadow0047" x="2365" y="1" width="792" height="690" frameX="-357" frameY="-410" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0001" x="3175" y="2143" width="796" height="726" frameX="-354" frameY="-374" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0002" x="1571" y="1" width="792" height="689" frameX="-357" frameY="-411" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0003" x="1" y="1" width="779" height="675" frameX="-364" frameY="-424" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0004" x="3159" y="1" width="768" height="691" frameX="-370" frameY="-409" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0005" x="1" y="678" width="762" height="700" frameX="-373" frameY="-399" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0006" x="765" y="683" width="781" height="714" frameX="-363" frameY="-385" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0007" x="2382" y="1418" width="788" height="723" frameX="-359" frameY="-377" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0008" x="794" y="2137" width="791" height="724" frameX="-358" frameY="-375" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0009" x="2381" y="2143" width="792" height="725" frameX="-357" frameY="-375" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0010" x="1587" y="2139" width="792" height="724" frameX="-357" frameY="-376" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0011" x="3172" y="1418" width="791" height="723" frameX="-358" frameY="-377" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0012" x="1" y="2123" width="791" height="723" frameX="-358" frameY="-377" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0013" x="3130" y="694" width="791" height="722" frameX="-358" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Idle/Spin_Shadow0014" x="3130" y="694" width="791" height="722" frameX="-358" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Left/Spin_Shadow0015" x="2338" y="693" width="790" height="720" frameX="-360" frameY="-380" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Left/Spin_Shadow0016" x="2338" y="693" width="790" height="720" frameX="-360" frameY="-380" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Left/Spin_Shadow0017" x="787" y="2863" width="794" height="747" frameX="-337" frameY="-353" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Left/Spin_Shadow0018" x="787" y="2863" width="794" height="747" frameX="-337" frameY="-353" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Left/Spin_Shadow0019" x="1" y="1399" width="792" height="722" frameX="-320" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Left/Spin_Shadow0020" x="1" y="1399" width="792" height="722" frameX="-320" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Left/Spin_Shadow0021" x="1" y="1399" width="792" height="722" frameX="-320" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Left/Spin_Shadow0022" x="1" y="1399" width="792" height="722" frameX="-320" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Right/Spin_Shadow0023" x="795" y="1413" width="792" height="722" frameX="-357" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Right/Spin_Shadow0024" x="795" y="1413" width="792" height="722" frameX="-357" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Right/Spin_Shadow0025" x="1583" y="2865" width="782" height="747" frameX="-396" frameY="-353" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Right/Spin_Shadow0026" x="1583" y="2865" width="782" height="747" frameX="-396" frameY="-353" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Right/Spin_Shadow0027" x="1589" y="1415" width="791" height="722" frameX="-387" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Right/Spin_Shadow0028" x="1589" y="1415" width="791" height="722" frameX="-387" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Right/Spin_Shadow0029" x="1589" y="1415" width="791" height="722" frameX="-387" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Right/Spin_Shadow0030" x="1589" y="1415" width="791" height="722" frameX="-387" frameY="-378" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Up/Spin_Shadow0031" x="1" y="2848" width="784" height="737" frameX="-362" frameY="-362" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Up/Spin_Shadow0032" x="1" y="2848" width="784" height="737" frameX="-362" frameY="-362" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Up/Spin_Shadow0033" x="3160" y="2871" width="789" height="772" frameX="-359" frameY="-328" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Up/Spin_Shadow0034" x="3160" y="2871" width="789" height="772" frameX="-359" frameY="-328" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Up/Spin_Shadow0035" x="2367" y="2870" width="791" height="748" frameX="-358" frameY="-351" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Up/Spin_Shadow0036" x="2367" y="2870" width="791" height="748" frameX="-358" frameY="-351" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Up/Spin_Shadow0037" x="2367" y="2870" width="791" height="748" frameX="-358" frameY="-351" frameWidth="1496" frameHeight="1220"/>
+    <SubTexture name="Spinel/Up/Spin_Shadow0038" x="2367" y="2870" width="791" height="748" frameX="-358" frameY="-351" frameWidth="1496" frameHeight="1220"/>
+</TextureAtlas>

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jeffy_Front_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				58
+			],
+			"anim": "yap",
+			"fps": 24,
+			"name": "Jeffy",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/jeffy_front",
+	"position": [
+		450,
+		-400
+	],
+	"healthicon": "diaperbeater",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		121,
+		61
+	],
+	"camera_position": [
+		-250,
+		80
+	],
+	"sing_duration": 7.5,
+	"scale": 1
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="miktwim.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down_miku0000" x="2" y="2" width="478" height="598" frameX="-17" frameY="-9" frameWidth="499" frameHeight="607"/>
+	<SubTexture name="down_miku0001" x="2" y="2" width="478" height="598" frameX="-17" frameY="-9" frameWidth="499" frameHeight="607"/>
+	<SubTexture name="down_miku0002" x="496" y="2" width="495" height="604" frameX="-3" frameY="-3" frameWidth="499" frameHeight="607"/>
+	<SubTexture name="down_miku0003" x="496" y="2" width="495" height="604" frameX="-3" frameY="-3" frameWidth="499" frameHeight="607"/>
+	<SubTexture name="down_miku0004" x="1007" y="2" width="496" height="606" frameX="-2" frameY="-1" frameWidth="499" frameHeight="607"/>
+	<SubTexture name="down_miku0005" x="1007" y="2" width="496" height="606" frameX="-2" frameY="-1" frameWidth="499" frameHeight="607"/>
+	<SubTexture name="down_miku0006" x="1519" y="2" width="496" height="607" frameX="-2" frameY="0" frameWidth="499" frameHeight="607"/>
+	<SubTexture name="down_miku0007" x="1519" y="2" width="496" height="607" frameX="-2" frameY="0" frameWidth="499" frameHeight="607"/>
+	<SubTexture name="down_miku0008" x="2031" y="2" width="499" height="607"/>
+	<SubTexture name="down_miku0009" x="2031" y="2" width="499" height="607"/>
+	<SubTexture name="down_miku0010" x="2031" y="2" width="499" height="607"/>
+	<SubTexture name="down_miku0011" x="2031" y="2" width="499" height="607"/>
+	<SubTexture name="down_miku0012" x="2031" y="2" width="499" height="607"/>
+	<SubTexture name="down_miku0013" x="2031" y="2" width="499" height="607"/>
+	<SubTexture name="idle_miku0000" x="2546" y="2" width="424" height="694" frameX="-8" frameY="-11" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0001" x="2546" y="2" width="424" height="694" frameX="-8" frameY="-11" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0002" x="2986" y="2" width="418" height="695" frameX="-16" frameY="-10" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0003" x="2986" y="2" width="418" height="695" frameX="-16" frameY="-10" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0004" x="3420" y="2" width="422" height="699" frameX="-12" frameY="-6" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0005" x="3420" y="2" width="422" height="699" frameX="-12" frameY="-6" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0006" x="3858" y="2" width="424" height="702" frameX="-10" frameY="-3" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0007" x="3858" y="2" width="424" height="702" frameX="-10" frameY="-3" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0008" x="4298" y="2" width="433" height="705" frameX="-2" frameY="0" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0009" x="4298" y="2" width="433" height="705" frameX="-2" frameY="0" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0010" x="4747" y="2" width="433" height="705" frameX="-1" frameY="0" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0011" x="4747" y="2" width="433" height="705" frameX="-1" frameY="0" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0012" x="5196" y="2" width="433" height="705" frameX="0" frameY="0" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="idle_miku0013" x="5196" y="2" width="433" height="705" frameX="0" frameY="0" frameWidth="435" frameHeight="705"/>
+	<SubTexture name="left_miku0000" x="5645" y="2" width="488" height="735" frameX="0" frameY="0" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0001" x="5645" y="2" width="488" height="735" frameX="0" frameY="0" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0002" x="6149" y="2" width="473" height="735" frameX="-12" frameY="0" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0003" x="6149" y="2" width="473" height="735" frameX="-12" frameY="0" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0004" x="6638" y="2" width="467" height="733" frameX="-18" frameY="-2" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0005" x="6638" y="2" width="467" height="733" frameX="-18" frameY="-2" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0006" x="7121" y="2" width="466" height="731" frameX="-23" frameY="-4" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0007" x="7121" y="2" width="466" height="731" frameX="-23" frameY="-4" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0008" x="7603" y="2" width="468" height="730" frameX="-24" frameY="-5" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0009" x="7603" y="2" width="468" height="730" frameX="-24" frameY="-5" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0010" x="7603" y="2" width="468" height="730" frameX="-24" frameY="-5" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0011" x="7603" y="2" width="468" height="730" frameX="-24" frameY="-5" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0012" x="7603" y="2" width="468" height="730" frameX="-24" frameY="-5" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="left_miku0013" x="7603" y="2" width="468" height="730" frameX="-24" frameY="-5" frameWidth="492" frameHeight="735"/>
+	<SubTexture name="right_miku0000" x="2" y="753" width="491" height="736" frameX="-16" frameY="0" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0001" x="2" y="753" width="491" height="736" frameX="-16" frameY="0" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0002" x="509" y="753" width="476" height="733" frameX="-9" frameY="-3" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0003" x="509" y="753" width="476" height="733" frameX="-9" frameY="-3" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0004" x="1001" y="753" width="471" height="732" frameX="-1" frameY="-4" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0005" x="1001" y="753" width="471" height="732" frameX="-1" frameY="-4" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0006" x="1488" y="753" width="469" height="731" frameX="-1" frameY="-5" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0007" x="1488" y="753" width="469" height="731" frameX="-1" frameY="-5" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0008" x="1973" y="753" width="469" height="730" frameX="0" frameY="-6" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0009" x="1973" y="753" width="469" height="730" frameX="0" frameY="-6" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0010" x="1973" y="753" width="469" height="730" frameX="0" frameY="-6" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0011" x="1973" y="753" width="469" height="730" frameX="0" frameY="-6" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0012" x="1973" y="753" width="469" height="730" frameX="0" frameY="-6" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="right_miku0013" x="1973" y="753" width="469" height="730" frameX="0" frameY="-6" frameWidth="507" frameHeight="736"/>
+	<SubTexture name="up_miku0000" x="2458" y="753" width="418" height="796" frameX="0" frameY="0" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0001" x="2458" y="753" width="418" height="796" frameX="0" frameY="0" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0002" x="2892" y="753" width="420" height="788" frameX="-3" frameY="-8" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0003" x="2892" y="753" width="420" height="788" frameX="-3" frameY="-8" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0004" x="3328" y="753" width="418" height="783" frameX="-6" frameY="-13" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0005" x="3328" y="753" width="418" height="783" frameX="-6" frameY="-13" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0006" x="3762" y="753" width="421" height="780" frameX="-6" frameY="-16" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0007" x="3762" y="753" width="421" height="780" frameX="-6" frameY="-16" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0008" x="4199" y="753" width="422" height="778" frameX="-5" frameY="-18" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0009" x="4199" y="753" width="422" height="778" frameX="-5" frameY="-18" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0010" x="4199" y="753" width="422" height="778" frameX="-5" frameY="-18" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0011" x="4199" y="753" width="422" height="778" frameX="-5" frameY="-18" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0012" x="4199" y="753" width="422" height="778" frameX="-5" frameY="-18" frameWidth="427" frameHeight="796"/>
+	<SubTexture name="up_miku0013" x="4199" y="753" width="422" height="778" frameX="-5" frameY="-18" frameWidth="427" frameHeight="796"/>
+</TextureAtlas>

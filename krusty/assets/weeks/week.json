@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"krusty karoling",
+			"squidward",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "krusty",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"menu_sponge",
+		"",
+		""
+	],
+	"storyName": "gamebanana retro jam",
+	"weekName": "weekk",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

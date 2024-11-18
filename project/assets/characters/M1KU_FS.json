@@ -1,0 +1,109 @@
+{
+  "animations": [
+    {
+      "offsets": [176, -100],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "miku_idle"
+    },
+    {
+      "offsets": [163, -116],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "miku_right0"
+    },
+    {
+      "offsets": [161, -121],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "miku_down0"
+    },
+    {
+      "offsets": [267, 241],
+      "loop": false,
+      "fps": 24,
+      "anim": "deathConfirm",
+      "indices": [],
+      "name": "death_confirm_miku"
+    },
+    {
+      "offsets": [179, 21],
+      "loop": true,
+      "fps": 24,
+      "anim": "deathLoop",
+      "indices": [],
+      "name": "death_loop_miku"
+    },
+    {
+      "offsets": [179, 21],
+      "loop": false,
+      "fps": 24,
+      "anim": "firstDeath",
+      "indices": [],
+      "name": "death_miku"
+    },
+    {
+      "offsets": [181, -64],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "miku_up0"
+    },
+    {
+      "offsets": [278, -118],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "miku_left0"
+    },
+    {
+      "offsets": [154, -113],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "miku_right_miss"
+    },
+    {
+      "offsets": [184, -132],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [],
+      "name": "miku_down_miss"
+    },
+    {
+      "offsets": [210, -63],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUPmiss",
+      "indices": [],
+      "name": "miku_up_miss"
+    },
+    {
+      "offsets": [278, -118],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [],
+      "name": "miku_left_miss"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/M1KU_FS",
+  "position": [0, 0],
+  "healthicon": "M1KU",
+  "flip_x": true,
+  "healthbar_colors": [0, 255, 247],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 1
+}

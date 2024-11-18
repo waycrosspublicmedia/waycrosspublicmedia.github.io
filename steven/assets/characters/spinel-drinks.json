@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Spinel/Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Spinel/Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Spinel/Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Spinel/Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Spinel/Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "gulp",
+			"fps": 24,
+			"name": "Spinel/Gulp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "slam",
+			"fps": 24,
+			"name": "Spinel/Slam",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "burp",
+			"fps": 24,
+			"name": "Spinel/Burp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "sigh",
+			"fps": 24,
+			"name": "Spinel/Sigh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SpinelDrinks",
+	"position": [
+		-250,
+		-230
+	],
+	"healthicon": "spd",
+	"flip_x": true,
+	"healthbar_colors": [
+		230,
+		192,
+		217
+	],
+	"camera_position": [
+		80,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

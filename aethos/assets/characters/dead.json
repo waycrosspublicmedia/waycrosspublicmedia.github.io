@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "die"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/die",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "marvin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-400,
+		-0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				124
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				93
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				272
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				83
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				150
+			],
+			"anim": "singLEFT-alt",
+			"fps": 6,
+			"name": "talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				150
+			],
+			"anim": "singUP-alt",
+			"fps": 6,
+			"name": "talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				150
+			],
+			"anim": "singDOWN-alt",
+			"fps": 6,
+			"name": "talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				150
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 6,
+			"name": "talk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jerry",
+	"position": [
+		10,
+		210
+	],
+	"healthicon": "jeffy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		121,
+		61
+	],
+	"camera_position": [
+		-20,
+		30
+	],
+	"sing_duration": 7.5,
+	"scale": 0.7
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="effect.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="effectstage0000" x="2" y="2" width="1678" height="813" frameX="-61" frameY="-32" frameWidth="1794" frameHeight="875"/>
+	<SubTexture name="effectstage0001" x="2" y="2" width="1678" height="813" frameX="-61" frameY="-32" frameWidth="1794" frameHeight="875"/>
+	<SubTexture name="effectstage0002" x="2" y="2" width="1678" height="813" frameX="-61" frameY="-32" frameWidth="1794" frameHeight="875"/>
+	<SubTexture name="effectstage0003" x="2" y="2" width="1678" height="813" frameX="-61" frameY="-32" frameWidth="1794" frameHeight="875"/>
+	<SubTexture name="effectstage0004" x="2" y="2" width="1678" height="813" frameX="-61" frameY="-32" frameWidth="1794" frameHeight="875"/>
+	<SubTexture name="effectstage0005" x="1696" y="2" width="1794" height="875"/>
+	<SubTexture name="effectstage0006" x="1696" y="2" width="1794" height="875"/>
+	<SubTexture name="effectstage0007" x="1696" y="2" width="1794" height="875"/>
+	<SubTexture name="effectstage0008" x="1696" y="2" width="1794" height="875"/>
+	<SubTexture name="effectstage0009" x="1696" y="2" width="1794" height="875"/>
+	<SubTexture name="effectstage0010" x="3506" y="2" width="1734" height="833" frameX="-47" frameY="-22" frameWidth="1794" frameHeight="875"/>
+	<SubTexture name="effectstage0011" x="3506" y="2" width="1734" height="833" frameX="-47" frameY="-22" frameWidth="1794" frameHeight="875"/>
+	<SubTexture name="effectstage0012" x="3506" y="2" width="1734" height="833" frameX="-47" frameY="-22" frameWidth="1794" frameHeight="875"/>
+	<SubTexture name="effectstage0013" x="3506" y="2" width="1734" height="833" frameX="-47" frameY="-22" frameWidth="1794" frameHeight="875"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="teto_idle.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="teto_idle0000" x="2" y="2" width="334" height="349" frameX="-1" frameY="-14" frameWidth="335" frameHeight="363"/>
+	<SubTexture name="teto_idle0001" x="2" y="2" width="334" height="349" frameX="-1" frameY="-14" frameWidth="335" frameHeight="363"/>
+	<SubTexture name="teto_idle0002" x="352" y="2" width="334" height="356" frameX="-1" frameY="-7" frameWidth="335" frameHeight="363"/>
+	<SubTexture name="teto_idle0003" x="352" y="2" width="334" height="356" frameX="-1" frameY="-7" frameWidth="335" frameHeight="363"/>
+	<SubTexture name="teto_idle0004" x="702" y="2" width="334" height="359" frameX="-1" frameY="-4" frameWidth="335" frameHeight="363"/>
+	<SubTexture name="teto_idle0005" x="702" y="2" width="334" height="359" frameX="-1" frameY="-4" frameWidth="335" frameHeight="363"/>
+	<SubTexture name="teto_idle0006" x="1052" y="2" width="335" height="362" frameX="0" frameY="-1" frameWidth="335" frameHeight="363"/>
+	<SubTexture name="teto_idle0007" x="1052" y="2" width="335" height="362" frameX="0" frameY="-1" frameWidth="335" frameHeight="363"/>
+	<SubTexture name="teto_idle0008" x="1403" y="2" width="335" height="363"/>
+	<SubTexture name="teto_idle0009" x="1403" y="2" width="335" height="363"/>
+	<SubTexture name="teto_idle0010" x="1403" y="2" width="335" height="363"/>
+	<SubTexture name="teto_idle0011" x="1403" y="2" width="335" height="363"/>
+	<SubTexture name="teto_idle0012" x="1403" y="2" width="335" height="363"/>
+	<SubTexture name="teto_idle0013" x="1403" y="2" width="335" height="363"/>
+</TextureAtlas>

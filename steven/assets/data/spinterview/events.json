@@ -1,0 +1,239 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": "Spin",
+		"player1": "bf",
+		"player2": "spinel-intop",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Black FG Toggle",
+						"0",
+						"4"
+					]
+				]
+			],
+			[
+				14769.2307692308,
+				[
+					[
+						"Black BG Toggle",
+						"0.4",
+						"8.8"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Black BG Toggle",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				25730.7692307692,
+				[
+					[
+						"Black BG Toggle",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				25846.1538461539,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spinel-int"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				60807.6923076923,
+				[
+					[
+						"Black BG Toggle",
+						"0.5",
+						"0.7"
+					]
+				]
+			],
+			[
+				60923.0769230769,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spinel-intang"
+					]
+				]
+			],
+			[
+				61961.5384615384,
+				[
+					[
+						"Black BG Toggle",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				62769.2307692307,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spinel-int"
+					]
+				]
+			],
+			[
+				70038.4615384615,
+				[
+					[
+						"Black BG Toggle",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				70153.8461538461,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spinel-intang"
+					]
+				]
+			],
+			[
+				70269.2307692307,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				71884.6153846154,
+				[
+					[
+						"Black BG Toggle",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				78230.7692307692,
+				[
+					[
+						"Black BG Toggle",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				78346.1538461538,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spinel-int"
+					]
+				]
+			],
+			[
+				79384.6153846153,
+				[
+					[
+						"Black BG Toggle",
+						"0",
+						"0.3"
+					]
+				]
+			],
+			[
+				79615.3846153846,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spinel-intang"
+					]
+				]
+			],
+			[
+				86769.2307692307,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				101538.461538461,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				108923.076923077,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				118153.846153846,
+				[
+					[
+						"Black FG Toggle",
+						"1",
+						"3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Spinterview"
+	}
+}

@@ -1,0 +1,219 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "Nook",
+		"player1": "spinel-drinks",
+		"player2": "steven-drinks",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Follow Pos",
+						"740",
+						"260"
+					]
+				]
+			],
+			[
+				1643.83561643836,
+				[
+					[
+						"Play Animation",
+						"slam",
+						"Dad"
+					]
+				]
+			],
+			[
+				1656.67808219178,
+				[
+					[
+						"Play Animation",
+						"slam",
+						"BF"
+					]
+				]
+			],
+			[
+				1669.52054794521,
+				[
+					[
+						"Black FG Toggle",
+						"0",
+						"0.05"
+					]
+				]
+			],
+			[
+				2157.53424657534,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54246.5753424658,
+				[
+					[
+						"Play Animation",
+						"gulp",
+						"Dad"
+					]
+				]
+			],
+			[
+				54272.2602739726,
+				[
+					[
+						"Play Animation",
+						"gulp",
+						"BF"
+					]
+				]
+			],
+			[
+				54554.794520548,
+				[
+					[
+						"Play Animation",
+						"gulp",
+						"BF"
+					]
+				]
+			],
+			[
+				55068.493150685,
+				[
+					[
+						"Play Animation",
+						"sigh",
+						"BF"
+					]
+				]
+			],
+			[
+				55376.7123287671,
+				[
+					[
+						"Play Animation",
+						"gulp",
+						"BF"
+					]
+				]
+			],
+			[
+				55890.4109589041,
+				[
+					[
+						"Play Animation",
+						"gulp",
+						"Dad"
+					]
+				]
+			],
+			[
+				55916.095890411,
+				[
+					[
+						"Play Animation",
+						"gulp",
+						"BF"
+					]
+				]
+			],
+			[
+				56301.3698630137,
+				[
+					[
+						"Play Animation",
+						"gulp",
+						"BF"
+					]
+				]
+			],
+			[
+				57020.5479452055,
+				[
+					[
+						"Play Animation",
+						"slam",
+						"Dad"
+					]
+				]
+			],
+			[
+				57046.2328767124,
+				[
+					[
+						"Play Animation",
+						"slam",
+						"BF"
+					]
+				]
+			],
+			[
+				57328.7671232877,
+				[
+					[
+						"Play Animation",
+						"sigh",
+						"Dad"
+					]
+				]
+			],
+			[
+				57354.4520547945,
+				[
+					[
+						"Play Animation",
+						"sigh",
+						"BF"
+					]
+				]
+			],
+			[
+				83835.6164383562,
+				[
+					[
+						"Play Animation",
+						"burp",
+						"BF"
+					]
+				]
+			],
+			[
+				84143.8356164384,
+				[
+					[
+						"Play Animation",
+						"burp",
+						"Dad"
+					]
+				]
+			],
+			[
+				86198.6301369864,
+				[
+					[
+						"Black FG Toggle",
+						"1",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 146,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "aint shit"
+	}
+}

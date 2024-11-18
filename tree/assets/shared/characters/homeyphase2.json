@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "homer idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "homer down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				278
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "homer up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "homer left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-126,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "homer right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/humer2",
+	"position": [
+		-30,
+		-20
+	],
+	"healthicon": "humercrazyicons",
+	"flip_x": false,
+	"healthbar_colors": [
+		148,
+		96,
+		16
+	],
+	"camera_position": [
+		-60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

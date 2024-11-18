@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				133,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Martin_Front_Left"
+		},
+		{
+			"offsets": [
+				35,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Martin_Front_Down"
+		},
+		{
+			"offsets": [
+				20,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Martin_Front_Up"
+		},
+		{
+			"offsets": [
+				-30,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Martin_Front_Right"
+		},
+		{
+			"offsets": [
+				133,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Martin_Front_Left"
+		},
+		{
+			"offsets": [
+				35,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Martin_Front_Down"
+		},
+		{
+			"offsets": [
+				20,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Martin_Front_Up"
+		},
+		{
+			"offsets": [
+				-30,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Martin_Front_Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "Martin_Front_Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/martin_front",
+	"position": [
+		-550,
+		300
+	],
+	"healthicon": "dady",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		1,
+		1
+	],
+	"camera_position": [
+		-350,
+		250
+	],
+	"sing_duration": 7.5,
+	"scale": 1
+}

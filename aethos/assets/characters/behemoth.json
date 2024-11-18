@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jeffy_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jeffy_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jeffy_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jeffy_Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Jeffy_Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/jerry_sketch",
+	"position": [
+		0,
+		-250
+	],
+	"healthicon": "diaperbeater",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		121,
+		61
+	],
+	"camera_position": [
+		450,
+		200
+	],
+	"sing_duration": 7.5,
+	"scale": 1
+}

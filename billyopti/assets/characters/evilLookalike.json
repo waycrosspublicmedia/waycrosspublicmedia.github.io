@@ -1,0 +1,148 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				111,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Lookalike_Assets ElLeftBIG"
+		},
+		{
+			"offsets": [
+				166,
+				275
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Lookalike_Assets ElUpBIG"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Lookalike_Assets ElIdleBIG"
+		},
+		{
+			"offsets": [
+				-60,
+				-480
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Lookalike_Assets ElIdleSMALL"
+		},
+		{
+			"offsets": [
+				-2,
+				-457
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Lookalike_Assets ElLeftSMALL"
+		},
+		{
+			"offsets": [
+				-50,
+				-526
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Lookalike_Assets ElDownSMALL"
+		},
+		{
+			"offsets": [
+				-80,
+				-429
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Lookalike_Assets ElUpSMALL"
+		},
+		{
+			"offsets": [
+				-66,
+				-476
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Lookalike_Assets ElRightSMALL"
+		},
+		{
+			"offsets": [
+				-10,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Lookalike_Assets ElRightBIG"
+		},
+		{
+			"offsets": [
+				20,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Lookalike_Assets ElDownBIG"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lookalike_Assets",
+	"position": [
+		290,
+		100
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-50,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 3.2
+}

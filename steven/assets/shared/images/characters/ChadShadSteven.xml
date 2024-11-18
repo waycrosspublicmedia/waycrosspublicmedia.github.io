@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:6c21dc268d95c9bde9ab336e4921b412:b376b71cae2410ac31471b191a2d5123:d740b4fb736d8b694b7f06a5359d7b80$ -->
+<TextureAtlas imagePath="ChadShadSteven.png" width="3629" height="4913">
+    <SubTexture name="Down/Chad Steven0039" x="1" y="1" width="1311" height="815" frameX="-468" frameY="-477" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Down/Chad Steven0040" x="1" y="1" width="1311" height="815" frameX="-468" frameY="-477" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Down/Chad Steven0041" x="2345" y="4099" width="1167" height="734" frameX="-540" frameY="-558" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Down/Chad Steven0042" x="2345" y="4099" width="1167" height="734" frameX="-540" frameY="-558" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Down/Chad Steven0043" x="2345" y="4099" width="1167" height="734" frameX="-540" frameY="-558" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Down/Chad Steven0044" x="2345" y="4099" width="1167" height="734" frameX="-540" frameY="-558" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Down/Chad Steven0045" x="2345" y="4099" width="1167" height="734" frameX="-540" frameY="-558" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Down/Chad Steven0046" x="2345" y="4099" width="1167" height="734" frameX="-540" frameY="-558" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0001" x="1" y="4022" rotated="true" width="1170" height="871" frameX="-539" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0002" x="1" y="4022" rotated="true" width="1170" height="871" frameX="-539" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0003" x="2345" y="3227" rotated="true" width="1170" height="870" frameX="-538" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0004" x="2345" y="3227" rotated="true" width="1170" height="870" frameX="-538" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0005" x="1173" y="3170" rotated="true" width="1170" height="871" frameX="-537" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0006" x="1173" y="3170" rotated="true" width="1170" height="871" frameX="-537" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0007" x="1263" y="2295" rotated="true" width="1170" height="873" frameX="-537" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0008" x="1263" y="2295" rotated="true" width="1170" height="873" frameX="-537" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0009" x="1173" y="4043" rotated="true" width="1170" height="869" frameX="-540" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0010" x="1173" y="4043" rotated="true" width="1170" height="869" frameX="-540" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0011" x="1" y="3148" rotated="true" width="1170" height="872" frameX="-538" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0012" x="1" y="3148" rotated="true" width="1170" height="872" frameX="-538" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0013" x="2435" y="2352" rotated="true" width="1170" height="873" frameX="-537" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Idle/Chad Steven0014" x="2435" y="2352" rotated="true" width="1170" height="873" frameX="-537" frameY="-137" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Left/Chad Steven0015" x="2615" y="1" rotated="true" width="1013" height="1191" frameX="-807" frameY="-291" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Left/Chad Steven0016" x="2615" y="1" rotated="true" width="1013" height="1191" frameX="-807" frameY="-291" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Left/Chad Steven0017" x="2545" y="1194" rotated="true" width="1013" height="1156" frameX="-796" frameY="-291" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Left/Chad Steven0018" x="2545" y="1194" rotated="true" width="1013" height="1156" frameX="-796" frameY="-291" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Left/Chad Steven0019" x="2545" y="1194" rotated="true" width="1013" height="1156" frameX="-796" frameY="-291" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Left/Chad Steven0020" x="2545" y="1194" rotated="true" width="1013" height="1156" frameX="-796" frameY="-291" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Left/Chad Steven0021" x="2545" y="1194" rotated="true" width="1013" height="1156" frameX="-796" frameY="-291" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Left/Chad Steven0022" x="2545" y="1194" rotated="true" width="1013" height="1156" frameX="-796" frameY="-291" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Right/Chad Steven0023" x="1314" y="1" width="1299" height="1064" frameX="0" frameY="-239" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Right/Chad Steven0024" x="1314" y="1" width="1299" height="1064" frameX="0" frameY="-239" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Right/Chad Steven0025" x="1" y="2082" width="1260" height="1064" frameX="-40" frameY="-239" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Right/Chad Steven0026" x="1" y="2082" width="1260" height="1064" frameX="-40" frameY="-239" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Right/Chad Steven0027" x="1" y="2082" width="1260" height="1064" frameX="-40" frameY="-239" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Right/Chad Steven0028" x="1" y="2082" width="1260" height="1064" frameX="-40" frameY="-239" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Right/Chad Steven0029" x="1" y="2082" width="1260" height="1064" frameX="-40" frameY="-239" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Right/Chad Steven0030" x="1" y="2082" width="1260" height="1064" frameX="-40" frameY="-239" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Up/Chad Steven0031" x="1273" y="1067" rotated="true" width="1270" height="1226" frameX="-389" frameY="-31" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Up/Chad Steven0032" x="1273" y="1067" rotated="true" width="1270" height="1226" frameX="-389" frameY="-31" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Up/Chad Steven0033" x="1" y="818" rotated="true" width="1270" height="1262" frameX="-372" frameY="-31" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Up/Chad Steven0034" x="1" y="818" rotated="true" width="1270" height="1262" frameX="-372" frameY="-31" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Up/Chad Steven0035" x="1" y="818" rotated="true" width="1270" height="1262" frameX="-372" frameY="-31" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Up/Chad Steven0036" x="1" y="818" rotated="true" width="1270" height="1262" frameX="-372" frameY="-31" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Up/Chad Steven0037" x="1" y="818" rotated="true" width="1270" height="1262" frameX="-372" frameY="-31" frameWidth="2000" frameHeight="1341"/>
+    <SubTexture name="Up/Chad Steven0038" x="1" y="818" rotated="true" width="1270" height="1262" frameX="-372" frameY="-31" frameWidth="2000" frameHeight="1341"/>
+</TextureAtlas>

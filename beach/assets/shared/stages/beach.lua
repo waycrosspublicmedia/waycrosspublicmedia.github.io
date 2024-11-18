@@ -1,0 +1,10 @@
+function onCreate()
+    makeLuaSprite('sky', 'sky', -1500, -200)
+    addLuaSprite('sky', false)
+    makeLuaSprite('bg', 'BACKGROUND', -300, 700)
+    addLuaSprite('bg', false)
+    makeLuaSprite('ground', 'ground', -1500, 1200)
+    addLuaSprite('ground', false)
+    makeLuaSprite('fg', 'Foreground', -1600, 100)
+    addLuaSprite('fg', false)
+end

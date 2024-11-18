@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="humercrazy.png">
+<SubTexture name="right0000" x="111" y="0" width="110" height="144" frameX="-29" frameY="-6" frameWidth="172" frameHeight="150" />
+<SubTexture name="left0000" x="109" y="149" width="125" height="136" frameX="-14" frameY="-4" frameWidth="172" frameHeight="150" />
+<SubTexture name="down0000" x="221" y="0" width="123" height="141" frameX="-16" frameY="-5" frameWidth="172" frameHeight="150" />
+<SubTexture name="up0000" x="0" y="0" width="111" height="149" frameX="-28" frameY="0" frameWidth="172" frameHeight="150" />
+<SubTexture name="idle0000" x="0" y="149" width="109" height="137" frameX="-29" frameY="-3" frameWidth="172" frameHeight="150" />
+</TextureAtlas>

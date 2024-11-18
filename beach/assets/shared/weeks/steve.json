@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Beach Party", "steven", [255, 255, 255]]
+	],
+
+	"weekCharacters": [
+		"sans",
+		"frisk",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "",
+	"weekBefore": "",
+	"difficulties": "Normal",
+	"weekName": "sans",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

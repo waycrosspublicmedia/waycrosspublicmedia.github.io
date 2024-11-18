@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_buttons.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits_button_confirm0000" x="2" y="2" width="629" height="294" frameX="-21" frameY="-50" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="credits_button_confirm0001" x="647" y="2" width="632" height="301" frameX="-19" frameY="-45" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="credits_button_confirm0002" x="1295" y="2" width="634" height="310" frameX="-19" frameY="-41" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="credits_button_confirm0003" x="1945" y="2" width="639" height="319" frameX="-16" frameY="-35" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="credits_button_confirm0004" x="2600" y="2" width="645" height="330" frameX="-13" frameY="-30" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="credits_button_confirm0005" x="3261" y="2" width="647" height="337" frameX="-11" frameY="-26" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="credits_button_confirm0006" x="3924" y="2" width="653" height="348" frameX="-9" frameY="-20" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="credits_button_confirm0007" x="4593" y="2" width="656" height="355" frameX="-7" frameY="-16" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="credits_button_confirm0008" x="5265" y="2" width="660" height="366" frameX="-5" frameY="-10" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="credits_button_confirm0009" x="5941" y="2" width="666" height="375" frameX="-2" frameY="-5" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="credits_button_confirm0010" x="6623" y="2" width="669" height="384"/>
+	<SubTexture name="credits_button0000" x="7308" y="2" width="546" height="215"/>
+	<SubTexture name="credits_button_sel0000" x="2" y="402" width="628" height="285"/>
+	<SubTexture name="credits_button_sel0001" x="2" y="402" width="628" height="285"/>
+	<SubTexture name="credits_button_sel0002" x="646" y="402" width="622" height="283" frameX="-3" frameY="-1" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="credits_button_sel0003" x="646" y="402" width="622" height="283" frameX="-3" frameY="-1" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="credits_button_sel0004" x="1284" y="402" width="610" height="277" frameX="-9" frameY="-4" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="credits_button_sel0005" x="1284" y="402" width="610" height="277" frameX="-9" frameY="-4" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="credits_button_sel0006" x="1910" y="402" width="604" height="275" frameX="-12" frameY="-5" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="credits_button_sel0007" x="1910" y="402" width="604" height="275" frameX="-12" frameY="-5" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="credits_button_sel0008" x="2530" y="402" width="610" height="277" frameX="-9" frameY="-4" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="credits_button_sel0009" x="2530" y="402" width="610" height="277" frameX="-9" frameY="-4" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="credits_button_sel0010" x="3156" y="402" width="616" height="280" frameX="-6" frameY="-2" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="credits_button_sel0011" x="3156" y="402" width="616" height="280" frameX="-6" frameY="-2" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="credits_button_sel0012" x="3788" y="402" width="622" height="283" frameX="-3" frameY="-1" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="credits_button_sel0013" x="3788" y="402" width="622" height="283" frameX="-3" frameY="-1" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="freeplay_button0000" x="4426" y="402" width="523" height="208"/>
+	<SubTexture name="freeplay_button_confirm0000" x="4965" y="402" width="631" height="297" frameX="-86" frameY="-110" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0001" x="5612" y="402" width="646" height="317" frameX="-78" frameY="-100" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0002" x="6274" y="402" width="662" height="337" frameX="-71" frameY="-90" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0003" x="6952" y="402" width="681" height="362" frameX="-61" frameY="-78" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0004" x="2" y="780" width="700" height="386" frameX="-52" frameY="-66" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0005" x="718" y="780" width="716" height="406" frameX="-44" frameY="-56" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0006" x="1450" y="780" width="735" height="430" frameX="-34" frameY="-44" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0007" x="2201" y="780" width="750" height="450" frameX="-27" frameY="-34" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0008" x="2967" y="780" width="769" height="474" frameX="-17" frameY="-22" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0009" x="3752" y="780" width="788" height="498" frameX="-8" frameY="-10" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0010" x="4556" y="780" width="803" height="518"/>
+	<SubTexture name="freeplay_button_confirm0011" x="4556" y="780" width="803" height="518" frameX="-113" frameY="-126" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0012" x="4556" y="780" width="803" height="518" frameX="-113" frameY="-126" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0013" x="4556" y="780" width="803" height="518" frameX="-113" frameY="-126" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0014" x="4556" y="780" width="803" height="518" frameX="-113" frameY="-126" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0015" x="4556" y="780" width="803" height="518" frameX="-113" frameY="-126" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0016" x="4556" y="780" width="803" height="518" frameX="-113" frameY="-126" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0017" x="4556" y="780" width="803" height="518" frameX="-113" frameY="-126" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_confirm0018" x="4556" y="780" width="803" height="518" frameX="-113" frameY="-126" frameWidth="803" frameHeight="518"/>
+	<SubTexture name="freeplay_button_sel0000" x="5375" y="780" width="601" height="273"/>
+	<SubTexture name="freeplay_button_sel0001" x="5375" y="780" width="601" height="273"/>
+	<SubTexture name="freeplay_button_sel0002" x="5992" y="780" width="595" height="271" frameX="-3" frameY="-1" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="freeplay_button_sel0003" x="5992" y="780" width="595" height="271" frameX="-3" frameY="-1" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="freeplay_button_sel0004" x="6603" y="780" width="584" height="265" frameX="-8" frameY="-4" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="freeplay_button_sel0005" x="6603" y="780" width="584" height="265" frameX="-8" frameY="-4" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="freeplay_button_sel0006" x="7203" y="780" width="578" height="263" frameX="-11" frameY="-5" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="freeplay_button_sel0007" x="7203" y="780" width="578" height="263" frameX="-11" frameY="-5" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="freeplay_button_sel0008" x="2" y="1314" width="584" height="266" frameX="-8" frameY="-3" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="freeplay_button_sel0009" x="2" y="1314" width="584" height="266" frameX="-8" frameY="-3" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="freeplay_button_sel0010" x="602" y="1314" width="590" height="268" frameX="-5" frameY="-2" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="freeplay_button_sel0011" x="602" y="1314" width="590" height="268" frameX="-5" frameY="-2" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="freeplay_button_sel0012" x="1208" y="1314" width="595" height="271" frameX="-3" frameY="-1" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="freeplay_button_sel0013" x="1208" y="1314" width="595" height="271" frameX="-3" frameY="-1" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="options_button0000" x="1819" y="1314" width="546" height="215"/>
+	<SubTexture name="options_button_confirm0000" x="2381" y="1314" width="629" height="293" frameX="-20" frameY="-45" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0001" x="3026" y="1314" width="632" height="302" frameX="-18" frameY="-41" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0002" x="3674" y="1314" width="635" height="310" frameX="-17" frameY="-37" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0003" x="4325" y="1314" width="639" height="320" frameX="-15" frameY="-32" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0004" x="4980" y="1314" width="644" height="330" frameX="-13" frameY="-27" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0005" x="5640" y="1314" width="648" height="338" frameX="-11" frameY="-23" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0006" x="6304" y="1314" width="652" height="348" frameX="-8" frameY="-18" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0007" x="6972" y="1314" width="656" height="356" frameX="-7" frameY="-14" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0008" x="2" y="1686" width="661" height="366" frameX="-4" frameY="-9" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0009" x="679" y="1686" width="666" height="376" frameX="-2" frameY="-4" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0010" x="1361" y="1686" width="669" height="384"/>
+	<SubTexture name="options_button_confirm0011" x="1361" y="1686" width="669" height="384" frameX="-32" frameY="-55" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0012" x="1361" y="1686" width="669" height="384" frameX="-32" frameY="-55" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0013" x="1361" y="1686" width="669" height="384" frameX="-32" frameY="-55" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0014" x="1361" y="1686" width="669" height="384" frameX="-32" frameY="-55" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0015" x="1361" y="1686" width="669" height="384" frameX="-32" frameY="-55" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0016" x="1361" y="1686" width="669" height="384" frameX="-32" frameY="-55" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0017" x="1361" y="1686" width="669" height="384" frameX="-32" frameY="-55" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_confirm0018" x="1361" y="1686" width="669" height="384" frameX="-32" frameY="-55" frameWidth="669" frameHeight="384"/>
+	<SubTexture name="options_button_sel0000" x="2046" y="1686" width="628" height="285"/>
+	<SubTexture name="options_button_sel0001" x="2046" y="1686" width="628" height="285"/>
+	<SubTexture name="options_button_sel0002" x="2690" y="1686" width="622" height="283" frameX="-3" frameY="-1" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="options_button_sel0003" x="2690" y="1686" width="622" height="283" frameX="-3" frameY="-1" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="options_button_sel0004" x="3328" y="1686" width="610" height="277" frameX="-9" frameY="-4" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="options_button_sel0005" x="3328" y="1686" width="610" height="277" frameX="-9" frameY="-4" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="options_button_sel0006" x="3954" y="1686" width="604" height="275" frameX="-12" frameY="-5" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="options_button_sel0007" x="3954" y="1686" width="604" height="275" frameX="-12" frameY="-5" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="options_button_sel0008" x="4574" y="1686" width="610" height="277" frameX="-9" frameY="-4" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="options_button_sel0009" x="4574" y="1686" width="610" height="277" frameX="-9" frameY="-4" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="options_button_sel0010" x="5200" y="1686" width="616" height="280" frameX="-6" frameY="-2" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="options_button_sel0011" x="5200" y="1686" width="616" height="280" frameX="-6" frameY="-2" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="options_button_sel0012" x="5832" y="1686" width="622" height="283" frameX="-3" frameY="-1" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="options_button_sel0013" x="5832" y="1686" width="622" height="283" frameX="-3" frameY="-1" frameWidth="628" frameHeight="285"/>
+	<SubTexture name="story_button0000" x="6470" y="1686" width="523" height="206"/>
+	<SubTexture name="story_button_confirm0000" x="7009" y="1686" width="625" height="291" frameX="-17" frameY="-41" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0001" x="2" y="2086" width="628" height="299" frameX="-15" frameY="-37" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0002" x="646" y="2086" width="632" height="307" frameX="-14" frameY="-33" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0003" x="1294" y="2086" width="637" height="318" frameX="-11" frameY="-28" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0004" x="1947" y="2086" width="640" height="326" frameX="-10" frameY="-24" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0005" x="2603" y="2086" width="644" height="334" frameX="-8" frameY="-20" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0006" x="3263" y="2086" width="647" height="342" frameX="-6" frameY="-16" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0007" x="3926" y="2086" width="650" height="350" frameX="-5" frameY="-12" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0008" x="4592" y="2086" width="653" height="358" frameX="-3" frameY="-8" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0009" x="5261" y="2086" width="656" height="366" frameX="-2" frameY="-4" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0010" x="5933" y="2086" width="659" height="374"/>
+	<SubTexture name="story_button_confirm0011" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0012" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0013" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0014" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0015" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0016" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0017" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0018" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0019" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0020" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0021" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0022" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0023" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0024" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0025" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0026" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0027" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0028" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_confirm0029" x="5933" y="2086" width="659" height="374" frameX="-41" frameY="-54" frameWidth="659" frameHeight="374"/>
+	<SubTexture name="story_button_sel0000" x="6608" y="2086" width="601" height="273"/>
+	<SubTexture name="story_button_sel0001" x="6608" y="2086" width="601" height="273"/>
+	<SubTexture name="story_button_sel0002" x="7225" y="2086" width="595" height="271" frameX="-3" frameY="-1" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="story_button_sel0003" x="7225" y="2086" width="595" height="271" frameX="-3" frameY="-1" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="story_button_sel0004" x="2" y="2476" width="584" height="265" frameX="-8" frameY="-4" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="story_button_sel0005" x="2" y="2476" width="584" height="265" frameX="-8" frameY="-4" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="story_button_sel0006" x="602" y="2476" width="578" height="263" frameX="-11" frameY="-5" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="story_button_sel0007" x="602" y="2476" width="578" height="263" frameX="-11" frameY="-5" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="story_button_sel0008" x="1196" y="2476" width="584" height="266" frameX="-8" frameY="-3" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="story_button_sel0009" x="1196" y="2476" width="584" height="266" frameX="-8" frameY="-3" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="story_button_sel0010" x="1796" y="2476" width="590" height="268" frameX="-5" frameY="-2" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="story_button_sel0011" x="1796" y="2476" width="590" height="268" frameX="-5" frameY="-2" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="story_button_sel0012" x="2402" y="2476" width="595" height="271" frameX="-3" frameY="-1" frameWidth="601" frameHeight="273"/>
+	<SubTexture name="story_button_sel0013" x="2402" y="2476" width="595" height="271" frameX="-3" frameY="-1" frameWidth="601" frameHeight="273"/>
+</TextureAtlas>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:91a25acbbaf2f6168f2a7939dee2db76:cf276fc3eb645131f1fb783f488d4ae4:61ff7e41aa811c6161bf6e0417f861b6$ -->
+<TextureAtlas imagePath="Spinel_IntAng.png" width="7696" height="5045">
+    <SubTexture name="Spinel/Down/Spin_Angy0039" x="4270" y="2982" width="812" height="911" frameX="-725" frameY="-1031" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0040" x="4270" y="2982" width="812" height="911" frameX="-725" frameY="-1031" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0041" x="5399" y="996" rotated="true" width="738" height="892" frameX="-657" frameY="-1204" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0042" x="5399" y="996" rotated="true" width="738" height="892" frameX="-657" frameY="-1204" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0043" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0044" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0045" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0046" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0047" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0048" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0049" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0050" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0051" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0052" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0053" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0054" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0055" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0056" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0057" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0058" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0059" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0060" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0061" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0062" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0063" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0064" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0065" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0066" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0067" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0068" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Down/Spin_Angy0069" x="2761" y="3118" rotated="true" width="713" height="1024" frameX="-563" frameY="-1230" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/DownAlt/Spin_Angy0108" x="1" y="1339" width="951" height="1259" frameX="-652" frameY="-837" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/DownAlt/Spin_Angy0109" x="1" y="1339" width="951" height="1259" frameX="-652" frameY="-837" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/DownAlt/Spin_Angy0110" x="1" y="2600" width="1163" height="1223" frameX="-488" frameY="-873" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/DownAlt/Spin_Angy0111" x="1" y="2600" width="1163" height="1223" frameX="-488" frameY="-873" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/DownAlt/Spin_Angy0112" x="1" y="3825" width="1222" height="1213" frameX="-407" frameY="-883" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/DownAlt/Spin_Angy0113" x="1" y="3825" width="1222" height="1213" frameX="-407" frameY="-883" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/DownAlt/Spin_Angy0114" x="1" y="3825" width="1222" height="1213" frameX="-407" frameY="-883" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/DownAlt/Spin_Angy0115" x="1" y="3825" width="1222" height="1213" frameX="-407" frameY="-883" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/DownAlt/Spin_Angy0116" x="1" y="3825" width="1222" height="1213" frameX="-407" frameY="-883" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/DownAlt/Spin_Angy0117" x="1" y="3825" width="1222" height="1213" frameX="-407" frameY="-883" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/DownAlt/Spin_Angy0118" x="1" y="3825" width="1222" height="1213" frameX="-407" frameY="-883" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0001" x="6139" y="851" rotated="true" width="725" height="796" frameX="-652" frameY="-1201" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0002" x="6032" y="3515" rotated="true" width="689" height="792" frameX="-655" frameY="-1238" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0003" x="6839" y="2895" width="780" height="675" frameX="-661" frameY="-1251" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0004" x="6839" y="4274" rotated="true" width="690" height="769" frameX="-667" frameY="-1236" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0005" x="6723" y="3572" width="763" height="700" frameX="-670" frameY="-1226" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0006" x="6839" y="2178" width="781" height="715" frameX="-661" frameY="-1211" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0007" x="6049" y="4309" width="788" height="722" frameX="-657" frameY="-1204" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0008" x="6176" y="1" rotated="true" width="725" height="792" frameX="-655" frameY="-1202" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0009" x="6903" y="1" width="792" height="724" frameX="-655" frameY="-1202" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0010" x="6903" y="727" width="792" height="724" frameX="-655" frameY="-1203" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0011" x="6866" y="1453" width="792" height="723" frameX="-655" frameY="-1204" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0012" x="5307" y="3659" rotated="true" width="723" height="792" frameX="-655" frameY="-1204" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0013" x="5715" y="2721" rotated="true" width="723" height="792" frameX="-655" frameY="-1204" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Idle/Spin_Angy0014" x="5715" y="2721" rotated="true" width="723" height="792" frameX="-655" frameY="-1204" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0070" x="1166" y="2445" width="761" height="1042" frameX="-876" frameY="-926" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0071" x="3465" y="2075" width="748" height="1022" frameX="-923" frameY="-946" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0072" x="4697" y="1" width="761" height="993" frameX="-933" frameY="-975" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0073" x="4064" y="1030" width="759" height="1020" frameX="-916" frameY="-948" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0074" x="3298" y="1040" width="764" height="1033" frameX="-897" frameY="-935" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0075" x="1929" y="2090" width="766" height="1037" frameX="-887" frameY="-931" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0076" x="2418" y="1" width="766" height="1038" frameX="-882" frameY="-930" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0077" x="1761" y="1050" width="767" height="1038" frameX="-881" frameY="-930" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0078" x="1225" y="3489" width="766" height="1038" frameX="-883" frameY="-930" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0079" x="2530" y="1041" width="766" height="1037" frameX="-885" frameY="-931" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0080" x="1993" y="3129" width="766" height="1036" frameX="-887" frameY="-932" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0081" x="2697" y="2080" width="766" height="1036" frameX="-888" frameY="-932" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0082" x="3186" y="1" width="766" height="1037" frameX="-888" frameY="-931" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/IdleAlt/Spin_Angy0083" x="3186" y="1" width="766" height="1037" frameX="-888" frameY="-931" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Left/Spin_Angy0015" x="5307" y="4453" rotated="true" width="740" height="575" frameX="-715" frameY="-1187" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Left/Spin_Angy0016" x="5307" y="4453" rotated="true" width="740" height="575" frameX="-715" frameY="-1187" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Left/Spin_Angy0017" x="4696" y="3895" width="609" height="839" frameX="-566" frameY="-1088" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Left/Spin_Angy0018" x="4696" y="3895" width="609" height="839" frameX="-566" frameY="-1088" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Left/Spin_Angy0019" x="5084" y="2821" width="629" height="836" frameX="-564" frameY="-1091" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Left/Spin_Angy0020" x="5084" y="2821" width="629" height="836" frameX="-564" frameY="-1091" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Left/Spin_Angy0021" x="5084" y="2821" width="629" height="836" frameX="-564" frameY="-1091" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Left/Spin_Angy0022" x="5084" y="2821" width="629" height="836" frameX="-564" frameY="-1091" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/LeftAlt/Spin_Angy0084" x="3864" y="4066" rotated="true" width="830" height="941" frameX="-420" frameY="-1129" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/LeftAlt/Spin_Angy0085" x="3864" y="4066" rotated="true" width="830" height="941" frameX="-420" frameY="-1129" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/LeftAlt/Spin_Angy0086" x="3476" y="3099" width="792" height="965" frameX="-407" frameY="-994" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/LeftAlt/Spin_Angy0087" x="3476" y="3099" width="792" height="965" frameX="-407" frameY="-994" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/LeftAlt/Spin_Angy0088" x="4215" y="2052" width="771" height="928" frameX="-424" frameY="-1031" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/LeftAlt/Spin_Angy0089" x="4215" y="2052" width="771" height="928" frameX="-424" frameY="-1031" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/LeftAlt/Spin_Angy0090" x="4215" y="2052" width="771" height="928" frameX="-424" frameY="-1031" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/LeftAlt/Spin_Angy0091" x="4215" y="2052" width="771" height="928" frameX="-424" frameY="-1031" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Right/Spin_Angy0023" x="5460" y="1" width="714" height="848" frameX="-922" frameY="-1095" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Right/Spin_Angy0024" x="5460" y="1" width="714" height="848" frameX="-922" frameY="-1095" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Right/Spin_Angy0025" x="4825" y="996" width="572" height="914" frameX="-988" frameY="-1029" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Right/Spin_Angy0026" x="4825" y="996" width="572" height="914" frameX="-988" frameY="-1029" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Right/Spin_Angy0027" x="4988" y="1912" width="616" height="907" frameX="-955" frameY="-1036" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Right/Spin_Angy0028" x="4988" y="1912" width="616" height="907" frameX="-955" frameY="-1036" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Right/Spin_Angy0029" x="4988" y="1912" width="616" height="907" frameX="-955" frameY="-1036" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Right/Spin_Angy0030" x="4988" y="1912" width="616" height="907" frameX="-955" frameY="-1036" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/RightAlt/Spin_Angy0092" x="3954" y="1" width="741" height="1027" frameX="-753" frameY="-896" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/RightAlt/Spin_Angy0093" x="3954" y="1" width="741" height="1027" frameX="-753" frameY="-896" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/RightAlt/Spin_Angy0094" x="2884" y="4144" width="978" height="897" frameX="-795" frameY="-1026" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/RightAlt/Spin_Angy0095" x="2884" y="4144" width="978" height="897" frameX="-795" frameY="-1026" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/RightAlt/Spin_Angy0096" x="1443" y="1" rotated="true" width="973" height="1047" frameX="-747" frameY="-950" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/RightAlt/Spin_Angy0097" x="1443" y="1" rotated="true" width="973" height="1047" frameX="-747" frameY="-950" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/RightAlt/Spin_Angy0098" x="1443" y="1" rotated="true" width="973" height="1047" frameX="-747" frameY="-950" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/RightAlt/Spin_Angy0099" x="1443" y="1" rotated="true" width="973" height="1047" frameX="-747" frameY="-950" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Up/Spin_Angy0031" x="1225" y="4529" rotated="true" width="878" height="515" frameX="-795" frameY="-1084" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Up/Spin_Angy0032" x="1225" y="4529" rotated="true" width="878" height="515" frameX="-795" frameY="-1084" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Up/Spin_Angy0033" x="2105" y="4167" width="777" height="858" frameX="-659" frameY="-1104" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Up/Spin_Angy0034" x="2105" y="4167" width="777" height="858" frameX="-659" frameY="-1104" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Up/Spin_Angy0035" x="5606" y="1890" width="783" height="829" frameX="-658" frameY="-1133" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Up/Spin_Angy0036" x="5606" y="1890" width="783" height="829" frameX="-658" frameY="-1133" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Up/Spin_Angy0037" x="5606" y="1890" width="783" height="829" frameX="-658" frameY="-1133" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/Up/Spin_Angy0038" x="5606" y="1890" width="783" height="829" frameX="-658" frameY="-1133" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/UpAlt/Spin_Angy0100" x="1" y="1" width="703" height="1336" frameX="-722" frameY="-769" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/UpAlt/Spin_Angy0101" x="1" y="1" width="703" height="1336" frameX="-722" frameY="-769" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/UpAlt/Spin_Angy0102" x="954" y="1245" width="805" height="1198" frameX="-677" frameY="-907" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/UpAlt/Spin_Angy0103" x="954" y="1245" width="805" height="1198" frameX="-677" frameY="-907" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/UpAlt/Spin_Angy0104" x="706" y="1" width="735" height="1242" frameX="-709" frameY="-863" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/UpAlt/Spin_Angy0105" x="706" y="1" width="735" height="1242" frameX="-709" frameY="-863" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/UpAlt/Spin_Angy0106" x="706" y="1" width="735" height="1242" frameX="-709" frameY="-863" frameWidth="1794" frameHeight="2105"/>
+    <SubTexture name="Spinel/UpAlt/Spin_Angy0107" x="706" y="1" width="735" height="1242" frameX="-709" frameY="-863" frameWidth="1794" frameHeight="2105"/>
+</TextureAtlas>

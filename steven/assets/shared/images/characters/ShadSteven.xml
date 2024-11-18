@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:9d7fb863633e1158fcbf018c72d1a0eb:c93c1aa4a48b31d434f21aeece4ae64e:33fd87e4cebe73c622b0552372c92690$ -->
+<TextureAtlas imagePath="ShadSteven.png" width="6302" height="2028">
+    <SubTexture name="Down/Future Steven0039" x="3899" y="1519" width="591" height="466" frameX="-97" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Down/Future Steven0040" x="3899" y="1519" width="591" height="466" frameX="-97" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Down/Future Steven0041" x="5085" y="1521" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Down/Future Steven0042" x="5085" y="1521" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Down/Future Steven0043" x="5085" y="1521" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Down/Future Steven0044" x="5085" y="1521" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Down/Future Steven0045" x="5085" y="1521" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Down/Future Steven0046" x="5085" y="1521" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="DownAlt/Future Steven0085" x="4492" y="1521" width="591" height="466" frameX="-97" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="DownAlt/Future Steven0086" x="4492" y="1521" width="591" height="466" frameX="-97" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="DownAlt/Future Steven0087" x="5664" y="1323" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="DownAlt/Future Steven0088" x="5664" y="1323" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="DownAlt/Future Steven0089" x="5664" y="1323" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="DownAlt/Future Steven0090" x="5664" y="1323" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="DownAlt/Future Steven0091" x="5664" y="1323" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="DownAlt/Future Steven0092" x="5664" y="1323" width="577" height="466" frameX="-100" frameY="-362" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0001" x="963" y="1246" rotated="true" width="732" height="452" frameX="-219" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0002" x="963" y="1246" rotated="true" width="732" height="452" frameX="-219" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0003" x="1885" y="570" rotated="true" width="732" height="450" frameX="-223" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0004" x="1885" y="570" rotated="true" width="732" height="450" frameX="-223" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0005" x="1785" y="1022" rotated="true" width="732" height="450" frameX="-222" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0006" x="1785" y="1022" rotated="true" width="732" height="450" frameX="-222" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0007" x="1697" y="1474" rotated="true" width="732" height="452" frameX="-222" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0008" x="1697" y="1474" rotated="true" width="732" height="452" frameX="-222" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0009" x="2707" y="569" rotated="true" width="732" height="451" frameX="-221" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0010" x="2707" y="569" rotated="true" width="732" height="451" frameX="-221" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0011" x="2519" y="1022" rotated="true" width="732" height="450" frameX="-221" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0012" x="2519" y="1022" rotated="true" width="732" height="450" frameX="-221" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0013" x="3441" y="569" rotated="true" width="732" height="451" frameX="-222" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Idle/Future Steven0014" x="3441" y="569" rotated="true" width="732" height="451" frameX="-222" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0047" x="2431" y="1474" rotated="true" width="732" height="455" frameX="-223" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0048" x="2431" y="1474" rotated="true" width="732" height="455" frameX="-223" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0049" x="3253" y="1022" rotated="true" width="732" height="454" frameX="-226" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0050" x="3253" y="1022" rotated="true" width="732" height="454" frameX="-226" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0051" x="3165" y="1478" rotated="true" width="732" height="454" frameX="-224" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0052" x="3165" y="1478" rotated="true" width="732" height="454" frameX="-224" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0053" x="4175" y="607" rotated="true" width="732" height="453" frameX="-225" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0054" x="4175" y="607" rotated="true" width="732" height="453" frameX="-225" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0055" x="4909" y="607" rotated="true" width="732" height="453" frameX="-225" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0056" x="4909" y="607" rotated="true" width="732" height="453" frameX="-225" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0057" x="3987" y="1062" rotated="true" width="732" height="455" frameX="-224" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0058" x="3987" y="1062" rotated="true" width="732" height="455" frameX="-224" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0059" x="4721" y="1062" rotated="true" width="732" height="457" frameX="-223" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="IdleAlt/Future Steven0060" x="4721" y="1062" rotated="true" width="732" height="457" frameX="-223" frameY="-89" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Left/Future Steven0015" x="4351" y="1" width="671" height="604" frameX="0" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Left/Future Steven0016" x="4351" y="1" width="671" height="604" frameX="0" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Left/Future Steven0017" x="5697" y="1" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Left/Future Steven0018" x="5697" y="1" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Left/Future Steven0019" x="5697" y="1" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Left/Future Steven0020" x="5697" y="1" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Left/Future Steven0021" x="5697" y="1" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Left/Future Steven0022" x="5697" y="1" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="LeftAlt/Future Steven0061" x="5024" y="1" width="671" height="604" frameX="0" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="LeftAlt/Future Steven0062" x="5024" y="1" width="671" height="604" frameX="0" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="LeftAlt/Future Steven0063" x="5643" y="662" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="LeftAlt/Future Steven0064" x="5643" y="662" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="LeftAlt/Future Steven0065" x="5643" y="662" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="LeftAlt/Future Steven0066" x="5643" y="662" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="LeftAlt/Future Steven0067" x="5643" y="662" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="LeftAlt/Future Steven0068" x="5643" y="662" rotated="true" width="604" height="659" frameX="-16" frameY="-221" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Right/Future Steven0023" x="1" y="1" width="960" height="674" frameX="-174" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Right/Future Steven0024" x="1" y="1" width="960" height="674" frameX="-174" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Right/Future Steven0025" x="963" y="1" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Right/Future Steven0026" x="963" y="1" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Right/Future Steven0027" x="963" y="1" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Right/Future Steven0028" x="963" y="1" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Right/Future Steven0029" x="963" y="1" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Right/Future Steven0030" x="963" y="1" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="RightAlt/Future Steven0069" x="1" y="677" width="960" height="674" frameX="-174" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="RightAlt/Future Steven0070" x="1" y="677" width="960" height="674" frameX="-174" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="RightAlt/Future Steven0071" x="1" y="1353" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="RightAlt/Future Steven0072" x="1" y="1353" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="RightAlt/Future Steven0073" x="1" y="1353" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="RightAlt/Future Steven0074" x="1" y="1353" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="RightAlt/Future Steven0075" x="1" y="1353" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="RightAlt/Future Steven0076" x="1" y="1353" width="920" height="674" frameX="-179" frameY="-161" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Up/Future Steven0031" x="2707" y="1" rotated="true" width="820" height="566" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Up/Future Steven0032" x="2707" y="1" rotated="true" width="820" height="566" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Up/Future Steven0033" x="963" y="677" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Up/Future Steven0034" x="963" y="677" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Up/Future Steven0035" x="963" y="677" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Up/Future Steven0036" x="963" y="677" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Up/Future Steven0037" x="963" y="677" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="Up/Future Steven0038" x="963" y="677" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="UpAlt/Future Steven0077" x="3529" y="1" rotated="true" width="820" height="566" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="UpAlt/Future Steven0078" x="3529" y="1" rotated="true" width="820" height="566" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="UpAlt/Future Steven0079" x="1885" y="1" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="UpAlt/Future Steven0080" x="1885" y="1" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="UpAlt/Future Steven0081" x="1885" y="1" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="UpAlt/Future Steven0082" x="1885" y="1" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="UpAlt/Future Steven0083" x="1885" y="1" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+    <SubTexture name="UpAlt/Future Steven0084" x="1885" y="1" rotated="true" width="820" height="567" frameX="-106" frameY="-20" frameWidth="1137" frameHeight="862"/>
+</TextureAtlas>

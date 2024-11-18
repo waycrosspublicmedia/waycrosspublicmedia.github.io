@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mikustarteventtwim.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="miku_twim_event0000" x="2" y="2" width="736" height="783" frameX="0" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0001" x="2" y="2" width="736" height="783" frameX="0" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0002" x="754" y="2" width="736" height="789" frameX="0" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0003" x="754" y="2" width="736" height="789" frameX="0" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0004" x="1506" y="2" width="733" height="792" frameX="-2" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0005" x="1506" y="2" width="733" height="792" frameX="-2" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0006" x="2255" y="2" width="732" height="793" frameX="-3" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0007" x="2255" y="2" width="732" height="793" frameX="-3" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0008" x="3003" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0009" x="3003" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0010" x="3751" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0011" x="3751" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0012" x="4499" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0013" x="4499" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0014" x="5247" y="2" width="736" height="794" frameX="0" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0015" x="5247" y="2" width="736" height="794" frameX="0" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0016" x="5999" y="2" width="736" height="795"/>
+	<SubTexture name="miku_twim_event0017" x="5999" y="2" width="736" height="795"/>
+	<SubTexture name="miku_twim_event0018" x="6751" y="2" width="733" height="795" frameX="-2" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0019" x="6751" y="2" width="733" height="795" frameX="-2" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0020" x="2" y="813" width="732" height="795" frameX="-3" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0021" x="2" y="813" width="732" height="795" frameX="-3" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0022" x="3003" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0023" x="3003" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0024" x="3751" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0025" x="3751" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0026" x="4499" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0027" x="4499" y="2" width="732" height="794" frameX="-3" frameY="-1" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0028" x="5247" y="2" width="736" height="794" frameX="0" frameY="0" frameWidth="736" frameHeight="795"/>
+	<SubTexture name="miku_twim_event0029" x="5247" y="2" width="736" height="794" frameX="0" frameY="0" frameWidth="736" frameHeight="795"/>
+</TextureAtlas>

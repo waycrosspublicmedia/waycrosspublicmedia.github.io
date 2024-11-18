@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eventtwo.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eventtwo0000" x="2" y="2" width="1125" height="1047" frameX="0" frameY="-5" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0001" x="2" y="2" width="1125" height="1047" frameX="0" frameY="-5" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0002" x="1143" y="2" width="1124" height="1040" frameX="0" frameY="-5" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0003" x="1143" y="2" width="1124" height="1040" frameX="0" frameY="-5" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0004" x="2283" y="2" width="1124" height="1041" frameX="0" frameY="0" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0005" x="2283" y="2" width="1124" height="1041" frameX="0" frameY="0" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0006" x="3423" y="2" width="1124" height="1034" frameX="0" frameY="-5" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0007" x="3423" y="2" width="1124" height="1034" frameX="0" frameY="-5" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0008" x="4563" y="2" width="1124" height="1032" frameX="0" frameY="-5" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0009" x="4563" y="2" width="1124" height="1032" frameX="0" frameY="-5" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0010" x="5703" y="2" width="1124" height="1037" frameX="0" frameY="0" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0011" x="5703" y="2" width="1124" height="1037" frameX="0" frameY="0" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0012" x="6843" y="2" width="1124" height="1032" frameX="0" frameY="-5" frameWidth="1125" frameHeight="1052"/>
+	<SubTexture name="eventtwo0013" x="6843" y="2" width="1124" height="1032" frameX="0" frameY="-5" frameWidth="1125" frameHeight="1052"/>
+</TextureAtlas>

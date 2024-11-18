@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:2b49102cd5f75209f019a250ae391bbf:fdff8f06af81a6c953063eba5d3586b4:c06dc0df8e119d81ee3ffc54bfb4d35d$ -->
+<TextureAtlas imagePath="Steven.png" width="4533" height="3722">
+    <SubTexture name="Down/Steven0039" x="4086" y="1" rotated="true" width="446" height="462" frameX="-87" frameY="-102" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Down/Steven0040" x="4086" y="1" rotated="true" width="446" height="462" frameX="-87" frameY="-102" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Down/Steven0041" x="474" y="480" width="457" height="447" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Down/Steven0042" x="474" y="480" width="457" height="447" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Down/Steven0043" x="474" y="480" width="457" height="447" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Down/Steven0044" x="474" y="480" width="457" height="447" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Down/Steven0045" x="474" y="480" width="457" height="447" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Down/Steven0046" x="474" y="480" width="457" height="447" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="DownAlt/Steven0085" x="4086" y="465" rotated="true" width="446" height="462" frameX="-87" frameY="-102" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="DownAlt/Steven0086" x="4086" y="465" rotated="true" width="446" height="462" frameX="-87" frameY="-102" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="DownAlt/Steven0087" x="454" y="3264" rotated="true" width="447" height="457" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="DownAlt/Steven0088" x="454" y="3264" rotated="true" width="447" height="457" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="DownAlt/Steven0089" x="454" y="3264" rotated="true" width="447" height="457" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="DownAlt/Steven0090" x="454" y="3264" rotated="true" width="447" height="457" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="DownAlt/Steven0091" x="454" y="3264" rotated="true" width="447" height="457" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="DownAlt/Steven0092" x="454" y="3264" rotated="true" width="447" height="457" frameX="-89" frameY="-101" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0001" x="1" y="1" width="471" height="459" frameX="-81" frameY="-89" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0002" x="1401" y="476" width="447" height="451" frameX="-94" frameY="-97" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0003" x="1837" y="3264" width="449" height="451" frameX="-93" frameY="-97" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0004" x="3222" y="3259" width="451" height="459" frameX="-92" frameY="-89" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0005" x="3631" y="2788" width="451" height="463" frameX="-92" frameY="-85" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0006" x="1" y="1871" width="451" height="466" frameX="-92" frameY="-82" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0007" x="1821" y="1" width="451" height="467" frameX="-92" frameY="-81" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0008" x="2274" y="1" width="451" height="467" frameX="-92" frameY="-81" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0009" x="2727" y="1" width="451" height="467" frameX="-92" frameY="-81" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0010" x="1" y="2339" width="451" height="466" frameX="-92" frameY="-82" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0011" x="908" y="1396" width="451" height="465" frameX="-92" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0012" x="908" y="1863" width="451" height="465" frameX="-92" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0013" x="908" y="2330" width="451" height="465" frameX="-92" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Idle/Steven0014" x="908" y="2330" width="451" height="465" frameX="-92" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0047" x="1" y="462" width="471" height="459" frameX="-81" frameY="-89" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0048" x="4083" y="1843" width="447" height="451" frameX="-94" frameY="-97" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0049" x="4083" y="1390" width="449" height="451" frameX="-93" frameY="-97" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0050" x="4079" y="929" width="451" height="459" frameX="-92" frameY="-89" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0051" x="3675" y="3253" width="451" height="463" frameX="-92" frameY="-85" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0052" x="1" y="2807" width="451" height="466" frameX="-92" frameY="-82" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0053" x="3180" y="1" width="451" height="467" frameX="-92" frameY="-81" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0054" x="3633" y="1" width="451" height="467" frameX="-92" frameY="-81" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0055" x="1" y="1402" width="451" height="467" frameX="-92" frameY="-81" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0056" x="933" y="476" rotated="true" width="466" height="451" frameX="-92" frameY="-82" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0057" x="908" y="2797" width="451" height="465" frameX="-92" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0058" x="1361" y="1396" width="451" height="465" frameX="-92" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0059" x="1361" y="1863" width="451" height="465" frameX="-92" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="IdleAlt/Steven0060" x="1361" y="1863" width="451" height="465" frameX="-92" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Left/Steven0015" x="448" y="929" width="452" height="465" frameX="-76" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Left/Steven0016" x="448" y="929" width="452" height="465" frameX="-76" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Left/Steven0017" x="3626" y="924" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Left/Steven0018" x="3626" y="924" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Left/Steven0019" x="3626" y="924" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Left/Steven0020" x="3626" y="924" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Left/Steven0021" x="3626" y="924" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Left/Steven0022" x="3626" y="924" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="LeftAlt/Steven0061" x="902" y="929" width="452" height="465" frameX="-76" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="LeftAlt/Steven0062" x="902" y="929" width="452" height="465" frameX="-76" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="LeftAlt/Steven0063" x="3630" y="1390" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="LeftAlt/Steven0064" x="3630" y="1390" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="LeftAlt/Steven0065" x="3630" y="1390" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="LeftAlt/Steven0066" x="3630" y="1390" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="LeftAlt/Steven0067" x="3630" y="1390" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="LeftAlt/Steven0068" x="3630" y="1390" width="451" height="464" frameX="-82" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Monster/I'm a Monster0001" x="454" y="1396" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0002" x="454" y="1863" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0003" x="454" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0004" x="454" y="2797" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0005" x="903" y="3264" rotated="true" width="465" height="452" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0006" x="1356" y="929" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0007" x="1361" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0008" x="1361" y="2797" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0009" x="1850" y="470" rotated="true" width="465" height="452" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0010" x="2317" y="470" rotated="true" width="465" height="452" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0011" x="2784" y="470" rotated="true" width="465" height="452" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0012" x="3251" y="470" rotated="true" width="465" height="452" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0013" x="1370" y="3264" rotated="true" width="465" height="452" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0014" x="1370" y="3264" rotated="true" width="465" height="452" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0015" x="1810" y="929" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0016" x="1810" y="929" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0017" x="1814" y="1396" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0018" x="1814" y="1396" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0019" x="1814" y="1863" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0020" x="1814" y="1863" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0021" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0022" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0023" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0024" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0025" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0026" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0027" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0028" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0029" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0030" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0031" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0032" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0033" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0034" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0035" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0036" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0037" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0038" x="1815" y="2330" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0039" x="1815" y="2797" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0040" x="1815" y="2797" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0041" x="1815" y="2797" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0042" x="2264" y="924" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0043" x="2264" y="924" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0044" x="2264" y="924" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0045" x="2718" y="924" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0046" x="2718" y="924" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0047" x="3172" y="924" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0048" x="3172" y="924" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0049" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0050" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0051" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0052" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0053" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0054" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0055" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0056" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0057" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0058" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0059" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0060" x="2268" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0061" x="2268" y="1858" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0062" x="2722" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0063" x="2722" y="1858" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0064" x="3176" y="1391" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0065" x="3176" y="1858" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0066" x="2269" y="2325" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0067" x="2269" y="2792" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0068" x="2723" y="2325" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0069" x="2723" y="2792" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0070" x="3177" y="2325" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0071" x="3177" y="2792" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0072" x="454" y="1396" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0073" x="454" y="1396" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0074" x="454" y="1396" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0075" x="454" y="1396" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Monster/I'm a Monster0076" x="454" y="1396" width="452" height="465" frameX="-52" frameY="-30" frameWidth="551" frameHeight="512"/>
+    <SubTexture name="Right/Steven0023" x="2288" y="3259" rotated="true" width="465" height="451" frameX="-110" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Right/Steven0024" x="2288" y="3259" rotated="true" width="465" height="451" frameX="-110" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Right/Steven0025" x="3630" y="1856" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Right/Steven0026" x="3630" y="1856" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Right/Steven0027" x="3630" y="1856" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Right/Steven0028" x="3630" y="1856" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Right/Steven0029" x="3630" y="1856" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Right/Steven0030" x="3630" y="1856" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="RightAlt/Steven0069" x="2755" y="3259" rotated="true" width="465" height="451" frameX="-110" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="RightAlt/Steven0070" x="2755" y="3259" rotated="true" width="465" height="451" frameX="-110" frameY="-83" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="RightAlt/Steven0071" x="3631" y="2322" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="RightAlt/Steven0072" x="3631" y="2322" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="RightAlt/Steven0073" x="3631" y="2322" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="RightAlt/Steven0074" x="3631" y="2322" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="RightAlt/Steven0075" x="3631" y="2322" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="RightAlt/Steven0076" x="3631" y="2322" width="451" height="464" frameX="-103" frameY="-84" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Up/Steven0031" x="474" y="1" width="445" height="477" frameX="-95" frameY="-71" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Up/Steven0032" x="474" y="1" width="445" height="477" frameX="-95" frameY="-71" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Up/Steven0033" x="921" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Up/Steven0034" x="921" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Up/Steven0035" x="921" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Up/Steven0036" x="921" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Up/Steven0037" x="921" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="Up/Steven0038" x="921" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="UpAlt/Steven0077" x="1" y="923" width="445" height="477" frameX="-95" frameY="-71" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="UpAlt/Steven0078" x="1" y="923" width="445" height="477" frameX="-95" frameY="-71" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="UpAlt/Steven0079" x="1371" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="UpAlt/Steven0080" x="1371" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="UpAlt/Steven0081" x="1371" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="UpAlt/Steven0082" x="1371" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="UpAlt/Steven0083" x="1371" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+    <SubTexture name="UpAlt/Steven0084" x="1371" y="1" width="448" height="473" frameX="-94" frameY="-75" frameWidth="590" frameHeight="565"/>
+</TextureAtlas>

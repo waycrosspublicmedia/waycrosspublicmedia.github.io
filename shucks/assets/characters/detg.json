@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "D-Idle"
+		},
+		{
+			"offsets": [
+				260,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "D-Left"
+		},
+		{
+			"offsets": [
+				230,
+				440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "D-Up"
+		},
+		{
+			"offsets": [
+				40,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "D-Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-151
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "D-Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doesEVILthingsguyRTX",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-dbtg",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

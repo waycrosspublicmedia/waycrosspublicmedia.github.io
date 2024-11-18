@@ -1,0 +1,32 @@
+{
+	"storyName": "2hot freestyle funni chart",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"2hot",
+			"darnell",
+			[
+				146,
+				0,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"picoplayer",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week8???????"
+}
