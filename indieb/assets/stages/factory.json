@@ -1,0 +1,14 @@
+{
+	"directory": "bendy",
+	"defaultZoom": 0.5,
+	"isPixelStage": false,
+
+	"boyfriend": [1270, 240],
+	"girlfriend": [1300, 240],
+	"opponent": [75, 130],
+	
+	"camera_boyfriend": [-250, -250],
+	"camera_opponent": [-400, 0],
+	"camera_start": [0, 0],
+	"camera_speed": 1
+}

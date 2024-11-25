@@ -1,0 +1,5 @@
+kapi
+game&watch
+week1
+week2
+week6

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="winkel.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WinkelDOWN0000" x="0" y="0" width="125" height="150" pivotX="63" pivotY="75"/>
+	<SubTexture name="WinkelDOWN0001" x="0" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0002" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0003" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0004" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0005" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0006" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0007" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0008" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0009" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0010" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0011" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0012" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelDOWN0013" x="125" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0000" x="250" y="0" width="125" height="150" pivotX="63" pivotY="75"/>
+	<SubTexture name="WinkelIDLE0001" x="250" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0002" x="375" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0003" x="375" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0004" x="500" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0005" x="500" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0006" x="625" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0007" x="625" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0008" x="750" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0009" x="750" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0010" x="750" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0011" x="750" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0012" x="750" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelIDLE0013" x="750" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0000" x="875" y="0" width="125" height="150" pivotX="63" pivotY="75"/>
+	<SubTexture name="WinkelLEFT0001" x="875" y="0" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0002" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0003" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0004" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0005" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0006" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0007" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0008" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0009" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0010" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0011" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0012" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelLEFT0013" x="0" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0000" x="125" y="150" width="125" height="150" pivotX="93" pivotY="75"/>
+	<SubTexture name="WinkelRIGHT0001" x="125" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0002" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0003" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0004" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0005" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0006" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0007" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0008" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0009" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0010" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0011" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0012" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelRIGHT0013" x="250" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0000" x="375" y="150" width="125" height="150" pivotX="63" pivotY="75"/>
+	<SubTexture name="WinkelUP0001" x="375" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0002" x="500" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0003" x="500" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0004" x="500" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0005" x="500" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0006" x="500" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0007" x="500" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0008" x="500" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0009" x="500" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0010" x="500" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0011" x="500" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0012" x="500" y="150" width="125" height="150"/>
+	<SubTexture name="WinkelUP0013" x="500" y="150" width="125" height="150"/>
+</TextureAtlas>

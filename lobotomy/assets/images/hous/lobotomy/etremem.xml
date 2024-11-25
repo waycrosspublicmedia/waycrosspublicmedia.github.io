@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="etremem.png"><SubTexture name="etremem bop0000" x="1356" y="2196" width="1356" height="1088" frameX="-1297" frameY="-351" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem bop0001" x="1356" y="2196" width="1356" height="1088" frameX="-1297" frameY="-351" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem bop0002" x="0" y="1105" width="1354" height="1091" frameX="-1304" frameY="-349" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem bop0003" x="0" y="1105" width="1354" height="1091" frameX="-1304" frameY="-349" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem bop0004" x="1359" y="0" width="1359" height="1104" frameX="-1307" frameY="-337" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem bop0005" x="1359" y="0" width="1359" height="1104" frameX="-1307" frameY="-337" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem bop0006" x="1354" y="1105" width="1354" height="1091" frameX="-1323" frameY="-337" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem bop0007" x="1354" y="1105" width="1354" height="1091" frameX="-1323" frameY="-337" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem bop0008" x="2712" y="2196" width="1353" height="1082" frameX="-1333" frameY="-335" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem bop0009" x="2712" y="2196" width="1353" height="1082" frameX="-1333" frameY="-335" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem huh0000" x="4073" y="0" width="1353" height="1082" frameX="-1333" frameY="-335" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem dear god0000" x="0" y="2196" width="1356" height="1089" frameX="-1298" frameY="-351" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem dear god0001" x="0" y="2196" width="1356" height="1089" frameX="-1298" frameY="-351" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem dear god0002" x="2718" y="0" width="1355" height="1090" frameX="-1305" frameY="-351" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem dear god0003" x="2718" y="0" width="1355" height="1090" frameX="-1305" frameY="-351" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem dear god0004" x="0" y="0" width="1359" height="1105" frameX="-1308" frameY="-337" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem dear god0005" x="0" y="0" width="1359" height="1105" frameX="-1308" frameY="-337" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem dear god0006" x="2718" y="1090" width="1353" height="1090" frameX="-1323" frameY="-337" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem dear god0007" x="2718" y="1090" width="1353" height="1090" frameX="-1323" frameY="-337" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem dear god0008" x="4073" y="1082" width="1353" height="1082" frameX="-1333" frameY="-335" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="etremem dear god0009" x="4073" y="1082" width="1353" height="1082" frameX="-1333" frameY="-335" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

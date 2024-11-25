@@ -1,0 +1,115 @@
+{
+	"position": [
+		40,
+		-40
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "x",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bruh",
+			"idle_name": "bruh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "angry",
+			"idle_name": "angry"
+		},
+		{
+			"loop_offsets": [
+				-20,
+				-10
+			],
+			"anim": "smile",
+			"idle_offsets": [
+				-20,
+				-10
+			],
+			"loop_name": "smile",
+			"idle_name": "smile"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "demonneutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "demonneutral",
+			"idle_name": "demonneutral"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "demonbruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "demonbruh",
+			"idle_name": "demonbruh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "demonangry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "demonangry",
+			"idle_name": "demonangry"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "demonshadow",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "demonshadow",
+			"idle_name": "demonshadow"
+		},
+		{
+			"loop_name": "neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "neutral",
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

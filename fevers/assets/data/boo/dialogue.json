@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Ironically, I had a good time singing that! It's been fun singing with you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "You as well! I bet our performance would've frightened an alive audience!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Hmmm... Im not really sure about that. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "You don't think so? How come?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "woah",
+			"text": "The cats, the pastel stars, even your hoodie... Your whole aesthetic is adorable!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Th-that's not true! "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "clawsmayuka",
+			"text": "I'm a scary demon bunny ghost who has many cats at their command and has a spooky nighttime home!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "We even scared you when you walked in."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "That's true, but jumpscares don't count."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "clawsmayuka",
+			"text": "Fine then... is this sword adorable enough for you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "They take out a purple sword and start waving it around Skelly, perceptibly making sure to not hit her by accident."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skelly notices the sunstone attached to it."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Wait... you have a Sunstone too?? These coincidences keep piling up."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "I found this thing lying in one of the bedrooms when I found this place. Thought it'd come in handy for spooking!\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Mayuka's form changes gradually. Their hair spikes up and their tail swirls around as if it was a tornado."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Azur floats between the gap of Haunter Mayuka's hair spikes."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "angry",
+			"expression": "haunterlaugh",
+			"text": "Hahahaha!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Woahwoah, chill for a sec. All I said was-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "haunterguh",
+			"text": "I'm tired of being called cute all the time. All I want is to be able to scare people and have fun, that's it.\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "haunterblank",
+			"text": "Being stuck with a similar form to the one I died with sucks, but at least I can do this with enough power.\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "angry",
+			"expression": "haunterlaugh",
+			"text": "I'm tired of monologuing about my struggles now, let's have some fun! BOO!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "*Sigh* Here we go."
+		}
+	]
+}

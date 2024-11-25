@@ -1,0 +1,348 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skelly sits alone in a restaurant, staring outside the window and taking a break."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "I think today is the day where I start \\nrelaxing more..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "These past few weeks have been really \\nstressful for me, so I think it would be a good idea t-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "She watches a Limo approach outside. Every second it got faster, and faster..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "angry",
+			"expression": "neutral",
+			"text": "Skelly realizes that the Limo is headed for the restaurant. Directly INTO the restaurant."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "As she jumps out of the way, the Limo crashes into the restaurant, a man and a woman with top hats getting out of the vehicle."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "Yeah, run while you still can, pussies!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "The man grinned, slowly moving the focus of his gun around the room."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "hatdown",
+			"text": "Now, here’s the catch..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "gunout",
+			"text": "You give me all the good stuff, you get to go home."
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "berserkgun",
+			"text": "You don't wanna cooperate? You're DONE!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "The crowd obediently went up to the man, one by one, giving up all of their valuable items."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "His plan seemed to be working smoothly, until he noticed Skelly silently sitting at a table."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "He stared at her for a moment, then walked up to her."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "gunpoint",
+			"text": "And where is YOUR stuff?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "My stuff?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "gunpoint",
+			"text": "You know, your valuables! Expensive items!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Not here, that’s for sure."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "disgust",
+			"text": "You're playin' with me. How did you even get to eat here? Surely you've got a wallet on you or somethin-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skelly stood up, staring at the man in front of her."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Whatever I have is none of YOUR concern. Mind your own damn business, dude."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "The man growled."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Just who do you think you are?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Skelly. Who do YOU think YOU are?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "I'm Theesl! I'm the leader of this gang, and I'm here to steal from this dump!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Yeah, sure. That car you just crashed should be considered a dump aswell."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "hatdown",
+			"text": "Are you serious right now? krill! WHERE’S MY GUN?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "The woman approached the two, handing them both microphones."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "disgust",
+			"text": "Wh- The hells this for?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "erm",
+			"text": "Just shut up for a second, will ya?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Krill turned to see Skelly, still sitting at her table."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Name's Krill, you dont mind singin a lil do ya?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "Uh, sorry, this past month has been stressful so im trying not to-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "No? Good, cause im tryna get hot head over here to stop solving everything with violence."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "hatdown",
+			"text": "Krill, this is a robbery!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "erm",
+			"text": "Shut up, you only went here cause you were hungry and didnt wanna pay!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Plus I've heard rapping's quite a popular way to solve conflict 'round these parts.\""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Sorry, but I think you misundersto-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Tell ya what, humor us a lil and we'll let you go, along with everything else we stole."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "But of course, you can decline, then I'll just give Theesl what he wanted from the start."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "Ughhh. Ok fine, but only a couple, I'd really rather be doing something else."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Great! I'll lay down some beats, babe, you start."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "gunout",
+			"text": "Fine! but I'm keeping my gun. This better be worth my time..."
+		}
+	]
+}

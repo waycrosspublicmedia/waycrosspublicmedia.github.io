@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "Oh dear..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "What's up, X?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "Robots- Skell, are you a robot?..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Yeah, why?..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "I... Have to eliminate you. I must."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Wh-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "X, what are you on about?- do you need a cup of water?-"
+		}
+	]
+}

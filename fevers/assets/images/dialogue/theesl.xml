@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="theesl.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="berserkgun0000" x="5" y="5" width="960" height="550"/>
+	<SubTexture name="berserkhatdown0000" x="970" y="5" width="550" height="550"/>
+	<SubTexture name="berserkyell0000" x="1525" y="5" width="550" height="550"/>
+	<SubTexture name="disgust0000" x="2080" y="5" width="550" height="550"/>
+	<SubTexture name="gunout0000" x="2635" y="5" width="750" height="550"/>
+	<SubTexture name="gunpoint0000" x="5" y="560" width="960" height="550"/>
+	<SubTexture name="hatdown0000" x="970" y="560" width="550" height="550"/>
+	<SubTexture name="laugh0000" x="1525" y="560" width="550" height="550"/>
+	<SubTexture name="smile0000" x="2080" y="560" width="550" height="550"/>
+</TextureAtlas>

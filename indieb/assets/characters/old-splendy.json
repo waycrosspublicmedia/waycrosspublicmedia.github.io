@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-6
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "old-splendy idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "old-splendy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "old-splendy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "old-splendy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "old-splendy up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				66
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "old-splendy scream",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/old-splendy",
+	"position": [
+		-390,
+		100
+	],
+	"healthicon": "bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		138,
+		255
+	],
+	"camera_position": [
+		-260,
+		-950
+	],
+	"sing_duration": 4,
+	"scale": 3.5
+}

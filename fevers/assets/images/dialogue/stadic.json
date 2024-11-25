@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		40,
+		-40
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "neutral",
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "cry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "cry",
+			"anim": "cry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "annoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "point",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "point",
+			"anim": "point",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "smile",
+			"anim": "smile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "stadic"
+}

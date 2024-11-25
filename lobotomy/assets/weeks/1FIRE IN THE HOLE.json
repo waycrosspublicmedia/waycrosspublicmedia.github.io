@@ -1,0 +1,41 @@
+{
+	"storyName": "FIRE IN THE HOLE",
+	"difficulties": "Hard, Hell",
+	"hideFreeplay": false,
+	"weekBackground": "fire2",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"flaming pits",
+			"normal-face",
+			[
+				0,
+				175,
+				40
+			]
+		],
+		[
+			"entwined fate",
+			"logodomy",
+			[
+				0,
+				10,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"fire",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "fireinthehole"
+}

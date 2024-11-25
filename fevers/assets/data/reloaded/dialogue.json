@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "gunout",
+			"text": "AGHH! HOW THE BEEP ARE YOU DOING\\nTHAT?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Doing what?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skelly stood in place, awkwardly waiting for a response as Theesl angrily stomped his foot on the ground."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "hatdown",
+			"text": "DON'T ACT DUMB, ASSHOLE!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "erm",
+			"text": "The bullets. He wants to know how you could dodge bullets."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Oh. I got lucky."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "gunout",
+			"text": "SO NOW YOU'RE GETTING SMART WITH ME, HUH?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "No, I actually did just get luck-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "berserkgun",
+			"text": "I DON'T WANNA FREAKING HEAR IT!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "berserkhatdown",
+			"text": "SMARTASSES LIKE YOU SHOULDN'T BE STANDIN' WHERE YOU ARE NOW!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "I wasn't-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "berserkgun",
+			"text": "START THE DAMN SONG! I’LL PUT THIS BITCH IN HER PLACE, ONCE AND FOR ALL!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "But-"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "theesl",
+			"boxState": "angry",
+			"expression": "berserkyell",
+			"text": "START IT!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "concerned",
+			"text": "...Sorry."
+		}
+	]
+}

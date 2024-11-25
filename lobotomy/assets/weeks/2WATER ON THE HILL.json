@@ -1,0 +1,32 @@
+{
+	"storyName": "WATER ON THE HILL",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "water",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"water",
+		""
+	],
+	"songs": [
+		[
+			"moist hills",
+			"easy-face",
+			[
+				0,
+				80,
+				140
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "wateronthehill",
+	"hiddenUntilUnlocked": false
+}

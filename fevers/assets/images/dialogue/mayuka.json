@@ -1,0 +1,141 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		40,
+		-40
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "neutral0",
+			"loop_name": "neutral0"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "smile",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "smile0",
+			"loop_name": "smile0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "clawsmayuka",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "clawsmayuka0",
+			"idle_name": "clawsmayuka0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "clawseye",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "clawseye0",
+			"idle_name": "clawseye0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "haunterblank",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "haunterblank0",
+			"idle_name": "haunterblank0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "haunterguh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "haunterguh0",
+			"idle_name": "haunterguh0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "haunterlaugh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "haunterlaugh0",
+			"idle_name": "haunterlaugh0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shademayuka",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shademayuka0",
+			"idle_name": "shademayuka0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shadeskell",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shadeskell0",
+			"idle_name": "shadeskell0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "tired",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "tired0",
+			"idle_name": "tired0"
+		}
+	],
+	"image": "mayuka"
+}

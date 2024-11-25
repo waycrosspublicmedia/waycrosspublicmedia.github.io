@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"expression": "neutral",
+			"text": "Skell was taking a stroll in the city, observing the sunstone they found on the ground.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "neutral",
+			"text": "She had thought to return it to whoever was the owner out of the kindness of her heart.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": " What is this thing... And how am I gonna just- miraculously find the owner of something like this?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Maybe i'm just overthinking it, it shouldn't be that har- "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skell knocks into someone, someone who she may be familiar with. \r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Hey—! watch where you're goi-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "X?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I'm sor- OH!! Hey Skells, sorry about that!! I really am..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "No, no.. it's fine, also..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "What's that in your hands? "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "I don't really know... it was a rock I had found-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "I picked it up because it looked pretty, but I do plan to return it, really!\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "What a coincidence... I have one too."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I was planning to stop here at the cafe and ask around to find the owner of this thing."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "I don't think i'mma have luck, though."
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"position": [
+		-80,
+		-40
+	],
+	"dialogue_pos": "center",
+	"scale": 1,
+	"image": "chloe",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "neutral",
+			"idle_name": "neutral"
+		},
+		{
+			"loop_name": "erm",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "erm",
+			"anim": "erm",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "concerned",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "concerned",
+			"anim": "concerned",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

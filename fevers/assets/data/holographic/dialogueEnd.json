@@ -1,0 +1,172 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "After rigging electric wires to try and stun Skell, Stadic finds herself surprised by \\ndexterity."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "cry",
+			"text": "Damn... you're REALLY good..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I know- WAIT OH MY GOD-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skelly snatches the stone from her while she looked away."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "I was wondering what made her do that."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "The stone in Skelly's pocket pulses harder."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "So that's what the other stone was leading me to..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Wh- HEY! You took that gem from me!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "It's called a sunstone! Depending on which one it is, it can fill a person with power and affect their emotions."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Yeah... now that I think about it, why would I electrocute you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "cry",
+			"text": "Man, I'm really sorry."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "It's alright, although you seem pretty bummed out."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Hmmm... Hey, me and a few others are gonna go to dinner soon, how about you join us?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Wh- Really? I'd love to!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Alright it's settled then! I'll be leaving now though."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "I'll see you later then, Skelly! If that was your name."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Right."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "As Skelly left the old building, the Plasma sunstone began to pulse like the dark one."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Now what?-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "She saw a vision of a haunted mansion. She knew what to do next..."
+		}
+	]
+}

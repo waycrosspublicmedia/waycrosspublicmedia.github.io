@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ghosts.png"><SubTexture name="ghosts idle0000" x="0" y="0" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+<SubTexture name="ghostone0001" x="2764" y="0" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+<SubTexture name="ghosttwo0001" x="5528" y="0" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+<SubTexture name="ghostthree0001" x="8292" y="0" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+<SubTexture name="ghostfour0001" x="0" y="2204" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+<SubTexture name="ghostfive0001" x="2764" y="2204" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+<SubTexture name="ghostsix0001" x="5528" y="2204" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+</TextureAtlas>

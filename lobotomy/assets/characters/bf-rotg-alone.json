@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1245,
+				1110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf-alone-dark idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1245,
+				1110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf-alone-dark left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1245,
+				1110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf-alone-dark down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1245,
+				1110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf-alone-dark up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1245,
+				1110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf-alone-dark right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1245,
+				1110
+			],
+			"anim": "turn",
+			"fps": 12,
+			"name": "bf-alone-dark turn",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-alone-dark",
+	"position": [
+		-160,
+		390
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Wow, you're pretty good at this, sis!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Thanks! You can call me Skelly by the way."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Awesome! So you up for another song, Skelly?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Sure, but you better make it more difficult this time, I wanna have fun too but I need a bit more of a challenge."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "Good to know. Get ready cause I’m gonna kick your ass!"
+		}
+	]
+}

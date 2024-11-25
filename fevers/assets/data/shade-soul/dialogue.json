@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Wow, I'm glad this place turned out to be not as scary as I thought it'd be!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "woah",
+			"text": "You did a great job making this an adorable little hideaway.\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "shademayuka",
+			"text": "But, It's not supposed to be cute, though..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Mayuka's form changes to pitch black figure and bright glowing eyes. Skelly decides to change the subject."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "...Well, anyways, what's with all of the\\nthe visitors? The ghosts and cats I mean."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Oh! We let stray cats in here to rest if they need, since FeverTown isn't the safest place..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "And ghosts come here to have shelter from the sun if they don't have something for cover!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "It's night time right now, though. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "This place is also just a nice area to hang out with how big it is. Hard to believe someone just left it here!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I guess that makes sense. Since the others are watching, why don't we sing another song?\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "clawsmayuka",
+			"text": "I'm getting more comfortable with this, it's fun! This song'll be real spooky."
+		}
+	]
+}

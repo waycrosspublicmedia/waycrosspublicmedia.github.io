@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="introcards.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ben0000" x="5" y="5" width="825" height="314"/>
+	<SubTexture name="Boo0000" x="835" y="5" width="825" height="314"/>
+	<SubTexture name="Cultro0000" x="1665" y="5" width="825" height="314"/>
+	<SubTexture name="Drivers License0000" x="2495" y="5" width="825" height="314"/>
+	<SubTexture name="Fireball0000" x="5" y="324" width="825" height="314"/>
+	<SubTexture name="Holographic0000" x="835" y="324" width="825" height="314"/>
+	<SubTexture name="Inserted0000" x="1665" y="324" width="825" height="314"/>
+	<SubTexture name="Malfunction0000" x="2495" y="324" width="825" height="314"/>
+	<SubTexture name="Obliteration0000" x="5" y="643" width="825" height="314"/>
+	<SubTexture name="Phoenix0000" x="835" y="643" width="825" height="314"/>
+	<SubTexture name="Pocket Void0000" x="1665" y="643" width="825" height="314"/>
+	<SubTexture name="Reloaded0000" x="2495" y="643" width="825" height="314"/>
+	<SubTexture name="Scorpio0000" x="5" y="962" width="825" height="314"/>
+	<SubTexture name="Shade Soul0000" x="835" y="962" width="825" height="314"/>
+	<SubTexture name="Sob0000" x="1665" y="962" width="825" height="314"/>
+	<SubTexture name="Starmallow0000" x="2495" y="962" width="825" height="314"/>
+	<SubTexture name="Threat0000" x="5" y="1281" width="825" height="314"/>
+	<SubTexture name="X0000" x="835" y="1281" width="825" height="314"/>
+	<SubTexture name="Zamn!0000" x="1665" y="1281" width="825" height="314"/>
+</TextureAtlas>

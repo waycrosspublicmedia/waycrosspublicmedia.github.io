@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BsidesSans.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sans Down0000" x="0" y="0" width="633" height="651" frameX="0" frameY="-37" frameWidth="633" frameHeight="688"/>
+	<SubTexture name="Sans Down0001" x="635" y="0" width="633" height="658" frameX="0" frameY="-30" frameWidth="633" frameHeight="688"/>
+	<SubTexture name="Sans Down0002" x="1270" y="0" width="633" height="670" frameX="0" frameY="-18" frameWidth="633" frameHeight="688"/>
+	<SubTexture name="Sans Down0003" x="1905" y="0" width="633" height="679" frameX="0" frameY="-9" frameWidth="633" frameHeight="688"/>
+	<SubTexture name="Sans Down0004" x="2540" y="0" width="633" height="684" frameX="0" frameY="-4" frameWidth="633" frameHeight="688"/>
+	<SubTexture name="Sans Down0005" x="3175" y="0" width="633" height="687" frameX="0" frameY="-1" frameWidth="633" frameHeight="688"/>
+	<SubTexture name="Sans Down0006" x="3810" y="0" width="633" height="688"/>
+	<SubTexture name="Sans Down0007" x="3810" y="0" width="633" height="688"/>
+	<SubTexture name="Sans Idle0000" x="4445" y="0" width="680" height="690" frameX="-29" frameY="-6" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0001" x="5127" y="0" width="677" height="692" frameX="-29" frameY="-4" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0002" x="5806" y="0" width="673" height="693" frameX="-29" frameY="-3" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0003" x="6481" y="0" width="670" height="695" frameX="-29" frameY="-1" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0004" x="7153" y="0" width="666" height="696" frameX="-29" frameY="0" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0005" x="0" y="698" width="662" height="696" frameX="-29" frameY="0" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0006" x="664" y="698" width="659" height="696" frameX="-29" frameY="0" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0007" x="1325" y="698" width="655" height="695" frameX="-29" frameY="-1" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0008" x="1982" y="698" width="652" height="693" frameX="-29" frameY="-3" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0009" x="2636" y="698" width="648" height="692" frameX="-29" frameY="-4" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0010" x="3286" y="698" width="691" height="672" frameX="0" frameY="-24" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0011" x="3286" y="698" width="691" height="672" frameX="0" frameY="-24" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0012" x="3979" y="698" width="657" height="685" frameX="-17" frameY="-11" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0013" x="3979" y="698" width="657" height="685" frameX="-17" frameY="-11" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0014" x="4638" y="698" width="656" height="687" frameX="-29" frameY="-9" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0015" x="5296" y="698" width="659" height="689" frameX="-29" frameY="-7" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0016" x="5957" y="698" width="662" height="691" frameX="-29" frameY="-5" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0017" x="6621" y="698" width="664" height="693" frameX="-29" frameY="-3" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0018" x="7287" y="698" width="667" height="695" frameX="-29" frameY="-1" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0019" x="6481" y="0" width="670" height="695" frameX="-29" frameY="-1" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0020" x="0" y="1396" width="672" height="695" frameX="-29" frameY="-1" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0021" x="674" y="1396" width="675" height="694" frameX="-29" frameY="-2" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0022" x="1351" y="1396" width="678" height="693" frameX="-29" frameY="-3" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0023" x="2031" y="1396" width="680" height="692" frameX="-29" frameY="-4" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0024" x="2713" y="1396" width="729" height="666" frameX="-4" frameY="-30" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0025" x="2713" y="1396" width="729" height="666" frameX="-4" frameY="-30" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0026" x="3444" y="1396" width="704" height="682" frameX="-16" frameY="-14" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Idle0027" x="3444" y="1396" width="704" height="682" frameX="-16" frameY="-14" frameWidth="733" frameHeight="696"/>
+	<SubTexture name="Sans Left0000" x="4150" y="1396" width="691" height="700" frameX="0" frameY="0" frameWidth="695" frameHeight="700"/>
+	<SubTexture name="Sans Left0001" x="4843" y="1396" width="682" height="696" frameX="-10" frameY="-4" frameWidth="695" frameHeight="700"/>
+	<SubTexture name="Sans Left0002" x="5527" y="1396" width="676" height="694" frameX="-17" frameY="-6" frameWidth="695" frameHeight="700"/>
+	<SubTexture name="Sans Left0003" x="6205" y="1396" width="672" height="692" frameX="-22" frameY="-8" frameWidth="695" frameHeight="700"/>
+	<SubTexture name="Sans Left0004" x="6879" y="1396" width="668" height="691" frameX="-26" frameY="-9" frameWidth="695" frameHeight="700"/>
+	<SubTexture name="Sans Left0005" x="0" y="2098" width="667" height="691" frameX="-27" frameY="-9" frameWidth="695" frameHeight="700"/>
+	<SubTexture name="Sans Left0006" x="669" y="2098" width="667" height="690" frameX="-28" frameY="-10" frameWidth="695" frameHeight="700"/>
+	<SubTexture name="Sans Left0007" x="669" y="2098" width="667" height="690" frameX="-28" frameY="-10" frameWidth="695" frameHeight="700"/>
+	<SubTexture name="Sans Right0000" x="1338" y="2098" width="766" height="681" frameX="0" frameY="-4" frameWidth="766" frameHeight="686"/>
+	<SubTexture name="Sans Right0001" x="2106" y="2098" width="741" height="685" frameX="0" frameY="-1" frameWidth="766" frameHeight="686"/>
+	<SubTexture name="Sans Right0002" x="2849" y="2098" width="741" height="686" frameX="0" frameY="0" frameWidth="766" frameHeight="686"/>
+	<SubTexture name="Sans Right0003" x="3592" y="2098" width="740" height="686" frameX="0" frameY="0" frameWidth="766" frameHeight="686"/>
+	<SubTexture name="Sans Right0004" x="4334" y="2098" width="740" height="686" frameX="0" frameY="0" frameWidth="766" frameHeight="686"/>
+	<SubTexture name="Sans Right0005" x="5076" y="2098" width="739" height="686" frameX="0" frameY="0" frameWidth="766" frameHeight="686"/>
+	<SubTexture name="Sans Right0006" x="5817" y="2098" width="739" height="686" frameX="0" frameY="0" frameWidth="766" frameHeight="686"/>
+	<SubTexture name="Sans Right0007" x="5817" y="2098" width="739" height="686" frameX="0" frameY="0" frameWidth="766" frameHeight="686"/>
+	<SubTexture name="Sans Up0000" x="6558" y="2098" width="639" height="729" frameX="0" frameY="0" frameWidth="645" frameHeight="730"/>
+	<SubTexture name="Sans Up0001" x="7199" y="2098" width="638" height="714" frameX="0" frameY="-16" frameWidth="645" frameHeight="730"/>
+	<SubTexture name="Sans Up0002" x="0" y="2829" width="642" height="710" frameX="0" frameY="-20" frameWidth="645" frameHeight="730"/>
+	<SubTexture name="Sans Up0003" x="644" y="2829" width="643" height="708" frameX="0" frameY="-22" frameWidth="645" frameHeight="730"/>
+	<SubTexture name="Sans Up0004" x="1289" y="2829" width="643" height="707" frameX="0" frameY="-23" frameWidth="645" frameHeight="730"/>
+	<SubTexture name="Sans Up0005" x="1934" y="2829" width="644" height="706" frameX="0" frameY="-24" frameWidth="645" frameHeight="730"/>
+	<SubTexture name="Sans Up0006" x="2580" y="2829" width="644" height="706" frameX="0" frameY="-24" frameWidth="645" frameHeight="730"/>
+	<SubTexture name="Sans Up0007" x="2580" y="2829" width="644" height="706" frameX="0" frameY="-24" frameWidth="645" frameHeight="730"/>
+</TextureAtlas>

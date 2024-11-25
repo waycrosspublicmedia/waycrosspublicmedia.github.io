@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "scorp",
+		"player1": "bf",
+		"player2": "bf-enemy",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "inserted"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				-2
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sans Idle"
+		},
+		{
+			"offsets": [
+				-11,
+				-7
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sans Left"
+		},
+		{
+			"offsets": [
+				-42,
+				-4
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sans Down"
+		},
+		{
+			"offsets": [
+				-42,
+				1
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sans Up"
+		},
+		{
+			"offsets": [
+				-44,
+				-7
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sans Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BattleSans",
+	"position": [
+		330,
+		400
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-100,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

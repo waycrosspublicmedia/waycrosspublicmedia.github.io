@@ -1,0 +1,126 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				32
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				29
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				84
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				66,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "mag",
+			"indices": [],
+			"name": "reload"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				33
+			],
+			"anim": "shoot",
+			"fps": 28,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				9,
+				32
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				11,
+				12,
+				13
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				70,
+				65
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "reload",
+			"indices": [],
+			"name": "cock"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/btheesl",
+	"position": [
+		110,
+		300
+	],
+	"healthicon": "btheesl",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		20,
+		60
+	],
+	"camera_position": [
+		-40,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

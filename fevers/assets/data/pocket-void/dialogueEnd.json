@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"expression": "neutral",
+			"text": "Skell manages to tire X out, leaving them tuckered out.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "neutral",
+			"text": "Due to this, the dimension is now uninhabitable, pushing them back out.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "sorry",
+			"text": "X? Are you alright?-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "X gets up, dizzy, when Skell notices something shiny drop off of them.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Huh, what's this?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Hey wait, this looks like-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "She pulls out her own sunstone, and realized how similar it was, it was another sunstone!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "woah",
+			"text": "Your sunstone! But this one seems darker than mine.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "I'll keep it just in case, if you don't mind...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smile",
+			"text": "Hrng... Yeah you can keep it, I think it was making me act out actually.\r",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x"
+		},
+		{
+			"expression": "smile",
+			"text": "I'm really sorry about what I did back there, I wasn't myself there.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x"
+		},
+		{
+			"expression": "neutral",
+			"text": "Any way I could make it up to you...?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x"
+		},
+		{
+			"expression": "neutral",
+			"text": "Hm, well I WAS thinking about having a meet up with a few friends in a restaurant soon.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Would you like to join us?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "I'd be glad to!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x"
+		},
+		{
+			"expression": "smile",
+			"text": "But I should be heading off now, I'll see you then Skell!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x"
+		},
+		{
+			"expression": "excited",
+			"text": "See you around!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "As they walked their separate ways, Skell felt something in her pocket.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "neutral",
+			"text": "She picks up the Dark Sunstone she just collected from X.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "shocked",
+			"text": "Huh?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "Skell soon saw a vision of an abandoned \\nunderground laboratory.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "neutral",
+			"text": "Although confusing, she felt like she had to go there for some reason, and so she did...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		}
+	]
+}

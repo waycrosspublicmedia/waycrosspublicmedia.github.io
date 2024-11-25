@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LOGODOMY.png"><SubTexture name="LOGODOMY idle dance0000" x="5860" y="4535" width="2930" height="1976" frameX="-155" frameY="-209" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY idle dance0001" x="5860" y="4535" width="2930" height="1976" frameX="-155" frameY="-209" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY idle dance0002" x="0" y="8498" width="2925" height="1960" frameX="-159" frameY="-223" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY idle dance0003" x="0" y="8498" width="2925" height="1960" frameX="-159" frameY="-223" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY idle dance0004" x="8973" y="0" width="2918" height="1971" frameX="-164" frameY="-212" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY idle dance0005" x="8973" y="0" width="2918" height="1971" frameX="-164" frameY="-212" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY idle dance0006" x="2936" y="4535" width="2924" height="1980" frameX="-156" frameY="-203" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY idle dance0007" x="2936" y="4535" width="2924" height="1980" frameX="-156" frameY="-203" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY idle dance0008" x="6037" y="2048" width="2929" height="1987" frameX="-149" frameY="-199" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY idle dance0009" x="6037" y="2048" width="2929" height="1987" frameX="-149" frameY="-199" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY up note0000" x="0" y="0" width="2976" height="2350" frameX="-114" frameY="0" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY up note0001" x="0" y="0" width="2976" height="2350" frameX="-114" frameY="0" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY up note0002" x="2976" y="0" width="3061" height="2276" frameX="-29" frameY="-64" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY right note0000" x="3084" y="6522" width="3080" height="1976" frameX="-219" frameY="-191" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY right note0001" x="3084" y="6522" width="3080" height="1976" frameX="-219" frameY="-191" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY right note0002" x="0" y="6522" width="3084" height="1976" frameX="-149" frameY="-191" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY left note0000" x="6037" y="0" width="2936" height="2048" frameX="-16" frameY="-291" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY left note0001" x="6037" y="0" width="2936" height="2048" frameX="-16" frameY="-291" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY left note0002" x="0" y="4535" width="2936" height="1987" frameX="-96" frameY="-291" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY down note0000" x="0" y="2350" width="2937" height="2185" frameX="-156" frameY="-102" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY down note0001" x="0" y="2350" width="2937" height="2185" frameX="-156" frameY="-102" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="LOGODOMY down note0002" x="2937" y="2350" width="2937" height="2105" frameX="-156" frameY="-102" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

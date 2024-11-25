@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1470,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LOGODOMY idle dance"
+		},
+		{
+			"offsets": [
+				1750,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LOGODOMY left note"
+		},
+		{
+			"offsets": [
+				1470,
+				825
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LOGODOMY down note"
+		},
+		{
+			"offsets": [
+				1470,
+				1385
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LOGODOMY up note"
+		},
+		{
+			"offsets": [
+				1190,
+				1105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LOGODOMY right note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LOGODOMY",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "logodomy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-560,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 1.295
+}

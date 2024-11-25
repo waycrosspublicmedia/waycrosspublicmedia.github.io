@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scorp.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="5" y="5" width="550" height="550"/>
+	<SubTexture name="laugh0000" x="560" y="5" width="550" height="550"/>
+	<SubTexture name="lordylord0000" x="1115" y="5" width="550" height="550"/>
+	<SubTexture name="neutral0000" x="5" y="560" width="550" height="550"/>
+	<SubTexture name="run0000" x="560" y="560" width="550" height="550"/>
+	<SubTexture name="sad0000" x="1115" y="560" width="550" height="550"/>
+	<SubTexture name="scared0000" x="5" y="1115" width="550" height="550"/>
+	<SubTexture name="smirk0000" x="560" y="1115" width="550" height="550"/>
+	<SubTexture name="wha0000" x="1115" y="1115" width="550" height="550"/>
+</TextureAtlas>

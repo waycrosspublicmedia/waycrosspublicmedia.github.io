@@ -1,0 +1,58 @@
+{
+	"storyName": "Scorp",
+	"difficulties": "Hard, Expert",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		"scorp"
+	],
+	"songs": [
+		[
+			"Scorpio",
+			"scorp",
+			[
+				20,
+				215,
+				20
+			]
+		],
+		[
+			"Fireball",
+			"scorp",
+			[
+				20,
+				215,
+				20
+			]
+		],
+		[
+			"Malfunction",
+			"stadic",
+			[
+				100,
+				0,
+				155
+			]
+		],
+		[
+			"Holographic",
+			"stadic",
+			[
+				100,
+				0,
+				155
+			]
+		]
+	],
+	"weekName": "Scorp"
+}

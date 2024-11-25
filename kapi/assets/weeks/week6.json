@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["pyoro", "pico", [242, 2, 101]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "school",
+
+	"storyName": "nyo nyo",
+	"weekBefore": "week5",
+	"weekName": "Week 6",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

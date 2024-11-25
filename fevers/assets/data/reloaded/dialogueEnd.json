@@ -1,0 +1,196 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "After a good while of pure mayhem and bullets, Skelly was victorious once again."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "hatdown",
+			"text": "How... did... you... dodge THAT?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I'm cracked at this, didn't you know."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "hatdown",
+			"text": "Shut...  UP!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "berserkgun",
+			"text": "DIE YOU CLOWN HAIRED BOZO!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "berserkgun",
+			"text": "*click, click*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "gunout",
+			"text": "Wh-What? I'm out of ammo?? Krill, hand me some more!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Krill shrugs, as there's no more left."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "hatdown",
+			"text": "OH COME ON! You got lucky this time... GANG! We're leaving."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skelly looks at them with a smile on her face as they leave the now destroyed restaurant."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "gunpoint",
+			"text": "Ugh. Keep this in mind, asshole:"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "angry",
+			"expression": "hatdown",
+			"text": "Quiet..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "angry",
+			"expression": "berserkhatdown",
+			"text": "People..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "angry",
+			"expression": "berserkyell",
+			"text": "PISS"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "disgust",
+			"text": "...Me off."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "He storms off angrily. Skell takes a sigh of relief over what just happened."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "Phew... Finally, glad that's over. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Soon after, her friends that she invited all arrived, shocked at the gaping hole in the wall and the many tiny holes behind them."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skelly told them about her battle, when she noticed something on the floor."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh, another Sunstone! This one feels kinda warm..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "She put it in her pocket and continued her night."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "It hadn't pulsed for a bit, and it won't for a while."
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "But it will. Eventually..."
+		}
+	]
+}

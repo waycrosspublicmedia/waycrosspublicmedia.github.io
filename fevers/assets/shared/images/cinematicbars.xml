@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cinematicbars.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cine in0000" x="5" y="5" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0001" x="1414" y="5" width="1404" height="793" frameX="0" frameY="-2" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0002" x="2823" y="5" width="1404" height="792" frameX="0" frameY="-2" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0003" x="4232" y="5" width="1404" height="793" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0004" x="5641" y="5" width="1404" height="793" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0005" x="5" y="803" width="1404" height="793" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0006" x="1414" y="803" width="1404" height="793" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0007" x="2823" y="803" width="1404" height="793" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0008" x="4232" y="803" width="1404" height="792" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0009" x="5641" y="803" width="1404" height="792" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0010" x="5" y="1601" width="1404" height="792" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0011" x="1414" y="1601" width="1404" height="792" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0012" x="2823" y="1601" width="1404" height="793" frameX="0" frameY="0" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0013" x="4232" y="1601" width="1404" height="793" frameX="0" frameY="0" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0014" x="5641" y="1601" width="1404" height="793" frameX="0" frameY="0" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0015" x="5" y="2399" width="1404" height="793" frameX="0" frameY="0" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0016" x="1414" y="2399" width="1404" height="793" frameX="0" frameY="0" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0017" x="2823" y="2399" width="1404" height="793" frameX="0" frameY="0" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0018" x="4232" y="2399" width="1404" height="793" frameX="0" frameY="0" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine in0019" x="4232" y="2399" width="1404" height="793" frameX="0" frameY="0" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0000" x="4232" y="2399" width="1404" height="793" frameX="0" frameY="0" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0001" x="5641" y="2399" width="1404" height="792" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0002" x="5" y="3197" width="1404" height="793" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0003" x="1414" y="3197" width="1404" height="793" frameX="0" frameY="-1" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0004" x="2823" y="3197" width="1404" height="792" frameX="0" frameY="-2" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0005" x="4232" y="3197" width="1404" height="792" frameX="0" frameY="-2" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0006" x="5641" y="3197" width="1404" height="793" frameX="0" frameY="-2" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0007" x="5" y="3995" width="1404" height="793" frameX="0" frameY="-2" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0008" x="1414" y="3995" width="1404" height="793" frameX="0" frameY="-2" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0009" x="2823" y="3995" width="1404" height="793" frameX="0" frameY="-2" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0010" x="4232" y="3995" width="1404" height="792" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0011" x="5641" y="3995" width="1404" height="792" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0012" x="5" y="4793" width="1404" height="792" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0013" x="1414" y="4793" width="1404" height="792" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0014" x="2823" y="4793" width="1404" height="792" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0015" x="4232" y="4793" width="1404" height="792" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0016" x="5641" y="4793" width="1404" height="792" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0017" x="5" y="5590" width="1404" height="792" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0018" x="1414" y="5590" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0019" x="2823" y="5590" width="1404" height="792" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0020" x="4232" y="5590" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0021" x="4232" y="5590" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0022" x="4232" y="5590" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0023" x="4232" y="5590" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0024" x="4232" y="5590" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0025" x="4232" y="5590" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0026" x="4232" y="5590" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0027" x="4232" y="5590" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0028" x="4232" y="5590" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+	<SubTexture name="cine out0029" x="5" y="5" width="1404" height="793" frameX="0" frameY="-3" frameWidth="1404" frameHeight="796"/>
+</TextureAtlas>

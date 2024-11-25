@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-264,
+				-214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "WinkelIDLE"
+		},
+		{
+			"offsets": [
+				-173,
+				-214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "WinkelLEFT"
+		},
+		{
+			"offsets": [
+				-264,
+				-214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "WinkelRIGHT"
+		},
+		{
+			"offsets": [
+				-271,
+				-214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "WinkelDOWN"
+		},
+		{
+			"offsets": [
+				-218,
+				-214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "WinkelUP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/winkel",
+	"position": [
+		-180,
+		140
+	],
+	"healthicon": "winkel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		98,
+		70
+	],
+	"camera_position": [
+		0,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 6.5
+}

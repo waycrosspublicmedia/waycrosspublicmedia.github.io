@@ -1,0 +1,300 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "After a few days of planning, Skelly decided to go out and find the haunted mansion."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "When she got there, she stared at the large wooden doors in front of her."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "The gray brick walls are cracked by the vines that grow along them, and the windows are faded and broken."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Hesitantly, she opens the doors. They produce a loud creaking sound."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Got damn, these door hinges need some WD40. Anyways, this place seems abandoned too, so I should be fine."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skelly carefully walks across the dusty \\nhallway, taking note of the paintings hung up on the wall."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Huh, these seem interesting. I wonder who used to li-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Wait, did the eyes of that one just move?-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "She stares at the painting..."
+		},
+		{
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I'm going to assume that's just my paranoia getting to me, considering what happened last week... "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Even slower than before, she makes her way toward the end of the hallway and slightly peers out into the main stairway room."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Phew... See, that wasn't so ba-"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "mayuka",
+			"boxState": "angry",
+			"expression": "clawseye",
+			"text": "BOO!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "AAAAHH!! "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Hahaha, we got you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "The ghost and the star continue giggling as Skell grounds herself again."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Great. This is the second time I go to an abandoned building just to get jumpscared."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "We haven't seen anyone come in here who isn't dead for a long time. Who are you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "O-Oh, I'm Skelly. You gave me a bit of a fright there."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "clawsmayuka",
+			"text": "You walked into a spooky haunted mansion, silly! Of course you were gonna get spooked.\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "I'm Mayuka by the way, and this is my little power star friend named Azur!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "It's nice to meet you too. My apologies for intruding, I thought this place was abandoned and thought it would be fun to explore.\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "N-no need to apologize, we like visitors! Cats and ghosts come here all the time!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I can see that, haha. As long as they're harmless it's pretty neat."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "clawsmayuka",
+			"text": "Well, not exactly... hehehe."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skelly dismisses this. they seem pretty \\nharmless, after all."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Mayuka's little star friend taps on their shoulder."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Oh, what were you saying, Azur?\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "The star produces echoed unintelligible \\nwhispering noises."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Oh! Azur wants to know a bit more about you! "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Hmmmm... Well, do you like singing? \r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "O-Oh- That is a random question, but I'm not sure. I've never really tried doing it in front of anyone before.\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Thats okay! I just thought it would be fun to sing a bit more about myself."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Azur whispers again with a happy expression. Skelly assumes that they like the idea."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "I guess I could try to sing with you... I'm kind of new to this so maybe start off a bit slow. I think I have a song in mind!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Sounds great! Let's go!"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "Mayuka",
+	"difficulties": "Hard, Expert",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Starmallow",
+			"mayuka",
+			[
+				255,
+				160,
+				255
+			]
+		],
+		[
+			"Shade Soul",
+			"mayuka",
+			[
+				255,
+				160,
+				255
+			]
+		],
+		[
+			"Boo",
+			"hauntermayuka",
+			[
+				255,
+				160,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		"mayuka"
+	],
+	"weekName": "Mayuka"
+}

@@ -1,0 +1,167 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-20,
+		-50
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "excited",
+			"idle_name": "excited"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "yell",
+			"idle_name": "yell"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "wut",
+			"idle_name": "wut"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "armcross",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "armcrossed",
+			"loop_name": "armcrossed"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "annoyed",
+			"loop_name": "annoyed"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "woah",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "woah",
+			"loop_name": "woah"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "knife",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "knife",
+			"loop_name": "knife"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "cry",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sad",
+			"loop_name": "sad"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sorry",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sorry",
+			"loop_name": "sorry"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "smile",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "excited",
+			"loop_name": "excited"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "blush",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "blush",
+			"idle_name": "blush"
+		},
+		{
+			"loop_name": "neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "neutral",
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "skelly"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="x.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="5" y="5" width="550" height="550"/>
+	<SubTexture name="bruh0000" x="560" y="5" width="550" height="550"/>
+	<SubTexture name="demonangry0000" x="1115" y="5" width="550" height="550"/>
+	<SubTexture name="demonbruh0000" x="5" y="560" width="550" height="550"/>
+	<SubTexture name="demonneutral0000" x="560" y="560" width="550" height="550"/>
+	<SubTexture name="demonshadow0000" x="1115" y="560" width="550" height="550"/>
+	<SubTexture name="neutral0000" x="5" y="1115" width="550" height="550"/>
+	<SubTexture name="smile0000" x="560" y="1115" width="550" height="550"/>
+</TextureAtlas>

@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Suddenly, Skell gets teleported to another\\nrealm, along with X."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Where the hell are we?..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "knife",
+			"text": "And what the hell are YOU? "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "demonneutral",
+			"text": "Your fairy godmother, what else do you think I am??"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Uhhh... purple?-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "demonangry",
+			"text": "Nice going, dumbass! Now you look stupid, AND I hate your guts!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "demonbruh",
+			"text": "Anyway, this is.. X's Alternative mindset. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "demonbruh",
+			"text": "...Or demon mindset- If you want it dumbed down for you. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Gee, thanks for the compliment. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "demonbruh",
+			"text": "This happens whenever X sees a robot, this triggers something in their mind and brings them to where we are right now..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "demonneutral",
+			"text": "The Pocket Void."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "okay :nerd: start the next song "
+		},
+		{
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "x",
+			"boxState": "normal",
+			"expression": "demonshadow",
+			"text": "..."
+		}
+	]
+}

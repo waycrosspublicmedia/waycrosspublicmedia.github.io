@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sarah.png">
+<SubTexture name="Sarah Idle0000" x="1931" y="0" width="649" height="794" frameX="-224" frameY="-49" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Sarah Idle0001" x="0" y="1612" width="650" height="790" frameX="-220" frameY="-53" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Sarah Idle0002" x="1931" y="794" width="648" height="793" frameX="-223" frameY="-50" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Sarah Idle0003" x="0" y="808" width="645" height="804" frameX="-230" frameY="-39" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Sarah Idle0004" x="0" y="0" width="643" height="808" frameX="-233" frameY="-35" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Sarah Idle0005" x="643" y="0" width="644" height="806" frameX="-232" frameY="-37" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Sarah Idle0006" x="1287" y="0" width="644" height="806" frameX="-232" frameY="-37" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Sarah Idle0007" x="645" y="808" width="645" height="803" frameX="-230" frameY="-40" frameWidth="1125" frameHeight="843" />
+</TextureAtlas>

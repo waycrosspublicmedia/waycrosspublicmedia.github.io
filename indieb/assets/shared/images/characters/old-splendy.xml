@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="old-splendy.png">
+<SubTexture name="old-splendy idle0000" x="0" y="0" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy idle0001" x="960" y="0" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy idle0002" x="0" y="716" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy idle0003" x="960" y="716" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy idle0004" x="1920" y="0" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy idle0005" x="1920" y="716" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy left0000" x="0" y="1432" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy left0001" x="960" y="1432" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy left0002" x="1920" y="1432" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy left0003" x="0" y="2148" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy left0004" x="960" y="2148" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy left0005" x="1920" y="2148" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy down0000" x="2880" y="0" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy down0001" x="2880" y="716" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy down0002" x="2880" y="1432" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy down0003" x="2880" y="2148" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy down0004" x="0" y="2864" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy down0005" x="960" y="2864" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy up0000" x="1920" y="2864" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy up0001" x="2880" y="2864" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy up0002" x="3840" y="0" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy up0003" x="3840" y="716" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy up0004" x="3840" y="1432" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy up0005" x="3840" y="2148" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy right0000" x="3840" y="2864" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy right0001" x="0" y="3580" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy right0002" x="960" y="3580" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy right0003" x="1920" y="3580" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy right0004" x="2880" y="3580" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy right0005" x="3840" y="3580" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy scream0000" x="4800" y="0" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy scream0001" x="4800" y="716" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy scream0002" x="4800" y="0" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy scream0003" x="4800" y="716" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy scream0004" x="4800" y="0" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+<SubTexture name="old-splendy scream0005" x="4800" y="716" width="960" height="716" frameX="0" frameY="0" frameWidth="960" frameHeight="716" />
+</TextureAtlas>

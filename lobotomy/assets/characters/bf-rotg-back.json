@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf-rotg-back idle dance"
+		},
+		{
+			"offsets": [
+				1275,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf-rotg-back left note"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf-rotg-back down note"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf-rotg-back up note"
+		},
+		{
+			"offsets": [
+				1215,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf-rotg-back right note"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf-rotg-back miss"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf-rotg-back miss"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf-rotg-back miss"
+		},
+		{
+			"offsets": [
+				1245,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf-rotg-back miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-rotg-back",
+	"position": [
+		-160,
+		390
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

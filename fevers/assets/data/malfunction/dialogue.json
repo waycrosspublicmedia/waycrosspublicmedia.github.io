@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Damn, you have a pretty good flow Scorp, thanks for the battle!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "No problem! Thanks for actually rapping with me, I had a lot of fun fighting you!\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Wouldn't be the first time."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "The lights in the lab had turned on, revealing a robotic figure that had been watching the two the whole time!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "wha",
+			"text": "Ermmmm…... What the scallop?"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Well well..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "What? Who the hell are you?\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "The name's Stadic, and you two happen to be in my home."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh uhhh my bad then, we just can leave if you’d like us to."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Nah, I don’t mind, it was pretty entertaining seeing you guys sing! "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Makes me wanna try it myself..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Well the night's not over yet, you can fight me too! "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "If you think you're up to it, of course."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "You wanna bet?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "woah",
+			"text": "Hell yeah I do!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Wait, what about you Scorp? Are you cool with this?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Yeah! You guys can have a 1v1, I need to go home anyways."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "run",
+			"text": "It was nice meeting you though, Skelly..!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "It was nice meeting you too Scorp, now scram! I got a robot's ass to kick!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "Bring it."
+		}
+	]
+}

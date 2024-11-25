@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "scorpidle",
+	"position": [
+		-60,
+		0
+	],
+	"scale": 1,
+	"image": "scorp",
+	"flipX": false
+}

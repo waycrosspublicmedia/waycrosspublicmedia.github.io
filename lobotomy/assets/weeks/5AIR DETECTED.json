@@ -1,0 +1,32 @@
+{
+	"storyName": "AIR DETECTED",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "air",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"detection",
+			"auto-face",
+			[
+				195,
+				113,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"air",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "airdetected"
+}

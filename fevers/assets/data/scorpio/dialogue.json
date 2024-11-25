@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skell was walking late at night heading back home after the events of earlier that day."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Something familar then happened to catch her eye."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Huh? The abandoned building..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "She decided to walk inside, remembering the vision from last week."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Ah, it’s dark in here..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sorry",
+			"text": "Why'd I even go into an abandoned building at night? I should’ve brought a lighter at least."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "In the distance Skell saw a bright green glowing light, It was rapidly approaching her and she could make something out."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "What the…..? Is this guy on fire?-"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "scorp",
+			"boxState": "angry",
+			"expression": "lordylord",
+			"text": "DID SOMEONE SAY LIGHTER!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "AHHHH!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "knife",
+			"text": "WHO THE HELL-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "A hello would've been nice, but I’m Scorp!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Alright then hello, Scorp! Are you ok? What are you even doing here?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "I could say the same to you, lady!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "But I don’t really have the most exciting home life anyways."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "So I just roam around staying at places I think look cool or fun.\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Speaking of fun it’s been FOREVER since I’ve had some, let alone seen someone else."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "So you up for a rap battle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "You rap too? I wasn't expecting that! But alright kid, give me your best shot!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "scorp",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "HAHA! YOU'RE ON LADY!"
+		}
+	]
+}

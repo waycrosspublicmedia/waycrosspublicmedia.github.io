@@ -1,0 +1,25 @@
+{
+	"storyName": "Obby for meat chip",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"sanctuary",
+			"parents-christmas",
+			[
+				242,
+				106,
+				194
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

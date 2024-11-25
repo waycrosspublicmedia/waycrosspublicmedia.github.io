@@ -1,0 +1,49 @@
+{
+	"storyName": "Theesl",
+	"difficulties": "Hard, Expert",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		"theesl"
+	],
+	"songs": [
+		[
+			"Drivers License",
+			"theesl",
+			[
+				120,
+				80,
+				100
+			]
+		],
+		[
+			"Cultro",
+			"theesl",
+			[
+				120,
+				80,
+				100
+			]
+		],
+		[
+			"Reloaded",
+			"theesl",
+			[
+				120,
+				80,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Theesl"
+}

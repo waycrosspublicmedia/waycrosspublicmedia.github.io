@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skelly.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="annoyed0000" x="5" y="5" width="550" height="550"/>
+	<SubTexture name="armcrossed0000" x="560" y="5" width="550" height="550"/>
+	<SubTexture name="blush0000" x="1115" y="5" width="550" height="550"/>
+	<SubTexture name="excited0000" x="1670" y="5" width="550" height="550"/>
+	<SubTexture name="knife0000" x="2225" y="5" width="550" height="550"/>
+	<SubTexture name="neutral0000" x="2780" y="5" width="550" height="550"/>
+	<SubTexture name="sad0000" x="3335" y="5" width="550" height="550"/>
+	<SubTexture name="sorry0000" x="5" y="560" width="550" height="550"/>
+	<SubTexture name="woah0000" x="560" y="560" width="550" height="550"/>
+	<SubTexture name="wut0000" x="1115" y="560" width="550" height="550"/>
+	<SubTexture name="yell0000" x="1670" y="560" width="550" height="550"/>
+</TextureAtlas>

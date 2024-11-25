@@ -1,0 +1,49 @@
+{
+	"storyName": "X",
+	"difficulties": "Hard, Expert",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		"x"
+	],
+	"songs": [
+		[
+			"X",
+			"x",
+			[
+				86,
+				53,
+				253
+			]
+		],
+		[
+			"Threat",
+			"x",
+			[
+				86,
+				53,
+				253
+			]
+		],
+		[
+			"Pocket Void",
+			"demonx",
+			[
+				86,
+				53,
+				253
+			]
+		]
+	],
+	"weekName": "X"
+}

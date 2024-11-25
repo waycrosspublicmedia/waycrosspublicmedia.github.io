@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Allan.png">
+<SubTexture name="Allan Idle0000" x="1363" y="0" width="227" height="484" frameX="-403" frameY="-80" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0001" x="454" y="487" width="227" height="485" frameX="-404" frameY="-78" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0002" x="454" y="0" width="228" height="486" frameX="-404" frameY="-75" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0003" x="681" y="487" width="227" height="485" frameX="-405" frameY="-73" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0004" x="682" y="0" width="227" height="486" frameX="-406" frameY="-70" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0005" x="909" y="0" width="227" height="486" frameX="-407" frameY="-68" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0006" x="0" y="487" width="227" height="486" frameX="-407" frameY="-67" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0007" x="0" y="0" width="227" height="487" frameX="-407" frameY="-66" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0008" x="227" y="487" width="227" height="486" frameX="-407" frameY="-68" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0009" x="227" y="0" width="227" height="487" frameX="-406" frameY="-69" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0010" x="908" y="487" width="227" height="485" frameX="-405" frameY="-73" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0011" x="1136" y="0" width="227" height="485" frameX="-405" frameY="-75" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0012" x="1136" y="485" width="227" height="485" frameX="-404" frameY="-77" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0013" x="1363" y="484" width="227" height="484" frameX="-403" frameY="-79" frameWidth="1125" frameHeight="632" />
+<SubTexture name="Allan Idle0014" x="0" y="973" width="227" height="484" frameX="-403" frameY="-80" frameWidth="1125" frameHeight="632" />
+</TextureAtlas>

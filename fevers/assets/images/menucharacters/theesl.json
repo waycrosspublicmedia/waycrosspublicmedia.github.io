@@ -1,0 +1,11 @@
+{
+	"idle_anim": "theeslidle",
+	"image": "theesl",
+	"position": [
+		-40,
+		10
+	],
+	"flipX": true,
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

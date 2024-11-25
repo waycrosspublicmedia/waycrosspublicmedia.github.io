@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "sunset",
+		"player1": "bf",
+		"player2": "eli",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 198,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Ben"
+	}
+}

@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "puma",
+		"player1": "bf",
+		"player2": "mayuka",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				37250,
+				[
+					[
+						"cameraZoomIn",
+						"1.1",
+						"1"
+					]
+				]
+			],
+			[
+				37500,
+				[
+					[
+						"cameraZoomIn",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				37750,
+				[
+					[
+						"cameraZoomIn",
+						"1.3",
+						"1"
+					]
+				]
+			],
+			[
+				38000,
+				[
+					[
+						"cameraZoomIn",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				45250,
+				[
+					[
+						"cameraZoomIn",
+						"1.1",
+						"1"
+					]
+				]
+			],
+			[
+				45500,
+				[
+					[
+						"cameraZoomIn",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				45750,
+				[
+					[
+						"cameraZoomIn",
+						"1.3",
+						"1"
+					]
+				]
+			],
+			[
+				46000,
+				[
+					[
+						"cameraZoomIn",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				52000,
+				[
+					[
+						"cameraZoomIn",
+						"0.85",
+						"1"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"cameraZoomIn",
+						"0.75",
+						"1"
+					]
+				]
+			],
+			[
+				116000,
+				[
+					[
+						"cameraZoomIn",
+						"0.90",
+						"1"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"cameraZoomIn",
+						"0.93",
+						"1"
+					]
+				]
+			],
+			[
+				148000,
+				[
+					[
+						"cameraZoomIn",
+						"0.75",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Shade Soul"
+	}
+}

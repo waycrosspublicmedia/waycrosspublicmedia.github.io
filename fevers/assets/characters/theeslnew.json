@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				9,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				86,
+				21
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-53,
+				-25
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				17,
+				99
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				20,
+				30
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				81
+			],
+			"anim": "mag",
+			"fps": 24,
+			"name": "reload",
+			"indices": []
+		},
+		{
+			"offsets": [
+				54,
+				8
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "reload",
+			"indices": [],
+			"name": "cockLol"
+		},
+		{
+			"offsets": [
+				9,
+				-33
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "shoot",
+			"indices": [],
+			"name": "shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/theesl",
+	"position": [
+		100,
+		230
+	],
+	"healthicon": "theesl",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		20,
+		60
+	],
+	"camera_position": [
+		-40,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

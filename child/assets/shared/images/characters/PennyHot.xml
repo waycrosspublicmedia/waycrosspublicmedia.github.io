@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PennyHot.png">
+<SubTexture name="Penny Idle0000" x="1979" y="0" width="502" height="776" frameX="-310" frameY="-47" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Penny Idle0001" x="990" y="793" width="502" height="777" frameX="-308" frameY="-46" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Penny Idle0002" x="494" y="793" width="496" height="788" frameX="-315" frameY="-35" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Penny Idle0003" x="1484" y="0" width="495" height="792" frameX="-320" frameY="-31" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Penny Idle0004" x="0" y="0" width="495" height="793" frameX="-322" frameY="-30" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Penny Idle0005" x="495" y="0" width="494" height="793" frameX="-323" frameY="-30" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Penny Idle0006" x="989" y="0" width="495" height="793" frameX="-323" frameY="-30" frameWidth="1125" frameHeight="843" />
+<SubTexture name="Penny Idle0007" x="0" y="793" width="494" height="790" frameX="-324" frameY="-33" frameWidth="1125" frameHeight="843" />
+</TextureAtlas>

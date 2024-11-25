@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "puma",
+		"player1": "bf",
+		"player2": "mayuka",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Starmallow"
+	}
+}

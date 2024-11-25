@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "sk311",
+		"player1": "bf",
+		"player2": "eli",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170.5,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Phoenix"
+	}
+}

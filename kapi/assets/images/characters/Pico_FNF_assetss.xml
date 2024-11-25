@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pico_FNF_assetss.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Down Note0000" x="0" y="40" width="200" height="40"/>
+	<SubTexture name="Pico Down Note0001" x="0" y="40" width="200" height="40"/>
+	<SubTexture name="Pico Down Note0002" x="200" y="40" width="200" height="40"/>
+	<SubTexture name="Pico Down Note0003" x="200" y="40" width="200" height="40"/>
+	<SubTexture name="Pico Down Note0004" x="400" y="40" width="200" height="40"/>
+	<SubTexture name="Pico Down Note0005" x="400" y="40" width="200" height="40"/>
+	<SubTexture name="Pico Down Note0006" x="600" y="40" width="200" height="40"/>
+	<SubTexture name="Pico Down Note0007" x="600" y="40" width="200" height="40"/>
+	<SubTexture name="Pico Down Note MISS0000" x="182" y="88" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0000" x="0" y="80" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0001" x="0" y="80" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0002" x="0" y="80" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0003" x="40" y="80" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0004" x="40" y="80" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0005" x="40" y="80" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0006" x="80" y="80" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0007" x="80" y="80" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0008" x="80" y="80" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0009" x="120" y="80" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0010" x="120" y="80" width="40" height="40"/>
+	<SubTexture name="Pico Idle Dance0011" x="120" y="80" width="40" height="40"/>
+	<SubTexture name="Pico NOTE LEFT0000" x="800" y="40" width="200" height="40"/>
+	<SubTexture name="Pico NOTE LEFT0001" x="800" y="40" width="200" height="40"/>
+	<SubTexture name="Pico NOTE LEFT0002" x="1000" y="40" width="200" height="40"/>
+	<SubTexture name="Pico NOTE LEFT0003" x="1000" y="40" width="200" height="40"/>
+	<SubTexture name="Pico NOTE LEFT0004" x="1200" y="40" width="200" height="40"/>
+	<SubTexture name="Pico NOTE LEFT0005" x="1200" y="40" width="200" height="40"/>
+	<SubTexture name="Pico NOTE LEFT0006" x="1400" y="40" width="200" height="40"/>
+	<SubTexture name="Pico NOTE LEFT0007" x="1400" y="40" width="200" height="40"/>
+	<SubTexture name="Pico NOTE LEFT miss0000" x="182" y="88" width="40" height="40"/>
+	<SubTexture name="Pico Note Right0000" x="0" y="0" width="200" height="40"/>
+	<SubTexture name="Pico Note Right0001" x="0" y="0" width="200" height="40"/>
+	<SubTexture name="Pico Note Right0002" x="200" y="0" width="200" height="40"/>
+	<SubTexture name="Pico Note Right0003" x="200" y="0" width="200" height="40"/>
+	<SubTexture name="Pico Note Right0004" x="400" y="0" width="200" height="40"/>
+	<SubTexture name="Pico Note Right0005" x="400" y="0" width="200" height="40"/>
+	<SubTexture name="Pico Note Right0006" x="600" y="0" width="200" height="40"/>
+	<SubTexture name="Pico Note Right0007" x="600" y="0" width="200" height="40"/>
+	<SubTexture name="Pico Note Right Miss0000" x="182" y="88" width="40" height="40"/>
+	<SubTexture name="pico Up note0000" x="800" y="0" width="200" height="40"/>
+	<SubTexture name="pico Up note0001" x="800" y="0" width="200" height="40"/>
+	<SubTexture name="pico Up note0002" x="1000" y="0" width="200" height="40"/>
+	<SubTexture name="pico Up note0003" x="1000" y="0" width="200" height="40"/>
+	<SubTexture name="pico Up note0004" x="1200" y="0" width="200" height="40"/>
+	<SubTexture name="pico Up note0005" x="1200" y="0" width="200" height="40"/>
+	<SubTexture name="pico Up note0006" x="1400" y="0" width="200" height="40"/>
+	<SubTexture name="pico Up note0007" x="1400" y="0" width="200" height="40"/>
+	<SubTexture name="pico Up note miss0000" x="182" y="88" width="40" height="40"/>
+	<SubTexture name="dance0000" x="0" y="120" width="60" height="60"/>
+	<SubTexture name="dance0001" x="60" y="120" width="60" height="60"/>
+	<SubTexture name="dance0002" x="60" y="120" width="60" height="60"/>
+	<SubTexture name="dance0003" x="120" y="120" width="60" height="60"/>
+	<SubTexture name="dance0004" x="120" y="120" width="60" height="60"/>
+	<SubTexture name="dance0005" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="dance0006" x="240" y="120" width="60" height="60"/>
+	<SubTexture name="dance0007" x="240" y="120" width="60" height="60"/>
+	<SubTexture name="dance0008" x="300" y="120" width="60" height="60"/>
+	<SubTexture name="dance0009" x="300" y="120" width="60" height="60"/>
+	<SubTexture name="dance0010" x="360" y="120" width="60" height="60"/>
+	<SubTexture name="dance0011" x="360" y="120" width="60" height="60"/>
+	<SubTexture name="dance0012" x="420" y="120" width="60" height="60"/>
+	<SubTexture name="dance0013" x="420" y="120" width="60" height="60"/>
+	<SubTexture name="dance0014" x="480" y="120" width="60" height="60"/>
+	<SubTexture name="dance0015" x="480" y="120" width="60" height="60"/>
+	<SubTexture name="dance0016" x="540" y="120" width="60" height="60"/>
+	<SubTexture name="dance0017" x="540" y="120" width="60" height="60"/>
+	<SubTexture name="dance0018" x="600" y="120" width="60" height="60"/>
+	<SubTexture name="dance0019" x="600" y="120" width="60" height="60"/>
+	<SubTexture name="dance0020" x="660" y="120" width="60" height="60"/>
+	<SubTexture name="dance0021" x="660" y="120" width="60" height="60"/>
+	<SubTexture name="dance0022" x="660" y="120" width="60" height="60"/>
+	<SubTexture name="dance0023" x="660" y="120" width="60" height="60"/>
+	<SubTexture name="dance0024" x="660" y="120" width="60" height="60"/>
+	<SubTexture name="dance0025" x="660" y="120" width="60" height="60"/>
+	<SubTexture name="dance0026" x="660" y="120" width="60" height="60"/>
+	<SubTexture name="dance0027" x="660" y="120" width="60" height="60"/>
+	<SubTexture name="dance0028" x="660" y="120" width="60" height="60"/>
+	<SubTexture name="dance0029" x="660" y="120" width="60" height="60"/>
+	<SubTexture name="dance0030" x="660" y="120" width="60" height="60"/>
+</TextureAtlas>

@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "You're all neutral, but you don’t do anything dangerous when it comes to rap battling."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "hatdown",
+			"text": "Okay, you know what?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "What?-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Theesl lifts his Tommy Gun up into the air, Skelly staring in disbelief as Theesl admired his gun."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "angry",
+			"expression": "gunpoint",
+			"text": "I’m ready for round two, bitch!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "You can't use a gun! That's cheating!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "gunpoint",
+			"text": "Yeah, yeah. You dodge or you die."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "How am I supposed to dodge a BULLET?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Get lucky."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "“Didn't you just tell him that he needed to stop being aggressive?! Do something!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chloe",
+			"boxState": "normal",
+			"expression": "concerned",
+			"text": "Oh yeah, well there's no stopping him once he’s found his gun."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Theesl impatiently tapped his foot on the ground."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theesl",
+			"boxState": "normal",
+			"expression": "gunpoint",
+			"text": "It’s either now or never! Hurry up and start the damn song!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Skelly let out one last sigh before readying herself."
+		}
+	]
+}

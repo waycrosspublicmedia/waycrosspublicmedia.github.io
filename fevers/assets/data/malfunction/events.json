@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "scorp",
+		"player1": "bf",
+		"player2": "stadic",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Malfunction"
+	}
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mayuka.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clawseye0000" x="5" y="5" width="550" height="560"/>
+	<SubTexture name="clawsmayuka0000" x="560" y="5" width="550" height="560"/>
+	<SubTexture name="haunterblank0000" x="1115" y="5" width="550" height="560"/>
+	<SubTexture name="haunterguh0000" x="1670" y="5" width="550" height="560"/>
+	<SubTexture name="haunterlaugh0000" x="2225" y="5" width="550" height="560"/>
+	<SubTexture name="neutral0000" x="2780" y="5" width="550" height="560"/>
+	<SubTexture name="shademayuka0000" x="3335" y="5" width="550" height="560"/>
+	<SubTexture name="shadeskell0000" x="5" y="570" width="550" height="550"/>
+	<SubTexture name="smile0000" x="560" y="570" width="550" height="560"/>
+	<SubTexture name="tired0000" x="1115" y="570" width="550" height="560"/>
+</TextureAtlas>

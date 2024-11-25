@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wk1 layer2.png"><SubTexture name="wk1 layer2 idle0000" x="0" y="0" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+<SubTexture name="wk1 layer2 idle0001" x="2764" y="0" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+<SubTexture name="wk1 layer2 idle0002" x="5528" y="0" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+<SubTexture name="wk1 layer2 idle0003" x="8292" y="0" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+<SubTexture name="wk1 layer2 idle0004" x="0" y="2204" width="2764" height="2204" frameX="0" frameY="0" frameWidth="2764" frameHeight="2204" />
+</TextureAtlas>

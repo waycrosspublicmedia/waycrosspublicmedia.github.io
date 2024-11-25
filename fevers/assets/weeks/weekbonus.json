@@ -1,0 +1,49 @@
+{
+	"storyName": "Extra's",
+	"difficulties": "Hard, Expert",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Inserted",
+			"bf",
+			[
+				0,
+				140,
+				140
+			]
+		],
+		[
+			"Zamn!",
+			"fever",
+			[
+				160,
+				80,
+				140
+			]
+		],
+		[
+			"Sob",
+			"winkel",
+			[
+				255,
+				133,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Extra's"
+}

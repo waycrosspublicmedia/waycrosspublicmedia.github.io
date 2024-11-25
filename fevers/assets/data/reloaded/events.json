@@ -1,0 +1,189 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "theesl",
+		"player1": "bf",
+		"player2": "theeslnew",
+		"player3": null,
+		"events": [
+			[
+				11272.7272727273,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				17090.9090909091,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				22545.4545454545,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				24545.4545454545,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				26000,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				28363.6363636364,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				29090.9090909091,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				29636.3636363636,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				30181.8181818182,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				30727.2727272727,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				31272.7272727273,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				31636.3636363636,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				34181.8181818182,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				45818.1818181818,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				48727.2727272727,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				51636.3636363637,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				51818.1818181818,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "chloe",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Reloaded"
+	}
+}

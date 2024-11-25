@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="base.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="and0000" x="5" y="5" width="144" height="57"/>
+	<SubTexture name="by0000" x="5" y="67" width="100" height="57"/>
+	<SubTexture name="song0000" x="5" y="129" width="189" height="56"/>
+</TextureAtlas>

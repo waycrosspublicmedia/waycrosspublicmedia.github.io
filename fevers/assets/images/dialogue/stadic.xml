@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stadic.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="5" y="5" width="550" height="550"/>
+	<SubTexture name="annoyed0000" x="560" y="5" width="550" height="550"/>
+	<SubTexture name="cry0000" x="1115" y="5" width="550" height="550"/>
+	<SubTexture name="neutral0000" x="5" y="560" width="550" height="550"/>
+	<SubTexture name="point0000" x="560" y="560" width="700" height="550"/>
+	<SubTexture name="smile0000" x="1265" y="560" width="550" height="550"/>
+</TextureAtlas>

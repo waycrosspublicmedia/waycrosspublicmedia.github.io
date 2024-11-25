@@ -1,0 +1,252 @@
+{
+	"dialogue": [
+		{
+			"expression": "haunterblank",
+			"text": "Ugh, this is just not fair!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka"
+		},
+		{
+			"expression": "haunterguh",
+			"text": "I...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka"
+		},
+		{
+			"expression": "neutral",
+			"text": "Skelly slowly approaches Mayuka.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "sorry",
+			"text": "I'm sorry, Mayuka. It was wrong of me to judge you by how you initially looked.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sorry",
+			"text": "You're a very scary ghost and you probably scare tons of people! You even gave me a fright when I first got here.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "You're good at what you do.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "Mayuka becomes tired and goes back to normal again.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "neutral",
+			"text": "They fall to the ground and become pitch black like before. Azur makes more whispering noises.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "shademayuka",
+			"text": "I'm so sorry for the outburst...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka"
+		},
+		{
+			"expression": "shademayuka",
+			"text": "It's tiring hearing the same thing over and over when it's not who I would like to be.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka"
+		},
+		{
+			"expression": "tired",
+			"text": "It was wrong of me to throw stuff around like that...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka"
+		},
+		{
+			"expression": "sorry",
+			"text": "Aw, no worries, I forgive you. I'm still a bit shaken up though.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "Ah, my apologies too... Here.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka"
+		},
+		{
+			"expression": "neutral",
+			"text": "They take out their sword again and pull the Sunstone off of it. They hand it to Skelly.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "smile",
+			"text": "You were suprised that I had this, so you probably know more about it than I do. It'd probably be better for you to have it.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka"
+		},
+		{
+			"expression": "woah",
+			"text": "Thank you so much! I've been looking for these things.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smile",
+			"text": "Of course! If I kept it I feel like more chaos would happen.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka"
+		},
+		{
+			"expression": "armcross",
+			"text": "Say, if you're looking for something to do, I was going to explore the town more. ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "Maybe some other day we could meet up somewhere and explore!\r",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smile",
+			"text": "I'd love to! If we go during the day though I might need a parasol.\r",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka"
+		},
+		{
+			"expression": "excited",
+			"text": "Sounds good! I'll make sure to bring one for you.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "tired",
+			"text": "Well, I think I'm going to go rest... I didn't even think ghosts could feel tired until now. I'm exhausted.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka"
+		},
+		{
+			"expression": "excited",
+			"text": "Alright, Have a good rest Mayuka. It was nice to meet you!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smile",
+			"text": "Goodbye, Skelly! Good luck on finding those Sunstones!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mayuka"
+		},
+		{
+			"expression": "neutral",
+			"text": "Azur and Mayuka wave as Skelly walks back through the hallway she entered from.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "neutral",
+			"text": "She sees the paintings again while walking out, and they're completely empty.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "armcross",
+			"text": "Huh.. I still wonder who those people were. Maybe they were related to the Sunstones in some way?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Nah, that seems like too far of a stretch. They were probably people that the ghosts made up.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "armcross",
+			"text": "...Maybe...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "neutral",
+			"text": "She walks out of the mansion.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Hmmm... Now to find somewhere to stay.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

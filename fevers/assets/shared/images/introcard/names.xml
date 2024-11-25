@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="names.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ag0000" x="5" y="5" width="232" height="56"/>
+	<SubTexture name="biddle0000" x="242" y="5" width="260" height="57"/>
+	<SubTexture name="eli0000" x="507" y="5" width="451" height="57"/>
+	<SubTexture name="ironik0000" x="5" y="67" width="234" height="56"/>
+	<SubTexture name="kasu0000" x="244" y="67" width="411" height="57"/>
+	<SubTexture name="mega0000" x="5" y="129" width="604" height="58"/>
+	<SubTexture name="millie0000" x="614" y="129" width="271" height="57"/>
+	<SubTexture name="omatsu0000" x="5" y="192" width="243" height="56"/>
+	<SubTexture name="remerk0000" x="253" y="192" width="298" height="56"/>
+</TextureAtlas>

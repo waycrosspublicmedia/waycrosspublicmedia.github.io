@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-119,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cuphead-down"
+		},
+		{
+			"offsets": [
+				-50,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cuphead-up"
+		},
+		{
+			"offsets": [
+				-130,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cuphead-right"
+		},
+		{
+			"offsets": [
+				42,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cuphead-left"
+		},
+		{
+			"offsets": [
+				128,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit",
+			"indices": [],
+			"name": "cuphead-hit"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cuphead-idle"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "cuphead-shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cuphead_Night",
+	"position": [
+		-110,
+		210
+	],
+	"healthicon": "cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		49,
+		158
+	],
+	"camera_position": [
+		250,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.999999999999999
+}

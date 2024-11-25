@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Wow, I’m really surprised you're able to keep up with me! "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "I have to admit, you have some skill!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I know that, but you're not too bad yourself either!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "armcross",
+			"text": "Let’s move on to round two, shall we?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Alright alright, if you insist. But I won't go easy on you this time."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Wouldn't dream of it, now let’s wrap this up!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "Okay, but fair warning though:"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "stadic",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Things may get a bit... Shocking."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": ":joy:"
+		}
+	]
+}

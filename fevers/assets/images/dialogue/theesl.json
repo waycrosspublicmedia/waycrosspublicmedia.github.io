@@ -1,0 +1,128 @@
+{
+	"position": [
+		40,
+		-40
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "theesl",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "smile",
+			"idle_name": "smile"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "laugh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "laugh",
+			"idle_name": "laugh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-10
+			],
+			"anim": "hatdown",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"loop_name": "hatdown",
+			"idle_name": "hatdown"
+		},
+		{
+			"loop_offsets": [
+				-45,
+				-5
+			],
+			"anim": "gunpoint",
+			"idle_offsets": [
+				-45,
+				-5
+			],
+			"loop_name": "gunpoint",
+			"idle_name": "gunpoint"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "berserkyell",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "berserkyell",
+			"idle_name": "berserkyell"
+		},
+		{
+			"loop_offsets": [
+				-45,
+				-5
+			],
+			"anim": "berserkgun",
+			"idle_offsets": [
+				-45,
+				-5
+			],
+			"loop_name": "berserkgun",
+			"idle_name": "berserkgun"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "disgust",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "disgust",
+			"idle_name": "disgust"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "gunout",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gunout",
+			"idle_name": "gunout"
+		},
+		{
+			"loop_name": "berserkhatdown",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "berserkhatdown",
+			"anim": "berserkhatdown",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,128 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		40,
+		-40
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "neutral",
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "wha",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "wha",
+			"anim": "wha",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "scared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "scared",
+			"anim": "scared",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "smirk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "smirk",
+			"anim": "smirk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "laugh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "laugh",
+			"anim": "laugh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "run",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "run",
+			"anim": "run",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "lordylord",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lordylord",
+			"anim": "lordylord",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "scorp"
+}

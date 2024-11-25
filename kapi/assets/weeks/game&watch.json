@@ -1,0 +1,34 @@
+{
+	"storyName": "please nerf up-b...",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "g&w",
+	"weekBefore": "kapi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"flatzone",
+			"gw",
+			[
+				66,
+				53,
+				73
+			]
+		]
+	],
+	
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	
+	"weekName": "Game & Watch"
+}

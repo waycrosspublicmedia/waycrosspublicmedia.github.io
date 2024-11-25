@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Toast.png">
+<SubTexture name="Toast Idle0000" x="0" y="1027" width="623" height="494" frameX="-71" frameY="-57" frameWidth="771" frameHeight="578" />
+<SubTexture name="Toast Idle0001" x="623" y="1027" width="614" height="491" frameX="-76" frameY="-60" frameWidth="771" frameHeight="578" />
+<SubTexture name="Toast Idle0002" x="1192" y="513" width="594" height="508" frameX="-88" frameY="-42" frameWidth="771" frameHeight="578" />
+<SubTexture name="Toast Idle0003" x="0" y="514" width="594" height="513" frameX="-88" frameY="-37" frameWidth="771" frameHeight="578" />
+<SubTexture name="Toast Idle0004" x="594" y="514" width="596" height="513" frameX="-87" frameY="-37" frameWidth="771" frameHeight="578" />
+<SubTexture name="Toast Idle0005" x="1192" y="0" width="596" height="513" frameX="-87" frameY="-37" frameWidth="771" frameHeight="578" />
+<SubTexture name="Toast Idle0006" x="0" y="0" width="596" height="514" frameX="-87" frameY="-36" frameWidth="771" frameHeight="578" />
+<SubTexture name="Toast Idle0007" x="596" y="0" width="596" height="514" frameX="-87" frameY="-36" frameWidth="771" frameHeight="578" />
+</TextureAtlas>

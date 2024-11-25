@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HotDogGuy1.png">
+<SubTexture name="HotDogGuy Idle0000" x="1743" y="0" width="585" height="1017" frameX="-660" frameY="-51" frameWidth="1900" frameHeight="1068" />
+<SubTexture name="HotDogGuy Idle0001" x="0" y="0" width="580" height="1021" frameX="-664" frameY="-47" frameWidth="1900" frameHeight="1068" />
+<SubTexture name="HotDogGuy Idle0002" x="580" y="0" width="581" height="1020" frameX="-663" frameY="-48" frameWidth="1900" frameHeight="1068" />
+<SubTexture name="HotDogGuy Idle0003" x="1161" y="0" width="582" height="1019" frameX="-662" frameY="-49" frameWidth="1900" frameHeight="1068" />
+<SubTexture name="HotDogGuy Idle0004" x="0" y="1021" width="589" height="1013" frameX="-656" frameY="-55" frameWidth="1900" frameHeight="1068" />
+<SubTexture name="HotDogGuy Idle0005" x="589" y="1021" width="601" height="1001" frameX="-645" frameY="-67" frameWidth="1900" frameHeight="1068" />
+<SubTexture name="HotDogGuy Idle0006" x="2328" y="0" width="618" height="990" frameX="-634" frameY="-78" frameWidth="1900" frameHeight="1068" />
+<SubTexture name="HotDogGuy Idle0007" x="1190" y="1021" width="613" height="994" frameX="-637" frameY="-74" frameWidth="1900" frameHeight="1068" />
+</TextureAtlas>
