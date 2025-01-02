@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NENE IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NENE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				97
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NENE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NENE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "NENE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				-143
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "NENE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				98
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "NENE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				181
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "NENE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				193,
+				267
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "game over0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				-355
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "game over static",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NENE LEFT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				-355
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "game over restart"
+		}
+	],
+	"vocals_file": "Nene",
+	"no_antialiasing": false,
+	"image": "characters/NENE",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nene",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		41,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

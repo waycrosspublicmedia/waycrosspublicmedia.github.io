@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rivals_options.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options0000" x="0" y="0" width="558" height="223"/>
+	<SubTexture name="options SELECT0000" x="608" y="0" width="514" height="133" frameX="-88" frameY="-38" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0001" x="608" y="0" width="514" height="133" frameX="-88" frameY="-38" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0002" x="1172" y="0" width="552" height="142" frameX="-69" frameY="-34" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0003" x="1774" y="0" width="552" height="142" frameX="-69" frameY="-34" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0004" x="2376" y="0" width="534" height="139" frameX="-78" frameY="-35" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0005" x="2960" y="0" width="534" height="139" frameX="-78" frameY="-35" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0006" x="3544" y="0" width="542" height="140" frameX="-74" frameY="-35" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0007" x="0" y="273" width="546" height="140" frameX="-73" frameY="-35" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0008" x="596" y="273" width="557" height="146" frameX="-67" frameY="-33" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0009" x="1203" y="273" width="566" height="152" frameX="-63" frameY="-30" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0010" x="1819" y="273" width="577" height="161" frameX="-57" frameY="-25" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0011" x="2446" y="273" width="586" height="168" frameX="-53" frameY="-22" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0012" x="3082" y="273" width="596" height="176" frameX="-48" frameY="-18" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0013" x="0" y="499" width="606" height="183" frameX="-43" frameY="-14" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0014" x="656" y="499" width="614" height="189" frameX="-39" frameY="-11" frameWidth="692" frameHeight="211"/>
+	<SubTexture name="options SELECT0015" x="1320" y="499" width="692" height="211"/>
+	<SubTexture name="options SELECT0016" x="1320" y="499" width="692" height="211"/>
+	<SubTexture name="options SELECT0017" x="1320" y="499" width="692" height="211"/>
+	<SubTexture name="options SELECT0018" x="1320" y="499" width="692" height="211"/>
+	<SubTexture name="options SELECT0019" x="1320" y="499" width="692" height="211"/>
+	<SubTexture name="options SELECT0020" x="1320" y="499" width="692" height="211"/>
+	<SubTexture name="options SELECT0021" x="1320" y="499" width="692" height="211"/>
+	<SubTexture name="options SELECT0022" x="1320" y="499" width="692" height="211"/>
+	<SubTexture name="options SELECT0023" x="1320" y="499" width="692" height="211"/>
+	<SubTexture name="options SELECT0024" x="1320" y="499" width="692" height="211"/>
+	<SubTexture name="options highlight0000" x="2062" y="499" width="558" height="223"/>
+	<SubTexture name="options highlight0001" x="2670" y="499" width="558" height="223"/>
+	<SubTexture name="options highlight0002" x="3278" y="499" width="558" height="223"/>
+	<SubTexture name="options highlight0003" x="0" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0004" x="608" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0005" x="1216" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0006" x="1824" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0007" x="2432" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0008" x="3040" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0009" x="3040" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0010" x="3040" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0011" x="3040" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0012" x="3040" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0013" x="3040" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0014" x="3040" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight0015" x="3040" y="772" width="558" height="223"/>
+	<SubTexture name="options highlight STATIC0000" x="0" y="1045" width="542" height="140"/>
+	<SubTexture name="options highlight STATIC0001" x="0" y="1045" width="542" height="140"/>
+	<SubTexture name="options highlight STATIC0002" x="0" y="1045" width="542" height="140"/>
+</TextureAtlas>

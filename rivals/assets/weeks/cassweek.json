@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Catfight",
+			"nene",
+			[
+				255,
+				53,
+				213
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "This Is For Testing Lmao",
+	"weekName": "cassweek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

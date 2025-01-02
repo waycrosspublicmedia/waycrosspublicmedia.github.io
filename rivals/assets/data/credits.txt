@@ -1,0 +1,10 @@
+FNF Rivals
+TerminalRepo::ham::Director, Artist, Animator::https://twitter.com/TerminalRepo::0xFF00FFBD
+Nasadotexe::nasa::Composer, UI Artist::https://twitter.com/nasadotexe::0xFF442060
+SugarRatio::sugar::Artist, Animator::https://twitter.com/SugarRatio::0xFFFFAE00
+PooterStapot::Brib::Artist, Animator::https://twitter.com/Lillbirb::0xFFFBBBB
+MikeFnf::mike::BG Artist::https://twitter.com/MikeFnf::0xFF9EA7F5
+Clover::clover::Charter::https://twitter.com/Cloverderus::0xFF1B7444
+SaltedSporks::sporks::Cassandra Voice::https://twitter.com/saltedsporks::0xFFFFFE07
+ItoSaihara::ito::Nene Voice::https://twitter.com/ItoSaihara_::0xFFD71C5F
+WedgeCuts::wedge::Programming::https://twitter.com/wedgecuts::0xFFDB9E5A
