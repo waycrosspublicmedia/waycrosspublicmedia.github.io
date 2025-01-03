@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wendaSheet.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wendaDOWN0000" x="0" y="0" width="436" height="599" frameX="0" frameY="-11" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0001" x="0" y="0" width="436" height="599" frameX="0" frameY="-11" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0002" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0003" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0004" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0005" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0006" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0007" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0008" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0009" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0010" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0011" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0012" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN0013" x="436" y="0" width="421" height="610" frameX="-23" frameY="0" frameWidth="444" frameHeight="610"/>
+	<SubTexture name="wendaDOWN-alt0000" x="857" y="0" width="429" height="587" frameX="-29" frameY="-13" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="wendaDOWN-alt0001" x="857" y="0" width="429" height="587" frameX="-29" frameY="-13" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="wendaDOWN-alt0002" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaDOWN-alt0003" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaDOWN-alt0004" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaDOWN-alt0005" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaDOWN-alt0006" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaDOWN-alt0007" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaDOWN-alt0008" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaDOWN-alt0009" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaDOWN-alt0010" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaDOWN-alt0011" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaDOWN-alt0012" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaDOWN-alt0013" x="1286" y="0" width="459" height="600"/>
+	<SubTexture name="wendaIdle0000" x="1745" y="0" width="420" height="643" frameX="0" frameY="-33" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0001" x="2165" y="0" width="421" height="644" frameX="0" frameY="-32" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0002" x="2586" y="0" width="421" height="644" frameX="0" frameY="-32" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0003" x="3007" y="0" width="421" height="644" frameX="-1" frameY="-32" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0004" x="3428" y="0" width="420" height="645" frameX="-4" frameY="-31" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0005" x="3848" y="0" width="420" height="645" frameX="-4" frameY="-31" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0006" x="4268" y="0" width="420" height="647" frameX="-7" frameY="-29" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0007" x="4688" y="0" width="424" height="649" frameX="-7" frameY="-27" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0008" x="5112" y="0" width="424" height="649" frameX="-7" frameY="-27" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0009" x="5536" y="0" width="428" height="651" frameX="-8" frameY="-25" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0010" x="5964" y="0" width="432" height="654" frameX="-9" frameY="-22" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0011" x="6396" y="0" width="432" height="654" frameX="-9" frameY="-22" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0012" x="6828" y="0" width="437" height="657" frameX="-10" frameY="-19" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0013" x="7265" y="0" width="443" height="660" frameX="-11" frameY="-16" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0014" x="7708" y="0" width="443" height="660" frameX="-11" frameY="-16" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0015" x="0" y="660" width="449" height="664" frameX="-13" frameY="-12" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0016" x="449" y="660" width="454" height="667" frameX="-14" frameY="-10" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0017" x="903" y="660" width="454" height="667" frameX="-14" frameY="-10" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0018" x="1357" y="660" width="458" height="670" frameX="-16" frameY="-7" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0019" x="1815" y="660" width="462" height="671" frameX="-17" frameY="-5" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0020" x="2277" y="660" width="462" height="671" frameX="-17" frameY="-5" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0021" x="2739" y="660" width="465" height="672" frameX="-18" frameY="-4" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0022" x="3204" y="660" width="467" height="675" frameX="-19" frameY="-2" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0023" x="3671" y="660" width="467" height="675" frameX="-19" frameY="-2" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0024" x="4138" y="660" width="468" height="676" frameX="-20" frameY="-1" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0025" x="4606" y="660" width="469" height="675" frameX="-21" frameY="-1" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0026" x="5075" y="660" width="469" height="675" frameX="-21" frameY="-1" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0027" x="5544" y="660" width="470" height="676" frameX="-21" frameY="0" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0028" x="6014" y="660" width="469" height="676" frameX="-22" frameY="0" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0029" x="6483" y="660" width="469" height="676" frameX="-22" frameY="0" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0030" x="6952" y="660" width="469" height="676" frameX="-22" frameY="0" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0031" x="5544" y="660" width="470" height="676" frameX="-22" frameY="0" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0032" x="7421" y="660" width="469" height="677" frameX="-22" frameY="0" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0033" x="0" y="1337" width="470" height="675" frameX="-21" frameY="-1" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0034" x="470" y="1337" width="468" height="675" frameX="-21" frameY="-1" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0035" x="938" y="1337" width="468" height="675" frameX="-21" frameY="-1" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0036" x="1406" y="1337" width="467" height="675" frameX="-20" frameY="-2" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0037" x="1873" y="1337" width="466" height="674" frameX="-19" frameY="-3" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0038" x="2339" y="1337" width="466" height="674" frameX="-19" frameY="-3" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0039" x="2805" y="1337" width="462" height="672" frameX="-18" frameY="-5" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0040" x="3267" y="1337" width="458" height="670" frameX="-17" frameY="-7" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0041" x="3725" y="1337" width="458" height="670" frameX="-17" frameY="-7" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0042" x="4183" y="1337" width="452" height="667" frameX="-15" frameY="-10" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0043" x="4635" y="1337" width="444" height="663" frameX="-14" frameY="-14" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0044" x="5079" y="1337" width="436" height="657" frameX="-12" frameY="-19" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0045" x="5515" y="1337" width="429" height="653" frameX="-11" frameY="-23" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0046" x="5944" y="1337" width="424" height="651" frameX="-10" frameY="-26" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0047" x="6368" y="1337" width="421" height="648" frameX="-8" frameY="-28" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0048" x="6789" y="1337" width="421" height="648" frameX="-8" frameY="-28" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0049" x="7210" y="1337" width="421" height="645" frameX="-2" frameY="-31" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0050" x="7631" y="1337" width="421" height="648" frameX="-6" frameY="-28" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0051" x="0" y="2012" width="421" height="643" frameX="0" frameY="-33" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0052" x="2165" y="0" width="421" height="644" frameX="0" frameY="-33" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaIdle0053" x="1745" y="0" width="420" height="643" frameX="0" frameY="-33" frameWidth="491" frameHeight="677"/>
+	<SubTexture name="wendaLeft0000" x="421" y="2012" width="463" height="644"/>
+	<SubTexture name="wendaLeft0001" x="421" y="2012" width="463" height="644"/>
+	<SubTexture name="wendaLeft0002" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft0003" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft0004" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft0005" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft0006" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft0007" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft0008" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft0009" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft0010" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft0011" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft0012" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft0013" x="884" y="2012" width="421" height="642" frameX="-8" frameY="-2" frameWidth="463" frameHeight="644"/>
+	<SubTexture name="wendaLeft-alt0000" x="1305" y="2012" width="442" height="706" frameX="-48" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0001" x="1305" y="2012" width="442" height="706" frameX="-48" frameY="0" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0002" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0003" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0004" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0005" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0006" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0007" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0008" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0009" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0010" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0011" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0012" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaLeft-alt0013" x="1747" y="2012" width="496" height="703" frameX="0" frameY="-3" frameWidth="496" frameHeight="706"/>
+	<SubTexture name="wendaRight0000" x="2243" y="2012" width="452" height="649"/>
+	<SubTexture name="wendaRight0001" x="2243" y="2012" width="452" height="649"/>
+	<SubTexture name="wendaRight0002" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight0003" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight0004" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight0005" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight0006" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight0007" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight0008" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight0009" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight0010" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight0011" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight0012" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight0013" x="2695" y="2012" width="421" height="649" frameX="-23" frameY="0" frameWidth="452" frameHeight="649"/>
+	<SubTexture name="wendaRight-alt0000" x="3116" y="2012" width="455" height="724" frameX="-8" frameY="-8" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0001" x="3116" y="2012" width="455" height="724" frameX="-8" frameY="-8" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0002" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0003" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0004" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0005" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0006" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0007" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0008" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0009" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0010" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0011" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0012" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaRight-alt0013" x="3571" y="2012" width="454" height="732" frameX="0" frameY="0" frameWidth="463" frameHeight="732"/>
+	<SubTexture name="wendaUp0000" x="4025" y="2012" width="460" height="691"/>
+	<SubTexture name="wendaUp0001" x="4025" y="2012" width="460" height="691"/>
+	<SubTexture name="wendaUp0002" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp0003" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp0004" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp0005" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp0006" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp0007" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp0008" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp0009" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp0010" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp0011" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp0012" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp0013" x="4485" y="2012" width="427" height="677" frameX="-2" frameY="-14" frameWidth="460" frameHeight="691"/>
+	<SubTexture name="wendaUp-alt0000" x="4912" y="2012" width="449" height="711" frameX="-34" frameY="0" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0001" x="4912" y="2012" width="449" height="711" frameX="-34" frameY="0" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0002" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0003" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0004" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0005" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0006" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0007" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0008" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0009" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0010" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0011" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0012" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+	<SubTexture name="wendaUp-alt0013" x="5361" y="2012" width="486" height="710" frameX="0" frameY="-1" frameWidth="486" frameHeight="711"/>
+</TextureAtlas>
