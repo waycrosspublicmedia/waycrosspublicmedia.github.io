@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fish bf.png"><SubTexture name="fish bf idle0000" x="0" y="0" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf idle0001" x="496" y="0" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf idle0002" x="992" y="0" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf idle0003" x="1488" y="0" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf idle0004" x="1984" y="0" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf idle0005" x="1984" y="0" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf idle0006" x="1984" y="0" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down0000" x="0" y="476" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down0001" x="496" y="476" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down0002" x="992" y="476" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down0003" x="992" y="476" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down0004" x="992" y="476" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down0005" x="992" y="476" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right0000" x="1488" y="476" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right0001" x="1984" y="476" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right0002" x="0" y="952" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right0003" x="0" y="952" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right0004" x="0" y="952" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right0005" x="0" y="952" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left0000" x="496" y="952" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left0001" x="992" y="952" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left0002" x="1488" y="952" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left0003" x="1488" y="952" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left0004" x="1488" y="952" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left0005" x="1488" y="952" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up0000" x="1984" y="952" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up0001" x="0" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up0002" x="496" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up0003" x="496" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up0004" x="496" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up0005" x="496" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down miss0000" x="992" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down miss0001" x="992" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down miss0002" x="992" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down miss0003" x="992" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down miss0004" x="992" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf down miss0005" x="992" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left miss0000" x="1488" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left miss0001" x="1488" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left miss0002" x="1488" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left miss0003" x="1488" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left miss0004" x="1488" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf left miss0005" x="1488" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right miss0000" x="1984" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right miss0001" x="1984" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right miss0002" x="1984" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right miss0003" x="1984" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right miss0004" x="1984" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf right miss0005" x="1984" y="1428" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up miss0000" x="0" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up miss0001" x="0" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up miss0002" x="0" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up miss0003" x="0" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up miss0004" x="0" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf up miss0005" x="0" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf hey0000" x="496" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf hey0001" x="992" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf hey0002" x="1488" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf hey0003" x="1488" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf hey0004" x="1488" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf hey0005" x="1488" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf scratch0000" x="1984" y="1904" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf scratch0001" x="0" y="2380" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf scratch0002" x="496" y="2380" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf scratch0003" x="496" y="2380" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf scratch0004" x="496" y="2380" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+<SubTexture name="fish bf scratch0005" x="496" y="2380" width="496" height="476" frameX="0" frameY="0" frameWidth="496" frameHeight="476" />
+</TextureAtlas>

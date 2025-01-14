@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="die.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="death start00000" x="0" y="0" width="320" height="240"/>
+	<SubTexture name="death start00001" x="320" y="0" width="320" height="240"/>
+	<SubTexture name="death start00002" x="640" y="0" width="320" height="240"/>
+	<SubTexture name="death start00003" x="960" y="0" width="320" height="240"/>
+	<SubTexture name="death start00004" x="1280" y="0" width="320" height="240"/>
+	<SubTexture name="death start00005" x="1600" y="0" width="320" height="240"/>
+	<SubTexture name="death start00006" x="1920" y="0" width="320" height="240"/>
+	<SubTexture name="death start00007" x="2240" y="0" width="320" height="240"/>
+	<SubTexture name="death start00008" x="2560" y="0" width="320" height="240"/>
+	<SubTexture name="death start00009" x="2880" y="0" width="320" height="240"/>
+	<SubTexture name="death start00010" x="3200" y="0" width="320" height="240"/>
+	<SubTexture name="death loop00000" x="3520" y="0" width="320" height="240"/>
+	<SubTexture name="death loop00001" x="3840" y="0" width="320" height="240"/>
+	<SubTexture name="death loop00002" x="4160" y="0" width="320" height="240"/>
+	<SubTexture name="death end00000" x="4480" y="0" width="320" height="240"/>
+	<SubTexture name="death end00001" x="4800" y="0" width="320" height="240"/>
+	<SubTexture name="death end00002" x="5120" y="0" width="320" height="240"/>
+	<SubTexture name="death end00003" x="5440" y="0" width="320" height="240"/>
+</TextureAtlas>

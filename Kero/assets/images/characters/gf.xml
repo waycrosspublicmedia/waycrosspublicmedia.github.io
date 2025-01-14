@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="miss00000" x="0" y="0" width="124" height="165"/>
+	<SubTexture name="miss00001" x="124" y="0" width="124" height="165"/>
+	<SubTexture name="miss00002" x="248" y="0" width="124" height="165"/>
+	<SubTexture name="danceLeft00000" x="372" y="0" width="124" height="165"/>
+	<SubTexture name="danceLeft00001" x="496" y="0" width="124" height="165"/>
+	<SubTexture name="danceLeft00002" x="620" y="0" width="124" height="165"/>
+	<SubTexture name="danceLeft00003" x="744" y="0" width="124" height="165"/>
+	<SubTexture name="danceLeft00004" x="868" y="0" width="124" height="165"/>
+	<SubTexture name="danceLeft00005" x="992" y="0" width="124" height="165"/>
+	<SubTexture name="danceRight00000" x="1116" y="0" width="124" height="165"/>
+	<SubTexture name="danceRight00001" x="1240" y="0" width="124" height="165"/>
+	<SubTexture name="danceRight00002" x="1364" y="0" width="124" height="165"/>
+	<SubTexture name="danceRight00003" x="1488" y="0" width="124" height="165"/>
+	<SubTexture name="danceRight00004" x="1612" y="0" width="124" height="165"/>
+	<SubTexture name="danceRight00005" x="1736" y="0" width="124" height="165"/>
+</TextureAtlas>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frogicons.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="win00000" x="0" y="0" width="41" height="35"/>
+	<SubTexture name="win00001" x="41" y="0" width="41" height="35"/>
+	<SubTexture name="win00002" x="82" y="0" width="41" height="35"/>
+	<SubTexture name="win00003" x="123" y="0" width="41" height="35"/>
+	<SubTexture name="normaltowin00000" x="164" y="0" width="41" height="35"/>
+	<SubTexture name="normaltowin00001" x="205" y="0" width="41" height="35"/>
+	<SubTexture name="normaltowin00002" x="246" y="0" width="41" height="35"/>
+	<SubTexture name="normaltowin00003" x="287" y="0" width="41" height="35"/>
+	<SubTexture name="normal00000" x="328" y="0" width="41" height="35"/>
+	<SubTexture name="normal00001" x="369" y="0" width="41" height="35"/>
+	<SubTexture name="normal00002" x="410" y="0" width="41" height="35"/>
+	<SubTexture name="normal00003" x="451" y="0" width="41" height="35"/>
+	<SubTexture name="normaltodie00000" x="164" y="0" width="41" height="35"/>
+	<SubTexture name="normaltodie00001" x="205" y="0" width="41" height="35"/>
+	<SubTexture name="normaltodie00002" x="492" y="0" width="41" height="35"/>
+	<SubTexture name="normaltodie00003" x="533" y="0" width="41" height="35"/>
+	<SubTexture name="die00000" x="574" y="0" width="41" height="35"/>
+	<SubTexture name="die00001" x="615" y="0" width="41" height="35"/>
+	<SubTexture name="die00002" x="656" y="0" width="41" height="35"/>
+	<SubTexture name="die00003" x="697" y="0" width="41" height="35"/>
+</TextureAtlas>

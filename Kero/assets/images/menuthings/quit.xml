@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="quit.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="static00000" x="0" y="0" width="77" height="34"/>
+	<SubTexture name="static00001" x="77" y="0" width="77" height="34"/>
+	<SubTexture name="static00002" x="154" y="0" width="77" height="34"/>
+	<SubTexture name="selected00000" x="231" y="0" width="77" height="34"/>
+</TextureAtlas>
