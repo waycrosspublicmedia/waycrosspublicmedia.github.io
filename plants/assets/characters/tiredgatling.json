@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GatLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				71,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GatDown"
+		},
+		{
+			"offsets": [
+				-36,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GatRight"
+		},
+		{
+			"offsets": [
+				64,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GatUp"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				85
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GatIdleWeak",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "fall",
+			"fps": 24,
+			"name": "GatIdleFall",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-165,
+				-148
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "GatFall-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gatlingtired_assets",
+	"position": [
+		49,
+		257
+	],
+	"healthicon": "tiredgat",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		20,
+		0
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mokey3D_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mokey3dangry0000" x="0" y="0" width="837" height="722"/>
+	<SubTexture name="mokey3dangryLOOP0000" x="837" y="0" width="837" height="722"/>
+	<SubTexture name="mokey3dangryLOOP0001" x="1674" y="0" width="837" height="722"/>
+	<SubTexture name="mokey3dangryLOOP0002" x="837" y="0" width="837" height="722"/>
+	<SubTexture name="mokey3dangryLOOP0003" x="0" y="0" width="837" height="722"/>
+	<SubTexture name="mokey3dtalk0000" x="2511" y="0" width="837" height="722"/>
+	<SubTexture name="mokey3dtalkLOOP0000" x="0" y="722" width="837" height="722"/>
+	<SubTexture name="mokey3dtalkLOOP0001" x="837" y="722" width="837" height="722"/>
+	<SubTexture name="mokey3dtalkLOOP0002" x="0" y="722" width="837" height="722"/>
+	<SubTexture name="mokey3dtalkLOOP0003" x="2511" y="0" width="837" height="722"/>
+</TextureAtlas>

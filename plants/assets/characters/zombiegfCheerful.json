@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-4
+			],
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "GF Cheer"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-8
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF Dancing Beat Cheerful",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-8
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF Dancing Beat Cheerful",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "laughing",
+			"fps": 24,
+			"name": "GF Dancing Beat Laugh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "chant",
+			"loop": false,
+			"name": "GF Chant"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-zombieCheerful",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "zombiegf",
+	"flip_x": false,
+	"healthbar_colors": [
+		205,
+		80,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

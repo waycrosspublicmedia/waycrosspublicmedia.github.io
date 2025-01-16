@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "GatIdle2"
+		},
+		{
+			"offsets": [
+				140,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GatLeft2"
+		},
+		{
+			"offsets": [
+				-9,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GatRight2"
+		},
+		{
+			"offsets": [
+				94,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GatUp2"
+		},
+		{
+			"offsets": [
+				130,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GatDown2"
+		},
+		{
+			"offsets": [
+				-15,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "GatIdle-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gatlingmad_assets",
+	"position": [
+		49,
+		277
+	],
+	"healthicon": "MadGatling",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

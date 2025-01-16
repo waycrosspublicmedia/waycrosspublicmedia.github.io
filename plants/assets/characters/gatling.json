@@ -1,0 +1,141 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"name": "GatIdle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "GatIdle"
+		},
+		{
+			"offsets": [
+				139,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GatLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				-58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GatDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GatRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GatUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				18
+			],
+			"anim": "hit",
+			"fps": 24,
+			"name": "GatTRASHED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				18
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "GatTransit",
+			"indices": []
+		},
+		{
+			"offsets": [
+				203,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blast",
+			"indices": [],
+			"name": "GatBlast"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gatling_assets",
+	"position": [
+		59,
+		267
+	],
+	"healthicon": "Gatling",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

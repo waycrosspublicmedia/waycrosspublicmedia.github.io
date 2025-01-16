@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EpicKrimaFight_BG.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KrimaFight0000" x="62" y="62" width="1322" height="498" frameX="-76" frameY="-13" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0001" x="1454" y="62" width="1303" height="511" frameX="-95" frameY="0" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0002" x="2827" y="62" width="1392" height="515" frameX="-54" frameY="0" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0003" x="4289" y="62" width="1392" height="492" frameX="-54" frameY="-23" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0004" x="5751" y="62" width="1378" height="472" frameX="-20" frameY="-23" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0005" x="62" y="647" width="1378" height="467" frameX="-20" frameY="-28" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0006" x="1510" y="647" width="1385" height="467" frameX="-18" frameY="-28" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0007" x="2965" y="647" width="1385" height="515" frameX="-18" frameY="-23" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0008" x="4420" y="647" width="1389" height="515" frameX="0" frameY="-23" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0009" x="5879" y="647" width="1389" height="462" frameX="0" frameY="-28" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0010" x="62" y="1232" width="1313" height="462" frameX="-18" frameY="-28" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0011" x="1445" y="1232" width="1307" height="482" frameX="-18" frameY="-13" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0012" x="2822" y="1232" width="1369" height="482" frameX="-20" frameY="-13" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0013" x="4261" y="1232" width="1369" height="527" frameX="-20" frameY="0" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0014" x="5700" y="1232" width="1349" height="527" frameX="-54" frameY="0" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0015" x="62" y="1829" width="1349" height="492" frameX="-54" frameY="-13" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0016" x="62" y="62" width="1322" height="498" frameX="-76" frameY="-13" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0017" x="1454" y="62" width="1303" height="511" frameX="-95" frameY="0" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0018" x="2827" y="62" width="1392" height="515" frameX="-54" frameY="0" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0019" x="4289" y="62" width="1392" height="492" frameX="-54" frameY="-23" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0020" x="5751" y="62" width="1378" height="472" frameX="-20" frameY="-23" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0021" x="62" y="647" width="1378" height="467" frameX="-20" frameY="-28" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0022" x="1510" y="647" width="1385" height="467" frameX="-18" frameY="-28" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0023" x="2965" y="647" width="1385" height="515" frameX="-18" frameY="-23" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0024" x="4420" y="647" width="1389" height="515" frameX="0" frameY="-23" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0025" x="5879" y="647" width="1389" height="462" frameX="0" frameY="-28" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0026" x="62" y="1232" width="1313" height="462" frameX="-18" frameY="-28" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0027" x="1445" y="1232" width="1307" height="482" frameX="-18" frameY="-13" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0028" x="2822" y="1232" width="1369" height="482" frameX="-20" frameY="-13" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0029" x="4261" y="1232" width="1369" height="527" frameX="-20" frameY="0" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0030" x="5700" y="1232" width="1349" height="527" frameX="-54" frameY="0" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0031" x="62" y="1829" width="1349" height="492" frameX="-54" frameY="-13" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0032" x="62" y="62" width="1322" height="498" frameX="-76" frameY="-13" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0033" x="1454" y="62" width="1303" height="511" frameX="-95" frameY="0" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0034" x="2827" y="62" width="1392" height="515" frameX="-54" frameY="0" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0035" x="4289" y="62" width="1392" height="492" frameX="-54" frameY="-23" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0036" x="5751" y="62" width="1378" height="472" frameX="-20" frameY="-23" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0037" x="62" y="647" width="1378" height="467" frameX="-20" frameY="-28" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0038" x="1510" y="647" width="1385" height="467" frameX="-18" frameY="-28" frameWidth="1446" frameHeight="538"/>
+	<SubTexture name="KrimaFight0039" x="2965" y="647" width="1385" height="515" frameX="-18" frameY="-23" frameWidth="1446" frameHeight="538"/>
+</TextureAtlas>

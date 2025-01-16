@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Peashooter Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Peashooter Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Peashooter Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Peashooter Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				88
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Peashooter Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-23
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Peashooter Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				48,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "nudge",
+			"loop": false,
+			"name": "PeashooterFidget"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pea_assets",
+	"position": [
+		0,
+		320
+	],
+	"healthicon": "Peashooter",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		255,
+		80
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
