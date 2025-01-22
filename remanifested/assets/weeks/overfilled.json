@@ -1,0 +1,32 @@
+{
+	"storyName": "fillingover",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weeks",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"overfilled",
+			"overfilled",
+			[
+				46,
+				193,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "overfilled"
+}

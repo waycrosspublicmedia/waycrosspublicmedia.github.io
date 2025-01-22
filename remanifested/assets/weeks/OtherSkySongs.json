@@ -1,0 +1,104 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weeks",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"sez",
+			"skysays",
+			[
+				206,
+				173,
+				213
+			]
+		],
+		[
+			"Battle Of Wits",
+			"BOW",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Baker",
+			"bakersky",
+			[
+				106,
+				173,
+				253
+			]
+		],
+		[
+			"Frenzy Forever",
+			"lexi",
+			[
+				240,
+				73,
+				73
+			]
+		],
+		[
+			"Wife Whenever high",
+			"blank",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"Skys Rhapsody",
+			"Usky",
+			[
+				46,
+				13,
+				255
+			]
+		],
+		[
+			"BlueRT",
+			"mikos",
+			[
+				0,
+				240,
+				213
+			]
+		],
+		[
+			"Uneven",
+			"neet",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"Mukbang",
+			"carol",
+			[
+				106,
+				113,
+				155
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "OtherSkySongs"
+}

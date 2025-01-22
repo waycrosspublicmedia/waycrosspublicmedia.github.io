@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SkyIdle"
+		},
+		{
+			"offsets": [
+				24,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SkyLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SkyDown"
+		},
+		{
+			"offsets": [
+				-1,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SkyUp"
+		},
+		{
+			"offsets": [
+				-32,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SkyRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SkyNegative",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "negasky",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
