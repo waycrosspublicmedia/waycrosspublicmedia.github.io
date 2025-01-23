@@ -1,0 +1,39 @@
+{
+	"storyName": "Crazy Daves Frontyard",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Peashooter",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"bloom-n-brainz",
+			"Peashooter",
+			[
+				100,
+				180,
+				100
+			]
+		],
+		[
+			"bad-bash",
+			"gatling",
+			[
+				100,
+				180,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Plant Week"
+}

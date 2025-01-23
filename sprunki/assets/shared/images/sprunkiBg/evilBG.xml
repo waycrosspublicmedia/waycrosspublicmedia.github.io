@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evilBG.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="evil0000" x="1" y="1" width="1280" height="720"/>
+	<SubTexture name="evil0001" x="1" y="1" width="1280" height="720"/>
+	<SubTexture name="evil0002" x="1" y="1" width="1280" height="720"/>
+	<SubTexture name="evil0003" x="1282" y="1" width="1280" height="720"/>
+	<SubTexture name="evil0004" x="1282" y="1" width="1280" height="720"/>
+	<SubTexture name="evil0005" x="1282" y="1" width="1280" height="720"/>
+	<SubTexture name="evil0006" x="2563" y="1" width="1280" height="720"/>
+	<SubTexture name="evil0007" x="2563" y="1" width="1280" height="720"/>
+	<SubTexture name="evil0008" x="2563" y="1" width="1280" height="720"/>
+	<SubTexture name="evil0009" x="1" y="722" width="1280" height="720"/>
+	<SubTexture name="evil0010" x="1" y="722" width="1280" height="720"/>
+	<SubTexture name="evil0011" x="1" y="722" width="1280" height="720"/>
+</TextureAtlas>

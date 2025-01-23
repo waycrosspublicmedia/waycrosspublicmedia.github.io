@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="logo bumpin00000" x="0" y="0" width="768" height="576"/>
+	<SubTexture name="logo bumpin00001" x="768" y="0" width="768" height="576"/>
+	<SubTexture name="logo bumpin00002" x="1536" y="0" width="768" height="576"/>
+	<SubTexture name="logo bumpin00003" x="2304" y="0" width="768" height="576"/>
+	<SubTexture name="logo bumpin00004" x="3072" y="0" width="768" height="576"/>
+	<SubTexture name="logo bumpin00005" x="3840" y="0" width="768" height="576"/>
+	<SubTexture name="logo bumpin00006" x="4608" y="0" width="768" height="576"/>
+	<SubTexture name="logo bumpin00007" x="5376" y="0" width="768" height="576"/>
+	<SubTexture name="logo bumpin00008" x="6144" y="0" width="768" height="576"/>
+	<SubTexture name="logo bumpin00009" x="6912" y="0" width="768" height="576"/>
+	<SubTexture name="logo bumpin00010" x="7680" y="0" width="768" height="576"/>
+	<SubTexture name="logo bumpin00011" x="8448" y="0" width="768" height="576"/>
+</TextureAtlas>

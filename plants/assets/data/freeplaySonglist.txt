@@ -1,0 +1,3 @@
+Bloom N Brainz:Peashooter:0xFF941653
+Bad Bash:Gatling:0xFF941653
+Juiceless:PeashooterLOD:0xFF941653

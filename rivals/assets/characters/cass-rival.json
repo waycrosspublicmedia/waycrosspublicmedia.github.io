@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "CASS IDLE"
+		},
+		{
+			"offsets": [
+				210,
+				410
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "CASS LEFT"
+		},
+		{
+			"offsets": [
+				129,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "CASS DOWN"
+		},
+		{
+			"offsets": [
+				191,
+				465
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "CASS UP"
+		},
+		{
+			"offsets": [
+				101,
+				148
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "CASS RIGHT"
+		}
+	],
+	"vocals_file": "Cass",
+	"no_antialiasing": false,
+	"image": "characters/CASS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cass",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		60
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

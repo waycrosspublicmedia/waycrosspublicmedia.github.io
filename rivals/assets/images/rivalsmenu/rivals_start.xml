@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rivals_start.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="start0000" x="0" y="0" width="501" height="223"/>
+	<SubTexture name="start SELECT0000" x="551" y="0" width="531" height="222"/>
+	<SubTexture name="start SELECT0001" x="551" y="0" width="531" height="222"/>
+	<SubTexture name="start SELECT0002" x="1132" y="0" width="531" height="222"/>
+	<SubTexture name="start SELECT0003" x="1713" y="0" width="531" height="222"/>
+	<SubTexture name="start SELECT0004" x="2294" y="0" width="531" height="222"/>
+	<SubTexture name="start SELECT0005" x="2875" y="0" width="531" height="222"/>
+	<SubTexture name="start SELECT0006" x="3456" y="0" width="531" height="222"/>
+	<SubTexture name="start SELECT0007" x="0" y="273" width="531" height="222"/>
+	<SubTexture name="start SELECT0008" x="581" y="273" width="531" height="222"/>
+	<SubTexture name="start SELECT0009" x="1162" y="273" width="531" height="222"/>
+	<SubTexture name="start SELECT0010" x="1743" y="273" width="531" height="222"/>
+	<SubTexture name="start SELECT0011" x="2324" y="273" width="531" height="222"/>
+	<SubTexture name="start SELECT0012" x="2905" y="273" width="531" height="222"/>
+	<SubTexture name="start SELECT0013" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start SELECT0014" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start SELECT0015" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start SELECT0016" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start SELECT0017" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start SELECT0018" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start SELECT0019" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start SELECT0020" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start SELECT0021" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start SELECT0022" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start SELECT0023" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start SELECT0024" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight0000" x="3486" y="273" width="531" height="222"/>
+	<SubTexture name="start highlight0001" x="0" y="545" width="531" height="222"/>
+	<SubTexture name="start highlight0002" x="581" y="545" width="531" height="222"/>
+	<SubTexture name="start highlight0003" x="1162" y="545" width="531" height="222"/>
+	<SubTexture name="start highlight0004" x="1743" y="545" width="531" height="222"/>
+	<SubTexture name="start highlight0005" x="2324" y="545" width="531" height="222"/>
+	<SubTexture name="start highlight0006" x="2905" y="545" width="531" height="222"/>
+	<SubTexture name="start highlight0007" x="3486" y="545" width="531" height="222"/>
+	<SubTexture name="start highlight0008" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight0009" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight0010" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight0011" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight0012" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight0013" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight0014" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight0015" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight STATIC0000" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight STATIC0001" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight STATIC0002" x="0" y="817" width="531" height="222"/>
+	<SubTexture name="start highlight STATIC0003" x="0" y="817" width="531" height="222"/>
+</TextureAtlas>

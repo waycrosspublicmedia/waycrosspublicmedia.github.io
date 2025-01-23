@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Peashooter Idle",
+	"image": "Menu_Peashooter",
+	"position": [
+		151,
+		-20
+	],
+	"scale": 0.8,
+	"confirm_anim": "M Dad Idle"
+}

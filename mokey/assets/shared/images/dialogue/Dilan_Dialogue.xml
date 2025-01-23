@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dilan_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dilanNOTALKING0000" x="36" y="517" width="351" height="405" frameX="0" frameY="0" frameWidth="351" frameHeight="427"/>
+	<SubTexture name="dilanTALKING0000" x="36" y="36" width="325" height="427" frameX="-13" frameY="0" frameWidth="351" frameHeight="427"/>
+	<SubTexture name="dilanTALKING0001" x="415" y="36" width="345" height="411" frameX="-3" frameY="-8" frameWidth="351" frameHeight="427"/>
+	<SubTexture name="dilanTALKING0002" x="36" y="517" width="351" height="405" frameX="0" frameY="-11" frameWidth="351" frameHeight="427"/>
+</TextureAtlas>

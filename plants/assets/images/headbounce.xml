@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="headbounce.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bounce0000" x="22" y="22" width="193" height="91" frameX="-34" frameY="-138" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0001" x="223" y="22" width="195" height="267" frameX="-39" frameY="-50" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0002" x="223" y="22" width="195" height="267" frameX="-39" frameY="-50" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0003" x="426" y="22" width="226" height="228" frameX="-26" frameY="-1" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0004" x="426" y="22" width="226" height="228" frameX="-26" frameY="-1" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0005" x="660" y="22" width="239" height="245" frameX="-21" frameY="0" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0006" x="22" y="297" width="247" height="259" frameX="-17" frameY="-6" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0007" x="277" y="297" width="236" height="259" frameX="-22" frameY="-19" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0008" x="521" y="297" width="257" height="209" frameX="-10" frameY="-81" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0009" x="22" y="564" width="277" height="205" frameX="0" frameY="-87" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0010" x="307" y="564" width="244" height="224" frameX="-17" frameY="-61" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0011" x="559" y="564" width="233" height="259" frameX="-23" frameY="-22" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0012" x="559" y="564" width="233" height="259" frameX="-23" frameY="-22" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0013" x="22" y="831" width="241" height="251" frameX="-19" frameY="-31" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0014" x="22" y="831" width="241" height="251" frameX="-19" frameY="-31" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0015" x="22" y="831" width="241" height="251" frameX="-19" frameY="-31" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0016" x="22" y="831" width="241" height="251" frameX="-19" frameY="-31" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0017" x="22" y="831" width="241" height="251" frameX="-19" frameY="-31" frameWidth="277" frameHeight="317"/>
+	<SubTexture name="Bounce0018" x="22" y="831" width="241" height="251" frameX="-19" frameY="-31" frameWidth="277" frameHeight="317"/>
+</TextureAtlas>

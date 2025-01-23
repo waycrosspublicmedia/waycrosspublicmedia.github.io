@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cartmen idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cartman left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cartman down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				14
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cartman up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "cartmen idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				4
+			],
+			"anim": "Talking",
+			"fps": 24,
+			"name": "cartman talking",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cartman right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				15
+			],
+			"anim": "Fight Back",
+			"fps": 24,
+			"name": "cartman anim fight back0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				10
+			],
+			"anim": "Animation",
+			"fps": 24,
+			"name": "cartman anim1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Animation2",
+			"loop": false,
+			"name": "cartman anim2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cartman",
+	"position": [
+		250,
+		490
+	],
+	"healthicon": "cartman",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

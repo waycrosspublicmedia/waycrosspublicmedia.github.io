@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thecat.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cat0000" x="0" y="0" width="188" height="462" frameX="-139" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0001" x="193" y="0" width="190" height="461" frameX="-137" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0002" x="388" y="0" width="198" height="460" frameX="-130" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0003" x="591" y="0" width="210" height="461" frameX="-119" frameY="2" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0004" x="806" y="0" width="237" height="458" frameX="-103" frameY="2" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0005" x="1048" y="0" width="277" height="451" frameX="-84" frameY="2" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0006" x="1330" y="0" width="323" height="439" frameX="-62" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0007" x="1658" y="0" width="371" height="416" frameX="-39" frameY="-5" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0008" x="0" y="467" width="422" height="380" frameX="-19" frameY="-15" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0009" x="427" y="467" width="467" height="340" frameX="0" frameY="-20" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0010" x="899" y="467" width="382" height="370" frameX="-53" frameY="-28" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0011" x="1286" y="467" width="284" height="368" frameX="-103" frameY="-30" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0012" x="1575" y="467" width="284" height="311" frameX="-109" frameY="-32" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0013" x="1286" y="467" width="284" height="368" frameX="-103" frameY="-30" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0014" x="899" y="467" width="382" height="370" frameX="-53" frameY="-28" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0015" x="427" y="467" width="467" height="340" frameX="0" frameY="-20" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0016" x="899" y="467" width="382" height="370" frameX="-53" frameY="-28" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0017" x="1286" y="467" width="284" height="368" frameX="-103" frameY="-30" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0018" x="1575" y="467" width="284" height="311" frameX="-109" frameY="-32" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0019" x="1286" y="467" width="284" height="368" frameX="-103" frameY="-30" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0020" x="899" y="467" width="382" height="370" frameX="-53" frameY="-28" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0021" x="427" y="467" width="467" height="340" frameX="0" frameY="-20" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0022" x="899" y="467" width="382" height="370" frameX="-53" frameY="-28" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0023" x="1286" y="467" width="284" height="368" frameX="-103" frameY="-30" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0024" x="1575" y="467" width="284" height="311" frameX="-109" frameY="-32" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0025" x="1286" y="467" width="284" height="368" frameX="-103" frameY="-30" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0026" x="899" y="467" width="382" height="370" frameX="-53" frameY="-28" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0027" x="427" y="467" width="467" height="340" frameX="0" frameY="-20" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0028" x="0" y="852" width="425" height="377" frameX="-17" frameY="-15" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0029" x="430" y="852" width="382" height="410" frameX="-35" frameY="-6" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0030" x="817" y="852" width="337" height="433" frameX="-55" frameY="-1" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0031" x="1159" y="852" width="295" height="448" frameX="-75" frameY="2" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0032" x="1459" y="852" width="257" height="455" frameX="-94" frameY="2" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0033" x="1721" y="852" width="224" height="460" frameX="-110" frameY="2" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0034" x="0" y="1317" width="206" height="461" frameX="-123" frameY="1" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0035" x="211" y="1317" width="196" height="461" frameX="-132" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0036" x="412" y="1317" width="190" height="461" frameX="-138" frameY="0" frameWidth="467" frameHeight="462"/>
+	<SubTexture name="cat0037" x="0" y="0" width="188" height="462" frameX="-139" frameY="0" frameWidth="467" frameHeight="462"/>
+</TextureAtlas>

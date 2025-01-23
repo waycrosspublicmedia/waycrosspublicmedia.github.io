@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				23,
+				249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sprunkiBfIdle"
+		},
+		{
+			"offsets": [
+				38,
+				229
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sprunkiBfdown0"
+		},
+		{
+			"offsets": [
+				31,
+				264
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sprunkiBfup0"
+		},
+		{
+			"offsets": [
+				52,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sprunkiBfright0"
+		},
+		{
+			"offsets": [
+				17,
+				246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sprunkiBfleft0"
+		},
+		{
+			"offsets": [
+				37,
+				226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "sprunkiBfdownmiss0"
+		},
+		{
+			"offsets": [
+				31,
+				259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "sprunkiBfupmiss0"
+		},
+		{
+			"offsets": [
+				54,
+				248
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "sprunkiBfrightmiss0"
+		},
+		{
+			"offsets": [
+				15,
+				241
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "sprunkiBfleftmiss0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				266
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "sprunkiBfyeah",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/sprunkiBf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sprunkibf",
+	"flip_x": true,
+	"healthbar_colors": [
+		89,
+		196,
+		255
+	],
+	"camera_position": [
+		130,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clock.png">
+	<!-- Made using Maru Aseprite JSON to XML converter -->
+	<SubTexture name="clock00000" x="0" y="0" width="13" height="13"/>
+	<SubTexture name="clock00001" x="13" y="0" width="13" height="13"/>
+	<SubTexture name="clock00002" x="26" y="0" width="13" height="13"/>
+</TextureAtlas>

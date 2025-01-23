@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cartman.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cartman anim fight back0000" x="0" y="0" width="297" height="263" frameX="-14" frameY="-17" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0001" x="0" y="0" width="297" height="263" frameX="-14" frameY="-17" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0002" x="0" y="0" width="297" height="263" frameX="-14" frameY="-17" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0003" x="297" y="0" width="297" height="262" frameX="-14" frameY="-18" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0004" x="594" y="0" width="232" height="262" frameX="-43" frameY="-16" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0005" x="826" y="0" width="232" height="263" frameX="-43" frameY="-15" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0006" x="826" y="0" width="232" height="263" frameX="-43" frameY="-15" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0007" x="1058" y="0" width="232" height="265" frameX="-43" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0008" x="1058" y="0" width="232" height="265" frameX="-43" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0009" x="1290" y="0" width="232" height="264" frameX="-43" frameY="-14" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0010" x="1522" y="0" width="232" height="263" frameX="-43" frameY="-15" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0011" x="1754" y="0" width="279" height="266" frameX="-43" frameY="-12" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0012" x="2033" y="0" width="284" height="266" frameX="-43" frameY="-12" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0013" x="2317" y="0" width="284" height="265" frameX="-43" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0014" x="2601" y="0" width="284" height="265" frameX="-43" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0015" x="2885" y="0" width="284" height="270" frameX="-43" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0016" x="3169" y="0" width="284" height="266" frameX="-43" frameY="-12" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0017" x="3453" y="0" width="284" height="266" frameX="-43" frameY="-12" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0018" x="3737" y="0" width="284" height="270" frameX="-43" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0019" x="3737" y="0" width="284" height="270" frameX="-43" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0020" x="4021" y="0" width="284" height="269" frameX="-43" frameY="-9" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0021" x="4305" y="0" width="284" height="262" frameX="-43" frameY="-16" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0022" x="4305" y="0" width="284" height="262" frameX="-43" frameY="-16" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0023" x="4589" y="0" width="284" height="265" frameX="-43" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0024" x="4873" y="0" width="284" height="264" frameX="-43" frameY="-14" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0025" x="4873" y="0" width="284" height="264" frameX="-43" frameY="-14" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0026" x="5157" y="0" width="284" height="264" frameX="-43" frameY="-14" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0027" x="5157" y="0" width="284" height="264" frameX="-43" frameY="-14" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0028" x="5441" y="0" width="284" height="266" frameX="-43" frameY="-12" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0029" x="5725" y="0" width="285" height="266" frameX="-45" frameY="-12" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0030" x="6010" y="0" width="285" height="268" frameX="-45" frameY="-10" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0031" x="6295" y="0" width="286" height="268" frameX="-44" frameY="-10" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0032" x="6581" y="0" width="286" height="270" frameX="-44" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0033" x="6867" y="0" width="284" height="263" frameX="-43" frameY="-15" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0034" x="7151" y="0" width="284" height="262" frameX="-43" frameY="-16" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0035" x="7151" y="0" width="284" height="262" frameX="-43" frameY="-16" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0036" x="7435" y="0" width="284" height="266" frameX="-43" frameY="-12" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0037" x="7719" y="0" width="284" height="266" frameX="-43" frameY="-12" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0038" x="0" y="270" width="284" height="265" frameX="-43" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0039" x="0" y="270" width="284" height="265" frameX="-43" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0040" x="284" y="270" width="284" height="268" frameX="-43" frameY="-10" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0041" x="284" y="270" width="284" height="268" frameX="-43" frameY="-10" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0042" x="568" y="270" width="284" height="267" frameX="-43" frameY="-11" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0043" x="568" y="270" width="284" height="267" frameX="-43" frameY="-11" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0044" x="852" y="270" width="284" height="263" frameX="-43" frameY="-15" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0045" x="852" y="270" width="284" height="263" frameX="-43" frameY="-15" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0046" x="1136" y="270" width="284" height="266" frameX="-43" frameY="-12" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0047" x="1420" y="270" width="284" height="266" frameX="-43" frameY="-12" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0048" x="1704" y="270" width="284" height="263" frameX="-43" frameY="-15" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0049" x="1988" y="270" width="284" height="263" frameX="-43" frameY="-15" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0050" x="2272" y="270" width="284" height="265" frameX="-43" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0051" x="2556" y="270" width="283" height="265" frameX="-43" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0052" x="2839" y="270" width="232" height="264" frameX="-43" frameY="-14" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0053" x="2839" y="270" width="232" height="264" frameX="-43" frameY="-14" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0054" x="3071" y="270" width="232" height="264" frameX="-43" frameY="-14" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0055" x="3071" y="270" width="232" height="264" frameX="-43" frameY="-14" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0056" x="3303" y="270" width="232" height="257" frameX="-43" frameY="-21" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0057" x="3303" y="270" width="232" height="257" frameX="-43" frameY="-21" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0058" x="3535" y="270" width="297" height="259" frameX="-14" frameY="-21" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0059" x="3535" y="270" width="297" height="259" frameX="-14" frameY="-21" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0060" x="3832" y="270" width="297" height="271" frameX="-14" frameY="-9" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0061" x="4129" y="270" width="297" height="270" frameX="-14" frameY="-10" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0062" x="4129" y="270" width="297" height="270" frameX="-14" frameY="-10" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0063" x="4426" y="270" width="297" height="272" frameX="-14" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0064" x="4723" y="270" width="297" height="271" frameX="-14" frameY="-9" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0065" x="4723" y="270" width="297" height="271" frameX="-14" frameY="-9" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0066" x="5020" y="270" width="297" height="266" frameX="-14" frameY="-14" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0067" x="5020" y="270" width="297" height="266" frameX="-14" frameY="-14" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0068" x="5317" y="270" width="297" height="271" frameX="-14" frameY="-9" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0069" x="5317" y="270" width="297" height="271" frameX="-14" frameY="-9" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0070" x="5614" y="270" width="297" height="270" frameX="-14" frameY="-10" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0071" x="5614" y="270" width="297" height="270" frameX="-14" frameY="-10" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0072" x="5911" y="270" width="297" height="265" frameX="-14" frameY="-15" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0073" x="5911" y="270" width="297" height="265" frameX="-14" frameY="-15" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0074" x="6208" y="270" width="297" height="276" frameX="-14" frameY="-4" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0075" x="6505" y="270" width="297" height="272" frameX="-14" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0076" x="6802" y="270" width="297" height="274" frameX="-14" frameY="-6" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0077" x="7099" y="270" width="305" height="273" frameX="-10" frameY="-7" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0078" x="7404" y="270" width="305" height="273" frameX="-10" frameY="-7" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0079" x="7709" y="270" width="331" height="273" frameX="-2" frameY="-7" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0080" x="0" y="546" width="331" height="280" frameX="-2" frameY="0" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0081" x="0" y="546" width="331" height="280" frameX="-2" frameY="0" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0082" x="331" y="546" width="331" height="278" frameX="-2" frameY="-2" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0083" x="331" y="546" width="331" height="278" frameX="-2" frameY="-2" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0084" x="662" y="546" width="331" height="270" frameX="-2" frameY="-10" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0085" x="993" y="546" width="331" height="274" frameX="-2" frameY="-6" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0086" x="1324" y="546" width="331" height="274" frameX="-2" frameY="-6" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0087" x="1324" y="546" width="331" height="274" frameX="-2" frameY="-6" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0088" x="1655" y="546" width="331" height="277" frameX="-2" frameY="-3" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0089" x="1655" y="546" width="331" height="277" frameX="-2" frameY="-3" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0090" x="1986" y="546" width="331" height="276" frameX="-2" frameY="-4" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0091" x="2317" y="546" width="331" height="271" frameX="-2" frameY="-9" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0092" x="2648" y="546" width="330" height="270" frameX="-2" frameY="-10" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0093" x="2978" y="546" width="328" height="270" frameX="-2" frameY="-10" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0094" x="3306" y="546" width="328" height="278" frameX="-1" frameY="-2" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0095" x="3634" y="546" width="328" height="277" frameX="-1" frameY="-3" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0096" x="3962" y="546" width="328" height="277" frameX="0" frameY="-3" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0097" x="4290" y="546" width="331" height="279" frameX="-1" frameY="-1" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0098" x="4621" y="546" width="331" height="279" frameX="-2" frameY="-1" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0099" x="4952" y="546" width="331" height="275" frameX="-2" frameY="-5" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0100" x="4952" y="546" width="331" height="275" frameX="-2" frameY="-5" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0101" x="5283" y="546" width="331" height="275" frameX="-2" frameY="-5" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0102" x="5614" y="546" width="331" height="273" frameX="-2" frameY="-7" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0103" x="5614" y="546" width="331" height="273" frameX="-2" frameY="-7" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0104" x="5945" y="546" width="331" height="273" frameX="-2" frameY="-7" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0105" x="5945" y="546" width="331" height="273" frameX="-2" frameY="-7" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0106" x="6276" y="546" width="331" height="267" frameX="-2" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0107" x="6276" y="546" width="331" height="267" frameX="-2" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0108" x="6276" y="546" width="331" height="267" frameX="-2" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0109" x="6276" y="546" width="331" height="267" frameX="-2" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0110" x="6607" y="546" width="334" height="267" frameX="-1" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0111" x="6941" y="546" width="301" height="267" frameX="-12" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0112" x="6941" y="546" width="301" height="267" frameX="-12" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0113" x="7242" y="546" width="297" height="267" frameX="-14" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0114" x="7242" y="546" width="297" height="267" frameX="-14" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim fight back0115" x="7242" y="546" width="297" height="267" frameX="-14" frameY="-13" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="cartman anim10000" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10001" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10002" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10003" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10004" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10005" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10006" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10007" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10008" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10009" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10010" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10011" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10012" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10013" x="7539" y="546" width="297" height="267" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10014" x="7836" y="546" width="297" height="263" frameX="0" frameY="-12" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10015" x="7836" y="546" width="297" height="263" frameX="0" frameY="-12" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10016" x="0" y="826" width="297" height="262" frameX="0" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10017" x="0" y="826" width="297" height="262" frameX="0" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10018" x="297" y="826" width="232" height="257" frameX="-29" frameY="-16" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10019" x="529" y="826" width="232" height="260" frameX="-29" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10020" x="761" y="826" width="232" height="260" frameX="-29" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10021" x="993" y="826" width="232" height="261" frameX="-29" frameY="-12" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10022" x="1225" y="826" width="288" height="259" frameX="-29" frameY="-14" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10023" x="1513" y="826" width="291" height="259" frameX="-28" frameY="-14" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10024" x="1804" y="826" width="291" height="260" frameX="-28" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10025" x="2095" y="826" width="291" height="262" frameX="-28" frameY="-11" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10026" x="2386" y="826" width="291" height="259" frameX="-28" frameY="-14" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10027" x="2677" y="826" width="291" height="259" frameX="-28" frameY="-14" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10028" x="2968" y="826" width="291" height="262" frameX="-28" frameY="-11" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10029" x="3259" y="826" width="291" height="262" frameX="-28" frameY="-11" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10030" x="3550" y="826" width="291" height="263" frameX="-28" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10031" x="3841" y="826" width="291" height="263" frameX="-28" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10032" x="4132" y="826" width="291" height="260" frameX="-28" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10033" x="4423" y="826" width="291" height="261" frameX="-28" frameY="-12" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10034" x="4714" y="826" width="291" height="259" frameX="-28" frameY="-14" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10035" x="5005" y="826" width="291" height="259" frameX="-28" frameY="-14" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10036" x="5296" y="826" width="291" height="260" frameX="-28" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10037" x="5587" y="826" width="291" height="262" frameX="-28" frameY="-11" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10038" x="5878" y="826" width="291" height="259" frameX="-28" frameY="-14" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10039" x="6169" y="826" width="291" height="259" frameX="-28" frameY="-14" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10040" x="6460" y="826" width="291" height="261" frameX="-28" frameY="-12" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10041" x="6751" y="826" width="291" height="262" frameX="-28" frameY="-11" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10042" x="7042" y="826" width="291" height="261" frameX="-28" frameY="-12" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10043" x="7333" y="826" width="291" height="262" frameX="-28" frameY="-11" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10044" x="7624" y="826" width="291" height="262" frameX="-28" frameY="-11" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10045" x="0" y="1089" width="292" height="263" frameX="-29" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10046" x="292" y="1089" width="292" height="265" frameX="-29" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10047" x="584" y="1089" width="292" height="264" frameX="-30" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10048" x="876" y="1089" width="292" height="267" frameX="-30" frameY="-6" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10049" x="876" y="1089" width="292" height="267" frameX="-30" frameY="-6" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10050" x="876" y="1089" width="292" height="267" frameX="-30" frameY="-6" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10051" x="1168" y="1089" width="292" height="264" frameX="-30" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10052" x="1460" y="1089" width="292" height="260" frameX="-30" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10053" x="1460" y="1089" width="292" height="260" frameX="-30" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10054" x="1460" y="1089" width="292" height="260" frameX="-30" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10055" x="1752" y="1089" width="292" height="260" frameX="-29" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10056" x="2044" y="1089" width="290" height="260" frameX="-29" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10057" x="2044" y="1089" width="290" height="260" frameX="-29" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10058" x="2334" y="1089" width="284" height="260" frameX="-29" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10059" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10060" x="2850" y="1089" width="234" height="256" frameX="-29" frameY="-17" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10061" x="3084" y="1089" width="232" height="256" frameX="-31" frameY="-17" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10062" x="3316" y="1089" width="232" height="265" frameX="-31" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10063" x="3548" y="1089" width="232" height="263" frameX="-31" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10064" x="3780" y="1089" width="232" height="264" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10065" x="4012" y="1089" width="232" height="265" frameX="-31" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10066" x="4244" y="1089" width="232" height="265" frameX="-31" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10067" x="4476" y="1089" width="232" height="264" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10068" x="4708" y="1089" width="232" height="267" frameX="-31" frameY="-6" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10069" x="4940" y="1089" width="232" height="262" frameX="-31" frameY="-11" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10070" x="5172" y="1089" width="232" height="266" frameX="-31" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10071" x="5172" y="1089" width="232" height="266" frameX="-31" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10072" x="5404" y="1089" width="232" height="265" frameX="-31" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10073" x="5404" y="1089" width="232" height="265" frameX="-31" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10074" x="5636" y="1089" width="232" height="261" frameX="-31" frameY="-12" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10075" x="5868" y="1089" width="232" height="264" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10076" x="5868" y="1089" width="232" height="264" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10077" x="5868" y="1089" width="232" height="264" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10078" x="6100" y="1089" width="297" height="266" frameX="0" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10079" x="6100" y="1089" width="297" height="266" frameX="0" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10080" x="6397" y="1089" width="297" height="269" frameX="0" frameY="-6" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10081" x="6694" y="1089" width="297" height="270" frameX="0" frameY="-5" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10082" x="6694" y="1089" width="297" height="270" frameX="0" frameY="-5" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10083" x="6991" y="1089" width="297" height="268" frameX="0" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10084" x="6991" y="1089" width="297" height="268" frameX="0" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10085" x="6991" y="1089" width="297" height="268" frameX="0" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10086" x="6991" y="1089" width="297" height="268" frameX="0" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10087" x="6991" y="1089" width="297" height="268" frameX="0" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10088" x="6991" y="1089" width="297" height="268" frameX="0" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10089" x="6991" y="1089" width="297" height="268" frameX="0" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10090" x="7288" y="1089" width="297" height="270" frameX="0" frameY="-5" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10091" x="7585" y="1089" width="300" height="269" frameX="0" frameY="-6" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10092" x="0" y="1359" width="327" height="269" frameX="0" frameY="-6" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10093" x="327" y="1359" width="328" height="270" frameX="0" frameY="-5" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10094" x="655" y="1359" width="328" height="272" frameX="0" frameY="-3" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10095" x="655" y="1359" width="328" height="272" frameX="0" frameY="-3" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10096" x="983" y="1359" width="328" height="271" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10097" x="1311" y="1359" width="328" height="270" frameX="0" frameY="-5" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10098" x="1639" y="1359" width="328" height="271" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10099" x="1967" y="1359" width="328" height="271" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10100" x="1967" y="1359" width="328" height="271" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10101" x="2295" y="1359" width="328" height="271" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10102" x="2623" y="1359" width="328" height="275"/>
+	<SubTexture name="cartman anim10103" x="2623" y="1359" width="328" height="275"/>
+	<SubTexture name="cartman anim10104" x="2951" y="1359" width="328" height="272" frameX="0" frameY="-3" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10105" x="2951" y="1359" width="328" height="272" frameX="0" frameY="-3" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10106" x="3279" y="1359" width="327" height="272" frameX="0" frameY="-3" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10107" x="3606" y="1359" width="300" height="272" frameX="0" frameY="-3" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10108" x="3906" y="1359" width="300" height="272" frameX="0" frameY="-3" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim10109" x="3906" y="1359" width="300" height="272" frameX="0" frameY="-3" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim20000" x="7836" y="546" width="297" height="263" frameX="0" frameY="-14" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim20001" x="7836" y="546" width="297" height="263" frameX="0" frameY="-14" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim20002" x="7836" y="546" width="297" height="263" frameX="0" frameY="-14" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim20003" x="7539" y="546" width="297" height="267" frameX="0" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim20004" x="4206" y="1359" width="297" height="271" frameX="0" frameY="-6" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20005" x="4206" y="1359" width="297" height="271" frameX="0" frameY="-6" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20006" x="4503" y="1359" width="297" height="270" frameX="0" frameY="-7" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20007" x="4503" y="1359" width="297" height="270" frameX="0" frameY="-7" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20008" x="4800" y="1359" width="299" height="273" frameX="0" frameY="-4" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20009" x="4800" y="1359" width="299" height="273" frameX="0" frameY="-4" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20010" x="5099" y="1359" width="328" height="272" frameX="0" frameY="-5" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20011" x="5427" y="1359" width="332" height="272" frameX="0" frameY="-5" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20012" x="5759" y="1359" width="332" height="270" frameX="0" frameY="-7" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20013" x="6091" y="1359" width="332" height="270" frameX="0" frameY="-7" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20014" x="6423" y="1359" width="332" height="277"/>
+	<SubTexture name="cartman anim20015" x="6423" y="1359" width="332" height="277"/>
+	<SubTexture name="cartman anim20016" x="6755" y="1359" width="332" height="276" frameX="0" frameY="-1" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20017" x="7087" y="1359" width="332" height="276" frameX="0" frameY="-1" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20018" x="7419" y="1359" width="332" height="276" frameX="0" frameY="-1" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20019" x="7751" y="1359" width="332" height="275" frameX="0" frameY="-2" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20020" x="7751" y="1359" width="332" height="275" frameX="0" frameY="-2" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20021" x="0" y="1636" width="332" height="272" frameX="0" frameY="-5" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20022" x="0" y="1636" width="332" height="272" frameX="0" frameY="-5" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20023" x="332" y="1636" width="332" height="277"/>
+	<SubTexture name="cartman anim20024" x="664" y="1636" width="332" height="276" frameX="0" frameY="-1" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20025" x="664" y="1636" width="332" height="276" frameX="0" frameY="-1" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20026" x="996" y="1636" width="332" height="272" frameX="0" frameY="-5" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20027" x="1328" y="1636" width="332" height="272" frameX="0" frameY="-5" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20028" x="1660" y="1636" width="332" height="267" frameX="0" frameY="-10" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20029" x="1992" y="1636" width="328" height="267" frameX="0" frameY="-10" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20030" x="2320" y="1636" width="299" height="267" frameX="0" frameY="-10" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20031" x="2320" y="1636" width="299" height="267" frameX="0" frameY="-10" frameWidth="332" frameHeight="277"/>
+	<SubTexture name="cartman anim20032" x="7539" y="546" width="297" height="267" frameX="0" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim20033" x="7539" y="546" width="297" height="267" frameX="0" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim20034" x="7539" y="546" width="297" height="267" frameX="0" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman anim20035" x="7539" y="546" width="297" height="267" frameX="0" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman down0000" x="2619" y="1636" width="357" height="251" frameX="0" frameY="-10" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0001" x="2619" y="1636" width="357" height="251" frameX="0" frameY="-10" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0002" x="2976" y="1636" width="354" height="258" frameX="-2" frameY="-3" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0003" x="2976" y="1636" width="354" height="258" frameX="-2" frameY="-3" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0004" x="3330" y="1636" width="354" height="259" frameX="-2" frameY="-2" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0005" x="3684" y="1636" width="352" height="261" frameX="-3" frameY="0" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0006" x="4036" y="1636" width="352" height="260" frameX="-3" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0007" x="4036" y="1636" width="352" height="260" frameX="-3" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0008" x="4388" y="1636" width="352" height="260" frameX="-3" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0009" x="4740" y="1636" width="349" height="260" frameX="-4" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0010" x="4740" y="1636" width="349" height="260" frameX="-4" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0011" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0012" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0013" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0014" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0015" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0016" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0017" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0018" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0019" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0020" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0021" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0022" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman down0023" x="5089" y="1636" width="291" height="260" frameX="-32" frameY="-1" frameWidth="357" frameHeight="261"/>
+	<SubTexture name="cartman left0000" x="5380" y="1636" width="309" height="269" frameX="-18" frameY="0" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0001" x="5380" y="1636" width="309" height="269" frameX="-18" frameY="0" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0002" x="5689" y="1636" width="311" height="267" frameX="-20" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0003" x="5689" y="1636" width="311" height="267" frameX="-20" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0004" x="6000" y="1636" width="312" height="267" frameX="-21" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0005" x="6312" y="1636" width="313" height="267" frameX="-24" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0006" x="6625" y="1636" width="313" height="267" frameX="-23" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0007" x="6625" y="1636" width="313" height="267" frameX="-23" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0008" x="6938" y="1636" width="313" height="267" frameX="-21" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0009" x="7251" y="1636" width="315" height="267" frameX="-21" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0010" x="7251" y="1636" width="315" height="267" frameX="-21" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0011" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0012" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0013" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0014" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0015" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0016" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0017" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0018" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0019" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0020" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0021" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0022" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman left0023" x="7566" y="1636" width="299" height="267" frameX="0" frameY="-2" frameWidth="337" frameHeight="269"/>
+	<SubTexture name="cartman right0000" x="0" y="1913" width="338" height="274" frameX="-6" frameY="0" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0001" x="0" y="1913" width="338" height="274" frameX="-6" frameY="0" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0002" x="338" y="1913" width="335" height="271" frameX="-4" frameY="-3" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0003" x="338" y="1913" width="335" height="271" frameX="-4" frameY="-3" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0004" x="673" y="1913" width="333" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0005" x="1006" y="1913" width="332" height="270" frameX="0" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0006" x="1338" y="1913" width="332" height="270" frameX="-2" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0007" x="1338" y="1913" width="332" height="270" frameX="-2" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0008" x="1670" y="1913" width="332" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0009" x="2002" y="1913" width="330" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0010" x="2002" y="1913" width="330" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0011" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0012" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0013" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0014" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0015" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0016" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0017" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0018" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0019" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0020" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0021" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0022" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman right0023" x="2332" y="1913" width="289" height="270" frameX="-3" frameY="-4" frameWidth="344" frameHeight="274"/>
+	<SubTexture name="cartman talking0000" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0001" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0002" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0003" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0004" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0005" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0006" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0007" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0008" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0009" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0010" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0011" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0012" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0013" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0014" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0015" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0016" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0017" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0018" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0019" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0020" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0021" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0022" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0023" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0024" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0025" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0026" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0027" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0028" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0029" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0030" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0031" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0032" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0033" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0034" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0035" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0036" x="2621" y="1913" width="232" height="264" frameX="-29" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0037" x="2621" y="1913" width="232" height="264" frameX="-29" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0038" x="2621" y="1913" width="232" height="264" frameX="-29" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0039" x="2853" y="1913" width="232" height="264" frameX="-29" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0040" x="2853" y="1913" width="232" height="264" frameX="-29" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0041" x="2853" y="1913" width="232" height="264" frameX="-29" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0042" x="3085" y="1913" width="232" height="267" frameX="-29" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0043" x="3085" y="1913" width="232" height="267" frameX="-29" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0044" x="3085" y="1913" width="232" height="267" frameX="-29" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0045" x="3085" y="1913" width="232" height="267" frameX="-29" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0046" x="3317" y="1913" width="232" height="264" frameX="-29" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0047" x="3549" y="1913" width="232" height="264" frameX="-29" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0048" x="3549" y="1913" width="232" height="264" frameX="-29" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0049" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0050" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0051" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0052" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0053" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0054" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0055" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0056" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0057" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0058" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0059" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0060" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0061" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0062" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0063" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0064" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0065" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0066" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0067" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0068" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0069" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0070" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0071" x="4013" y="1913" width="232" height="256" frameX="-29" frameY="-13" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0072" x="4013" y="1913" width="232" height="256" frameX="-29" frameY="-13" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0073" x="4013" y="1913" width="232" height="256" frameX="-29" frameY="-13" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0074" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0075" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0076" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0077" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0078" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0079" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0080" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0081" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0082" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0083" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0084" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0085" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0086" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0087" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0088" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0089" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0090" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0091" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0092" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0093" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0094" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0095" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0096" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0097" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0098" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0099" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0100" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0101" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0102" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0103" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0104" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0105" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0106" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0107" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0108" x="3781" y="1913" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0109" x="4245" y="1913" width="232" height="256" frameX="-29" frameY="-13" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0110" x="4245" y="1913" width="232" height="256" frameX="-29" frameY="-13" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0111" x="4477" y="1913" width="293" height="258" frameX="0" frameY="-13" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0112" x="4770" y="1913" width="293" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0113" x="4770" y="1913" width="293" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0114" x="5063" y="1913" width="293" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0115" x="5063" y="1913" width="293" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0116" x="5356" y="1913" width="293" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0117" x="5649" y="1913" width="293" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0118" x="5942" y="1913" width="293" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0119" x="6235" y="1913" width="293" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0120" x="6528" y="1913" width="293" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0121" x="6821" y="1913" width="297" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0122" x="7118" y="1913" width="326" height="269" frameX="0" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0123" x="7444" y="1913" width="327" height="269" frameX="-2" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0124" x="7771" y="1913" width="327" height="269" frameX="-2" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0125" x="0" y="2187" width="327" height="268" frameX="-2" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0126" x="327" y="2187" width="327" height="269" frameX="-2" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0127" x="327" y="2187" width="327" height="269" frameX="-2" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0128" x="654" y="2187" width="332" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0129" x="986" y="2187" width="332" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0130" x="1318" y="2187" width="329" height="269" frameX="0" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0131" x="1647" y="2187" width="329" height="269" frameX="0" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0132" x="1976" y="2187" width="329" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0133" x="1976" y="2187" width="329" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0134" x="2305" y="2187" width="329" height="269" frameX="0" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0135" x="2634" y="2187" width="329" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0136" x="2963" y="2187" width="329" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0137" x="2963" y="2187" width="329" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0138" x="3292" y="2187" width="329" height="269" frameX="0" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0139" x="3621" y="2187" width="329" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0140" x="3621" y="2187" width="329" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0141" x="3950" y="2187" width="329" height="271" frameX="0" frameY="0" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0142" x="4279" y="2187" width="297" height="269" frameX="0" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0143" x="4576" y="2187" width="297" height="269" frameX="0" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0144" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0145" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0146" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0147" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0148" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0149" x="7836" y="546" width="297" height="263" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0150" x="7836" y="546" width="297" height="263" frameX="0" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0151" x="0" y="826" width="297" height="262" frameX="0" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0152" x="0" y="826" width="297" height="262" frameX="0" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0153" x="297" y="826" width="232" height="257" frameX="-29" frameY="-12" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0154" x="529" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0155" x="761" y="826" width="232" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0156" x="4873" y="2187" width="232" height="261" frameX="-29" frameY="-8" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0157" x="5105" y="2187" width="288" height="259" frameX="-29" frameY="-10" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0158" x="1513" y="826" width="291" height="259" frameX="-28" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0159" x="1804" y="826" width="291" height="260" frameX="-28" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0160" x="2095" y="826" width="291" height="262" frameX="-28" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0161" x="2386" y="826" width="291" height="259" frameX="-28" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0162" x="2677" y="826" width="291" height="259" frameX="-28" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0163" x="2968" y="826" width="291" height="262" frameX="-28" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0164" x="3259" y="826" width="291" height="262" frameX="-28" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0165" x="3550" y="826" width="291" height="263" frameX="-28" frameY="-6" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0166" x="3841" y="826" width="291" height="263" frameX="-28" frameY="-6" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0167" x="4132" y="826" width="291" height="260" frameX="-28" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0168" x="5393" y="2187" width="291" height="261" frameX="-28" frameY="-8" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0169" x="4714" y="826" width="291" height="259" frameX="-28" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0170" x="5005" y="826" width="291" height="259" frameX="-28" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0171" x="5296" y="826" width="291" height="260" frameX="-28" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0172" x="5587" y="826" width="291" height="262" frameX="-28" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0173" x="5878" y="826" width="291" height="259" frameX="-28" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0174" x="6169" y="826" width="291" height="259" frameX="-28" frameY="-10" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0175" x="6460" y="826" width="291" height="261" frameX="-28" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0176" x="6751" y="826" width="291" height="262" frameX="-28" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0177" x="7042" y="826" width="291" height="261" frameX="-28" frameY="-8" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0178" x="7333" y="826" width="291" height="262" frameX="-28" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0179" x="7624" y="826" width="291" height="262" frameX="-28" frameY="-7" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0180" x="5684" y="2187" width="292" height="263" frameX="-29" frameY="-6" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0181" x="5684" y="2187" width="292" height="263" frameX="-29" frameY="-6" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0182" x="5976" y="2187" width="292" height="265" frameX="-30" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0183" x="5976" y="2187" width="292" height="265" frameX="-30" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0184" x="6268" y="2187" width="292" height="264" frameX="-30" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0185" x="584" y="1089" width="292" height="264" frameX="-30" frameY="-5" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0186" x="876" y="1089" width="292" height="267" frameX="-30" frameY="-2" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0187" x="876" y="1089" width="292" height="267" frameX="-30" frameY="-2" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0188" x="6560" y="2187" width="292" height="267" frameX="-29" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0189" x="6852" y="2187" width="290" height="264" frameX="-29" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0190" x="7142" y="2187" width="290" height="264" frameX="-29" frameY="-5" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0191" x="2334" y="1089" width="284" height="260" frameX="-29" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0192" x="7432" y="2187" width="273" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0193" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0194" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0195" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0196" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0197" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0198" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0199" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0200" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0201" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0202" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0203" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0204" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0205" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0206" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0207" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0208" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0209" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0210" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0211" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0212" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0213" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0214" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0215" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0216" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0217" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0218" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0219" x="7705" y="2187" width="232" height="260" frameX="-29" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0220" x="7937" y="2187" width="232" height="256" frameX="-29" frameY="-13" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0221" x="0" y="2458" width="288" height="256" frameX="-29" frameY="-13" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0222" x="0" y="2458" width="288" height="256" frameX="-29" frameY="-13" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0223" x="288" y="2458" width="289" height="262" frameX="-30" frameY="-7" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0224" x="577" y="2458" width="287" height="262" frameX="-32" frameY="-7" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0225" x="864" y="2458" width="287" height="262" frameX="-32" frameY="-7" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0226" x="864" y="2458" width="287" height="262" frameX="-32" frameY="-7" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0227" x="1151" y="2458" width="287" height="262" frameX="-32" frameY="-7" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0228" x="1438" y="2458" width="287" height="261" frameX="-32" frameY="-8" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0229" x="1725" y="2458" width="287" height="261" frameX="-32" frameY="-8" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0230" x="2012" y="2458" width="287" height="262" frameX="-32" frameY="-7" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0231" x="2299" y="2458" width="287" height="262" frameX="-32" frameY="-7" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0232" x="2299" y="2458" width="287" height="262" frameX="-32" frameY="-7" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0233" x="2586" y="2458" width="287" height="265" frameX="-32" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0234" x="2586" y="2458" width="287" height="265" frameX="-32" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0235" x="2873" y="2458" width="287" height="263" frameX="-32" frameY="-6" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0236" x="2873" y="2458" width="287" height="263" frameX="-32" frameY="-6" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0237" x="3160" y="2458" width="287" height="262" frameX="-32" frameY="-7" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0238" x="3447" y="2458" width="288" height="262" frameX="-31" frameY="-7" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0239" x="3735" y="2458" width="288" height="260" frameX="-31" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0240" x="4023" y="2458" width="271" height="260" frameX="-31" frameY="-9" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0241" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0242" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0243" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0244" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0245" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0246" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0247" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0248" x="2850" y="1089" width="234" height="256" frameX="-29" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0249" x="2850" y="1089" width="234" height="256" frameX="-29" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0250" x="2850" y="1089" width="234" height="256" frameX="-29" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0251" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0252" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0253" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0254" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0255" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0256" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0257" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0258" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0259" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0260" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0261" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0262" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0263" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0264" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0265" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0266" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0267" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0268" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0269" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0270" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0271" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0272" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0273" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0274" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0275" x="2618" y="1089" width="232" height="260" frameX="-31" frameY="-9" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0276" x="2850" y="1089" width="234" height="256" frameX="-29" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0277" x="3084" y="1089" width="232" height="256" frameX="-31" frameY="-13" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0278" x="4294" y="2458" width="297" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0279" x="4294" y="2458" width="297" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0280" x="4591" y="2458" width="326" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0281" x="4917" y="2458" width="327" height="268" frameX="-2" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0282" x="5244" y="2458" width="327" height="268" frameX="-2" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0283" x="5244" y="2458" width="327" height="268" frameX="-2" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0284" x="5571" y="2458" width="327" height="270" frameX="-2" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0285" x="5898" y="2458" width="327" height="270" frameX="-2" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0286" x="6225" y="2458" width="327" height="267" frameX="-2" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0287" x="6552" y="2458" width="327" height="268" frameX="-2" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0288" x="6879" y="2458" width="327" height="269" frameX="-2" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0289" x="7206" y="2458" width="327" height="269" frameX="-2" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0290" x="7206" y="2458" width="327" height="269" frameX="-2" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0291" x="7533" y="2458" width="327" height="268" frameX="-2" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0292" x="7860" y="2458" width="332" height="269" frameX="0" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0293" x="0" y="2728" width="332" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0294" x="0" y="2728" width="332" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0295" x="332" y="2728" width="329" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0296" x="661" y="2728" width="329" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0297" x="990" y="2728" width="329" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0298" x="990" y="2728" width="329" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0299" x="1319" y="2728" width="329" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0300" x="1319" y="2728" width="329" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0301" x="1648" y="2728" width="329" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0302" x="1977" y="2728" width="329" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0303" x="2306" y="2728" width="329" height="270" frameX="0" frameY="-1" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0304" x="2635" y="2728" width="329" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0305" x="2964" y="2728" width="329" height="269" frameX="0" frameY="-2" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0306" x="3293" y="2728" width="329" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0307" x="3622" y="2728" width="329" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0308" x="3622" y="2728" width="329" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0309" x="3951" y="2728" width="329" height="268" frameX="0" frameY="-3" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0310" x="4280" y="2728" width="329" height="267" frameX="0" frameY="-4" frameWidth="332" frameHeight="271"/>
+	<SubTexture name="cartman talking0311" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0312" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0313" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0314" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0315" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0316" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0317" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0318" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0319" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0320" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0321" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0322" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0323" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0324" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0325" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0326" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0327" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0328" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0329" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0330" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0331" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0332" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0333" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0334" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0335" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman talking0336" x="7539" y="546" width="297" height="267" frameX="0" frameY="-4" frameWidth="328" frameHeight="275"/>
+	<SubTexture name="cartman up0000" x="4609" y="2728" width="311" height="281" frameX="-3" frameY="0" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0001" x="4609" y="2728" width="311" height="281" frameX="-3" frameY="0" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0002" x="4920" y="2728" width="313" height="278" frameX="-2" frameY="-3" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0003" x="4920" y="2728" width="313" height="278" frameX="-2" frameY="-3" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0004" x="5233" y="2728" width="314" height="276" frameX="-1" frameY="-5" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0005" x="5547" y="2728" width="314" height="271" frameX="-1" frameY="-9" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0006" x="5861" y="2728" width="314" height="273" frameX="-1" frameY="-7" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0007" x="5861" y="2728" width="314" height="273" frameX="-1" frameY="-7" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0008" x="6175" y="2728" width="315" height="275" frameX="0" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0009" x="6490" y="2728" width="311" height="275" frameX="-2" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0010" x="6490" y="2728" width="311" height="275" frameX="-2" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0011" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0012" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0013" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0014" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0015" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0016" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0017" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0018" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0019" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0020" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0021" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0022" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartman up0023" x="6801" y="2728" width="291" height="275" frameX="-11" frameY="-6" frameWidth="315" frameHeight="281"/>
+	<SubTexture name="cartmen idle0000" x="7092" y="2728" width="295" height="258" frameX="0" frameY="-9" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0001" x="7092" y="2728" width="295" height="258" frameX="0" frameY="-9" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0002" x="7387" y="2728" width="293" height="265" frameX="-1" frameY="-2" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0003" x="7387" y="2728" width="293" height="265" frameX="-1" frameY="-2" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0004" x="7680" y="2728" width="291" height="266" frameX="-2" frameY="-1" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0005" x="7680" y="2728" width="291" height="266" frameX="-2" frameY="-1" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0006" x="0" y="3009" width="291" height="267" frameX="-2" frameY="0" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0007" x="0" y="3009" width="291" height="267" frameX="-2" frameY="0" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0008" x="0" y="3009" width="291" height="267" frameX="-2" frameY="0" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0009" x="0" y="3009" width="291" height="267" frameX="-2" frameY="0" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0010" x="0" y="3009" width="291" height="267" frameX="-2" frameY="0" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0011" x="0" y="3009" width="291" height="267" frameX="-2" frameY="0" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0012" x="0" y="3009" width="291" height="267" frameX="-2" frameY="0" frameWidth="295" frameHeight="267"/>
+	<SubTexture name="cartmen idle0013" x="0" y="3009" width="291" height="267" frameX="-2" frameY="0" frameWidth="295" frameHeight="267"/>
+</TextureAtlas>

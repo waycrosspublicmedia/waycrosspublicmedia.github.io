@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "Hey! Who the hell interrupted my training session?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "tankbitch"
+		},
+		{
+			"expression": "smug",
+			"text": "heh",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "That's a tough break, huh captain ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "slouch",
+			"text": "*loud groan*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0,
+			"portrait": "tankbitch"
+		},
+		{
+			"expression": "talk",
+			"text": "What do you want this time, ginger soda?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tankbitch"
+		},
+		{
+			"expression": "smug",
+			"text": "Well, glad you asked",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "gun",
+			"text": "I still have some unfinished work to do, being your personal party pooper",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "gun",
+			"text": "So, I’m here to blam this stuff up!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "pico"
+		},
+		{
+			"expression": "angry",
+			"text": "Didn’t you shoot up most of my team anyway, numb nuts",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tankbitch"
+		},
+		{
+			"expression": "angry",
+			"text": "how can you still be back for more!?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "tankbitch"
+		},
+		{
+			"expression": "slouch",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0,
+			"portrait": "tankbitch"
+		},
+		{
+			"expression": "slouch",
+			"text": "fine, let's just get this over with",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tankbitch"
+		}
+	]
+}

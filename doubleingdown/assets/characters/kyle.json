@@ -1,0 +1,265 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				8
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "kyle"
+		},
+		{
+			"offsets": [
+				3,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kyle left"
+		},
+		{
+			"offsets": [
+				-9,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kyle down"
+		},
+		{
+			"offsets": [
+				-4,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kyle up"
+		},
+		{
+			"offsets": [
+				21,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kyle right"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kyle idle"
+		},
+		{
+			"offsets": [
+				-1,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Talking",
+			"indices": [],
+			"name": "kyle talking"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				11
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-3
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				16
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				8
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 23,
+			"name": "miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				2
+			],
+			"anim": "Animation",
+			"fps": 24,
+			"name": "kyle anim1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				141,
+				249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Death",
+			"indices": [],
+			"name": "kenny dies"
+		},
+		{
+			"offsets": [
+				-21,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Dust",
+			"indices": [],
+			"name": "dust"
+		},
+		{
+			"offsets": [
+				-25,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "confirm",
+			"indices": [],
+			"name": "confirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				1
+			],
+			"anim": "Punch",
+			"fps": 24,
+			"name": "kyle punch",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Animation2",
+			"loop": false,
+			"name": "kyle anim2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kyle",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kyle",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-70,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gray.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gray0000" x="1" y="1" width="386" height="591"/>
+	<SubTexture name="gray look left0000" x="388" y="1" width="488" height="578"/>
+	<SubTexture name="gray look left0001" x="877" y="1" width="488" height="577" frameX="0" frameY="-1" frameWidth="488" frameHeight="578"/>
+	<SubTexture name="gray look right0000" x="1366" y="1" width="488" height="578"/>
+	<SubTexture name="gray look right0001" x="1" y="593" width="488" height="577" frameX="0" frameY="-1" frameWidth="488" frameHeight="578"/>
+	<SubTexture name="gray scared0000" x="490" y="593" width="488" height="578"/>
+	<SubTexture name="gray scared0001" x="979" y="593" width="488" height="577" frameX="0" frameY="-1" frameWidth="488" frameHeight="578"/>
+</TextureAtlas>
