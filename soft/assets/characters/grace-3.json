@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "idle Cry OG"
+		},
+		{
+			"offsets": [
+				-40,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "idle Cry OG"
+		},
+		{
+			"offsets": [
+				-40,
+				-132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down cry"
+		},
+		{
+			"offsets": [
+				-5,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up cry"
+		},
+		{
+			"offsets": [
+				56,
+				-91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right cry"
+		},
+		{
+			"offsets": [
+				-63,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left cry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_ASSETS_SOFT_3",
+	"position": [
+		-40,
+		180
+	],
+	"healthicon": "grace",
+	"flip_x": true,
+	"healthbar_colors": [
+		234,
+		105,
+		125
+	],
+	"camera_position": [
+		130,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Starcrossed", "pico(2)", [66, 137, 72, 136, 183, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "tutorial",
+	"weekColor": [80, 229, 135],
+
+	"storyName": "Prelude",
+	"weekBefore": "tutorial",
+	"weekName": "Prelude",
+	"startUnlocked": true,
+	"difficulties": "Hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

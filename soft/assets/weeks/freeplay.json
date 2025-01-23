@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Rolling Girl", "bf(2)", [70, 70, 70, 180, 180, 180]],
+		["Lagtrain", "sven(2)", [178, 178, 178, 240, 240, 240]]
+	],
+
+	"weekCharacters": [
+		"lol",
+		"lmao",
+		"rofl"
+	],
+	"weekBackground": "haha",
+
+	"storyName": "xD",
+	"weekBefore": "stars-aligned",
+	"weekName": ":laughing:",
+	"startUnlocked": true,
+	"difficulties": "Hard",
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

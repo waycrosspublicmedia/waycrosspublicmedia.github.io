@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				43,
+				-62
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "down cry ending0",
+			"indices": [314]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-62
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down cry ending0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Grace_Ending",
+	"position": [
+		-10,
+		250
+	],
+	"healthicon": "grace",
+	"flip_x": true,
+	"healthbar_colors": [
+		234,
+		105,
+		125
+	],
+	"camera_position": [
+		130,
+		60
+	],
+	"sing_duration": 42069,
+	"scale": 1
+}

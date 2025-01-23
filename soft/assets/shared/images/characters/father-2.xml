@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Soft_Dad_1_2.png">
+  <!-- Created with Adobe Animate version 21.0.12.42687 -->
+  <!-- http://www.adobe.com/products/animate.html -->
+  <SubTexture name="DAD_IdleDance0000" x="25" y="25" width="452" height="717.5" pivotX="31" pivotY="98.15" frameX="-15.5" frameY="-1" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0001" x="502" y="25" width="482.5" height="703" frameX="0" frameY="-16" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0002" x="1009.5" y="25" width="482.5" height="703" frameX="0" frameY="-16" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0003" x="1517" y="25" width="475" height="709.5" frameX="-7" frameY="-9.5" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0004" x="2017" y="25" width="475" height="709.5" frameX="-7" frameY="-9.5" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0005" x="2517" y="25" width="465" height="712.5" frameX="-12.5" frameY="-6.5" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0006" x="3007" y="25" width="465" height="712.5" frameX="-12.5" frameY="-6.5" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0007" x="3497" y="25" width="455.5" height="719" frameX="-15.5" frameY="0" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0008" x="25" y="769" width="455.5" height="719" frameX="-15.5" frameY="0" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0009" x="505.5" y="769" width="452" height="717.5" frameX="-15.5" frameY="-1" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0010" x="982.5" y="769" width="452" height="717.5" frameX="-15.5" frameY="-1" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0011" x="982.5" y="769" width="452" height="717.5" frameX="-15.5" frameY="-1" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0012" x="505.5" y="769" width="452" height="717.5" frameX="-15.5" frameY="-1" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_IdleDance0013" x="505.5" y="769" width="452" height="717.5" frameX="-15.5" frameY="-1" frameWidth="482.5" frameHeight="719" />
+  <SubTexture name="DAD_singDOWN0000" x="1459.5" y="769" width="405" height="630" pivotX="31" pivotY="-74.45" frameX="0" frameY="-3" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0001" x="1459.5" y="769" width="405" height="630" frameX="0" frameY="-3" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0002" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0003" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0004" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0005" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0006" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0007" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0008" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0009" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0010" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0011" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0012" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singDOWN0013" x="1889.5" y="769" width="399" height="632.5" frameX="-4.5" frameY="0" frameWidth="405" frameHeight="633" />
+  <SubTexture name="DAD_singLEFT0000" x="2313.5" y="769" width="641.5" height="703.5" pivotX="218.55" pivotY="105.05" frameX="0" frameY="-8.5" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0001" x="2313.5" y="769" width="641.5" height="703.5" frameX="0" frameY="-8.5" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0002" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0003" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0004" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0005" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0006" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0007" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0008" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0009" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0010" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0011" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0012" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singLEFT0013" x="2980" y="769" width="641.5" height="712" frameX="-5.5" frameY="0" frameWidth="647" frameHeight="712" />
+  <SubTexture name="DAD_singRIGHT0000" x="25" y="1513" width="608" height="701.5" pivotX="0" pivotY="128.95" />
+  <SubTexture name="DAD_singRIGHT0001" x="25" y="1513" width="608" height="701.5" />
+  <SubTexture name="DAD_singRIGHT0002" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singRIGHT0003" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singRIGHT0004" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singRIGHT0005" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singRIGHT0006" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singRIGHT0007" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singRIGHT0008" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singRIGHT0009" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singRIGHT0010" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singRIGHT0011" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singRIGHT0012" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singRIGHT0013" x="658" y="1513" width="602.5" height="701.5" frameX="0" frameY="0" frameWidth="608" frameHeight="701.5" />
+  <SubTexture name="DAD_singUP0000" x="1285.5" y="1513" width="528.5" height="744" pivotX="210.25" pivotY="169.6" frameX="0" frameY="0" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0001" x="1285.5" y="1513" width="528.5" height="744" frameX="0" frameY="0" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0002" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0003" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0004" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0005" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0006" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0007" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0008" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0009" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0010" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0011" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0012" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+  <SubTexture name="DAD_singUP0013" x="1839" y="1513" width="522.5" height="733.5" frameX="-12" frameY="-10.5" frameWidth="534.5" frameHeight="744" />
+</TextureAtlas>

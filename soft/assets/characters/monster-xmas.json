@@ -1,0 +1,178 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Monst Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				40
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Monst Idle",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				200
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Monst Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				430,
+				200
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Monst Left",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				-101
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Monst Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				230,
+				-101
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Monst Down",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				354,
+				288
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Monst Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				354,
+				288
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Monst Up",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Monst Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				170,
+				20
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Monst Right",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monster-xmas",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		114,
+		145
+	],
+	"camera_position": [
+		-150,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

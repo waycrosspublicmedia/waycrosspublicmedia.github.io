@@ -1,0 +1,41 @@
+{
+	"storyName": "vs claire",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"quietly",
+			"claire",
+			[
+				80,
+				155,
+				255
+			]
+		],
+		[
+			"Forgiveness",
+			"claire",
+			[
+				120,
+				233,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week1"
+}

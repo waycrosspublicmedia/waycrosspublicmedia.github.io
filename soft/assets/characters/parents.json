@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "parents idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dad up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dad down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dad left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dad right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				3
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "mom right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-8
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "mom down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-16
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "mom left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "mom up0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/parents",
+	"position": [
+		-500,
+		0
+	],
+	"healthicon": "parents",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		116,
+		148
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

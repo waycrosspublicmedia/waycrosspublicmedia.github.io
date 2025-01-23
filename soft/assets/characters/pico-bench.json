@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Pico Idle0"
+		},
+		{
+			"offsets": [
+				-14,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Pico Left0"
+		},
+		{
+			"offsets": [
+				-15,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Pico Down0"
+		},
+		{
+			"offsets": [
+				-15,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Pico Up0"
+		},
+		{
+			"offsets": [
+				-12,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Pico Right0"
+		},
+		{
+			"offsets": [
+				-15,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bozo",
+			"loop": false,
+			"name": "Pico Miss Reaction0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico_SA",
+	"position": [
+		700,
+		0
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		66,
+		137,
+		72
+	],
+	"camera_position": [
+		-100,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

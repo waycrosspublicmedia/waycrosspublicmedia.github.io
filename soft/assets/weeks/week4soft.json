@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Intuition", "mother(2)", [179, 175, 255, 240, 153, 170]],
+		["Catwalk", "mother(2)", [179, 175, 255, 240, 153, 170]],
+		["Spotlight", "mother(2)", [179, 175, 255, 240, 153, 170]]
+	],
+	
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "limo",
+	"weekColor": [124, 184, 248],
+
+	"storyName": "Mother Knows Best",
+	"weekBefore": "week3",
+	"weekName": "Week 4",
+	"startUnlocked": true,
+	"difficulties": "Hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

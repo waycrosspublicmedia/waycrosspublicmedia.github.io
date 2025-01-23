@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DAD_IdleDance0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DAD_singLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-77
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DAD_singDOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DAD_singUP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DAD_singRIGHT0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/father-2",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "father",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		138,
+		188
+	],
+	"camera_position": [
+		40,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.95
+}

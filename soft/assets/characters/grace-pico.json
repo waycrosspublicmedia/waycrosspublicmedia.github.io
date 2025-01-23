@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GFCO0"
+		},
+		{
+			"offsets": [
+				8,
+				-87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "GFCO Distressed0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GFCO",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "grace",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		116,
+		136
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

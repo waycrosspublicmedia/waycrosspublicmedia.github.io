@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Playdate", "grace(2)", [204, 112, 157]],
+		["Stay", "grace(2)", [204, 112, 157]],
+		["it-complicated", "grace(2)", [204, 112, 157]]
+	],
+
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "station",
+	"weekColor": [207, 72, 99],
+
+	"storyName": "A Childhood Friend",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+	"difficulties": "Hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

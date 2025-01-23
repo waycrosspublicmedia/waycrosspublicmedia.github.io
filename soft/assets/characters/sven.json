@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle pose"
+		},
+		{
+			"offsets": [
+				-75,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left pose"
+		},
+		{
+			"offsets": [
+				-50,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right pose"
+		},
+		{
+			"offsets": [
+				-70,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down pose"
+		},
+		{
+			"offsets": [
+				-110,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SVEN_ASSESTS_SOFT",
+	"position": [
+		-140,
+		10
+	],
+	"healthicon": "sven",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		141,
+		184
+	],
+	"camera_position": [
+		130,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

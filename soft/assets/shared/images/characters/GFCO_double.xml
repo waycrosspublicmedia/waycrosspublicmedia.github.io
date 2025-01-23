@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFCO_double.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFCO0000" x="2880" y="1364" width="562" height="666" frameX="0" frameY="-2" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0001" x="2880" y="1364" width="562" height="666" frameX="0" frameY="-2" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0002" x="2880" y="2045" width="560" height="666" frameX="0" frameY="-2" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0003" x="3455" y="2047" width="560" height="664" frameX="0" frameY="-4" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0004" x="1732" y="2047" width="561" height="664" frameX="0" frameY="-4" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0005" x="0" y="2048" width="560" height="664" frameX="-1" frameY="-4" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0006" x="3457" y="1365" width="561" height="667" frameX="-1" frameY="-1" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0007" x="0" y="1366" width="561" height="667" frameX="-1" frameY="-1" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0008" x="3466" y="682" width="561" height="668" frameX="-1" frameY="0" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0009" x="0" y="683" width="561" height="668" frameX="-1" frameY="0" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0010" x="576" y="683" width="561" height="668" frameX="-1" frameY="0" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0011" x="1152" y="1361" width="561" height="668" frameX="-1" frameY="0" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0012" x="1728" y="1361" width="561" height="668" frameX="-1" frameY="0" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0013" x="2304" y="1364" width="561" height="668" frameX="-1" frameY="0" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0014" x="0" y="0" width="564" height="668" frameX="0" frameY="0" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0015" x="579" y="0" width="564" height="668" frameX="0" frameY="0" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0016" x="1158" y="0" width="565" height="664" frameX="0" frameY="-4" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0017" x="1738" y="0" width="565" height="664" frameX="0" frameY="-4" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0018" x="576" y="2044" width="563" height="664" frameX="0" frameY="-4" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0019" x="1154" y="2044" width="563" height="664" frameX="0" frameY="-4" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0020" x="2318" y="0" width="562" height="667" frameX="0" frameY="-1" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0021" x="2895" y="0" width="562" height="667" frameX="0" frameY="-1" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0022" x="3472" y="0" width="562" height="667" frameX="0" frameY="-1" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0023" x="1158" y="679" width="562" height="667" frameX="0" frameY="-1" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0024" x="1735" y="679" width="562" height="667" frameX="0" frameY="-1" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0025" x="1735" y="679" width="562" height="667" frameX="0" frameY="-1" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0026" x="2312" y="682" width="562" height="667" frameX="0" frameY="-1" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0027" x="2889" y="682" width="562" height="667" frameX="0" frameY="-1" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0028" x="2889" y="682" width="562" height="667" frameX="0" frameY="-1" frameWidth="565" frameHeight="668"/>
+	<SubTexture name="GFCO0029" x="2889" y="682" width="562" height="667" frameX="0" frameY="-1" frameWidth="565" frameHeight="668"/>
+</TextureAtlas>

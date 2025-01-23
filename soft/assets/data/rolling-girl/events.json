@@ -1,0 +1,126 @@
+{
+	"song": {
+		"events": [
+			[
+				4923.07692307692,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,0",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,1",
+						"true"
+					]
+				]
+			],
+			[
+				8615.38461538462,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,1",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,2",
+						"true"
+					]
+				]
+			],
+			[
+				9846.15384615385,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,2",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,3",
+						"true"
+					]
+				]
+			],
+			[
+				19692.3076923077,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,3",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,4",
+						"true"
+					]
+				]
+			],
+			[
+				29538.4615384615,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,4",
+						"false"
+					],
+					[
+						"Lagtrain Stage Visibility",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				78769.2307692309,
+				[
+					[
+						"Lagtrain Stage Visibility",
+						"false",
+						""
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,4",
+						"true"
+					]
+				]
+			],
+			[
+				88615.3846153848,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,4",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,5",
+						"true"
+					]
+				]
+			],
+			[
+				98461.5384615386,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,5",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,6",
+						"true"
+					]
+				]
+			]
+		]
+	}
+}

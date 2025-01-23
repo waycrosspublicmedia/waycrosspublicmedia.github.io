@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="christmas_parents_2.0_1.png">
+	<!-- Created with Adobe Animate version 21.0.12.42687 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dad down0000" x="50" y="50" width="919" height="848" pivotX="272.05" pivotY="194.45"/>
+	<SubTexture name="dad down0001" x="50" y="50" width="919" height="848"/>
+	<SubTexture name="dad down0002" x="1019" y="50" width="919" height="848"/>
+	<SubTexture name="dad down0003" x="1019" y="50" width="919" height="848"/>
+	<SubTexture name="dad down0004" x="1988" y="50" width="918" height="848" frameX="-1" frameY="0" frameWidth="919" frameHeight="848"/>
+	<SubTexture name="dad down0005" x="1988" y="50" width="918" height="848" frameX="-1" frameY="0" frameWidth="919" frameHeight="848"/>
+	<SubTexture name="dad down0006" x="2956" y="50" width="918" height="848" frameX="-1" frameY="0" frameWidth="919" frameHeight="848"/>
+	<SubTexture name="dad down0007" x="2956" y="50" width="918" height="848" frameX="-1" frameY="0" frameWidth="919" frameHeight="848"/>
+	<SubTexture name="dad down0008" x="3924" y="50" width="918" height="848" frameX="-1" frameY="0" frameWidth="919" frameHeight="848"/>
+	<SubTexture name="dad left0000" x="4892" y="50" width="919" height="849" pivotX="366.15" pivotY="-34.65"/>
+	<SubTexture name="dad left0001" x="4892" y="50" width="919" height="849"/>
+	<SubTexture name="dad left0002" x="5861" y="50" width="918" height="849" frameX="-1" frameY="0" frameWidth="919" frameHeight="849"/>
+	<SubTexture name="dad left0003" x="5861" y="50" width="918" height="849" frameX="-1" frameY="0" frameWidth="919" frameHeight="849"/>
+	<SubTexture name="dad left0004" x="6829" y="50" width="917" height="849" frameX="-2" frameY="0" frameWidth="919" frameHeight="849"/>
+	<SubTexture name="dad left0005" x="6829" y="50" width="917" height="849" frameX="-2" frameY="0" frameWidth="919" frameHeight="849"/>
+	<SubTexture name="dad left0006" x="50" y="949" width="917" height="849" frameX="-2" frameY="0" frameWidth="919" frameHeight="849"/>
+	<SubTexture name="dad left0007" x="50" y="949" width="917" height="849" frameX="-2" frameY="0" frameWidth="919" frameHeight="849"/>
+	<SubTexture name="dad left0008" x="1017" y="949" width="917" height="849" frameX="-2" frameY="0" frameWidth="919" frameHeight="849"/>
+	<SubTexture name="dad right0000" x="1984" y="949" width="922" height="834" pivotX="366.15" pivotY="-49.55"/>
+	<SubTexture name="dad right0001" x="1984" y="949" width="922" height="834"/>
+	<SubTexture name="dad right0002" x="2956" y="949" width="921" height="834" frameX="-1" frameY="0" frameWidth="922" frameHeight="834"/>
+	<SubTexture name="dad right0003" x="2956" y="949" width="921" height="834" frameX="-1" frameY="0" frameWidth="922" frameHeight="834"/>
+	<SubTexture name="dad right0004" x="3927" y="949" width="920" height="834" frameX="-2" frameY="0" frameWidth="922" frameHeight="834"/>
+	<SubTexture name="dad right0005" x="3927" y="949" width="920" height="834" frameX="-2" frameY="0" frameWidth="922" frameHeight="834"/>
+	<SubTexture name="dad right0006" x="4897" y="949" width="920" height="834" frameX="-2" frameY="0" frameWidth="922" frameHeight="834"/>
+	<SubTexture name="dad right0007" x="4897" y="949" width="920" height="834" frameX="-2" frameY="0" frameWidth="922" frameHeight="834"/>
+	<SubTexture name="dad right0008" x="5867" y="949" width="920" height="834" frameX="-2" frameY="0" frameWidth="922" frameHeight="834"/>
+	<SubTexture name="dad up0000" x="6837" y="949" width="919" height="832" pivotX="140.95" pivotY="224.65" frameX="-3" frameY="0" frameWidth="922" frameHeight="832"/>
+	<SubTexture name="dad up0001" x="6837" y="949" width="919" height="832" frameX="-3" frameY="0" frameWidth="922" frameHeight="832"/>
+	<SubTexture name="dad up0002" x="50" y="1848" width="922" height="832"/>
+	<SubTexture name="dad up0003" x="50" y="1848" width="922" height="832"/>
+	<SubTexture name="dad up0004" x="1022" y="1848" width="922" height="832"/>
+	<SubTexture name="dad up0005" x="1022" y="1848" width="922" height="832"/>
+	<SubTexture name="dad up0006" x="1994" y="1848" width="922" height="832"/>
+	<SubTexture name="dad up0007" x="1994" y="1848" width="922" height="832"/>
+	<SubTexture name="dad up0008" x="2966" y="1848" width="922" height="832"/>
+	<SubTexture name="mom down0000" x="3938" y="1848" width="910" height="836" pivotX="89.05" pivotY="182.8" frameX="0" frameY="-10" frameWidth="910" frameHeight="846"/>
+	<SubTexture name="mom down0001" x="3938" y="1848" width="910" height="836" frameX="0" frameY="-10" frameWidth="910" frameHeight="846"/>
+	<SubTexture name="mom down0002" x="4898" y="1848" width="910" height="838" frameX="0" frameY="-8" frameWidth="910" frameHeight="846"/>
+	<SubTexture name="mom down0003" x="4898" y="1848" width="910" height="838" frameX="0" frameY="-8" frameWidth="910" frameHeight="846"/>
+	<SubTexture name="mom down0004" x="5858" y="1848" width="910" height="846"/>
+	<SubTexture name="mom down0005" x="5858" y="1848" width="910" height="846"/>
+	<SubTexture name="mom down0006" x="6818" y="1848" width="910" height="846"/>
+	<SubTexture name="mom down0007" x="6818" y="1848" width="910" height="846"/>
+	<SubTexture name="mom down0008" x="5858" y="1848" width="910" height="846"/>
+	<SubTexture name="mom left0000" x="50" y="2744" width="907" height="838" pivotX="273.05" pivotY="96.9" frameX="0" frameY="0" frameWidth="910" frameHeight="838"/>
+	<SubTexture name="mom left0001" x="50" y="2744" width="907" height="838" frameX="0" frameY="0" frameWidth="910" frameHeight="838"/>
+	<SubTexture name="mom left0002" x="1007" y="2744" width="910" height="837" frameX="0" frameY="-1" frameWidth="910" frameHeight="838"/>
+	<SubTexture name="mom left0003" x="1007" y="2744" width="910" height="837" frameX="0" frameY="-1" frameWidth="910" frameHeight="838"/>
+	<SubTexture name="mom left0004" x="1967" y="2744" width="910" height="837" frameX="0" frameY="-1" frameWidth="910" frameHeight="838"/>
+	<SubTexture name="mom left0005" x="1967" y="2744" width="910" height="837" frameX="0" frameY="-1" frameWidth="910" frameHeight="838"/>
+	<SubTexture name="mom left0006" x="2927" y="2744" width="910" height="837" frameX="0" frameY="-1" frameWidth="910" frameHeight="838"/>
+	<SubTexture name="mom left0007" x="2927" y="2744" width="910" height="837" frameX="0" frameY="-1" frameWidth="910" frameHeight="838"/>
+	<SubTexture name="mom left0008" x="1967" y="2744" width="910" height="837" frameX="0" frameY="-1" frameWidth="910" frameHeight="838"/>
+	<SubTexture name="mom right0000" x="3887" y="2744" width="927" height="842" pivotX="366.15" pivotY="-26.9" frameX="0" frameY="-15" frameWidth="927" frameHeight="857"/>
+	<SubTexture name="mom right0001" x="3887" y="2744" width="927" height="842" frameX="0" frameY="-15" frameWidth="927" frameHeight="857"/>
+	<SubTexture name="mom right0002" x="4864" y="2744" width="921" height="839" frameX="0" frameY="-18" frameWidth="927" frameHeight="857"/>
+	<SubTexture name="mom right0003" x="4864" y="2744" width="921" height="839" frameX="0" frameY="-18" frameWidth="927" frameHeight="857"/>
+	<SubTexture name="mom right0004" x="5835" y="2744" width="919" height="857" frameX="0" frameY="0" frameWidth="927" frameHeight="857"/>
+	<SubTexture name="mom right0005" x="5835" y="2744" width="919" height="857" frameX="0" frameY="0" frameWidth="927" frameHeight="857"/>
+	<SubTexture name="mom right0006" x="6804" y="2744" width="919" height="857" frameX="0" frameY="0" frameWidth="927" frameHeight="857"/>
+	<SubTexture name="mom right0007" x="6804" y="2744" width="919" height="857" frameX="0" frameY="0" frameWidth="927" frameHeight="857"/>
+	<SubTexture name="mom right0008" x="5835" y="2744" width="919" height="857" frameX="0" frameY="0" frameWidth="927" frameHeight="857"/>
+	<SubTexture name="mom up0000" x="50" y="3651" width="916" height="855" pivotX="270.95" pivotY="144.05"/>
+	<SubTexture name="mom up0001" x="50" y="3651" width="916" height="855"/>
+	<SubTexture name="mom up0002" x="1016" y="3651" width="916" height="838" frameX="0" frameY="-17" frameWidth="916" frameHeight="855"/>
+	<SubTexture name="mom up0003" x="1016" y="3651" width="916" height="838" frameX="0" frameY="-17" frameWidth="916" frameHeight="855"/>
+	<SubTexture name="mom up0004" x="1982" y="3651" width="916" height="845" frameX="0" frameY="-10" frameWidth="916" frameHeight="855"/>
+	<SubTexture name="mom up0005" x="1982" y="3651" width="916" height="845" frameX="0" frameY="-10" frameWidth="916" frameHeight="855"/>
+	<SubTexture name="mom up0006" x="2948" y="3651" width="916" height="845" frameX="0" frameY="-10" frameWidth="916" frameHeight="855"/>
+	<SubTexture name="mom up0007" x="2948" y="3651" width="916" height="845" frameX="0" frameY="-10" frameWidth="916" frameHeight="855"/>
+	<SubTexture name="mom up0008" x="1982" y="3651" width="916" height="845" frameX="0" frameY="-10" frameWidth="916" frameHeight="855"/>
+	<SubTexture name="parents idle0000" x="3914" y="3651" width="918" height="854" pivotX="-30.65" pivotY="-79.2" frameX="-1" frameY="0" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0001" x="3914" y="3651" width="918" height="854" frameX="-1" frameY="0" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0002" x="4882" y="3651" width="919" height="840" frameX="0" frameY="-14" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0003" x="4882" y="3651" width="919" height="840" frameX="0" frameY="-14" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0004" x="5851" y="3651" width="918" height="830" frameX="-1" frameY="-24" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0005" x="5851" y="3651" width="918" height="830" frameX="-1" frameY="-24" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0006" x="6819" y="3651" width="917" height="831" frameX="-2" frameY="-23" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0007" x="6819" y="3651" width="917" height="831" frameX="-2" frameY="-23" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0008" x="50" y="4556" width="916" height="831" frameX="-3" frameY="-23" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0009" x="50" y="4556" width="916" height="831" frameX="-3" frameY="-23" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0010" x="1016" y="4556" width="916" height="851" frameX="-3" frameY="-3" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0011" x="1016" y="4556" width="916" height="851" frameX="-3" frameY="-3" frameWidth="919" frameHeight="854"/>
+	<SubTexture name="parents idle0012" x="1982" y="4556" width="916" height="851" frameX="-3" frameY="-3" frameWidth="919" frameHeight="854"/>
+</TextureAtlas>

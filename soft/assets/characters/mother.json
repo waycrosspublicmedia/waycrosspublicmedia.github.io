@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mom 2 idle0"
+		},
+		{
+			"offsets": [
+				160,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mom 2 left0"
+		},
+		{
+			"offsets": [
+				45,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mom 2 down0"
+		},
+		{
+			"offsets": [
+				17,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mom 2 up0"
+		},
+		{
+			"offsets": [
+				105,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mom 2 right0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "mom 2 idle0",
+			"indices": [
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				160,
+				-30
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "mom 2 left0",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				45,
+				-160
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "mom 2 down0",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				18,
+				-7
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "mom 2 up0",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				105,
+				-42
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "mom 2 right0",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hot_mom_2.0_phase_1_NEW",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mother",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		192,
+		164
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GF_assets.png"><SubTexture name="GF Dancing Beat0000" x="0" y="1933" width="698" height="634" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648" />
+<SubTexture name="GF Dancing Beat0001" x="0" y="0" width="2500" height="1400" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648" />
+</TextureAtlas>

@@ -1,0 +1,776 @@
+{
+	"song": {
+		"events": [
+			[
+				6400,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,0",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,0",
+						"true"
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,0",
+						"false"
+					],
+					[
+						"Lagtrain Stage Visibility",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Lagtrain Stage Visibility",
+						"false",
+						""
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,1",
+						"true"
+					]
+				]
+			],
+			[
+				64800,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,1",
+						"true"
+					]
+				]
+			],
+			[
+				65600,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,1",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,5",
+						"true"
+					]
+				]
+			],
+			[
+				66400,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,5",
+						"true"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,5",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,3",
+						"true"
+					]
+				]
+			],
+			[
+				68000,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,3",
+						"true"
+					]
+				]
+			],
+			[
+				68800,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,3",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,4",
+						"true"
+					]
+				]
+			],
+			[
+				69600,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,4",
+						"true"
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,4",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,4",
+						"true"
+					]
+				]
+			],
+			[
+				70800,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,5",
+						"true"
+					]
+				]
+			],
+			[
+				71200,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,6",
+						"true"
+					]
+				]
+			],
+			[
+				71600,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,7",
+						"true"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,4",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,5",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,6",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,7",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,7",
+						"true"
+					]
+				]
+			],
+			[
+				72400,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,8",
+						"true"
+					]
+				]
+			],
+			[
+				72800,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,9",
+						"true"
+					]
+				]
+			],
+			[
+				73200,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,10",
+						"true"
+					]
+				]
+			],
+			[
+				73600,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,7",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,8",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,9",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,10",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,3",
+						"true"
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,3",
+						"true"
+					]
+				]
+			],
+			[
+				75200,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,3",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,2",
+						"true"
+					]
+				]
+			],
+			[
+				75600,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,2",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,1",
+						"true"
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,1",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,3",
+						"true"
+					]
+				]
+			],
+			[
+				76400,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,3",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,16",
+						"true"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,16",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,1",
+						"true"
+					]
+				]
+			],
+			[
+				77600,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,1",
+						"true"
+					]
+				]
+			],
+			[
+				78400,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,1",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,5",
+						"true"
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,5",
+						"true"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,5",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,4",
+						"true"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,5",
+						"true"
+					]
+				]
+			],
+			[
+				80800,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,6",
+						"true"
+					]
+				]
+			],
+			[
+				81200,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,7",
+						"true"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,4",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,5",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,6",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,7",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,7",
+						"true"
+					]
+				]
+			],
+			[
+				82000,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,8",
+						"true"
+					]
+				]
+			],
+			[
+				82400,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,9",
+						"true"
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,10",
+						"true"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,7",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,8",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,9",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,10",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,12",
+						"true"
+					]
+				]
+			],
+			[
+				83600,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,12",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,13",
+						"true"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,12",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,13",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,14",
+						"true"
+					]
+				]
+			],
+			[
+				84400,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,12",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,13",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,14",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,15",
+						"true"
+					]
+				]
+			],
+			[
+				84800,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,12",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,13",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,14",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,15",
+						"true"
+					]
+				]
+			],
+			[
+				85200,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,12",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,13",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,14",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,15",
+						"true"
+					]
+				]
+			],
+			[
+				85600,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,13",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,14",
+						"true"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,15",
+						"true"
+					]
+				]
+			],
+			[
+				86000,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,14",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,15",
+						"true"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,15",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,7",
+						"true"
+					]
+				]
+			],
+			[
+				86800,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,5",
+						"true"
+					]
+				]
+			],
+			[
+				87200,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,11",
+						"true"
+					]
+				]
+			],
+			[
+				87600,
+				[
+					[
+						"Lagtrain Sprite",
+						"sven,7",
+						"true"
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,7",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,5",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,11",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"sven,7",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,4",
+						"true"
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,4",
+						"false"
+					],
+					[
+						"Lagtrain Sprite",
+						"grace,6",
+						"true"
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Lagtrain Sprite",
+						"grace,6",
+						"false"
+					],
+					[
+						"Lagtrain Stage Visibility",
+						"true",
+						""
+					]
+				]
+			]
+		]
+	}
+}

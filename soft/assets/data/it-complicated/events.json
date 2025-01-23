@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				124540.54054054,
+				[
+					[
+						"Change Character",
+						"1",
+						"grace-alt"
+					]
+				]
+			],
+			[
+				155675.675675676,
+				[
+					[
+						"Change Character",
+						"1",
+						"grace-ending"
+					]
+				]
+			]
+		]
+	}
+}

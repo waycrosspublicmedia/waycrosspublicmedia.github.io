@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFCO.png">
+	<!-- Created with Adobe Animate version 21.0.12.42687 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFCO0000" x="50" y="50" width="599" height="663" pivotX="-102.75" pivotY="-18.1" frameX="0" frameY="-32" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0001" x="50" y="50" width="599" height="663" frameX="0" frameY="-32" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0002" x="699" y="50" width="597" height="669" frameX="-1" frameY="-26" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0003" x="699" y="50" width="597" height="669" frameX="-1" frameY="-26" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0004" x="1346" y="50" width="588" height="687" frameX="-1" frameY="-8" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0005" x="1346" y="50" width="588" height="687" frameX="-1" frameY="-8" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0006" x="1984" y="50" width="596" height="694" frameX="-2" frameY="-1" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0007" x="1984" y="50" width="596" height="694" frameX="-2" frameY="-1" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0008" x="2630" y="50" width="594" height="695" frameX="-3" frameY="0" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0009" x="2630" y="50" width="594" height="695" frameX="-3" frameY="0" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0010" x="2630" y="50" width="594" height="695" frameX="-3" frameY="0" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0011" x="2630" y="50" width="594" height="695" frameX="-3" frameY="0" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0012" x="2630" y="50" width="594" height="695" frameX="-3" frameY="0" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0013" x="2630" y="50" width="594" height="695" frameX="-3" frameY="0" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO0014" x="2630" y="50" width="594" height="695" frameX="-3" frameY="0" frameWidth="599" frameHeight="695"/>
+	<SubTexture name="GFCO Distressed0000" x="3274" y="50" width="710" height="582" pivotX="154.8" pivotY="-139.3" frameX="0" frameY="-31" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0001" x="3274" y="50" width="710" height="582" frameX="0" frameY="-31" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0002" x="50" y="795" width="709" height="587" frameX="0" frameY="-26" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0003" x="50" y="795" width="709" height="587" frameX="0" frameY="-26" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0004" x="809" y="795" width="698" height="596" frameX="-1" frameY="-17" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0005" x="809" y="795" width="698" height="596" frameX="-1" frameY="-17" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0006" x="1557" y="795" width="696" height="605" frameX="-1" frameY="-8" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0007" x="1557" y="795" width="696" height="605" frameX="-1" frameY="-8" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0008" x="2303" y="795" width="701" height="612" frameX="-2" frameY="0" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0009" x="2303" y="795" width="701" height="612" frameX="-2" frameY="0" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0010" x="3054" y="795" width="703" height="612" frameX="-2" frameY="0" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0011" x="3054" y="795" width="703" height="612" frameX="-2" frameY="0" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0012" x="3054" y="795" width="703" height="612" frameX="-2" frameY="0" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0013" x="3054" y="795" width="703" height="612" frameX="-2" frameY="0" frameWidth="710" frameHeight="613"/>
+	<SubTexture name="GFCO Distressed0014" x="3054" y="795" width="703" height="612" frameX="-2" frameY="0" frameWidth="710" frameHeight="613"/>
+</TextureAtlas>

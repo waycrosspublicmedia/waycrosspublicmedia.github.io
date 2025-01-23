@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				26,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dad left"
+		},
+		{
+			"offsets": [
+				32,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dad down0"
+		},
+		{
+			"offsets": [
+				-3,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dad up0"
+		},
+		{
+			"offsets": [
+				-13,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dad right0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "dad idle0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": false,
+			"name": "dad idle0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dad_christmas_angry",
+	"position": [
+		-420,
+		60
+	],
+	"healthicon": "parents",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		138,
+		188
+	],
+	"camera_position": [
+		110,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="claire.png">
+<SubTexture name="claire idle0000" x="1421" y="4182" width="1811" height="2066" frameX="-5" frameY="-91" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire idle0001" x="4784" y="0" width="1757" height="2082" frameX="-7" frameY="-72" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire idle0002" x="1595" y="2092" width="1663" height="2086" frameX="-83" frameY="-68" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire idle0003" x="0" y="2092" width="1595" height="2090" frameX="-143" frameY="-63" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire idle0004" x="0" y="0" width="1596" height="2092" frameX="-148" frameY="-61" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire idle0005" x="1596" y="0" width="1615" height="2091" frameX="-133" frameY="-61" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire idle0006" x="3211" y="0" width="1573" height="2091" frameX="-178" frameY="-61" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singUP0000" x="10181" y="0" width="1742" height="1941" frameX="-42" frameY="-264" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singUP0001" x="10181" y="1941" width="1668" height="1879" frameX="-86" frameY="-274" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singUP0002" x="10181" y="3820" width="1640" height="1873" frameX="-107" frameY="-279" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singUP0003" x="10181" y="5693" width="1560" height="1871" frameX="-185" frameY="-280" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singUP0004" x="8490" y="4044" width="1562" height="1870" frameX="-182" frameY="-281" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singRIGHT0000" x="4764" y="4182" width="1732" height="2057" frameX="-59" frameY="-90" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singRIGHT0001" x="3232" y="4182" width="1532" height="2065" frameX="-86" frameY="-84" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singRIGHT0002" x="4784" y="2082" width="1525" height="2067" frameX="-107" frameY="-83" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singRIGHT0003" x="3258" y="2092" width="1457" height="2067" frameX="-191" frameY="-83" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singRIGHT0004" x="0" y="4182" width="1421" height="2067" frameX="-247" frameY="-83" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singDOWN0000" x="8490" y="0" width="1691" height="2022" frameX="-110" frameY="-133" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singDOWN0001" x="1416" y="6249" width="1572" height="2031" frameX="-220" frameY="-123" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singDOWN0002" x="0" y="6249" width="1416" height="2032" frameX="-244" frameY="-121" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singDOWN0003" x="6541" y="4077" width="1415" height="2033" frameX="-243" frameY="-120" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singDOWN0004" x="6541" y="2043" width="1415" height="2034" frameX="-242" frameY="-119" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singLEFT0000" x="6541" y="0" width="1949" height="2043" frameX="0" frameY="-99" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singLEFT0001" x="2988" y="6249" width="1831" height="2030" frameX="-37" frameY="-112" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singLEFT0002" x="4819" y="6249" width="1782" height="2025" frameX="-55" frameY="-117" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singLEFT0003" x="6601" y="6249" width="1710" height="2023" frameX="-59" frameY="-119" frameWidth="1954" frameHeight="2244" />
+<SubTexture name="claire singLEFT0004" x="8490" y="2022" width="1637" height="2022" frameX="-61" frameY="-120" frameWidth="1954" frameHeight="2244" />
+</TextureAtlas>
