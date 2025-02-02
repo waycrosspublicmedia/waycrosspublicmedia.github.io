@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pngPig.png"><SubTexture name="pngPig idle0000" x="0" y="0" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig idle0001" x="1533" y="0" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig idle0002" x="3066" y="0" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig idle0003" x="4599" y="0" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig idle0004" x="6132" y="0" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig idle0005" x="0" y="1151" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig left0000" x="1533" y="1151" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig left0001" x="3066" y="1151" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig left0002" x="4599" y="1151" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig left0003" x="6132" y="1151" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig left0004" x="0" y="2302" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig left0005" x="1533" y="2302" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig right0000" x="3066" y="2302" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig right0001" x="4599" y="2302" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig right0002" x="6132" y="2302" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig right0003" x="0" y="3453" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig right0004" x="1533" y="3453" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig right0005" x="3066" y="3453" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig down0000" x="4599" y="3453" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig down0001" x="6132" y="3453" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig down0002" x="0" y="4604" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig down0003" x="1533" y="4604" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig down0004" x="3066" y="4604" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig down0005" x="4599" y="4604" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig up0000" x="6132" y="4604" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig up0001" x="0" y="5755" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig up0002" x="1533" y="5755" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig up0003" x="3066" y="5755" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+<SubTexture name="pngPig up0004" x="4599" y="5755" width="1533" height="1151" frameX="0" frameY="0" frameWidth="1533" frameHeight="1151" />
+</TextureAtlas>

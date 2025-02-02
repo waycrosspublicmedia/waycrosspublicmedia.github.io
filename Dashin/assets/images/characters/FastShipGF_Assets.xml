@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FastShipGF_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FastShipGFLoop instancia 10000" x="0" y="0" width="938" height="634" frameX="0" frameY="-18" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10001" x="938" y="0" width="883" height="645" frameX="-41" frameY="-2" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10002" x="0" y="645" width="938" height="644" frameX="0" frameY="-8" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10003" x="938" y="645" width="883" height="647" frameX="-41" frameY="0" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10004" x="0" y="1292" width="939" height="650" frameX="0" frameY="-2" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10005" x="939" y="1292" width="883" height="645" frameX="-41" frameY="-2" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10006" x="0" y="0" width="938" height="634" frameX="0" frameY="-18" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10007" x="938" y="0" width="883" height="645" frameX="-41" frameY="-2" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10008" x="0" y="645" width="938" height="644" frameX="0" frameY="-8" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10009" x="938" y="645" width="883" height="647" frameX="-41" frameY="0" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10010" x="0" y="1292" width="939" height="650" frameX="0" frameY="-2" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10011" x="939" y="1292" width="883" height="645" frameX="-41" frameY="-2" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10012" x="0" y="0" width="938" height="634" frameX="0" frameY="-18" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10013" x="938" y="0" width="883" height="645" frameX="-41" frameY="-2" frameWidth="939" frameHeight="652"/>
+	<SubTexture name="FastShipGFLoop instancia 10014" x="0" y="645" width="938" height="644" frameX="0" frameY="-8" frameWidth="939" frameHeight="652"/>
+</TextureAtlas>

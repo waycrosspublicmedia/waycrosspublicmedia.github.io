@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-500,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "bfMinecraftDies.png respawnConfirm"
+		},
+		{
+			"offsets": [
+				-500,
+				-129
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "bfMinecraftDies.png respawnButton"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bfMinecraftDies.png Dies",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "death/bfMinecraft",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-m",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 5
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BFCubeIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BFCubeLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BFCubeDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				97
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BFCubeUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BFCubeRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSBFCubeLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-39
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSBFCubeDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-23
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSBFCubeUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				12
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSBFCubeRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFCube_Assets",
+	"position": [
+		-60,
+		460
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		290,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pibby.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pibby instance 10000" x="0" y="0" width="253" height="375" frameX="-1" frameY="0" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10001" x="303" y="0" width="251" height="350" frameX="0" frameY="-26" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10002" x="604" y="0" width="248" height="355" frameX="0" frameY="-21" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10003" x="902" y="0" width="249" height="358" frameX="0" frameY="-18" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10004" x="1201" y="0" width="249" height="360" frameX="0" frameY="-16" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10005" x="1500" y="0" width="249" height="361" frameX="0" frameY="-15" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10006" x="1799" y="0" width="249" height="362" frameX="0" frameY="-14" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10007" x="0" y="425" width="250" height="362" frameX="0" frameY="-14" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10008" x="300" y="425" width="250" height="362" frameX="0" frameY="-14" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10009" x="600" y="425" width="250" height="361" frameX="0" frameY="-15" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10010" x="900" y="425" width="250" height="361" frameX="0" frameY="-15" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10011" x="1200" y="425" width="250" height="360" frameX="0" frameY="-16" frameWidth="254" frameHeight="376"/>
+	<SubTexture name="Pibby instance 10012" x="1200" y="425" width="250" height="360" frameX="0" frameY="-16" frameWidth="254" frameHeight="376"/>
+</TextureAtlas>

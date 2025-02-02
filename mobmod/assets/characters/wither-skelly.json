@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "wither skelly idle"
+		},
+		{
+			"offsets": [
+				3,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "wither skelly left"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "wither skelly up"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "wither skelly down"
+		},
+		{
+			"offsets": [
+				-4,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "wither skelly right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wither-skelly",
+	"position": [
+		150,
+		430
+	],
+	"healthicon": "wither-skelly",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		52,
+		52
+	],
+	"camera_position": [
+		-2400,
+		-900
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

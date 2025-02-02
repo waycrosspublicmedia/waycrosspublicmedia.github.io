@@ -1,0 +1,134 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "livingroom",
+		"player1": "bfFH",
+		"player2": "tails",
+		"player3": null,
+		"events": [
+			[
+				428.571428571429,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0.5"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				61714.2857142858,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0.9"
+					]
+				]
+			],
+			[
+				67714.2857142858,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0"
+					],
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"1.5"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				68892.8571428572,
+				[
+					[
+						"Play Animation",
+						"yawn",
+						"gf"
+					]
+				]
+			],
+			[
+				82285.7142857143,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					],
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"0.3"
+					],
+					[
+						"Set Cam Zoom",
+						"1.05",
+						""
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "sonictailgf",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Tired"
+	}
+}

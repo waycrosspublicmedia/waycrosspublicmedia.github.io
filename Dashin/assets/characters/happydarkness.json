@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				160,
+				-120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "HappyDarknessIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				283,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HappyDarknessLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HappyDarknessDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-133
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HappyDarknessRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				489,
+				86
+			],
+			"anim": "Animation",
+			"fps": 24,
+			"name": "HappyDarknessAnimation",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HappyDarknessUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HappyDarkness_Assets",
+	"position": [
+		0,
+		-350
+	],
+	"healthicon": "darkness",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		255,
+		2
+	],
+	"camera_position": [
+		-310,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Laser.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Laser instance 10000" x="0" y="0" width="414" height="81" frameX="-14" frameY="-2" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10001" x="0" y="0" width="414" height="81" frameX="-14" frameY="-2" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10002" x="464" y="0" width="419" height="76" frameX="-9" frameY="-4" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10003" x="464" y="0" width="419" height="76" frameX="-9" frameY="-4" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10004" x="0" y="131" width="424" height="79" frameX="0" frameY="-2" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10005" x="0" y="131" width="424" height="79" frameX="0" frameY="-2" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10006" x="474" y="131" width="416" height="80" frameX="-8" frameY="0" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10007" x="474" y="131" width="416" height="80" frameX="-8" frameY="0" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10008" x="0" y="261" width="414" height="81" frameX="-14" frameY="-2" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10009" x="0" y="261" width="414" height="81" frameX="-14" frameY="-2" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10010" x="464" y="261" width="419" height="76" frameX="-9" frameY="-4" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10011" x="464" y="261" width="419" height="76" frameX="-9" frameY="-4" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10012" x="0" y="392" width="424" height="79" frameX="0" frameY="-2" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10013" x="0" y="392" width="424" height="79" frameX="0" frameY="-2" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10014" x="474" y="392" width="416" height="80" frameX="-8" frameY="0" frameWidth="428" frameHeight="83"/>
+	<SubTexture name="Laser instance 10015" x="474" y="392" width="416" height="80" frameX="-8" frameY="0" frameWidth="428" frameHeight="83"/>
+</TextureAtlas>

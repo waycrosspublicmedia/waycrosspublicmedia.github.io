@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-mf.png"><SubTexture name="bf-mf idle0000" x="0" y="0" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf idle0001" x="324" y="0" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf idle0002" x="648" y="0" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf idle0003" x="972" y="0" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf idle0004" x="1296" y="0" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf idle0005" x="0" y="244" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf down0000" x="324" y="244" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf down0001" x="648" y="244" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf down0002" x="972" y="244" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf down0003" x="1296" y="244" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf down0004" x="0" y="488" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf down0005" x="324" y="488" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf up0000" x="648" y="488" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf up0001" x="972" y="488" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf up0002" x="1296" y="488" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf up0003" x="0" y="732" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf up0004" x="324" y="732" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf left0000" x="648" y="732" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf left0001" x="972" y="732" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf left0002" x="1296" y="732" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf left0003" x="0" y="976" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf left0004" x="324" y="976" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf left0005" x="648" y="976" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf right0000" x="972" y="976" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf right0001" x="1296" y="976" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf right0002" x="0" y="1220" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf right0003" x="324" y="1220" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf right0004" x="648" y="1220" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+<SubTexture name="bf-mf right0005" x="972" y="1220" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+</TextureAtlas>

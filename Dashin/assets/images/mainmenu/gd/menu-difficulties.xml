@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu-difficulties.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="easyselect.png" x="0" y="0" width="313" height="54"/>
+	<SubTexture name="easyunselect.png" x="0" y="54" width="311" height="50"/>
+	<SubTexture name="normalselect.png" x="0" y="104" width="313" height="54"/>
+	<SubTexture name="normalunselect.png" x="0" y="158" width="311" height="50"/>
+</TextureAtlas>

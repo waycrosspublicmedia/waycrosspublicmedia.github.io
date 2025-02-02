@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				160,
+				-120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FinalDarknessIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				263,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FinalDarknessLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FinalDarknessDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				-193
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FinalDarknessRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				224,
+				170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FinalDarknessUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FinalDarkness_Assets",
+	"position": [
+		0,
+		-350
+	],
+	"healthicon": "darkness",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		255,
+		2
+	],
+	"camera_position": [
+		-320,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

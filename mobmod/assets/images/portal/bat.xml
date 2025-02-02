@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bat.png"><SubTexture name="bat idle0000" x="0" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0001" x="500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0002" x="1000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0003" x="1500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0004" x="2000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0005" x="2500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0006" x="3000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0007" x="3500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0008" x="4000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0009" x="4500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0010" x="5000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0011" x="5500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0012" x="6000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0013" x="0" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0014" x="500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0015" x="1000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0016" x="1500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0017" x="2000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0018" x="2500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0019" x="3000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0020" x="3500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0021" x="4000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0022" x="4500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0023" x="5000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0024" x="5500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0025" x="6000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0026" x="0" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0027" x="500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0028" x="1000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0029" x="1500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0030" x="2000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0031" x="2500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0032" x="3000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0033" x="3500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat idle0034" x="4000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0000" x="4500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0001" x="5000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0002" x="5500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0003" x="6000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0004" x="0" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0005" x="500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0006" x="1000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0007" x="1500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0008" x="2000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0009" x="2500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0010" x="3000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0011" x="3500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0012" x="4000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0013" x="4500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0014" x="5000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0015" x="5500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0016" x="6000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0017" x="0" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0018" x="500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0019" x="1000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0020" x="1500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0021" x="2000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0022" x="2500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0023" x="3000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0024" x="3500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0025" x="4000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0026" x="4500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0027" x="5000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0028" x="5500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0029" x="6000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0030" x="0" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0031" x="500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0032" x="1000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0033" x="1500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0034" x="2000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0035" x="2500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0036" x="3000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0037" x="3500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0038" x="4000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0039" x="4500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0040" x="5000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0041" x="5500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0042" x="6000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0043" x="0" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0044" x="500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0045" x="1000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0046" x="1500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0047" x="2000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0048" x="2500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0049" x="3000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0050" x="3500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0051" x="4000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0052" x="4500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0053" x="5000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0054" x="5500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0055" x="6000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0056" x="0" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0057" x="500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0058" x="1000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0059" x="1500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0060" x="2000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0061" x="2500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0062" x="3000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0063" x="3500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0064" x="4000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0065" x="4500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0066" x="5000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0067" x="5500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0068" x="6000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0069" x="0" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0070" x="500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0071" x="1000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0072" x="1500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0073" x="2000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0074" x="2500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0075" x="3000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0076" x="3500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0077" x="4000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0078" x="4500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0079" x="5000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0080" x="5500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0081" x="6000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0082" x="0" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0083" x="500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0084" x="1000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0085" x="1500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0086" x="2000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0087" x="2500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0088" x="3000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0089" x="3500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0090" x="4000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0091" x="4500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0092" x="5000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0093" x="5500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0094" x="6000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0095" x="0" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0096" x="500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0097" x="1000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0098" x="1500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0099" x="2000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0100" x="2500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0101" x="3000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0102" x="3500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0103" x="4000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0104" x="4500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0105" x="5000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0106" x="5500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0107" x="6000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0108" x="0" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0109" x="500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0110" x="1000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0111" x="1500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0112" x="2000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0113" x="2500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0114" x="3000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0115" x="3500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0116" x="4000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0117" x="4500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0118" x="5000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0119" x="5500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0120" x="6000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0121" x="0" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0122" x="500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0123" x="1000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0124" x="1500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0125" x="2000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0126" x="2500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0127" x="3000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0128" x="3500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0129" x="4000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0130" x="4500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0131" x="5000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0132" x="5500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0133" x="6000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0134" x="0" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0135" x="500" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="bat mid song event0136" x="1000" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+</TextureAtlas>

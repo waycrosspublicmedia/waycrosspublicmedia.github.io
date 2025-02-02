@@ -1,0 +1,2796 @@
+{
+  "song": {
+    "events": [
+      [
+        -99999999999,
+        [
+          [
+            "Black Fate",
+            "1",
+            ""
+          ],
+          [
+            "HUD Fate",
+            "0",
+            ""
+          ]
+        ]
+      ],
+      [
+        1333.33333333333,
+        [
+          [
+            "Add Camera Zoom",
+            "0.14",
+            "0"
+          ]
+        ]
+      ],
+      [
+        1333.33333333333,
+        [
+          [
+            "Black Fate",
+            "0",
+            ""
+          ]
+        ]
+      ],
+      [
+        1666.66666666667,
+        [
+          [
+            "Add Camera Zoom",
+            "0.14",
+            "0"
+          ]
+        ]
+      ],
+      [
+        2000,
+        [
+          [
+            "Add Camera Zoom",
+            "-0.07",
+            "0"
+          ]
+        ]
+      ],
+      [
+        2166.66666666667,
+        [
+          [
+            "Add Camera Zoom",
+            "-0.07",
+            "0"
+          ]
+        ]
+      ],
+      [
+        2416.66666666667,
+        [
+          [
+            "Add Camera Zoom",
+            "-0.07",
+            "0"
+          ]
+        ]
+      ],
+      [
+        2583.33333333333,
+        [
+          [
+            "Add Camera Zoom",
+            "0.72",
+            "0"
+          ],
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "1.279"
+          ]
+        ]
+      ],
+      [
+        2666.66666666667,
+        [
+          [
+            "Flash Light",
+            "1",
+            ""
+          ]
+        ]
+      ],
+      [
+        9333.33333333333,
+        [
+          [
+            "setCamZoom",
+            "0.5",
+            "3"
+          ]
+        ]
+      ],
+      [
+        10666.6666666667,
+        [
+          [
+            "HUD Fate",
+            "1",
+            "1"
+          ]
+        ]
+      ],
+      [
+        13333.3333333333,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        18666.6666666667,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        24000,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        29333.3333333333,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        34666.6666666667,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        40000,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        44000,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        45333.3333333333,
+        [
+          [
+            "Play Animation",
+            "mid",
+            "dad"
+          ],
+          [
+            "Play Animation",
+            "mid",
+            "bf"
+          ],
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ],
+          [
+            "Set Property",
+            "dad.idleSuffix",
+            "-alt"
+          ],
+          [
+            "Bar Eh",
+            "true",
+            ""
+          ]
+        ]
+      ],
+      [
+        45333.3333333333,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        48000,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        48833.3333333334,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        49333.3333333334,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ],
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        49500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        49666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        49833.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        50000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        50333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        50666.6666666667,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        51500,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        52000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ],
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        52333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        52833.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        53000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        53166.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        53333.3333333334,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        53500,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        54000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        54333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        54666.6666666667,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        54833.3333333334,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        55333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        55500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        55666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        55833.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        56000,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        56833.3333333334,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        57250,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        57333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        57666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        57833.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        58000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        58166.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        58333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        58416.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        58500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        58583.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        58833.3333333334,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        59333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        59666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        60166.6666666667,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        60666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        60833.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        61000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        61166.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        62166.6666666667,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        62666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        62833.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        63000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        63166.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        63333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        63500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        63666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        63750,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        63833.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        63916.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        64000,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        64666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        64916.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        65166.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        66000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        66166.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        66250,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        66416.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        66500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        67333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        67416.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        67666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        67833.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        68666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        68750,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        68833.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        69000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        69083.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        69166.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        69333.3333333334,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        70000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        70250,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        70500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        71333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        71500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        71583.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        71750,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        71833.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        72666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        72750,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        73000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        73166.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        74000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        74083.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        74166.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        74333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        74416.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        74500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        74666.6666666667,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        75333.3333333334,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        75666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        76666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        77000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        78000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        78166.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        78333.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        78500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        79333.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        79500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        79583.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        79666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        79833.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        80000,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        80666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        81000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        82000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        82333.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        83333.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        83500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        83666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        83833.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        84666.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        84833.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        84916.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        85083.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        85166.6666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        85333.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        85333.3333333333,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        85333.3333333333,
+        [
+          [
+            "back bg",
+            "0.7",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        86000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        86666.6666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        87333.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        88000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        88333.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        88666.6666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        89000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        89166.6666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        89250,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        89333.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        89500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        89583.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        89666.6666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        89833.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        89916.6666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        90000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        90166.6666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        90666.6666666666,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        95999.9999999999,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        95999.9999999999,
+        [
+          [
+            "back bg",
+            "1",
+            "0.7"
+          ],
+          [
+            "Bar Eh",
+            "",
+            "true"
+          ]
+        ]
+      ],
+      [
+        96749.9999999999,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        97333.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        97666.6666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        98083.3333333333,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        98666.6666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        98833.3333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        98999.9999999999,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        99166.6666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        101333.333333333,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        102083.333333333,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        102666.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        102833.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        103000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        103500,
+        [
+          [
+            "Play Animation",
+            "reload",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        104000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        104166.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        104333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        104500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        106583.333333333,
+        [
+          [
+            "back bg",
+            "0.7",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        106666.666666667,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        108000,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        108750,
+        [
+          [
+            "Black Fate",
+            "1",
+            ""
+          ],
+          [
+            "Bar Eh",
+            "true",
+            "true"
+          ]
+        ]
+      ],
+      [
+        109333.333333333,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        109333.333333333,
+        [
+          [
+            "Black Fate",
+            "0",
+            ""
+          ]
+        ]
+      ],
+      [
+        109666.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        109833.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        110333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        110500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        110666.666666667,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        111916.666666667,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        112000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        112166.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        112333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        112500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        112666.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        112833.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        113000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        113166.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        113166.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        113333.333333333,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        114583.333333333,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        114666.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        114833.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        115000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        115166.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        115250,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        115333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        115500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        115666.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        115833.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        116000,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        117333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        117333.333333333,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        117416.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        117500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        117583.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        117833.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        117916.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        118000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        118166.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        118333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        118416.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        118500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        118666.666666667,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        119916.666666667,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        120000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        120166.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        120333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        120500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        121333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        121333.333333333,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ]
+        ]
+      ],
+      [
+        121500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        121666.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        121833.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        122583.333333333,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        122666.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        122833.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        123000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        123166.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        123666.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        123833.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        124000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        124166.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        124333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        124500,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        124666.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        124833.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        125000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        125166.666666667,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        125333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        125666.666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        126000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        126333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        126666.666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        127000,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        127333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        127666.666666666,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        128000,
+        [
+          [
+            "Black Fate",
+            "1",
+            ""
+          ]
+        ]
+      ],
+      [
+        131859.649122807,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        131938.596491228,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        132017.543859649,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        132096.49122807,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        132175.438596491,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        132254.385964912,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        132333.333333333,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        132412.280701754,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        132491.228070175,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        132570.175438596,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        132649.122807017,
+        [
+          [
+            "Play Animation",
+            "shoot",
+            "dad"
+          ]
+        ]
+      ]
+    ]
+  }
+}

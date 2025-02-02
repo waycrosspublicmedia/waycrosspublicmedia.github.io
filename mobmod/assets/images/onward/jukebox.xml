@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jukebox.png"><SubTexture name="jukebox left0000" x="0" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox left0001" x="621" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox left0002" x="1242" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox left0003" x="1863" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox left0004" x="0" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox left0005" x="621" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox left0006" x="1242" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox left0007" x="1863" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox left0008" x="0" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox left0009" x="621" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox right0000" x="1242" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox right0001" x="1863" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox right0002" x="0" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox right0003" x="621" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox right0004" x="1242" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox right0005" x="1863" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox right0006" x="0" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox right0007" x="621" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox right0008" x="1242" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="jukebox right0009" x="1863" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+</TextureAtlas>

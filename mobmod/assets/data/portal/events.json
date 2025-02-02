@@ -1,0 +1,306 @@
+{
+  "song": {
+    "events": [
+      [
+        -9999999999,
+        [
+          [
+            "HUD Fate",
+            "0",
+            ""
+          ],
+          [
+            "cameraSpeed",
+            "10",
+            ""
+          ]
+        ]
+      ],
+      [
+        5714.28571428571,
+        [
+          [
+            "Play Animation",
+            "dig",
+            "dad"
+          ],
+          [
+            "cameraSpeed",
+            "1",
+            ""
+          ]
+        ]
+      ],
+      [
+        5714.28571428571,
+        [
+          [
+            "credits",
+            "Now Playing: Portal - TraceInPurple",
+            ""
+          ]
+        ]
+      ],
+      [
+        14464.2857142857,
+        [
+          [
+            "Play Animation",
+            "pick",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        16428.5714285714,
+        [
+          [
+            "HUD Fate",
+            "1",
+            "1"
+          ]
+        ]
+      ],
+      [
+        17142.8571428571,
+        [
+          [
+            "Play Animation",
+            "dig",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        25714.2857142857,
+        [
+          [
+            "Play Animation",
+            "pick",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        28571.4285714286,
+        [
+          [
+            "Play Animation",
+            "dig",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        37142.8571428571,
+        [
+          [
+            "Play Animation",
+            "pick",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        40000,
+        [
+          [
+            "Play Animation",
+            "dig",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        48571.4285714286,
+        [
+          [
+            "Play Animation",
+            "pick",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        54285.7142857143,
+        [
+          [
+            "Play Animation",
+            "dig",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        62857.1428571428,
+        [
+          [
+            "Play Animation",
+            "pick",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        65714.2857142857,
+        [
+          [
+            "Play Animation",
+            "dig",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        74285.7142857143,
+        [
+          [
+            "Play Animation",
+            "pick",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        77142.8571428572,
+        [
+          [
+            "Play Animation",
+            "dig",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        85714.2857142858,
+        [
+          [
+            "Play Animation",
+            "pick",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        88571.4285714287,
+        [
+          [
+            "Play Animation",
+            "dig",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        97142.8571428573,
+        [
+          [
+            "Play Animation",
+            "pick",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        100000,
+        [
+          [
+            "Play Animation",
+            "dig",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        108571.428571429,
+        [
+          [
+            "Play Animation",
+            "pick",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        111428.571428572,
+        [
+          [
+            "Play Animation",
+            "dig",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        120000,
+        [
+          [
+            "Play Animation",
+            "pick",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        122857.142857143,
+        [
+          [
+            "dad alpha",
+            "0",
+            ""
+          ],
+          [
+            "Black Fate",
+            "1",
+            ""
+          ]
+        ]
+      ],
+      [
+        123035.714285715,
+        [
+          [
+            "HUD Fate",
+            "0",
+            ""
+          ]
+        ]
+      ],
+      [
+        124285.714285715,
+        [
+          [
+            "dad alpha",
+            "1",
+            ""
+          ],
+          [
+            "Black Fate",
+            "0",
+            ""
+          ],
+          [
+            "Play Animation",
+            "outro",
+            "dad"
+          ]
+        ]
+      ],
+      [
+        126517.857142857,
+        [
+          [
+            "dad alpha",
+            "0",
+            ""
+          ],
+          [
+            "Heaven Light",
+            "1",
+            ""
+          ]
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="h4chy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="h4chy1.png" x="0" y="0" width="240" height="35"/>
+	<SubTexture name="h4chy2.png" x="0" y="35" width="240" height="35"/>
+</TextureAtlas>

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-5
+			],
+			"anim": "yawn",
+			"fps": 24,
+			"name": "FH2 yawn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FH2 L idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonicgf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "FHsonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

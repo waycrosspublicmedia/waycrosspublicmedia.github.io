@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ultraviolenceRobot.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ultraviolenceRobot0000" x="0" y="0" width="830" height="531" frameX="0" frameY="0" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0001" x="830" y="0" width="825" height="539" frameX="-6" frameY="-10" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0002" x="0" y="539" width="823" height="542" frameX="-9" frameY="-20" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0003" x="823" y="539" width="813" height="542" frameX="-16" frameY="-30" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0004" x="0" y="1081" width="805" height="545" frameX="-18" frameY="-40" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0005" x="0" y="1081" width="805" height="545" frameX="-18" frameY="-40" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0006" x="823" y="539" width="813" height="542" frameX="-16" frameY="-30" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0007" x="0" y="539" width="823" height="542" frameX="-9" frameY="-20" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0008" x="830" y="0" width="825" height="539" frameX="-6" frameY="-10" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0009" x="0" y="0" width="830" height="531" frameX="0" frameY="0" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0010" x="0" y="0" width="830" height="531" frameX="0" frameY="0" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0011" x="830" y="0" width="825" height="539" frameX="-6" frameY="-10" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0012" x="0" y="539" width="823" height="542" frameX="-9" frameY="-20" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0013" x="823" y="539" width="813" height="542" frameX="-16" frameY="-30" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0014" x="0" y="1081" width="805" height="545" frameX="-18" frameY="-40" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0015" x="0" y="1081" width="805" height="545" frameX="-18" frameY="-40" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0016" x="823" y="539" width="813" height="542" frameX="-16" frameY="-30" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0017" x="0" y="539" width="823" height="542" frameX="-9" frameY="-20" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0018" x="830" y="0" width="825" height="539" frameX="-6" frameY="-10" frameWidth="832" frameHeight="585"/>
+	<SubTexture name="ultraviolenceRobot0019" x="0" y="0" width="830" height="531" frameX="0" frameY="0" frameWidth="832" frameHeight="585"/>
+</TextureAtlas>

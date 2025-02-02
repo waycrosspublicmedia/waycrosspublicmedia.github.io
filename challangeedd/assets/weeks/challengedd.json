@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Hard,Fucked",
+	"hideFreeplay": false,
+	"weekBackground": "edd",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Challeng-Edd",
+			"edd",
+			[
+				0,
+				215,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Tutorial"
+}

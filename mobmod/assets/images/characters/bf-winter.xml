@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf winter.png"><SubTexture name="bf winter idle0000" x="0" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter idle0001" x="621" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter idle0002" x="1242" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter idle0003" x="1863" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter idle0004" x="2484" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter idle0005" x="3105" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter idle0006" x="3726" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter idle0007" x="4347" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter idle0008" x="4968" y="0" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter idle0009" x="0" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter idle0010" x="621" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter idle0011" x="1242" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter left0000" x="1863" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter left0001" x="2484" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter left0002" x="3105" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter left0003" x="3726" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter left0004" x="4347" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter left0005" x="4968" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter left0006" x="0" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter left0007" x="621" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter down0000" x="1242" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter down0001" x="1863" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter down0002" x="2484" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter down0003" x="3105" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter down0004" x="3726" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter down0005" x="4347" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter down0006" x="4968" y="668" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter down0007" x="0" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter up0000" x="621" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter up0001" x="1242" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter up0002" x="1863" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter up0003" x="2484" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter up0004" x="3105" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter up0005" x="3726" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter up0006" x="4347" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter up0007" x="4968" y="1002" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter up0008" x="0" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter right0000" x="621" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter right0001" x="1242" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter right0002" x="1863" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter right0003" x="2484" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter right0004" x="3105" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter right0005" x="3726" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter right0006" x="4347" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter right0007" x="4968" y="1336" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block left0000" x="0" y="1670" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block left0001" x="621" y="1670" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block left0002" x="1242" y="1670" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block left0003" x="1863" y="1670" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block left0004" x="2484" y="1670" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block left0005" x="3105" y="1670" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block left0006" x="3726" y="1670" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block left0007" x="4347" y="1670" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block down0000" x="4968" y="1670" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block down0001" x="0" y="2004" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block down0002" x="621" y="2004" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block down0003" x="1242" y="2004" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block down0004" x="1863" y="2004" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block down0005" x="2484" y="2004" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block down0006" x="3105" y="2004" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block up0000" x="3726" y="2004" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block up0001" x="4347" y="2004" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block up0002" x="4968" y="2004" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block up0003" x="0" y="2338" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block up0004" x="621" y="2338" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block up0005" x="1242" y="2338" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block up0006" x="1863" y="2338" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block up0007" x="2484" y="2338" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block right0000" x="3105" y="2338" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block right0001" x="3726" y="2338" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block right0002" x="4347" y="2338" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block right0003" x="4968" y="2338" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block right0004" x="0" y="2672" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block right0005" x="621" y="2672" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block right0006" x="1242" y="2672" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter block right0007" x="1863" y="2672" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter snowballed0000" x="2484" y="2672" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter snowballed0001" x="3105" y="2672" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter snowballed0002" x="3726" y="2672" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter snowballed0003" x="4347" y="2672" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter snowballed0004" x="4968" y="2672" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter snowballed0005" x="0" y="3006" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+<SubTexture name="bf winter snowballed0006" x="1242" y="334" width="621" height="334" frameX="0" frameY="0" frameWidth="621" frameHeight="334" />
+</TextureAtlas>

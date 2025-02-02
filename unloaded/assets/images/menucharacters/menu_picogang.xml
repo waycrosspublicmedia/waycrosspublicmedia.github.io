@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_picogang.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="picobopgang0000" x="0" y="0" width="913" height="523"/>
+	<SubTexture name="picobopgang0001" x="0" y="0" width="913" height="523"/>
+	<SubTexture name="picobopgang0002" x="913" y="0" width="913" height="523"/>
+	<SubTexture name="picobopgang0003" x="913" y="0" width="913" height="523"/>
+	<SubTexture name="picobopgang0004" x="1826" y="0" width="913" height="523"/>
+	<SubTexture name="picobopgang0005" x="2739" y="0" width="913" height="523"/>
+	<SubTexture name="picobopgang0006" x="0" y="523" width="913" height="523"/>
+	<SubTexture name="picobopgang0007" x="913" y="523" width="913" height="523"/>
+	<SubTexture name="picobopgang0008" x="1826" y="523" width="913" height="523"/>
+	<SubTexture name="picobopgang0009" x="1826" y="523" width="913" height="523"/>
+	<SubTexture name="picobopgang0010" x="1826" y="523" width="913" height="523"/>
+	<SubTexture name="picobopgang0011" x="1826" y="523" width="913" height="523"/>
+	<SubTexture name="picobopgang0012" x="1826" y="523" width="913" height="523"/>
+	<SubTexture name="picobopgang0013" x="1826" y="523" width="913" height="523"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="demon.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="demondeselect.png" x="0" y="0" width="353" height="231"/>
+	<SubTexture name="demonselect.png" x="0" y="231" width="394" height="233"/>
+</TextureAtlas>

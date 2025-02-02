@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonicgf.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FH2 L idle0000" x="0" y="0" width="425" height="264" frameX="-7" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 L idle0001" x="0" y="0" width="425" height="264" frameX="-7" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 L idle0002" x="429" y="0" width="430" height="264" frameX="-2" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 L idle0003" x="429" y="0" width="430" height="264" frameX="-2" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 L idle0004" x="863" y="0" width="432" height="264"/>
+	<SubTexture name="FH2 L idle0005" x="863" y="0" width="432" height="264"/>
+	<SubTexture name="FH2 L idle0006" x="1299" y="0" width="429" height="263" frameX="-3" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 L idle0007" x="1299" y="0" width="429" height="263" frameX="-3" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 L idle0008" x="0" y="268" width="429" height="263" frameX="-3" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 L idle0009" x="0" y="268" width="429" height="263" frameX="-3" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 L idle0010" x="0" y="268" width="429" height="263" frameX="-3" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 L idle0011" x="0" y="268" width="429" height="263" frameX="-3" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 L idle0012" x="0" y="268" width="429" height="263" frameX="-3" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 L idle0013" x="0" y="268" width="429" height="263" frameX="-3" frameY="0" frameWidth="432" frameHeight="264"/>
+	<SubTexture name="FH2 R idle0000" x="433" y="268" width="423" height="259"/>
+	<SubTexture name="FH2 R idle0001" x="433" y="268" width="423" height="259"/>
+	<SubTexture name="FH2 R idle0002" x="860" y="268" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 R idle0003" x="860" y="268" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 R idle0004" x="1287" y="268" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 R idle0005" x="1287" y="268" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 R idle0006" x="0" y="535" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 R idle0007" x="0" y="535" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 R idle0008" x="427" y="535" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 R idle0009" x="427" y="535" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 R idle0010" x="427" y="535" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 R idle0011" x="427" y="535" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 R idle0012" x="427" y="535" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 R idle0013" x="427" y="535" width="423" height="258" frameX="0" frameY="0" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 yawn0000" x="854" y="535" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0001" x="854" y="535" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0002" x="1333" y="535" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0003" x="1333" y="535" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0004" x="0" y="817" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0005" x="0" y="817" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0006" x="479" y="817" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0007" x="479" y="817" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0008" x="958" y="817" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0009" x="958" y="817" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0010" x="1437" y="817" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0011" x="1437" y="817" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0012" x="0" y="1099" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0013" x="0" y="1099" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0014" x="479" y="1099" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0015" x="479" y="1099" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0016" x="958" y="1099" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0017" x="958" y="1099" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0018" x="958" y="1099" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0019" x="1437" y="1099" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0020" x="1437" y="1099" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0021" x="0" y="1381" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0022" x="0" y="1381" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0023" x="479" y="1381" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0024" x="479" y="1381" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0025" x="958" y="1381" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0026" x="958" y="1381" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0027" x="1437" y="1381" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0028" x="1437" y="1381" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0029" x="0" y="1663" width="516" height="278"/>
+	<SubTexture name="FH2 yawn0030" x="0" y="1663" width="516" height="278"/>
+	<SubTexture name="FH2 yawn0031" x="520" y="1663" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0032" x="520" y="1663" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0033" x="999" y="1663" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0034" x="999" y="1663" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0035" x="1478" y="1663" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0036" x="1478" y="1663" width="475" height="278" frameX="-41" frameY="0" frameWidth="516" frameHeight="278"/>
+	<SubTexture name="FH2 yawn0037" x="427" y="535" width="423" height="258" frameX="-49" frameY="4" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 yawn0038" x="427" y="535" width="423" height="258" frameX="-49" frameY="4" frameWidth="423" frameHeight="259"/>
+	<SubTexture name="FH2 yawn0039" x="427" y="535" width="423" height="258" frameX="-49" frameY="4" frameWidth="423" frameHeight="259"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "zombolio idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "zombolio left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "zombolio up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "zombolio down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "zombolio right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zombolio",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "zombolio",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		138,
+		64
+	],
+	"camera_position": [
+		-200,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

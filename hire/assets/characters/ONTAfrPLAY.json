@@ -1,0 +1,168 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dork-idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dork-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dork-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dork-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dork-right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				-37
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-51
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				5
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up-miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				41
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right-miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				35
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "gameover",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "gameover instance 1",
+			"indices": [
+				50,
+				51
+			]
+		},
+		{
+			"offsets": [
+				64,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "gameover instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/riikudork",
+	"position": [
+		200,
+		120
+	],
+	"healthicon": "OntaFH",
+	"flip_x": true,
+	"healthbar_colors": [
+		95,
+		137,
+		204
+	],
+	"camera_position": [
+		210,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

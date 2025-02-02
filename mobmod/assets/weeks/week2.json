@@ -1,0 +1,49 @@
+{
+	"storyName": "bonus",
+	"difficulties": "Hard, Peaceful",
+	"hideFreeplay": false,
+	"weekBackground": "chap2",
+	"weekBefore": "week3-notch",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"portal",
+			"gf-minecraft",
+			[
+		154,
+		47,
+		86
+			]
+		],
+		[
+			"fortress",
+			"wither-skelly",
+			[
+		52,
+		52,
+		52
+			]
+		],
+		[
+			"bastion",
+			"brute",
+			[
+		99,
+		26,
+		0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bonus"
+}

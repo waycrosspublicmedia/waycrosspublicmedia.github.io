@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="groundback.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="suelomovimiento0000" x="0" y="0" width="3840" height="67" frameX="0" frameY="0" frameWidth="4040" frameHeight="67"/>
+	<SubTexture name="suelomovimiento0001" x="0" y="0" width="3840" height="67" frameX="-50" frameY="0" frameWidth="4040" frameHeight="67"/>
+	<SubTexture name="suelomovimiento0002" x="0" y="0" width="3840" height="67" frameX="-100" frameY="0" frameWidth="4040" frameHeight="67"/>
+	<SubTexture name="suelomovimiento0003" x="0" y="0" width="3840" height="67" frameX="-150" frameY="0" frameWidth="4040" frameHeight="67"/>
+	<SubTexture name="suelomovimiento0004" x="0" y="0" width="3840" height="67" frameX="-200" frameY="0" frameWidth="4040" frameHeight="67"/>
+</TextureAtlas>

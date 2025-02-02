@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-warden.png"><SubTexture name="bf-warden 1st scene idle0000" x="0" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0001" x="504" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0002" x="1008" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0003" x="1512" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0004" x="2016" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0005" x="2520" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0006" x="3024" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0007" x="3528" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0008" x="4032" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0009" x="4536" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0010" x="5040" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0011" x="0" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0012" x="504" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0013" x="1008" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden 1st scene idle0014" x="1512" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0000" x="2016" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0001" x="2520" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0002" x="3024" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0003" x="3528" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0004" x="4032" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0005" x="4536" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0006" x="5040" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0007" x="0" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0008" x="504" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0009" x="1008" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0010" x="1512" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0011" x="2016" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden idle0012" x="2520" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden left0000" x="3024" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden left0001" x="3528" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden left0002" x="4032" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden left0003" x="4536" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden left0004" x="5040" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden left0005" x="0" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden left0006" x="504" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden left0007" x="1008" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden left0008" x="1512" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden left0009" x="2016" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden left0010" x="2520" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden down0000" x="3024" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden down0001" x="3528" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden down0002" x="4032" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden down0003" x="4536" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden down0004" x="5040" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden down0005" x="0" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden down0006" x="504" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden down0007" x="1008" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden down0008" x="1512" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden down0009" x="2016" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden up0000" x="2520" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden up0001" x="3024" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden up0002" x="3528" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden up0003" x="4032" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden up0004" x="4536" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden up0005" x="5040" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden up0006" x="0" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden up0007" x="504" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden up0008" x="1008" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden up0009" x="1512" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden right0000" x="2016" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden right0001" x="2520" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden right0002" x="3024" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden right0003" x="3528" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden right0004" x="4032" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden right0005" x="4536" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden right0006" x="5040" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden right0007" x="0" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden right0008" x="504" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden right0009" x="1008" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0000" x="1512" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0001" x="2016" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0002" x="2520" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0003" x="3024" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0004" x="3528" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0005" x="4032" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0006" x="4536" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0007" x="5040" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0008" x="0" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0009" x="504" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0010" x="1008" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0011" x="1512" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt idle0012" x="2016" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt left0000" x="2520" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt left0001" x="3024" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt left0002" x="3528" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt left0003" x="4032" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt left0004" x="4536" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt left0005" x="5040" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt left0006" x="0" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt left0007" x="504" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt left0008" x="1008" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt left0009" x="1512" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt left0010" x="2016" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt down0000" x="2520" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt down0001" x="3024" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt down0002" x="3528" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt down0003" x="4032" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt down0004" x="4536" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt down0005" x="5040" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt down0006" x="0" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt down0007" x="504" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt down0008" x="1008" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt down0009" x="1512" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt up0000" x="2016" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt up0001" x="2520" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt up0002" x="3024" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt up0003" x="3528" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt up0004" x="4032" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt up0005" x="4536" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt up0006" x="5040" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt up0007" x="0" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt up0008" x="504" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt up0009" x="1008" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt right0000" x="1512" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt right0001" x="2016" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt right0002" x="2520" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt right0003" x="3024" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt right0004" x="3528" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt right0005" x="4032" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt right0006" x="4536" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt right0007" x="5040" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt right0008" x="0" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden alt right0009" x="504" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden snowball0000" x="1008" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden snowball0001" x="1512" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden snowball0002" x="2016" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden snowball0003" x="2520" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden snowball0004" x="3024" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden snowball0005" x="3528" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden snowball0006" x="4032" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf-warden snowball0007" x="4536" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+</TextureAtlas>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFHand_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFHandDown0000" x="0" y="0" width="1039" height="1019" frameX="0" frameY="-78" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0001" x="1039" y="0" width="948" height="1034" frameX="-45" frameY="-7" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0002" x="1039" y="0" width="948" height="1034" frameX="-45" frameY="-7" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0003" x="1987" y="0" width="823" height="976" frameX="-107" frameY="0" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0004" x="1987" y="0" width="823" height="976" frameX="-107" frameY="0" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0005" x="2810" y="0" width="761" height="938" frameX="-132" frameY="-13" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0006" x="2810" y="0" width="761" height="938" frameX="-132" frameY="-13" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0007" x="2810" y="0" width="761" height="938" frameX="-132" frameY="-13" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0008" x="2810" y="0" width="761" height="938" frameX="-132" frameY="-13" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0009" x="2810" y="0" width="761" height="938" frameX="-132" frameY="-13" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0010" x="2810" y="0" width="761" height="938" frameX="-132" frameY="-13" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0011" x="2810" y="0" width="761" height="938" frameX="-132" frameY="-13" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0012" x="2810" y="0" width="761" height="938" frameX="-132" frameY="-13" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandDown0013" x="2810" y="0" width="761" height="938" frameX="-132" frameY="-13" frameWidth="1039" frameHeight="1097"/>
+	<SubTexture name="BFHandIdle0000" x="3571" y="0" width="1010" height="1044" frameX="0" frameY="-50" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0001" x="3571" y="0" width="1010" height="1044" frameX="0" frameY="-50" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0002" x="4581" y="0" width="958" height="1039" frameX="-47" frameY="-26" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0003" x="4581" y="0" width="958" height="1039" frameX="-47" frameY="-26" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0004" x="5539" y="0" width="879" height="1006" frameX="-123" frameY="0" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0005" x="5539" y="0" width="879" height="1006" frameX="-123" frameY="0" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0006" x="6418" y="0" width="764" height="941" frameX="-218" frameY="-26" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0007" x="6418" y="0" width="764" height="941" frameX="-218" frameY="-26" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0008" x="7182" y="0" width="816" height="972" frameX="-182" frameY="-12" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0009" x="7182" y="0" width="816" height="972" frameX="-182" frameY="-12" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0010" x="7182" y="0" width="816" height="972" frameX="-182" frameY="-12" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0011" x="7182" y="0" width="816" height="972" frameX="-182" frameY="-12" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0012" x="7182" y="0" width="816" height="972" frameX="-182" frameY="-12" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandIdle0013" x="7182" y="0" width="816" height="972" frameX="-182" frameY="-12" frameWidth="1010" frameHeight="1094"/>
+	<SubTexture name="BFHandLeft0000" x="0" y="1044" width="1015" height="1041" frameX="0" frameY="-7" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0001" x="1015" y="1044" width="917" height="1024" frameX="-89" frameY="0" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0002" x="1015" y="1044" width="917" height="1024" frameX="-89" frameY="0" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0003" x="1932" y="1044" width="829" height="979" frameX="-162" frameY="-14" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0004" x="1932" y="1044" width="829" height="979" frameX="-162" frameY="-14" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0005" x="2761" y="1044" width="798" height="960" frameX="-192" frameY="-14" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0006" x="2761" y="1044" width="798" height="960" frameX="-192" frameY="-14" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0007" x="2761" y="1044" width="798" height="960" frameX="-192" frameY="-14" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0008" x="2761" y="1044" width="798" height="960" frameX="-192" frameY="-14" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0009" x="2761" y="1044" width="798" height="960" frameX="-192" frameY="-14" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0010" x="2761" y="1044" width="798" height="960" frameX="-192" frameY="-14" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0011" x="2761" y="1044" width="798" height="960" frameX="-192" frameY="-14" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0012" x="2761" y="1044" width="798" height="960" frameX="-192" frameY="-14" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandLeft0013" x="2761" y="1044" width="798" height="960" frameX="-192" frameY="-14" frameWidth="1015" frameHeight="1048"/>
+	<SubTexture name="BFHandRight0000" x="3559" y="1044" width="878" height="1005"/>
+	<SubTexture name="BFHandRight0001" x="4437" y="1044" width="744" height="928" frameX="-53" frameY="-30" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0002" x="4437" y="1044" width="744" height="928" frameX="-53" frameY="-30" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0003" x="5181" y="1044" width="621" height="841" frameX="-103" frameY="-68" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0004" x="5181" y="1044" width="621" height="841" frameX="-103" frameY="-68" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0005" x="5802" y="1044" width="658" height="869" frameX="-74" frameY="-50" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0006" x="5802" y="1044" width="658" height="869" frameX="-74" frameY="-50" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0007" x="5802" y="1044" width="658" height="869" frameX="-74" frameY="-50" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0008" x="5802" y="1044" width="658" height="869" frameX="-74" frameY="-50" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0009" x="5802" y="1044" width="658" height="869" frameX="-74" frameY="-50" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0010" x="5802" y="1044" width="658" height="869" frameX="-74" frameY="-50" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0011" x="5802" y="1044" width="658" height="869" frameX="-74" frameY="-50" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0012" x="5802" y="1044" width="658" height="869" frameX="-74" frameY="-50" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandRight0013" x="5802" y="1044" width="658" height="869" frameX="-74" frameY="-50" frameWidth="878" frameHeight="1005"/>
+	<SubTexture name="BFHandUp0000" x="6460" y="1044" width="958" height="1037" frameX="0" frameY="0" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0001" x="0" y="2085" width="823" height="976" frameX="-111" frameY="-81" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0002" x="0" y="2085" width="823" height="976" frameX="-111" frameY="-81" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0003" x="823" y="2085" width="700" height="898" frameX="-185" frameY="-161" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0004" x="823" y="2085" width="700" height="898" frameX="-185" frameY="-161" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0005" x="1523" y="2085" width="649" height="862" frameX="-216" frameY="-187" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0006" x="1523" y="2085" width="649" height="862" frameX="-216" frameY="-187" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0007" x="1523" y="2085" width="649" height="862" frameX="-216" frameY="-187" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0008" x="1523" y="2085" width="649" height="862" frameX="-216" frameY="-187" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0009" x="1523" y="2085" width="649" height="862" frameX="-216" frameY="-187" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0010" x="1523" y="2085" width="649" height="862" frameX="-216" frameY="-187" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0011" x="1523" y="2085" width="649" height="862" frameX="-216" frameY="-187" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0012" x="1523" y="2085" width="649" height="862" frameX="-216" frameY="-187" frameWidth="958" frameHeight="1059"/>
+	<SubTexture name="BFHandUp0013" x="1523" y="2085" width="649" height="862" frameX="-216" frameY="-187" frameWidth="958" frameHeight="1059"/>
+</TextureAtlas>

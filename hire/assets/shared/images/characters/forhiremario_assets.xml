@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="forhiremario_assets.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marioSHING0000" x="0" y="0" width="259" height="447" frameX="-25" frameY="-40" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0001" x="0" y="0" width="259" height="447" frameX="-25" frameY="-40" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0002" x="0" y="0" width="259" height="447" frameX="-25" frameY="-40" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0003" x="0" y="0" width="259" height="447" frameX="-25" frameY="-40" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0004" x="0" y="0" width="259" height="447" frameX="-25" frameY="-40" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0005" x="263" y="0" width="267" height="442" frameX="-25" frameY="-45" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0006" x="263" y="0" width="267" height="442" frameX="-25" frameY="-45" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0007" x="534" y="0" width="389" height="433" frameX="-28" frameY="-54" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0008" x="534" y="0" width="389" height="433" frameX="-28" frameY="-54" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0009" x="927" y="0" width="374" height="452" frameX="-11" frameY="-35" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0010" x="927" y="0" width="374" height="452" frameX="-11" frameY="-35" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0011" x="1305" y="0" width="383" height="473" frameX="0" frameY="-14" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0012" x="1305" y="0" width="383" height="473" frameX="0" frameY="-14" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0013" x="1692" y="0" width="390" height="483" frameX="0" frameY="-4" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0014" x="1692" y="0" width="390" height="483" frameX="0" frameY="-4" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0015" x="2086" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0016" x="2086" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0017" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0018" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0019" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0020" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0021" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0022" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0023" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0024" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0025" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0026" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0027" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="marioSHING0028" x="2483" y="0" width="393" height="487" frameX="0" frameY="0" frameWidth="417" frameHeight="487"/>
+	<SubTexture name="mariodown0000" x="2880" y="0" width="558" height="450"/>
+	<SubTexture name="mariodown0001" x="2880" y="0" width="558" height="450"/>
+	<SubTexture name="mariodown0002" x="3442" y="0" width="558" height="450"/>
+	<SubTexture name="mariodown0003" x="3442" y="0" width="558" height="450"/>
+	<SubTexture name="mariodown0004" x="0" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown0005" x="0" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown0006" x="562" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown0007" x="562" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown0008" x="1124" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown0009" x="1124" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown0010" x="1124" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown0011" x="1124" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown0012" x="1124" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown0013" x="1124" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0000" x="1686" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0001" x="1686" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0002" x="2248" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0003" x="2248" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0004" x="2810" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0005" x="2810" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0006" x="3372" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0007" x="3372" y="491" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0008" x="0" y="945" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0009" x="0" y="945" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0010" x="0" y="945" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0011" x="0" y="945" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0012" x="0" y="945" width="558" height="450"/>
+	<SubTexture name="mariodown KNIFE0013" x="0" y="945" width="558" height="450"/>
+	<SubTexture name="marioidle0000" x="562" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0001" x="562" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0002" x="1010" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0003" x="1010" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0004" x="1458" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0005" x="1458" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0006" x="1906" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0007" x="1906" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0008" x="2354" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0009" x="2354" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0010" x="2354" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0011" x="2354" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0012" x="2354" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle0013" x="2354" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0000" x="2802" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0001" x="2802" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0002" x="3250" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0003" x="3250" y="945" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0004" x="0" y="1412" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0005" x="0" y="1412" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0006" x="448" y="1412" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0007" x="448" y="1412" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0008" x="896" y="1412" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0009" x="896" y="1412" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0010" x="896" y="1412" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0011" x="896" y="1412" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0012" x="896" y="1412" width="444" height="463"/>
+	<SubTexture name="marioidle KNIFE0013" x="896" y="1412" width="444" height="463"/>
+	<SubTexture name="marioleft0000" x="1344" y="1412" width="553" height="475"/>
+	<SubTexture name="marioleft0001" x="1344" y="1412" width="553" height="475"/>
+	<SubTexture name="marioleft0002" x="1901" y="1412" width="553" height="475"/>
+	<SubTexture name="marioleft0003" x="1901" y="1412" width="553" height="475"/>
+	<SubTexture name="marioleft0004" x="2458" y="1412" width="553" height="475"/>
+	<SubTexture name="marioleft0005" x="2458" y="1412" width="553" height="475"/>
+	<SubTexture name="marioleft0006" x="3015" y="1412" width="553" height="475"/>
+	<SubTexture name="marioleft0007" x="3015" y="1412" width="553" height="475"/>
+	<SubTexture name="marioleft0008" x="0" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft0009" x="0" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft0010" x="0" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft0011" x="0" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft0012" x="0" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft0013" x="0" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0000" x="557" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0001" x="557" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0002" x="1114" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0003" x="1114" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0004" x="1671" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0005" x="1671" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0006" x="2228" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0007" x="2228" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0008" x="2785" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0009" x="2785" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0010" x="2785" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0011" x="2785" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0012" x="2785" y="1891" width="553" height="475"/>
+	<SubTexture name="marioleft KNIFE0013" x="2785" y="1891" width="553" height="475"/>
+	<SubTexture name="marioright0000" x="3342" y="1891" width="551" height="490"/>
+	<SubTexture name="marioright0001" x="3342" y="1891" width="551" height="490"/>
+	<SubTexture name="marioright0002" x="0" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright0003" x="0" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright0004" x="555" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright0005" x="555" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright0006" x="1110" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright0007" x="1110" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright0008" x="1665" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright0009" x="1665" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright0010" x="1665" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright0011" x="1665" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright0012" x="1665" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright0013" x="1665" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0000" x="2220" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0001" x="2220" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0002" x="2775" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0003" x="2775" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0004" x="3330" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0005" x="3330" y="2385" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0006" x="0" y="2879" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0007" x="0" y="2879" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0008" x="555" y="2879" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0009" x="555" y="2879" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0010" x="555" y="2879" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0011" x="555" y="2879" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0012" x="555" y="2879" width="551" height="490"/>
+	<SubTexture name="marioright KNIFE0013" x="555" y="2879" width="551" height="490"/>
+	<SubTexture name="marioup0000" x="1110" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0001" x="1110" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0002" x="1638" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0003" x="1638" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0004" x="2166" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0005" x="2166" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0006" x="2694" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0007" x="2694" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0008" x="3222" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0009" x="3222" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0010" x="3222" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0011" x="3222" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0012" x="3222" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup0013" x="3222" y="2879" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0000" x="0" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0001" x="0" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0002" x="528" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0003" x="528" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0004" x="1056" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0005" x="1056" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0006" x="1584" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0007" x="1584" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0008" x="2112" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0009" x="2112" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0010" x="2112" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0011" x="2112" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0012" x="2112" y="3404" width="524" height="521"/>
+	<SubTexture name="marioup KNIFE0013" x="2112" y="3404" width="524" height="521"/>
+</TextureAtlas>

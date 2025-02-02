@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfoptions.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfmenu0000" x="0" y="0" width="603" height="508" frameX="0" frameY="0" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0001" x="0" y="0" width="603" height="508" frameX="0" frameY="-1" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0002" x="0" y="0" width="603" height="508" frameX="0" frameY="-2" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0003" x="0" y="0" width="603" height="508" frameX="0" frameY="-3" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0004" x="0" y="0" width="603" height="508" frameX="0" frameY="-4" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0005" x="0" y="0" width="603" height="508" frameX="0" frameY="-5" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0006" x="0" y="0" width="603" height="508" frameX="0" frameY="-5" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0007" x="0" y="0" width="603" height="508" frameX="0" frameY="-5" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0008" x="0" y="0" width="603" height="508" frameX="0" frameY="-4" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0009" x="0" y="0" width="603" height="508" frameX="0" frameY="-3" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0010" x="0" y="0" width="603" height="508" frameX="0" frameY="-2" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0011" x="0" y="0" width="603" height="508" frameX="0" frameY="-1" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0012" x="0" y="0" width="603" height="508" frameX="0" frameY="0" frameWidth="603" frameHeight="513"/>
+	<SubTexture name="gfmenu0013" x="0" y="0" width="603" height="508" frameX="0" frameY="0" frameWidth="603" frameHeight="513"/>
+</TextureAtlas>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="motherbraintemp.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mother down0000" x="0" y="0" width="1299" height="987" frameX="0" frameY="-43" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0001" x="0" y="0" width="1299" height="987" frameX="0" frameY="-43" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0002" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0003" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0004" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0005" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0006" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0007" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0008" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0009" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0010" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0011" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0012" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother down0013" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0000" x="1303" y="0" width="1299" height="955" frameX="0" frameY="-75" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0001" x="1303" y="0" width="1299" height="955" frameX="0" frameY="-75" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0002" x="2606" y="0" width="1268" height="1012" frameX="-16" frameY="-18" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0003" x="2606" y="0" width="1268" height="1012" frameX="-16" frameY="-18" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0004" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0005" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0006" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0007" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0008" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0009" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0010" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0011" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0012" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother idle0013" x="0" y="1016" width="1249" height="1030" frameX="-25" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0000" x="1253" y="1016" width="1286" height="1030"/>
+	<SubTexture name="mother left0001" x="1253" y="1016" width="1286" height="1030"/>
+	<SubTexture name="mother left0002" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0003" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0004" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0005" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0006" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0007" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0008" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0009" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0010" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0011" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0012" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother left0013" x="0" y="1016" width="1249" height="1030" frameX="-37" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0000" x="2543" y="1016" width="1290" height="1030"/>
+	<SubTexture name="mother right0001" x="2543" y="1016" width="1290" height="1030"/>
+	<SubTexture name="mother right0002" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0003" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0004" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0005" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0006" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0007" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0008" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0009" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0010" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0011" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0012" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother right0013" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="0" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0000" x="0" y="2050" width="1212" height="1051" frameX="-18" frameY="0" frameWidth="1249" frameHeight="1051"/>
+	<SubTexture name="mother up0001" x="0" y="2050" width="1212" height="1051" frameX="-18" frameY="0" frameWidth="1249" frameHeight="1051"/>
+	<SubTexture name="mother up0002" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0003" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0004" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0005" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0006" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0007" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0008" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0009" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0010" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0011" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0012" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+	<SubTexture name="mother up0013" x="0" y="1016" width="1249" height="1030" frameX="0" frameY="-21" frameWidth="1299" frameHeight="1030"/>
+</TextureAtlas>

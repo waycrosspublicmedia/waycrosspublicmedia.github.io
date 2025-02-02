@@ -1,0 +1,30 @@
+{
+	"storyName": "...",
+	"hideFreeplay": false,
+	"weekBackground": "hank",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"hank",
+		"gf",
+		"bf"
+	],
+	"songs": [
+		[
+			"accelerant",
+			"hank",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": ""
+}

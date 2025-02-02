@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="levels.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="at-the-speed-of-light.png" x="0" y="0" width="977" height="541"/>
+	<SubTexture name="geometrical-dominator.png" x="977" y="0" width="1008" height="541"/>
+	<SubTexture name="infiltration.png" x="0" y="541" width="995" height="541"/>
+	<SubTexture name="striker.png" x="995" y="541" width="941" height="541"/>
+</TextureAtlas>

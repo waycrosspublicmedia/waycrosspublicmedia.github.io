@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="onwardbg.png"><SubTexture name="onwardbg left0000" x="0" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0001" x="684" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0002" x="1368" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0003" x="2052" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0004" x="2736" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0005" x="0" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0006" x="684" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0007" x="1368" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0008" x="2052" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0009" x="2736" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0010" x="0" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0011" x="684" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg left0012" x="1368" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0000" x="2052" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0001" x="2736" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0002" x="0" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0003" x="684" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0004" x="1368" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0005" x="2052" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0006" x="2736" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0007" x="0" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0008" x="684" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0009" x="1368" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0010" x="2052" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0011" x="2736" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="onwardbg right0012" x="0" y="2020" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+</TextureAtlas>

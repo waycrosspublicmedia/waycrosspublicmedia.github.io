@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gf portal idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "pick",
+			"fps": 24,
+			"name": "gf portal pick up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "outro",
+			"fps": 24,
+			"name": "gf portal outro",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "dig",
+			"loop": true,
+			"name": "gf portal dig"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gf-portal",
+	"position": [
+		-40,
+		-20
+	],
+	"healthicon": "gf-minecraft",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		47,
+		86
+	],
+	"camera_position": [
+		-1450,
+		-1300
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

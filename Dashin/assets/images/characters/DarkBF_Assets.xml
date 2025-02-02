@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DarkBF_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DarkBFDown0000" x="0" y="0" width="259" height="227" frameX="0" frameY="-7" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0001" x="259" y="0" width="259" height="227" frameX="0" frameY="-4" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0002" x="259" y="0" width="259" height="227" frameX="0" frameY="-4" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0003" x="518" y="0" width="259" height="227" frameX="0" frameY="-2" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0004" x="518" y="0" width="259" height="227" frameX="0" frameY="-2" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0005" x="777" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0006" x="777" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0007" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0008" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0009" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0010" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0011" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0012" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFDown0013" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkBFIdle0000" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0001" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0002" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0003" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0004" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0005" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0006" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0007" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0008" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0009" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0010" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0011" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0012" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFIdle0013" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkBFLeft0000" x="1302" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0001" x="1561" y="0" width="259" height="227" frameX="-5" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0002" x="1561" y="0" width="259" height="227" frameX="-5" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0003" x="0" y="227" width="259" height="227" frameX="-7" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0004" x="0" y="227" width="259" height="227" frameX="-7" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0005" x="259" y="227" width="259" height="227" frameX="-9" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0006" x="259" y="227" width="259" height="227" frameX="-9" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0007" x="518" y="227" width="259" height="227" frameX="-9" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0008" x="518" y="227" width="259" height="227" frameX="-9" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0009" x="518" y="227" width="259" height="227" frameX="-9" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0010" x="518" y="227" width="259" height="227" frameX="-9" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0011" x="518" y="227" width="259" height="227" frameX="-9" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0012" x="518" y="227" width="259" height="227" frameX="-9" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFLeft0013" x="518" y="227" width="259" height="227" frameX="-9" frameY="0" frameWidth="268" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0000" x="777" y="227" width="259" height="227" frameX="-6" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0001" x="1036" y="227" width="259" height="227" frameX="-3" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0002" x="1036" y="227" width="259" height="227" frameX="-3" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0003" x="1295" y="227" width="259" height="227" frameX="-1" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0004" x="1295" y="227" width="259" height="227" frameX="-1" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0005" x="1554" y="227" width="259" height="227" frameX="0" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0006" x="1554" y="227" width="259" height="227" frameX="0" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0007" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0008" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0009" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0010" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0011" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0012" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFRight0013" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="265" frameHeight="227"/>
+	<SubTexture name="DarkBFUp0000" x="259" y="454" width="259" height="230" frameX="0" frameY="0" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0001" x="518" y="454" width="259" height="227" frameX="0" frameY="-5" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0002" x="518" y="454" width="259" height="227" frameX="0" frameY="-5" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0003" x="777" y="454" width="259" height="227" frameX="0" frameY="-9" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0004" x="777" y="454" width="259" height="227" frameX="0" frameY="-9" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0005" x="1036" y="454" width="259" height="227" frameX="0" frameY="-11" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0006" x="1036" y="454" width="259" height="227" frameX="0" frameY="-11" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0007" x="1295" y="454" width="259" height="227" frameX="0" frameY="-11" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0008" x="1295" y="454" width="259" height="227" frameX="0" frameY="-11" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0009" x="1295" y="454" width="259" height="227" frameX="0" frameY="-11" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0010" x="1295" y="454" width="259" height="227" frameX="0" frameY="-11" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0011" x="1295" y="454" width="259" height="227" frameX="0" frameY="-11" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0012" x="1295" y="454" width="259" height="227" frameX="0" frameY="-11" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkBFUp0013" x="1295" y="454" width="259" height="227" frameX="0" frameY="-11" frameWidth="259" frameHeight="238"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+{
+	"storyName": "Challenge Unloaded",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Unloaded",
+			"uberkid",
+			[
+				0,
+				93,
+				213
+			]
+		]
+	],
+	"weekCharacters": [
+		"uber",
+		"unloadlogo",
+		"picogang"
+	],
+	"weekName": "Unloaded"
+}

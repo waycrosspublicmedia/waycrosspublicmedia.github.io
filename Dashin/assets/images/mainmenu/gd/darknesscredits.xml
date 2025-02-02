@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darknesscredits.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="darknessmenu0000" x="0" y="0" width="530" height="563" frameX="0" frameY="0" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0001" x="0" y="0" width="530" height="563" frameX="0" frameY="-1" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0002" x="0" y="0" width="530" height="563" frameX="0" frameY="-2" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0003" x="0" y="0" width="530" height="563" frameX="0" frameY="-3" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0004" x="0" y="0" width="530" height="563" frameX="0" frameY="-4" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0005" x="0" y="0" width="530" height="563" frameX="0" frameY="-5" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0006" x="0" y="0" width="530" height="563" frameX="0" frameY="-5" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0007" x="0" y="0" width="530" height="563" frameX="0" frameY="-5" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0008" x="0" y="0" width="530" height="563" frameX="0" frameY="-4" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0009" x="0" y="0" width="530" height="563" frameX="0" frameY="-3" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0010" x="0" y="0" width="530" height="563" frameX="0" frameY="-2" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0011" x="0" y="0" width="530" height="563" frameX="0" frameY="-1" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0012" x="0" y="0" width="530" height="563" frameX="0" frameY="0" frameWidth="530" frameHeight="568"/>
+	<SubTexture name="darknessmenu0013" x="0" y="0" width="530" height="563" frameX="0" frameY="0" frameWidth="530" frameHeight="568"/>
+</TextureAtlas>

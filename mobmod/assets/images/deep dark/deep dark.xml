@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deep dark.png"><SubTexture name="deep dark idle0000" x="0" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0001" x="504" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0002" x="1008" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0003" x="1512" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0004" x="2016" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0005" x="0" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0006" x="504" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0007" x="1008" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0008" x="1512" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0009" x="2016" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0010" x="0" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0011" x="504" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0012" x="1008" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0013" x="1512" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0014" x="2016" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0015" x="0" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0016" x="504" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0017" x="1008" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0018" x="1512" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0019" x="2016" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0020" x="0" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0021" x="504" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0022" x="1008" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0023" x="1512" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="deep dark idle0024" x="2016" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+</TextureAtlas>

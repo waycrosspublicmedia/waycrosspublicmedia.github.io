@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dashy Tiny.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dashy Down0000" x="0" y="0" width="1900" height="1159" frameX="0" frameY="-18" frameWidth="1916" frameHeight="1177"/>
+	<SubTexture name="Dashy Down0001" x="0" y="0" width="1900" height="1159" frameX="0" frameY="-18" frameWidth="1916" frameHeight="1177"/>
+	<SubTexture name="Dashy Down0002" x="1900" y="0" width="1907" height="1153" frameX="-9" frameY="-2" frameWidth="1916" frameHeight="1177"/>
+	<SubTexture name="Dashy Down0003" x="1900" y="0" width="1907" height="1153" frameX="-9" frameY="-2" frameWidth="1916" frameHeight="1177"/>
+	<SubTexture name="Dashy Down0004" x="3807" y="0" width="1896" height="1151" frameX="-18" frameY="0" frameWidth="1916" frameHeight="1177"/>
+	<SubTexture name="Dashy Down0005" x="3807" y="0" width="1896" height="1151" frameX="-18" frameY="0" frameWidth="1916" frameHeight="1177"/>
+	<SubTexture name="Dashy Down0006" x="3807" y="0" width="1896" height="1151" frameX="-18" frameY="0" frameWidth="1916" frameHeight="1177"/>
+	<SubTexture name="Dashy Down0007" x="3807" y="0" width="1896" height="1151" frameX="-18" frameY="0" frameWidth="1916" frameHeight="1177"/>
+	<SubTexture name="Dashy Down0008" x="3807" y="0" width="1896" height="1151" frameX="-18" frameY="0" frameWidth="1916" frameHeight="1177"/>
+	<SubTexture name="Dashy Down0009" x="3807" y="0" width="1896" height="1151" frameX="-18" frameY="0" frameWidth="1916" frameHeight="1177"/>
+	<SubTexture name="Dashy Idle0000" x="5703" y="0" width="2066" height="1171" frameX="0" frameY="-69" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0001" x="5703" y="0" width="2066" height="1171" frameX="0" frameY="-69" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0002" x="0" y="1171" width="2083" height="1180" frameX="-5" frameY="-61" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0003" x="0" y="1171" width="2083" height="1180" frameX="-5" frameY="-61" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0004" x="2083" y="1171" width="2029" height="1145" frameX="-14" frameY="-41" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0005" x="2083" y="1171" width="2029" height="1145" frameX="-14" frameY="-41" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0006" x="4112" y="1171" width="1986" height="1134" frameX="-21" frameY="-5" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0007" x="4112" y="1171" width="1986" height="1134" frameX="-21" frameY="-5" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0008" x="6098" y="1171" width="1952" height="1120" frameX="-22" frameY="0" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0009" x="6098" y="1171" width="1952" height="1120" frameX="-22" frameY="0" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0010" x="6098" y="1171" width="1952" height="1120" frameX="-22" frameY="0" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0011" x="6098" y="1171" width="1952" height="1120" frameX="-22" frameY="0" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0012" x="6098" y="1171" width="1952" height="1120" frameX="-22" frameY="0" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0013" x="6098" y="1171" width="1952" height="1120" frameX="-22" frameY="0" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0014" x="6098" y="1171" width="1952" height="1120" frameX="-22" frameY="0" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Idle0015" x="6098" y="1171" width="1952" height="1120" frameX="-22" frameY="0" frameWidth="2088" frameHeight="1241"/>
+	<SubTexture name="Dashy Left0000" x="0" y="2351" width="1829" height="1214" frameX="0" frameY="0" frameWidth="1831" frameHeight="1214"/>
+	<SubTexture name="Dashy Left0001" x="0" y="2351" width="1829" height="1214" frameX="0" frameY="0" frameWidth="1831" frameHeight="1214"/>
+	<SubTexture name="Dashy Left0002" x="1829" y="2351" width="1807" height="1210" frameX="-24" frameY="-4" frameWidth="1831" frameHeight="1214"/>
+	<SubTexture name="Dashy Left0003" x="1829" y="2351" width="1807" height="1210" frameX="-24" frameY="-4" frameWidth="1831" frameHeight="1214"/>
+	<SubTexture name="Dashy Left0004" x="3636" y="2351" width="1799" height="1208" frameX="-32" frameY="-6" frameWidth="1831" frameHeight="1214"/>
+	<SubTexture name="Dashy Left0005" x="3636" y="2351" width="1799" height="1208" frameX="-32" frameY="-6" frameWidth="1831" frameHeight="1214"/>
+	<SubTexture name="Dashy Left0006" x="3636" y="2351" width="1799" height="1208" frameX="-32" frameY="-6" frameWidth="1831" frameHeight="1214"/>
+	<SubTexture name="Dashy Left0007" x="3636" y="2351" width="1799" height="1208" frameX="-32" frameY="-6" frameWidth="1831" frameHeight="1214"/>
+	<SubTexture name="Dashy Left0008" x="3636" y="2351" width="1799" height="1208" frameX="-32" frameY="-6" frameWidth="1831" frameHeight="1214"/>
+	<SubTexture name="Dashy Left0009" x="3636" y="2351" width="1799" height="1208" frameX="-32" frameY="-6" frameWidth="1831" frameHeight="1214"/>
+	<SubTexture name="Dashy Right0000" x="5435" y="2351" width="1928" height="1233"/>
+	<SubTexture name="Dashy Right0001" x="5435" y="2351" width="1928" height="1233"/>
+	<SubTexture name="Dashy Right0002" x="0" y="3584" width="1865" height="1224" frameX="-1" frameY="-9" frameWidth="1928" frameHeight="1233"/>
+	<SubTexture name="Dashy Right0003" x="0" y="3584" width="1865" height="1224" frameX="-1" frameY="-9" frameWidth="1928" frameHeight="1233"/>
+	<SubTexture name="Dashy Right0004" x="1865" y="3584" width="1860" height="1224" frameX="-1" frameY="-9" frameWidth="1928" frameHeight="1233"/>
+	<SubTexture name="Dashy Right0005" x="1865" y="3584" width="1860" height="1224" frameX="-1" frameY="-9" frameWidth="1928" frameHeight="1233"/>
+	<SubTexture name="Dashy Right0006" x="1865" y="3584" width="1860" height="1224" frameX="-1" frameY="-9" frameWidth="1928" frameHeight="1233"/>
+	<SubTexture name="Dashy Right0007" x="1865" y="3584" width="1860" height="1224" frameX="-1" frameY="-9" frameWidth="1928" frameHeight="1233"/>
+	<SubTexture name="Dashy Right0008" x="1865" y="3584" width="1860" height="1224" frameX="-1" frameY="-9" frameWidth="1928" frameHeight="1233"/>
+	<SubTexture name="Dashy Right0009" x="1865" y="3584" width="1860" height="1224" frameX="-1" frameY="-9" frameWidth="1928" frameHeight="1233"/>
+	<SubTexture name="Dashy Right0010" x="1865" y="3584" width="1860" height="1224" frameX="-1" frameY="-9" frameWidth="1928" frameHeight="1233"/>
+	<SubTexture name="Dashy Up0000" x="3725" y="3584" width="1837" height="1500" frameX="-13" frameY="0" frameWidth="1867" frameHeight="1501"/>
+	<SubTexture name="Dashy Up0001" x="3725" y="3584" width="1837" height="1500" frameX="-13" frameY="0" frameWidth="1867" frameHeight="1501"/>
+	<SubTexture name="Dashy Up0002" x="5562" y="3584" width="1864" height="1500" frameX="-3" frameY="0" frameWidth="1867" frameHeight="1501"/>
+	<SubTexture name="Dashy Up0003" x="5562" y="3584" width="1864" height="1500" frameX="-3" frameY="0" frameWidth="1867" frameHeight="1501"/>
+	<SubTexture name="Dashy Up0004" x="0" y="5084" width="1867" height="1500" frameX="0" frameY="-1" frameWidth="1867" frameHeight="1501"/>
+	<SubTexture name="Dashy Up0005" x="0" y="5084" width="1867" height="1500" frameX="0" frameY="-1" frameWidth="1867" frameHeight="1501"/>
+	<SubTexture name="Dashy Up0006" x="0" y="5084" width="1867" height="1500" frameX="0" frameY="-1" frameWidth="1867" frameHeight="1501"/>
+	<SubTexture name="Dashy Up0007" x="0" y="5084" width="1867" height="1500" frameX="0" frameY="-1" frameWidth="1867" frameHeight="1501"/>
+	<SubTexture name="Dashy Up0008" x="0" y="5084" width="1867" height="1500" frameX="0" frameY="-1" frameWidth="1867" frameHeight="1501"/>
+	<SubTexture name="Dashy Up0009" x="0" y="5084" width="1867" height="1500" frameX="0" frameY="-1" frameWidth="1867" frameHeight="1501"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="royal.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="royal1.png" x="0" y="0" width="128" height="34"/>
+	<SubTexture name="royal2.png" x="0" y="34" width="128" height="34"/>
+</TextureAtlas>

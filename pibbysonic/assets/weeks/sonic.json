@@ -1,0 +1,40 @@
+{
+	"storyName": "you're too slow",
+	"hideFreeplay": false,
+	"difficulties": "Hard",
+	"weekBackground": "boomsonic",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Green Hills",
+			"boom",
+			[
+				0,
+				0,
+				113
+			]
+		],
+		[
+			"Not Fast Enough",
+			"boom",
+			[
+				0,
+				0,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sonic"
+}

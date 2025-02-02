@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left pose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-38
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down pose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Geecko_FH_Sonic",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "GeeFH",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		64,
+		226
+	],
+	"camera_position": [
+		140,
+		100
+	],
+	"sing_duration": 5,
+	"scale": 0.9
+}

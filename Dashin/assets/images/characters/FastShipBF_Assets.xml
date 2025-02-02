@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FastShipBF_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FastShipBFDown0000" x="0" y="0" width="1058" height="535" frameX="0" frameY="-38" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0001" x="1058" y="0" width="995" height="538" frameX="-41" frameY="-30" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0002" x="2053" y="0" width="1105" height="550" frameX="0" frameY="-22" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0003" x="3158" y="0" width="1043" height="560" frameX="-41" frameY="-8" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0004" x="4201" y="0" width="1105" height="573"/>
+	<SubTexture name="FastShipBFDown0005" x="5306" y="0" width="995" height="566" frameX="-41" frameY="-1" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0006" x="6301" y="0" width="1058" height="566" frameX="0" frameY="-7" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0007" x="0" y="573" width="995" height="558" frameX="-41" frameY="-9" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0008" x="995" y="573" width="1105" height="566" frameX="0" frameY="-7" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0009" x="2100" y="573" width="1043" height="558" frameX="-41" frameY="-9" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0010" x="995" y="573" width="1105" height="566" frameX="0" frameY="-7" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0011" x="0" y="573" width="995" height="558" frameX="-41" frameY="-9" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0012" x="6301" y="0" width="1058" height="566" frameX="0" frameY="-7" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFDown0013" x="3143" y="573" width="972" height="558" frameX="-41" frameY="-9" frameWidth="1105" frameHeight="573"/>
+	<SubTexture name="FastShipBFIdle0000" x="4115" y="573" width="1058" height="570" frameX="0" frameY="0" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0001" x="5173" y="573" width="995" height="563" frameX="-41" frameY="-2" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0002" x="6168" y="573" width="1105" height="572" frameX="0" frameY="0" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0003" x="0" y="1145" width="1043" height="565" frameX="-41" frameY="-2" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0004" x="1043" y="1145" width="1105" height="574" frameX="0" frameY="0" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0005" x="2148" y="1145" width="995" height="567" frameX="-41" frameY="-2" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0006" x="3143" y="1145" width="1058" height="575" frameX="0" frameY="0" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0007" x="4201" y="1145" width="995" height="567" frameX="-41" frameY="-2" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0008" x="1043" y="1145" width="1105" height="574" frameX="0" frameY="0" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0009" x="5196" y="1145" width="1043" height="565" frameX="-41" frameY="-2" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0010" x="6168" y="573" width="1105" height="572" frameX="0" frameY="0" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0011" x="6239" y="1145" width="995" height="563" frameX="-41" frameY="-2" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0012" x="0" y="1720" width="1058" height="570" frameX="0" frameY="0" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFIdle0013" x="1058" y="1720" width="972" height="560" frameX="-41" frameY="-3" frameWidth="1105" frameHeight="575"/>
+	<SubTexture name="FastShipBFLeft0000" x="2030" y="1720" width="1107" height="604" frameX="0" frameY="0" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0001" x="3137" y="1720" width="1035" height="598" frameX="-51" frameY="0" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0002" x="4172" y="1720" width="1129" height="595" frameX="-26" frameY="-9" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0003" x="5301" y="1720" width="1057" height="589" frameX="-78" frameY="-9" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0004" x="6358" y="1720" width="1105" height="583" frameX="-50" frameY="-21" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0005" x="0" y="2324" width="995" height="577" frameX="-91" frameY="-21" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0006" x="995" y="2324" width="1058" height="576" frameX="-50" frameY="-28" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0007" x="2053" y="2324" width="995" height="568" frameX="-91" frameY="-30" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0008" x="3048" y="2324" width="1105" height="576" frameX="-50" frameY="-28" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0009" x="4153" y="2324" width="1043" height="568" frameX="-91" frameY="-30" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0010" x="3048" y="2324" width="1105" height="576" frameX="-50" frameY="-28" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0011" x="2053" y="2324" width="995" height="568" frameX="-91" frameY="-30" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0012" x="995" y="2324" width="1058" height="576" frameX="-50" frameY="-28" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFLeft0013" x="5196" y="2324" width="972" height="568" frameX="-91" frameY="-30" frameWidth="1155" frameHeight="604"/>
+	<SubTexture name="FastShipBFRight0000" x="6168" y="2324" width="1127" height="585" frameX="0" frameY="0" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0001" x="0" y="2909" width="1042" height="577" frameX="-41" frameY="-2" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0002" x="1042" y="2909" width="1136" height="578" frameX="0" frameY="-7" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0003" x="2178" y="2909" width="1057" height="571" frameX="-41" frameY="-8" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0004" x="3235" y="2909" width="1105" height="576" frameX="0" frameY="-9" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0005" x="4340" y="2909" width="995" height="567" frameX="-41" frameY="-12" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0006" x="5335" y="2909" width="1058" height="581" frameX="0" frameY="-4" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0007" x="6393" y="2909" width="995" height="574" frameX="-41" frameY="-5" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0008" x="0" y="3490" width="1105" height="580" frameX="0" frameY="-5" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0009" x="1105" y="3490" width="1043" height="573" frameX="-41" frameY="-6" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0010" x="2148" y="3490" width="1105" height="581" frameX="0" frameY="-4" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0011" x="6393" y="2909" width="995" height="574" frameX="-41" frameY="-5" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0012" x="3253" y="3490" width="1058" height="580" frameX="0" frameY="-5" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFRight0013" x="4311" y="3490" width="972" height="573" frameX="-41" frameY="-6" frameWidth="1136" frameHeight="585"/>
+	<SubTexture name="FastShipBFUp0000" x="5283" y="3490" width="1058" height="678" frameX="0" frameY="0" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0001" x="6341" y="3490" width="995" height="655" frameX="-41" frameY="-17" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0002" x="0" y="4168" width="1105" height="643" frameX="0" frameY="-34" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0003" x="1105" y="4168" width="1043" height="618" frameX="-41" frameY="-54" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0004" x="2148" y="4168" width="1105" height="602" frameX="0" frameY="-76" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0005" x="3253" y="4168" width="995" height="592" frameX="-41" frameY="-80" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0006" x="4248" y="4168" width="1058" height="591" frameX="0" frameY="-87" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0007" x="5306" y="4168" width="995" height="582" frameX="-41" frameY="-90" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0008" x="6301" y="4168" width="1105" height="591" frameX="0" frameY="-87" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0009" x="0" y="4811" width="1043" height="582" frameX="-41" frameY="-90" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0010" x="6301" y="4168" width="1105" height="591" frameX="0" frameY="-87" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0011" x="5306" y="4168" width="995" height="582" frameX="-41" frameY="-90" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0012" x="4248" y="4168" width="1058" height="591" frameX="0" frameY="-87" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="FastShipBFUp0013" x="1043" y="4811" width="972" height="582" frameX="-41" frameY="-90" frameWidth="1105" frameHeight="678"/>
+	<SubTexture name="MISSFastShipBFDown0000" x="2015" y="4811" width="810" height="507" frameX="0" frameY="-60" frameWidth="810" frameHeight="567"/>
+	<SubTexture name="MISSFastShipBFDown0001" x="2825" y="4811" width="810" height="520" frameX="0" frameY="-47" frameWidth="810" frameHeight="567"/>
+	<SubTexture name="MISSFastShipBFDown0002" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFDown0003" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFDown0004" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFDown0005" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFDown0006" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFDown0007" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFDown0008" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFDown0009" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFDown0010" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFDown0011" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFDown0012" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFDown0013" x="3635" y="4811" width="810" height="567"/>
+	<SubTexture name="MISSFastShipBFLeft0000" x="4445" y="4811" width="877" height="571" frameX="0" frameY="-45" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0001" x="5322" y="4811" width="843" height="616" frameX="-35" frameY="0" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0002" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0003" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0004" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0005" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0006" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0007" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0008" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0009" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0010" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0011" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0012" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFLeft0013" x="6165" y="4811" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSFastShipBFRight0000" x="6975" y="4811" width="876" height="588"/>
+	<SubTexture name="MISSFastShipBFRight0001" x="0" y="5427" width="848" height="582" frameX="0" frameY="-6" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0002" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0003" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0004" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0005" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0006" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0007" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0008" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0009" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0010" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0011" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0012" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFRight0013" x="848" y="5427" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSFastShipBFUp0000" x="1658" y="5427" width="810" height="698"/>
+	<SubTexture name="MISSFastShipBFUp0001" x="2468" y="5427" width="810" height="622" frameX="0" frameY="-76" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0002" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0003" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0004" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0005" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0006" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0007" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0008" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0009" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0010" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0011" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0012" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSFastShipBFUp0013" x="3278" y="5427" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+</TextureAtlas>

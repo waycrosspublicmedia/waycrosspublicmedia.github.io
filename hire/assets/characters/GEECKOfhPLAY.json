@@ -1,0 +1,161 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left pose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				42
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				34,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left pose miss"
+		},
+		{
+			"offsets": [
+				16,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down pose"
+		},
+		{
+			"offsets": [
+				11,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down pose miss"
+		},
+		{
+			"offsets": [
+				47,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up pose miss"
+		},
+		{
+			"offsets": [
+				-22,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right pose miss"
+		},
+		{
+			"offsets": [
+				252,
+				372
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "bro is dead frfr"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [
+				30,
+				31
+			],
+			"name": "bro is dead frfr"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [
+				30,
+				31
+			],
+			"name": "bro is dead frfr"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Geecko_FH_Sonic",
+	"position": [
+		-670,
+		0
+	],
+	"healthicon": "GeeFH",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		64,
+		226
+	],
+	"camera_position": [
+		-420,
+		140
+	],
+	"sing_duration": 5,
+	"scale": 0.9
+}

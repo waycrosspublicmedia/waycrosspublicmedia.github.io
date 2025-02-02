@@ -1,0 +1,10 @@
+{
+	"idle_anim": "uberbop",
+	"image": "menu_uber",
+	"position": [
+		188,
+		10
+	],
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}
