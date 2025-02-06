@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lavas.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence lave 10000" x="0" y="0" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10001" x="0" y="0" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10002" x="0" y="0" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10003" x="0" y="0" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10004" x="0" y="0" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10005" x="0" y="569" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10006" x="0" y="569" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10007" x="0" y="569" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10008" x="0" y="569" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10009" x="0" y="569" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10010" x="0" y="1138" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10011" x="0" y="1138" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10012" x="0" y="1138" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10013" x="0" y="1138" width="1289" height="569"/>
+	<SubTexture name="Occurrence lave 10014" x="0" y="1138" width="1289" height="569"/>
+</TextureAtlas>

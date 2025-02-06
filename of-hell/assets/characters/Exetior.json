@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				403,
+				101
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				142
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-212,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-53,
+				-12
+			],
+			"indices": [],
+			"fps": 50,
+			"anim": "laugh",
+			"loop": true,
+			"name": "Laugh instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Exetior_Assets",
+	"position": [
+		710,
+		-110
+	],
+	"healthicon": "icon-exetior",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		33,
+		98
+	],
+	"camera_position": [
+		-280,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

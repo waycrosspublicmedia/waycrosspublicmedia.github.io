@@ -1,0 +1,42 @@
+{
+	"storyName": "WEEK 3",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		
+		[
+			"South Tropic",
+			"sally",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Snowy Volcano",
+			"sally",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1848,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				1895,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gauche"
+		},
+		{
+			"offsets": [
+				1840,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "droite"
+		},
+		{
+			"offsets": [
+				1803,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bas"
+		},
+		{
+			"offsets": [
+				1845,
+				93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "haut"
+		},
+		{
+			"offsets": [
+				253,
+				827
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "debut",
+			"indices": [],
+			"name": "debut"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				724,
+				550
+			],
+			"anim": "fin",
+			"fps": 24,
+			"name": "mort",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wisper",
+	"position": [
+		510,
+		210
+	],
+	"healthicon": "die",
+	"flip_x": true,
+	"healthbar_colors": [
+		111,
+		96,
+		84
+	],
+	"camera_position": [
+		-90,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

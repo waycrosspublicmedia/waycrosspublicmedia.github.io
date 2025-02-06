@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Parappa Story (1).png">
+	<!-- Created with Adobe Animate version 24.0.5.40 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="parappa idle dance instance 10000" x="0" y="0" width="346" height="452" frameX="0" frameY="-3" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10001" x="0" y="0" width="346" height="452" frameX="0" frameY="-3" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10002" x="346" y="0" width="338" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10003" x="346" y="0" width="338" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10004" x="684" y="0" width="336" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10005" x="684" y="0" width="336" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10006" x="0" y="455" width="336" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10007" x="0" y="455" width="336" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10008" x="336" y="455" width="336" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10009" x="336" y="455" width="336" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10010" x="336" y="455" width="336" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10011" x="336" y="455" width="336" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10012" x="336" y="455" width="336" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+	<SubTexture name="parappa idle dance instance 10013" x="336" y="455" width="336" height="455" frameX="-7" frameY="0" frameWidth="346" frameHeight="455"/>
+</TextureAtlas>

@@ -1,0 +1,54 @@
+{
+  "version": "2.2.4",
+  "songName": "Dadbattle (PaRappa Mix)",
+  "artist": "abyo & DingusCola",
+  "charter": "Demonic ninjamuffin99",
+  "divisions": 96,
+  "looped": false,
+  "offsets": {
+    "instrumental": 0,
+    "altInstrumentals": {    },
+    "vocals": {    },
+    "altVocals": {    }
+  },
+  "playData": {
+    "songVariations": [    ],
+    "difficulties": [
+      "easy",
+      "normal",
+      "hard"
+    ],
+    "characters": {
+      "player": "parappa",
+      "girlfriend": "pjDJ",
+      "opponent": "dad",
+      "instrumental": "parappa",
+      "altInstrumentals": [      ]
+    },
+    "stage": "mainStageErect-parappaEdit",
+    "noteStyle": "funkin",
+    "ratings": {
+      "easy": 0
+    },
+    "previewStart": 0,
+    "previewEnd": 0,
+    "album": "parappamix1"
+  },
+  "generatedBy": "Friday Night Funkin' - v0.5.3",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 180,
+      "n": 4,
+      "d": 4,
+      "bt": [
+        4,
+        4,
+        4,
+        4
+      ]
+    }
+  ]
+}

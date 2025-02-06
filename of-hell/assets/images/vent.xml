@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vent.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vent0000" x="4" y="4" width="1859" height="888" frameX="-538" frameY="-56" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0001" x="1867" y="4" width="1828" height="889" frameX="-569" frameY="-56" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0002" x="3699" y="4" width="2055" height="889" frameX="-342" frameY="-56" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0003" x="5758" y="4" width="2041" height="839" frameX="-342" frameY="-106" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0004" x="4" y="897" width="2041" height="561" frameX="-342" frameY="-106" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0005" x="2049" y="897" width="2383" height="561" frameX="0" frameY="-106" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0006" x="4436" y="897" width="1905" height="345" frameX="0" frameY="-289" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0007" x="4436" y="897" width="1905" height="345" frameX="0" frameY="-289" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0008" x="6345" y="897" width="1764" height="345" frameX="-141" frameY="-289" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0009" x="4" y="1462" width="1545" height="279" frameX="-141" frameY="-364" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0010" x="4" y="1462" width="1545" height="279" frameX="-141" frameY="-364" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0011" x="1553" y="1462" width="2201" height="643" frameX="-175" frameY="0" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0012" x="3758" y="1462" width="2201" height="640" frameX="-175" frameY="0" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0013" x="3758" y="1462" width="2201" height="640" frameX="-175" frameY="0" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0014" x="5963" y="1462" width="1867" height="591" frameX="-495" frameY="-49" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0015" x="4" y="2109" width="1837" height="593" frameX="-525" frameY="-49" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0016" x="1845" y="2109" width="1916" height="897" frameX="-525" frameY="-49" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0017" x="3765" y="2109" width="1916" height="713" frameX="-525" frameY="-233" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0018" x="5685" y="2109" width="1792" height="713" frameX="-649" frameY="-233" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0019" x="4" y="3010" width="1778" height="737" frameX="-649" frameY="-233" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0020" x="1786" y="3010" width="2077" height="662" frameX="-350" frameY="-308" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0021" x="1786" y="3010" width="2077" height="662" frameX="-350" frameY="-308" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0022" x="3867" y="3010" width="1598" height="629" frameX="-350" frameY="-308" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0023" x="5469" y="3010" width="1475" height="632" frameX="-473" frameY="-305" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0024" x="5469" y="3010" width="1475" height="632" frameX="-473" frameY="-305" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0025" x="4" y="3751" width="1314" height="641" frameX="-415" frameY="-305" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0026" x="1322" y="3751" width="1895" height="708" frameX="-415" frameY="-238" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0027" x="1322" y="3751" width="1895" height="708" frameX="-415" frameY="-238" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0028" x="3221" y="3751" width="1806" height="706" frameX="-504" frameY="-238" frameWidth="2441" frameHeight="970"/>
+	<SubTexture name="vent0029" x="5031" y="3751" width="1756" height="684" frameX="-538" frameY="-260" frameWidth="2441" frameHeight="970"/>
+</TextureAtlas>

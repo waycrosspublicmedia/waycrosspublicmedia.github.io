@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-324,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-35,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-193,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-224,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-261,
+				-16
+			],
+			"anim": "Point",
+			"fps": 24,
+			"name": "point",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-287,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Exeller_Assets",
+	"position": [
+		-380,
+		-20
+	],
+	"healthicon": "icon-exeller",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		31,
+		162
+	],
+	"camera_position": [
+		320,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

@@ -1,0 +1,104 @@
+{
+	"storyName": "saness",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Doll",
+			"execun",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Poor Girl",
+			"creamexe",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Arch Soul",
+			"knuckles",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Unwarp",
+			"darkexeller",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Dark Spirit",
+			"iso",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Amnesia",
+			"exeller-sprite",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Ice Cap",
+			"knuckles-sprite",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Alliance But Cringe",
+			"ctails",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Whisper",
+			"whisper",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

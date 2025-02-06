@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="plant 1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="plant 20000" x="4" y="4" width="320" height="454" frameX="0" frameY="-2" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20001" x="4" y="4" width="320" height="454" frameX="0" frameY="-2" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20002" x="328" y="4" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20003" x="328" y="4" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20004" x="647" y="4" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20005" x="647" y="4" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20006" x="966" y="4" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20007" x="966" y="4" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20008" x="1285" y="4" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20009" x="1285" y="4" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20010" x="1604" y="4" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20011" x="1604" y="4" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20012" x="4" y="464" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20013" x="4" y="464" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+	<SubTexture name="plant 20014" x="4" y="464" width="315" height="456" frameX="-4" frameY="0" frameWidth="320" frameHeight="456"/>
+</TextureAtlas>

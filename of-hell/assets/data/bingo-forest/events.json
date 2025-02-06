@@ -1,0 +1,276 @@
+{
+	"song": {
+		"events": [
+			[
+				25600,
+				[
+					[
+						"Flashing Camera",
+						"flash ",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Flashing Camera",
+						"flash ",
+						""
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Flashing Camera",
+						"flash ",
+						""
+					]
+				]
+			],
+			[
+				155100,
+				[
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				155200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"vanilla"
+					],
+					[
+						"Play Animation",
+						"chao",
+						"dad"
+					]
+				]
+			],
+			[
+				155800,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"gf"
+					]
+				]
+			],
+			[
+				156700,
+				[
+					[
+						"Flashing Camera",
+						"flash ",
+						""
+					]
+				]
+			],
+			[
+				156800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"creamsad"
+					]
+				]
+			],
+			[
+				157900,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf"
+					]
+				]
+			],
+			[
+				161600,
+				[
+					[
+						"badapplelol",
+						"a",
+						"10"
+					]
+				]
+			],
+			[
+				161700,
+				[
+					[
+						"Middle_Scroll_Switch",
+						"",
+						""
+					]
+				]
+			],
+			[
+				166400,
+				[
+					[
+						"Note Swap",
+						"",
+						""
+					]
+				]
+			],
+			[
+				189400,
+				[
+					[
+						"Play Animation",
+						"attacksd",
+						"dad"
+					]
+				]
+			],
+			[
+				189500,
+				[
+					[
+						"DodgeEvent",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				191900,
+				[
+					[
+						"badapplelol",
+						"b",
+						"1"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					],
+					[
+						"pixelStage",
+						"",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"vanilla dark"
+					]
+				]
+			],
+			[
+				217600,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				217700,
+				[
+					[
+						"DodgeEvent",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				243200,
+				[
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				294400,
+				[
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				345600,
+				[
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				371200,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				371300,
+				[
+					[
+						"DodgeEvent",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				399900,
+				[
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				400000,
+				[
+					[
+						"Play Animation",
+						"cheese",
+						"dad"
+					],
+					[
+						"Change Character",
+						"bf",
+						"creamgone"
+					]
+				]
+			]
+		]
+	}
+}

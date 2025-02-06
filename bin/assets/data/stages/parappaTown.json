@@ -1,0 +1,80 @@
+{
+  "props": [
+    {
+      "name": "sky",
+      "assetPath": "parappatown/sky",
+      "position": [-710, -487],
+      "scale": [1, 1],
+      "zIndex": 10,
+      "scroll": [0.01, 0.01]
+    },
+    {
+      "name": "clouds",
+      "assetPath": "parappatown/clouds",
+      "position": [-4722, -165],
+      "scroll": [0.03, 0.03],
+      "scale": [0.8, 0.8],
+      "zIndex": 11
+    },
+    {
+      "name": "mountains",
+      "assetPath": "parappatown/mountains",
+      "position": [-729, 125],
+      "scroll": [0.2, 0.2],
+      "scale": [0.8, 0.8],
+      "zIndex": 12
+    },
+    {
+      "name": "backprops",
+      "assetPath": "parappatown/backprops",
+      "position": [-99, 105],
+      "scroll": [0.5, 0.4],
+      "scale": [0.8, 0.8],
+      "zIndex": 13
+    },
+    {
+      "name": "ground",
+      "assetPath": "parappatown/ground",
+      "position": [-799, -580],
+      "scroll": [0.97, 0.97],
+      "scale": [1, 1],
+      "zIndex": 14
+    },
+    {
+      "name": "gasterbush",
+      "assetPath": "parappatown/gasterbush",
+      "position": [-190, 140],
+      "scroll": [0.98, 0.98],
+      "scale": [1, 1],
+      "zIndex": 15,
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "gasterbush",
+          "looped": true
+        }
+      ],
+      "startingAnimation": "idle"
+    }
+  ],
+  "cameraZoom": 0.9,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1069.5, 785],
+      "cameraOffsets": [-230, -100]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [340, 785],
+      "cameraOffsets": [100, -20]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [0, 70],
+      "position": [731.5, 698]
+    }
+  },
+  "name": "Parappa Town"
+}

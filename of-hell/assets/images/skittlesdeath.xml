@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skittlesdeath.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skittlesdeath0000" x="0" y="0" width="684" height="665" pivotX="-77.55" pivotY="339.15" frameX="-259" frameY="0" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0001" x="686" y="0" width="934" height="825" frameX="-880" frameY="-717" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0002" x="0" y="827" width="1262" height="1046" frameX="-842" frameY="-686" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0003" x="0" y="827" width="1262" height="1046" frameX="-842" frameY="-686" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0004" x="1264" y="827" width="565" height="488" frameX="-841" frameY="-641" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0005" x="1264" y="827" width="565" height="488" frameX="-841" frameY="-641" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0006" x="0" y="1875" width="575" height="433" frameX="-738" frameY="-653" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0007" x="0" y="1875" width="575" height="433" frameX="-738" frameY="-653" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0008" x="577" y="1875" width="676" height="404" frameX="-488" frameY="-674" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0009" x="577" y="1875" width="676" height="404" frameX="-488" frameY="-674" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0010" x="0" y="2310" width="929" height="712" frameX="0" frameY="-788" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0011" x="931" y="2310" width="587" height="508" frameX="-194" frameY="-853" frameWidth="2104" frameHeight="1732"/>
+	<SubTexture name="skittlesdeath0012" x="0" y="3024" width="552" height="445" frameX="-254" frameY="-855" frameWidth="2104" frameHeight="1732"/>
+</TextureAtlas>

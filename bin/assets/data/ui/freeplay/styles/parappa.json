@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "bgAsset": "freeplay/freeplayBGdadparappa",
+  "selectorAsset": "freeplay/freeplaySelector/freeplaySelector_parappa",
+  "numbersAsset": "digital_numbers_parappa",
+  "capsuleAsset": "freeplay/freeplayCapsule/capsule/freeplayCapsule_parappa",
+  "capsuleTextColors": ["#CC007A", "#FA46B2"],
+  "startDelay": 1.15
+}

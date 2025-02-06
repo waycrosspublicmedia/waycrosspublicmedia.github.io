@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GimmickNotes.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="106" height="104" pivotX="1.95" pivotY="-1.75"/>
+	<SubTexture name="blue0001" x="108" y="0" width="106" height="104"/>
+	<SubTexture name="green0000" x="0" y="106" width="106" height="104" pivotX="1.95" pivotY="-1.75"/>
+	<SubTexture name="green0001" x="108" y="106" width="106" height="104"/>
+	<SubTexture name="purple0000" x="0" y="212" width="102" height="104" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="103" frameHeight="104"/>
+	<SubTexture name="purple0001" x="104" y="212" width="103" height="103" frameX="0" frameY="-1" frameWidth="103" frameHeight="104"/>
+	<SubTexture name="red0000" x="0" y="318" width="103" height="107" pivotX="0.05" pivotY="0"/>
+	<SubTexture name="red0001" x="105" y="318" width="103" height="107"/>
+</TextureAtlas>

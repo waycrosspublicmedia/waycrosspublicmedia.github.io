@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="StevePlayable.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SteveDown0000" x="0" y="0" width="641" height="436" pivotX="132.55" pivotY="2.25" frameX="0" frameY="-6" frameWidth="642" frameHeight="443"/>
+	<SubTexture name="SteveDown0001" x="0" y="0" width="641" height="436" frameX="0" frameY="-6" frameWidth="642" frameHeight="443"/>
+	<SubTexture name="SteveDown0002" x="643" y="0" width="637" height="443" frameX="-5" frameY="0" frameWidth="642" frameHeight="443"/>
+	<SubTexture name="SteveDown0003" x="643" y="0" width="637" height="443" frameX="-5" frameY="0" frameWidth="642" frameHeight="443"/>
+	<SubTexture name="SteveDown0004" x="643" y="0" width="637" height="443" frameX="-5" frameY="0" frameWidth="642" frameHeight="443"/>
+	<SubTexture name="SteveIdleHEY!0000" x="1282" y="0" width="469" height="562" pivotX="14.75" pivotY="-3.05" frameX="0" frameY="0" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0001" x="0" y="564" width="472" height="551" frameX="-14" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0002" x="474" y="564" width="472" height="551" frameX="-14" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0003" x="948" y="564" width="476" height="551" frameX="-7" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0004" x="1426" y="564" width="476" height="551" frameX="-7" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0005" x="948" y="564" width="476" height="551" frameX="-7" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0006" x="0" y="1117" width="476" height="551" frameX="-7" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0007" x="948" y="564" width="476" height="551" frameX="-7" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0008" x="948" y="564" width="476" height="551" frameX="-7" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0009" x="1426" y="564" width="476" height="551" frameX="-7" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0010" x="1426" y="564" width="476" height="551" frameX="-7" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0011" x="478" y="1117" width="476" height="551" frameX="-7" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdleHEY!0012" x="478" y="1117" width="476" height="551" frameX="-7" frameY="-11" frameWidth="486" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0000" x="956" y="1117" width="492" height="554" pivotX="4.9" pivotY="-3" frameX="0" frameY="-8" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0001" x="956" y="1117" width="492" height="554" frameX="0" frameY="-8" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0002" x="1450" y="1117" width="490" height="558" frameX="-1" frameY="-4" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0003" x="1450" y="1117" width="490" height="558" frameX="-1" frameY="-4" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0004" x="0" y="1677" width="478" height="561" frameX="-2" frameY="-1" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0005" x="0" y="1677" width="478" height="561" frameX="-2" frameY="-1" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0006" x="480" y="1677" width="474" height="561" frameX="-3" frameY="-1" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0007" x="480" y="1677" width="474" height="561" frameX="-3" frameY="-1" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0008" x="956" y="1677" width="472" height="562" frameX="-4" frameY="0" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0009" x="956" y="1677" width="472" height="562" frameX="-4" frameY="0" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0010" x="956" y="1677" width="472" height="562" frameX="-4" frameY="0" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0011" x="956" y="1677" width="472" height="562" frameX="-4" frameY="0" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0012" x="956" y="1677" width="472" height="562" frameX="-4" frameY="0" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveIdlePlayable0013" x="956" y="1677" width="472" height="562" frameX="-4" frameY="0" frameWidth="492" frameHeight="562"/>
+	<SubTexture name="SteveLeftPose0000" x="1430" y="1677" width="525" height="549" pivotX="-132.6" pivotY="-7.5"/>
+	<SubTexture name="SteveLeftPose0001" x="1430" y="1677" width="525" height="549"/>
+	<SubTexture name="SteveLeftPose0002" x="0" y="2241" width="513" height="549" frameX="-12" frameY="0" frameWidth="525" frameHeight="549"/>
+	<SubTexture name="SteveLeftPose0003" x="0" y="2241" width="513" height="549" frameX="-12" frameY="0" frameWidth="525" frameHeight="549"/>
+	<SubTexture name="SteveLeftPose0004" x="0" y="2241" width="513" height="549" frameX="-12" frameY="0" frameWidth="525" frameHeight="549"/>
+	<SubTexture name="SteveLeftPose0005" x="0" y="2241" width="513" height="549" frameX="-12" frameY="0" frameWidth="525" frameHeight="549"/>
+	<SubTexture name="SteveLeftPose0006" x="0" y="2241" width="513" height="549" frameX="-12" frameY="0" frameWidth="525" frameHeight="549"/>
+	<SubTexture name="SteveLeftPose0007" x="0" y="2241" width="513" height="549" frameX="-12" frameY="0" frameWidth="525" frameHeight="549"/>
+	<SubTexture name="SteveLeftPose0008" x="0" y="2241" width="513" height="549" frameX="-12" frameY="0" frameWidth="525" frameHeight="549"/>
+	<SubTexture name="SteveLeftPose0009" x="0" y="2241" width="513" height="549" frameX="-12" frameY="0" frameWidth="525" frameHeight="549"/>
+	<SubTexture name="SteveRightPose0000" x="515" y="2241" width="508" height="548" pivotX="-2.8" pivotY="-13.5" frameX="-10" frameY="-3" frameWidth="518" frameHeight="551"/>
+	<SubTexture name="SteveRightPose0001" x="515" y="2241" width="508" height="548" frameX="-10" frameY="-3" frameWidth="518" frameHeight="551"/>
+	<SubTexture name="SteveRightPose0002" x="1025" y="2241" width="509" height="551" frameX="0" frameY="0" frameWidth="518" frameHeight="551"/>
+	<SubTexture name="SteveRightPose0003" x="1025" y="2241" width="509" height="551" frameX="0" frameY="0" frameWidth="518" frameHeight="551"/>
+	<SubTexture name="SteveRightPose0004" x="1025" y="2241" width="509" height="551" frameX="0" frameY="0" frameWidth="518" frameHeight="551"/>
+	<SubTexture name="SteveRightPose0005" x="1025" y="2241" width="509" height="551" frameX="0" frameY="0" frameWidth="518" frameHeight="551"/>
+	<SubTexture name="SteveRightPose0006" x="1025" y="2241" width="509" height="551" frameX="0" frameY="0" frameWidth="518" frameHeight="551"/>
+	<SubTexture name="SteveUp0000" x="1536" y="2241" width="444" height="599" pivotX="-14.25" pivotY="11.2" frameX="-4" frameY="0" frameWidth="456" frameHeight="599"/>
+	<SubTexture name="SteveUp0001" x="1536" y="2241" width="444" height="599" frameX="-4" frameY="0" frameWidth="456" frameHeight="599"/>
+	<SubTexture name="SteveUp0002" x="0" y="2842" width="456" height="589" frameX="0" frameY="-10" frameWidth="456" frameHeight="599"/>
+	<SubTexture name="SteveUp0003" x="0" y="2842" width="456" height="589" frameX="0" frameY="-10" frameWidth="456" frameHeight="599"/>
+	<SubTexture name="SteveUp0004" x="0" y="2842" width="456" height="589" frameX="0" frameY="-10" frameWidth="456" frameHeight="599"/>
+	<SubTexture name="SteveUp0005" x="0" y="2842" width="456" height="589" frameX="0" frameY="-10" frameWidth="456" frameHeight="599"/>
+	<SubTexture name="SteveUp0006" x="0" y="2842" width="456" height="589" frameX="0" frameY="-10" frameWidth="456" frameHeight="599"/>
+</TextureAtlas>

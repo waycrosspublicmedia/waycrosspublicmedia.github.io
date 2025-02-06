@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SportmanPlayable.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SportGuyHEY!!0000" x="0" y="0" width="565" height="586" pivotX="-20.05" pivotY="-2.2" frameX="0" frameY="0" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0001" x="0" y="0" width="565" height="586" frameX="0" frameY="0" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0002" x="567" y="0" width="571" height="571" frameX="-2" frameY="-15" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0003" x="567" y="0" width="571" height="571" frameX="-2" frameY="-15" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0004" x="1140" y="0" width="565" height="575" frameX="-5" frameY="-11" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0005" x="1140" y="0" width="565" height="575" frameX="-5" frameY="-11" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0006" x="0" y="0" width="565" height="586" frameX="0" frameY="0" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0007" x="0" y="0" width="565" height="586" frameX="0" frameY="0" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0008" x="567" y="0" width="571" height="571" frameX="-2" frameY="-15" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0009" x="567" y="0" width="571" height="571" frameX="-2" frameY="-15" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0010" x="1140" y="0" width="565" height="575" frameX="-5" frameY="-11" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0011" x="1140" y="0" width="565" height="575" frameX="-5" frameY="-11" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0012" x="0" y="588" width="564" height="575" frameX="-5" frameY="-11" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0013" x="0" y="588" width="564" height="575" frameX="-5" frameY="-11" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyHEY!!0014" x="0" y="588" width="564" height="575" frameX="-5" frameY="-11" frameWidth="573" frameHeight="586"/>
+	<SubTexture name="SportGuyIdle0000" x="566" y="588" width="588" height="592" pivotX="-7.1" pivotY="16.55" frameX="-13" frameY="-24" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0001" x="566" y="588" width="588" height="592" frameX="-13" frameY="-24" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0002" x="1156" y="588" width="591" height="594" frameX="-8" frameY="-22" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0003" x="1156" y="588" width="591" height="594" frameX="-8" frameY="-22" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0004" x="0" y="1184" width="590" height="609" frameX="-3" frameY="-7" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0005" x="0" y="1184" width="590" height="609" frameX="-3" frameY="-7" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0006" x="592" y="1184" width="590" height="615" frameX="-2" frameY="-2" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0007" x="592" y="1184" width="590" height="615" frameX="-2" frameY="-2" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0008" x="1184" y="1184" width="591" height="617" frameX="0" frameY="0" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0009" x="1184" y="1184" width="591" height="617" frameX="0" frameY="0" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0010" x="1184" y="1184" width="591" height="617" frameX="0" frameY="0" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0011" x="1184" y="1184" width="591" height="617" frameX="0" frameY="0" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0012" x="1184" y="1184" width="591" height="617" frameX="0" frameY="0" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="SportGuyIdle0013" x="1184" y="1184" width="591" height="617" frameX="0" frameY="0" frameWidth="601" frameHeight="617"/>
+	<SubTexture name="TankGuyDown0000" x="0" y="1803" width="760" height="465" pivotX="179.45" pivotY="0" frameX="0" frameY="-9" frameWidth="760" frameHeight="474"/>
+	<SubTexture name="TankGuyDown0001" x="0" y="1803" width="760" height="465" frameX="0" frameY="-9" frameWidth="760" frameHeight="474"/>
+	<SubTexture name="TankGuyDown0002" x="762" y="1803" width="750" height="474" frameX="-9" frameY="0" frameWidth="760" frameHeight="474"/>
+	<SubTexture name="TankGuyDown0003" x="762" y="1803" width="750" height="474" frameX="-9" frameY="0" frameWidth="760" frameHeight="474"/>
+	<SubTexture name="TankGuyDown0004" x="762" y="1803" width="750" height="474" frameX="-9" frameY="0" frameWidth="760" frameHeight="474"/>
+	<SubTexture name="TankGuyDown0005" x="762" y="1803" width="750" height="474" frameX="-9" frameY="0" frameWidth="760" frameHeight="474"/>
+	<SubTexture name="TankGuyDown0006" x="762" y="1803" width="750" height="474" frameX="-9" frameY="0" frameWidth="760" frameHeight="474"/>
+	<SubTexture name="TankGuyDown0007" x="762" y="1803" width="750" height="474" frameX="-9" frameY="0" frameWidth="760" frameHeight="474"/>
+	<SubTexture name="TankGuyDown0008" x="762" y="1803" width="750" height="474" frameX="-9" frameY="0" frameWidth="760" frameHeight="474"/>
+	<SubTexture name="TankGuyDown0009" x="762" y="1803" width="750" height="474" frameX="-9" frameY="0" frameWidth="760" frameHeight="474"/>
+	<SubTexture name="TankGuyDown0010" x="762" y="1803" width="750" height="474" frameX="-9" frameY="0" frameWidth="760" frameHeight="474"/>
+	<SubTexture name="TankGuyRIGHT0000" x="0" y="2279" width="555" height="569" pivotX="97.45" pivotY="-2.05" frameX="0" frameY="0" frameWidth="564" frameHeight="569"/>
+	<SubTexture name="TankGuyRIGHT0001" x="0" y="2279" width="555" height="569" frameX="0" frameY="0" frameWidth="564" frameHeight="569"/>
+	<SubTexture name="TankGuyRIGHT0002" x="557" y="2279" width="551" height="569" frameX="-13" frameY="0" frameWidth="564" frameHeight="569"/>
+	<SubTexture name="TankGuyRIGHT0003" x="557" y="2279" width="551" height="569" frameX="-13" frameY="0" frameWidth="564" frameHeight="569"/>
+	<SubTexture name="TankGuyRIGHT0004" x="557" y="2279" width="551" height="569" frameX="-13" frameY="0" frameWidth="564" frameHeight="569"/>
+	<SubTexture name="TankGuyRIGHT0005" x="557" y="2279" width="551" height="569" frameX="-13" frameY="0" frameWidth="564" frameHeight="569"/>
+	<SubTexture name="TankGuyRIGHT0006" x="557" y="2279" width="551" height="569" frameX="-13" frameY="0" frameWidth="564" frameHeight="569"/>
+	<SubTexture name="TankGuyRIGHT0007" x="557" y="2279" width="551" height="569" frameX="-13" frameY="0" frameWidth="564" frameHeight="569"/>
+	<SubTexture name="TankGuyUp0000" x="1110" y="2279" width="543" height="557" pivotX="122.85" pivotY="-14.35" frameX="0" frameY="0" frameWidth="544" frameHeight="557"/>
+	<SubTexture name="TankGuyUp0001" x="1110" y="2279" width="543" height="557" frameX="0" frameY="0" frameWidth="544" frameHeight="557"/>
+	<SubTexture name="TankGuyUp0002" x="0" y="2850" width="544" height="551" frameX="0" frameY="-6" frameWidth="544" frameHeight="557"/>
+	<SubTexture name="TankGuyUp0003" x="0" y="2850" width="544" height="551" frameX="0" frameY="-6" frameWidth="544" frameHeight="557"/>
+	<SubTexture name="TankGuyUp0004" x="0" y="2850" width="544" height="551" frameX="0" frameY="-6" frameWidth="544" frameHeight="557"/>
+	<SubTexture name="TankGuyUp0005" x="0" y="2850" width="544" height="551" frameX="0" frameY="-6" frameWidth="544" frameHeight="557"/>
+	<SubTexture name="TankGuyUp0006" x="0" y="2850" width="544" height="551" frameX="0" frameY="-6" frameWidth="544" frameHeight="557"/>
+	<SubTexture name="TankMainDudeLEFT0000" x="546" y="2850" width="692" height="556" pivotX="106.45" pivotY="1.95" frameX="-10" frameY="-1" frameWidth="702" frameHeight="557"/>
+	<SubTexture name="TankMainDudeLEFT0001" x="546" y="2850" width="692" height="556" frameX="-10" frameY="-1" frameWidth="702" frameHeight="557"/>
+	<SubTexture name="TankMainDudeLEFT0002" x="1240" y="2850" width="685" height="557" frameX="0" frameY="0" frameWidth="702" frameHeight="557"/>
+	<SubTexture name="TankMainDudeLEFT0003" x="1240" y="2850" width="685" height="557" frameX="0" frameY="0" frameWidth="702" frameHeight="557"/>
+	<SubTexture name="TankMainDudeLEFT0004" x="1240" y="2850" width="685" height="557" frameX="0" frameY="0" frameWidth="702" frameHeight="557"/>
+	<SubTexture name="TankMainDudeLEFT0005" x="1240" y="2850" width="685" height="557" frameX="0" frameY="0" frameWidth="702" frameHeight="557"/>
+	<SubTexture name="TankMainDudeLEFT0006" x="1240" y="2850" width="685" height="557" frameX="0" frameY="0" frameWidth="702" frameHeight="557"/>
+	<SubTexture name="TankMainDudeLEFT0007" x="1240" y="2850" width="685" height="557" frameX="0" frameY="0" frameWidth="702" frameHeight="557"/>
+</TextureAtlas>

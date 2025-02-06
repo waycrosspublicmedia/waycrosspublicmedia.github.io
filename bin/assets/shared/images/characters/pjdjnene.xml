@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PJ NENE.png">
+	<!-- Created with Adobe Animate version 24.0.5.40 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PJ+NENE idle instance 10000" x="0" y="0" width="818" height="615" frameX="0" frameY="-7" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10001" x="818" y="0" width="820" height="616" frameX="0" frameY="-7" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10002" x="1638" y="0" width="839" height="614" frameX="0" frameY="-9" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10003" x="2477" y="0" width="839" height="613" frameX="0" frameY="-9" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10004" x="3316" y="0" width="847" height="615" frameX="0" frameY="-7" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10005" x="4163" y="0" width="847" height="615" frameX="0" frameY="-7" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10006" x="5010" y="0" width="852" height="618" frameX="0" frameY="-4" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10007" x="5862" y="0" width="852" height="622" frameX="0" frameY="0" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10008" x="6714" y="0" width="850" height="622" frameX="0" frameY="0" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10009" x="0" y="622" width="850" height="622" frameX="0" frameY="0" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10010" x="850" y="622" width="849" height="621" frameX="0" frameY="-1" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10011" x="850" y="622" width="849" height="621" frameX="0" frameY="-1" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10012" x="1699" y="622" width="849" height="621" frameX="0" frameY="-1" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10013" x="2548" y="622" width="843" height="621" frameX="0" frameY="-1" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10014" x="3391" y="622" width="843" height="621" frameX="0" frameY="-1" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10015" x="4234" y="622" width="818" height="608" frameX="0" frameY="-14" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10016" x="5052" y="622" width="820" height="609" frameX="0" frameY="-14" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10017" x="5872" y="622" width="820" height="609" frameX="0" frameY="-14" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10018" x="6692" y="622" width="818" height="608" frameX="0" frameY="-14" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10019" x="0" y="1244" width="818" height="609" frameX="0" frameY="-13" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10020" x="818" y="1244" width="818" height="609" frameX="0" frameY="-13" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10021" x="1636" y="1244" width="818" height="611" frameX="0" frameY="-11" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10022" x="2454" y="1244" width="818" height="620" frameX="0" frameY="-2" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10023" x="3272" y="1244" width="818" height="620" frameX="0" frameY="-2" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10024" x="4090" y="1244" width="818" height="620" frameX="0" frameY="-2" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10025" x="4908" y="1244" width="818" height="621" frameX="0" frameY="-1" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10026" x="5726" y="1244" width="818" height="621" frameX="0" frameY="-1" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10027" x="6544" y="1244" width="818" height="621" frameX="0" frameY="-1" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10028" x="7362" y="1244" width="818" height="621" frameX="0" frameY="-1" frameWidth="852" frameHeight="623"/>
+	<SubTexture name="PJ+NENE idle instance 10029" x="0" y="1865" width="818" height="621" frameX="0" frameY="-1" frameWidth="852" frameHeight="623"/>
+</TextureAtlas>

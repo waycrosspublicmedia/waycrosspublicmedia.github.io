@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pj Berri Assets.png">
+	<!-- Created with Adobe Animate version 24.0.5.40 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pj cheer0000" x="0" y="0" width="586" height="460"/>
+	<SubTexture name="pj cheer0001" x="586" y="0" width="586" height="460"/>
+	<SubTexture name="pj cheer0002" x="1172" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0003" x="1758" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0004" x="2344" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0005" x="2930" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0006" x="2930" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0007" x="0" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0008" x="0" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0009" x="586" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0010" x="586" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0011" x="2344" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0012" x="2344" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0013" x="2930" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0014" x="2930" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0015" x="0" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0016" x="0" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0017" x="586" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0018" x="586" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0019" x="2344" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0020" x="2344" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0021" x="2930" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0022" x="2930" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0023" x="0" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0024" x="0" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0025" x="586" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0026" x="586" y="460" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0027" x="2344" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0028" x="2344" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj cheer0029" x="2930" y="0" width="586" height="458" frameX="0" frameY="-2" frameWidth="586" frameHeight="460"/>
+	<SubTexture name="pj dancing beat0000" x="1172" y="460" width="587" height="451" frameX="0" frameY="-3" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0001" x="1172" y="460" width="587" height="451" frameX="0" frameY="-3" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0002" x="1759" y="460" width="587" height="443" frameX="0" frameY="-11" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0003" x="1759" y="460" width="587" height="443" frameX="0" frameY="-11" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0004" x="2346" y="460" width="587" height="449" frameX="0" frameY="-5" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0005" x="2346" y="460" width="587" height="449" frameX="0" frameY="-5" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0006" x="2933" y="460" width="587" height="452" frameX="0" frameY="-2" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0007" x="0" y="918" width="587" height="452" frameX="0" frameY="-2" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0008" x="587" y="918" width="587" height="452" frameX="0" frameY="-2" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0009" x="587" y="918" width="587" height="452" frameX="0" frameY="-2" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0010" x="1174" y="918" width="587" height="451" frameX="0" frameY="-3" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0011" x="1174" y="918" width="587" height="451" frameX="0" frameY="-3" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0012" x="1761" y="918" width="587" height="451" frameX="0" frameY="-3" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0013" x="2348" y="918" width="587" height="449" frameX="0" frameY="-5" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0014" x="2935" y="918" width="587" height="449" frameX="0" frameY="-5" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0015" x="0" y="1370" width="587" height="449" frameX="0" frameY="-5" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0016" x="0" y="1370" width="587" height="449" frameX="0" frameY="-5" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0017" x="587" y="1370" width="587" height="448" frameX="0" frameY="-6" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0018" x="587" y="1370" width="587" height="448" frameX="0" frameY="-6" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0019" x="1174" y="1370" width="587" height="449" frameX="0" frameY="-5" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0020" x="1761" y="1370" width="587" height="449" frameX="0" frameY="-5" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0021" x="587" y="918" width="587" height="452" frameX="0" frameY="-2" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0022" x="587" y="918" width="587" height="452" frameX="0" frameY="-2" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0023" x="2348" y="1370" width="587" height="453" frameX="0" frameY="-1" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0024" x="2348" y="1370" width="587" height="453" frameX="0" frameY="-1" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0025" x="2935" y="1370" width="587" height="453" frameX="0" frameY="-1" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0026" x="0" y="1823" width="587" height="453" frameX="0" frameY="-1" frameWidth="587" frameHeight="454"/>
+	<SubTexture name="pj dancing beat0027" x="587" y="1823" width="587" height="454"/>
+	<SubTexture name="pj dancing beat0028" x="587" y="1823" width="587" height="454"/>
+	<SubTexture name="pj dancing beat0029" x="1174" y="1823" width="587" height="454"/>
+</TextureAtlas>

@@ -1,0 +1,143 @@
+{
+  "version": "1.0.0",
+  "name": "PaRappa The Rapper",
+  "ownedChars": [
+    "parappa"
+  ],
+  "showUnownedChars": false,
+  "unlocked": false,
+  "freeplayStyle": "parappa",
+  "freeplayDJ": {
+    "assetPath": "freeplay/freeplay-parappa",
+    
+    "fistPump": {
+      "introStartFrame": 0,
+      "introEndFrame": 43,
+
+      "loopStartFrame": 44,
+      "loopEndFrame": -1,
+
+      "introBadStartFrame": 0,
+      "introBadEndFrame": 43,
+
+      "loopBadStartFrame": 44,
+      "loopBadEndFrame": -1
+    },
+    "charSelect": {
+      "transitionDelay": 0.45
+    },
+    "text1": "BOYFRIEND",
+    "text2": "HOT BLOODED IN MORE WAYS THAN ONE",
+    "text3": "PROTECT YO NUTS",
+    "animations": [
+      {
+        "name": "intro",
+        "prefix": "parappa dj intro",
+        "offsets": [1340, 458]
+      },
+      {
+        "name": "idle",
+        "prefix": "parappa dj",
+        "offsets": [1340, 460]
+      },
+
+      {
+        "name": "confirm",
+        "prefix": "parappa dj confirm",
+        "offsets": [1279, 474]
+      },
+      {
+        "name": "fistPump",
+        "prefix": "parappa dj fist pump",
+        "offsets": [1279, 443]
+      },
+	  {
+        "name": "loss",
+        "prefix": "parappa dj fist pump",
+        "offsets": [1279, 443]
+      },
+	  {
+        "name": "charSelect",
+        "prefix": "parappa dj",
+        "offsets": [1340, 460]
+      },
+      {
+        "name": "newUnlock",
+        "prefix": "parappa dj",
+        "offsets": [1340, 460]
+      }
+    ]
+  },
+  "charSelect": {
+    "position": 6,
+    "gf": {
+      "assetPath": "charSelect/pjChill",
+      "animInfoPath": "charSelect/pjAnimInfo",
+      "visualizer": false
+    }
+  },
+  "results": {
+    "music": {
+      "PERFECT_GOLD": "resultsGOOD-parappa",
+      "PERFECT": "resultsGOOD-parappa",
+      "EXCELLENT": "resultsGOOD-parappa",
+      "GREAT": "resultsGOOD-parappa",
+      "GOOD": "resultsGOOD-parappa",
+      "SHIT": "resultsSHIT"
+    },
+    "perfectGold": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-parappa/resultsGOOD",
+        "zIndex": 501,
+        "offsets": [0, 0],
+        "loopFrame": 7
+      }
+    ],
+    "perfect": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-parappa/resultsGOOD",
+        "zIndex": 501,
+        "offsets": [0, 0],
+        "loopFrame": 7
+      }
+    ],
+    "excellent": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-parappa/resultsGOOD",
+        "zIndex": 501,
+        "offsets": [0, 0],
+        "loopFrame": 7
+      }
+    ],
+    "great": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-parappa/resultsGOOD",
+        "zIndex": 501,
+        "offsets": [0, 0],
+        "loopFrame": 7
+      }
+    ],
+    "good": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-parappa/resultsGOOD",
+        "zIndex": 501,
+        "offsets": [0, 0],
+        "loopFrame": 7
+      }
+    ],
+    "loss": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-parappa/resultsGOOD",
+        "zIndex": 501,
+        "offsets": [9999, 9999],
+        "loopFrame": 7
+      }
+    ]
+  }
+}

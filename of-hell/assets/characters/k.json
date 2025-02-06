@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-226
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "escape",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				289,
+				-55
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "give up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-76,
+				-223
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "give up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/give up knux",
+	"position": [
+		120,
+		-160
+	],
+	"healthicon": "Encore-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		61,
+		166,
+		236
+	],
+	"camera_position": [
+		-30,
+		540
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

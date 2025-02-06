@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bump.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bump0000" x="4" y="4" width="1188" height="794" frameX="-4" frameY="-3" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0001" x="4" y="4" width="1188" height="794" frameX="-4" frameY="-3" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0002" x="1196" y="4" width="1197" height="800"/>
+	<SubTexture name="bump0003" x="2397" y="4" width="1197" height="800"/>
+	<SubTexture name="bump0004" x="4" y="808" width="1178" height="787" frameX="-9" frameY="-6" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0005" x="1186" y="808" width="1178" height="787" frameX="-9" frameY="-6" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0006" x="2368" y="808" width="1167" height="780" frameX="-15" frameY="-10" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0007" x="4" y="1599" width="1167" height="780" frameX="-15" frameY="-10" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0008" x="1175" y="1599" width="1166" height="779" frameX="-15" frameY="-10" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0009" x="2345" y="1599" width="1166" height="779" frameX="-15" frameY="-10" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0010" x="4" y="2383" width="1166" height="779" frameX="-15" frameY="-10" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0011" x="1174" y="2383" width="1166" height="779" frameX="-15" frameY="-10" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0012" x="2344" y="2383" width="1166" height="779" frameX="-15" frameY="-10" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0013" x="4" y="3166" width="1166" height="779" frameX="-15" frameY="-10" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0014" x="1174" y="3166" width="1166" height="779" frameX="-15" frameY="-10" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0015" x="2344" y="3166" width="1166" height="779" frameX="-15" frameY="-10" frameWidth="1197" frameHeight="800"/>
+	<SubTexture name="bump0016" x="2344" y="3166" width="1166" height="779" frameX="-15" frameY="-10" frameWidth="1197" frameHeight="800"/>
+</TextureAtlas>

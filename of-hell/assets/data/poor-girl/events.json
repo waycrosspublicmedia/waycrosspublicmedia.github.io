@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				15360,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23040,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32640,
+				[
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63360,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113280,
+				[
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				120960,
+				[
+					[
+						"Add Camera Zoom",
+						"flash",
+						""
+					]
+				]
+			]
+		]
+	}
+}

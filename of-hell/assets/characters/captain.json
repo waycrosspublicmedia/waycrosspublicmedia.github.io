@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "CaptianIdle"
+		},
+		{
+			"offsets": [
+				-41,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CapUp"
+		},
+		{
+			"offsets": [
+				92,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CapDown"
+		},
+		{
+			"offsets": [
+				-46,
+				-124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CaptainLeft"
+		},
+		{
+			"offsets": [
+				-71,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CapRight"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "CaptianUGH"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				243,
+				-2
+			],
+			"anim": "line",
+			"fps": 28,
+			"name": "CaptianGUNJAMMED",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Captain",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "tankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		290,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

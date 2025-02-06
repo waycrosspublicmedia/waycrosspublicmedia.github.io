@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				-57
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-76
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "laugh"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-854,
+				-485
+			],
+			"anim": "cheese",
+			"fps": 24,
+			"name": "cheese",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vanilla dark",
+	"position": [
+		-1130,
+		-80
+	],
+	"healthicon": "vanilla",
+	"flip_x": false,
+	"healthbar_colors": [
+		233,
+		71,
+		85
+	],
+	"camera_position": [
+		510,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

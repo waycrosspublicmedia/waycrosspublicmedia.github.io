@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				214,
+				57
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "surprised"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "danceLeft",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "danceRight",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/cheese",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

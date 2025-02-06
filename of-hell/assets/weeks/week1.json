@@ -1,0 +1,41 @@
+{
+	"storyName": "WEEK 1",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Night Valley",
+			"amy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Volcano Valley",
+			"amy",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

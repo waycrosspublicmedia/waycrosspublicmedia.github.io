@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				-303
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "escape",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-156
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "give up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-110,
+				-319
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "give up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/give up eggman exe",
+	"position": [
+		120,
+		410
+	],
+	"healthicon": "Encore-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		61,
+		166,
+		236
+	],
+	"camera_position": [
+		-30,
+		540
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

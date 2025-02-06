@@ -1,0 +1,14 @@
+import funkin.ui.freeplay.charselect.PlayableCharacter;
+import funkin.save.Save;
+
+class PaRappaPlayableCharacter extends PlayableCharacter
+{
+    function new()
+    {
+        super('parappa');
+    }
+
+  override function isUnlocked():Bool {
+    return Save.instance.hasBeatenLevel('parappaWeek');
+  }
+}

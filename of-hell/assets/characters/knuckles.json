@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				365,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				263,
+				-218
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				353,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				223,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				543,
+				-5
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/knuckleshydro",
+	"position": [
+		240,
+		-40
+	],
+	"healthicon": "knuckles",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		51,
+		0
+	],
+	"camera_position": [
+		-380,
+		 -50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

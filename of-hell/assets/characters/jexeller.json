@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-28
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "SPINDASH",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Exeller_Assets_Spin",
+	"position": [
+		-380,
+		-20
+	],
+	"healthicon": "icon-exeller",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		31,
+		162
+	],
+	"camera_position": [
+		300,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

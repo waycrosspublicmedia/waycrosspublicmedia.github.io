@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="neige.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lll0000" x="0" y="0" width="981" height="677" frameX="-30" frameY="0" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0001" x="981" y="0" width="979" height="680" frameX="-21" frameY="-10" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0002" x="1960" y="0" width="976" height="679" frameX="-15" frameY="-23" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0003" x="2936" y="0" width="972" height="676" frameX="-13" frameY="-31" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0004" x="3908" y="0" width="968" height="481" frameX="-15" frameY="-42" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0005" x="4876" y="0" width="966" height="474" frameX="-19" frameY="-54" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0006" x="5842" y="0" width="966" height="421" frameX="-23" frameY="-68" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0007" x="6808" y="0" width="966" height="421" frameX="-28" frameY="-82" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0008" x="0" y="680" width="965" height="417" frameX="-33" frameY="-97" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0009" x="965" y="680" width="965" height="409" frameX="-38" frameY="-112" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0010" x="1930" y="680" width="967" height="414" frameX="-42" frameY="-112" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0011" x="2897" y="680" width="969" height="335" frameX="-44" frameY="-112" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0012" x="3866" y="680" width="971" height="338" frameX="-43" frameY="-123" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0013" x="4837" y="680" width="973" height="340" frameX="-40" frameY="-135" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0014" x="5810" y="680" width="974" height="341" frameX="-37" frameY="-149" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0015" x="6784" y="680" width="974" height="476" frameX="-34" frameY="-29" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0016" x="0" y="1156" width="974" height="479" frameX="-30" frameY="-40" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0017" x="974" y="1156" width="975" height="480" frameX="-25" frameY="-52" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0018" x="1949" y="1156" width="976" height="479" frameX="-20" frameY="-65" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0019" x="2925" y="1156" width="976" height="469" frameX="-15" frameY="-80" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0020" x="3901" y="1156" width="975" height="456" frameX="-10" frameY="-95" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0021" x="4876" y="1156" width="975" height="523" frameX="-5" frameY="-33" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0022" x="5851" y="1156" width="973" height="519" frameX="-2" frameY="-44" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0023" x="6824" y="1156" width="972" height="522" frameX="0" frameY="-56" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0024" x="0" y="1679" width="968" height="522" frameX="-2" frameY="-69" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0025" x="968" y="1679" width="966" height="521" frameX="-6" frameY="-84" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0026" x="1934" y="1679" width="963" height="520" frameX="-13" frameY="-99" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0027" x="2897" y="1679" width="960" height="519" frameX="-23" frameY="-114" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0028" x="3857" y="1679" width="958" height="520" frameX="-35" frameY="-128" frameWidth="1014" frameHeight="707"/>
+	<SubTexture name="lll0029" x="4815" y="1679" width="965" height="521" frameX="-41" frameY="-142" frameWidth="1014" frameHeight="707"/>
+</TextureAtlas>
