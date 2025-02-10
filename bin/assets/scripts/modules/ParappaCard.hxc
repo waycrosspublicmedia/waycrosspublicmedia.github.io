@@ -1,0 +1,176 @@
+import funkin.Paths;
+import flixel.FlxG;
+import flixel.FlxSubState;
+import funkin.util.ReflectUtil;
+import funkin.modding.module.Module;
+import funkin.PlayerSettings;
+import funkin.ui.freeplay.FreeplayState;
+import flixel.FlxSprite;
+import flixel.group.FlxTypedSpriteGroup;
+import funkin.graphics.adobeanimate.FlxAtlasSprite;
+
+// FNF v0.5 doesn't let you script backing cards, this is a module workaround that lets you add stuff to FreeplayState,
+// the script's base was written by jarekboho, then heavily modified by Trayfellow to clean-up formatting and fix a bug, tysm bro!!! https://gamebanana.com/members/2145650
+
+// TODO: Stop using this once Funkin' Crew finally adds backing card scripting support UGH
+
+class PaRappaCard extends Module {
+	public function new() {
+		super('freeplay-parappa-card');
+	}
+
+	override function onCreate(event):Void {
+		super.onCreate(event);
+	}
+	
+	var parappaBack:FlxSprite;
+	var darkRedDots:FlxSprite;
+	var orangeDots:FlxSprite;
+	var yellowDots:FlxSprite;
+
+	public var pinkBack:FlxSprite;
+	var confirmAtlas:FlxAtlasSprite;
+	public var cardGlow:FlxSprite;
+	
+	override function onSubStateOpenEnd(event) {
+		super.onSubStateOpenEnd(event);
+		
+		var substateClassName = ReflectUtil.getClassNameOf(FlxG.state.subState);
+
+		if (substateClassName == 'funkin.ui.freeplay.FreeplayState') {
+			if (FlxG.state.subState.currentCharacterId != 'parappa')
+				return;
+		
+			pinkBack = new FlxSprite(0, 0).loadGraphic(Paths.image('freeplay/pinkBack'));
+			pinkBack.color = 0xFFDF3100;
+			FlxG.state.subState.insert(FlxG.state.subState.members.indexOf(FlxG.state.subState.dj), pinkBack);
+			pinkBack.cameras = [FlxG.state.subState.funnyCam];
+
+			parappaBack = new FlxSprite(0, -20).loadGraphic(Paths.image('freeplay/backingCards/parappa/parappaBackingCard'));
+			FlxG.state.subState.insert(FlxG.state.subState.members.indexOf(FlxG.state.subState.dj), parappaBack);
+			parappaBack.scale.x = 1.05;
+			parappaBack.cameras = [FlxG.state.subState.funnyCam];
+			
+			darkRedDots = new FlxSprite(-300, -150).loadGraphic(Paths.image('freeplay/backingCards/parappa/DarkRedDots'));
+			FlxG.state.subState.insert(FlxG.state.subState.members.indexOf(FlxG.state.subState.dj), darkRedDots);
+			darkRedDots.angle = 0;
+			darkRedDots.cameras = [FlxG.state.subState.funnyCam];
+			
+			orangeDots = new FlxSprite(-300, -150).loadGraphic(Paths.image('freeplay/backingCards/parappa/OrangeDots'));
+			FlxG.state.subState.insert(FlxG.state.subState.members.indexOf(FlxG.state.subState.dj), orangeDots);
+			orangeDots.scale.set(0.45, 0.45);
+			orangeDots.angle = 0;
+			orangeDots.cameras = [FlxG.state.subState.funnyCam];
+			
+			yellowDots = new FlxSprite(-300, -150).loadGraphic(Paths.image('freeplay/backingCards/parappa/yellowDots'));
+			FlxG.state.subState.insert(FlxG.state.subState.members.indexOf(FlxG.state.subState.dj), yellowDots);
+			yellowDots.scale.set(0.2, 0.2);
+			yellowDots.angle = 0;
+			yellowDots.cameras = [FlxG.state.subState.funnyCam];
+			
+			confirmAtlas = new FlxAtlasSprite(5, 55, Paths.animateAtlas("freeplay/backingCards/parappa/parappa-confirm"));
+			confirmAtlas.visible = false;
+			confirmAtlas.scale.set(1.07, 1.05);
+			FlxG.state.subState.insert(FlxG.state.subState.members.indexOf(FlxG.state.subState.dj), confirmAtlas);
+			confirmAtlas.cameras = [FlxG.state.subState.funnyCam];
+
+			cardGlow = new FlxSprite(-30, -30).loadGraphic(Paths.image('freeplay/cardGlow'));
+			
+			cardGlow.blend = 0;
+			cardGlow.visible = false;
+			
+			FlxG.state.subState.insert(FlxG.state.subState.members.indexOf(FlxG.state.subState.dj), cardGlow);
+			cardGlow.cameras = [FlxG.state.subState.funnyCam];
+		}
+	}
+
+	override function onUpdate(event:UpdateScriptEvent) {
+		super.onUpdate(event);
+
+		var substateClassName = ReflectUtil.getClassNameOf(FlxG.state.subState);
+
+		if (substateClassName == 'funkin.ui.freeplay.FreeplayState') {
+			if (FlxG.state.subState.currentCharacterId != 'parappa')
+				return;
+		
+			if (FlxG.state.subState.dj != null) {
+				if (FlxG.state.subState.dj.getCurrentAnimation() == 'parappa dj confirm') {
+					FlxG.state.subState.dj.scale.x = 1.1;
+					FlxG.state.subState.dj.scale.y = 1.1;
+				
+					if (FlxG.state.subState.dj.anim.curFrame == 0) {
+						confirmAtlas.visible = true;
+						confirmAtlas.anim.play("");
+					}
+				}
+				
+				if(FlxG.state.subState.dj.getCurrentAnimation() == 'parappa dj fist pump') {
+					FlxG.state.subState.dj.scale.x = 1.1;
+					FlxG.state.subState.dj.scale.y = 1.1;
+				}
+
+				if(FlxG.state.subState.dj.getCurrentAnimation() == 'parappa dj') {
+					FlxG.state.subState.dj.scale.x = 1;
+					FlxG.state.subState.dj.scale.y = 1;
+				}
+	
+				if (!FlxG.state.subState.fromCharSelect) {
+					if (FlxG.state.subState.dj.getCurrentAnimation() == 'parappa dj intro') {
+						pinkBack.color = 0xFFFFD4E9;
+						parappaBack.visible = false;
+						darkRedDots.angle = 0;
+						orangeDots.angle = 0;
+						yellowDots.angle = 0;
+						darkRedDots.visible = false;
+						orangeDots.visible = false;
+						yellowDots.visible = false;
+					
+						if (FlxG.state.subState.dj.anim.curFrame == 15) {
+							pinkBack.color = 0xFFDF3100;
+							parappaBack.visible = true;
+							darkRedDots.visible = true;
+							orangeDots.visible = true;
+							yellowDots.visible = true;
+							cardGlow.visible = true;
+						}
+					}
+				}
+			}
+
+			if (FlxG.state.subState.backingCard.pinkBack != null) {
+				if (pinkBack != null)
+					pinkBack.x = FlxG.state.subState.backingCard.pinkBack.x;
+				if (parappaBack != null)
+					parappaBack.x = FlxG.state.subState.backingCard.pinkBack.x;
+				if (cardGlow != null)
+					cardGlow.x = FlxG.state.subState.backingCard.pinkBack.x - 30;
+			}
+
+			if (FlxG.state.subState.backingCard.cardGlow != null) {
+				if (cardGlow != null) {
+					cardGlow.alpha = FlxG.state.subState.backingCard.cardGlow.alpha;
+					cardGlow.scale.x = FlxG.state.subState.backingCard.cardGlow.scale.x;
+					cardGlow.scale.y = FlxG.state.subState.backingCard.cardGlow.scale.y;
+				}
+			}
+			
+			if (darkRedDots != null)
+				darkRedDots.angle += 0.075;
+			if (orangeDots != null)
+				orangeDots.angle += 0.1;
+			if (yellowDots != null)
+				yellowDots.angle += 0.125;
+
+			var controls = PlayerSettings.player1.controls;
+
+			if (controls.BACK && !FlxG.state.subState.busy) {
+				pinkBack.color = 0xFFFFD4E9;
+				parappaBack.visible = false;
+				darkRedDots.visible = false;
+				orangeDots.visible = false;
+				yellowDots.visible = false;
+				cardGlow.visible = true;
+			}
+		}
+	}
+}

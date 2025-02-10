@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mother idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mother left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mother down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mother up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mother right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/motherbrain_ASSETS",
+	"position": [
+		-500,
+		-300
+	],
+	"healthicon": "mbrain",
+	"flip_x": false,
+	"healthbar_colors": [
+		191,
+		79,
+		13
+	],
+	"camera_position": [
+		80,
+		150
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

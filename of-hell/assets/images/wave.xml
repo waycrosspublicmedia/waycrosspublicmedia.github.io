@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wave.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence wave 10000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Occurrence wave 10001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Occurrence wave 10002" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Occurrence wave 10003" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Occurrence wave 10004" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="Occurrence wave 10005" x="2560" y="0" width="1280" height="720"/>
+</TextureAtlas>

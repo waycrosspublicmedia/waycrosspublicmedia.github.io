@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Captain.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CapDown0000" x="0" y="0" width="616" height="626" pivotX="47.05" pivotY="1.35" frameX="-17" frameY="0" frameWidth="633" frameHeight="626"/>
+	<SubTexture name="CapDown0001" x="0" y="0" width="616" height="626" frameX="-17" frameY="0" frameWidth="633" frameHeight="626"/>
+	<SubTexture name="CapDown0002" x="618" y="0" width="617" height="605" frameX="0" frameY="-21" frameWidth="633" frameHeight="626"/>
+	<SubTexture name="CapDown0003" x="618" y="0" width="617" height="605" frameX="0" frameY="-21" frameWidth="633" frameHeight="626"/>
+	<SubTexture name="CapDown0004" x="618" y="0" width="617" height="605" frameX="0" frameY="-21" frameWidth="633" frameHeight="626"/>
+	<SubTexture name="CapRight0000" x="1237" y="0" width="473" height="552" pivotX="-362.25" pivotY="-62.35" frameX="-1" frameY="-1" frameWidth="474" frameHeight="553"/>
+	<SubTexture name="CapRight0001" x="1237" y="0" width="473" height="552" frameX="-1" frameY="-1" frameWidth="474" frameHeight="553"/>
+	<SubTexture name="CapRight0002" x="1712" y="0" width="470" height="553" frameX="0" frameY="0" frameWidth="474" frameHeight="553"/>
+	<SubTexture name="CapRight0003" x="1712" y="0" width="470" height="553" frameX="0" frameY="0" frameWidth="474" frameHeight="553"/>
+	<SubTexture name="CapRight0004" x="1712" y="0" width="470" height="553" frameX="0" frameY="0" frameWidth="474" frameHeight="553"/>
+	<SubTexture name="CapRight0005" x="1712" y="0" width="470" height="553" frameX="0" frameY="0" frameWidth="474" frameHeight="553"/>
+	<SubTexture name="CapUp0000" x="2184" y="0" width="493" height="691" pivotX="22.8" pivotY="86.15" frameX="-7" frameY="0" frameWidth="507" frameHeight="691"/>
+	<SubTexture name="CapUp0001" x="2184" y="0" width="493" height="691" frameX="-7" frameY="0" frameWidth="507" frameHeight="691"/>
+	<SubTexture name="CapUp0002" x="2679" y="0" width="507" height="684" frameX="0" frameY="-6" frameWidth="507" frameHeight="691"/>
+	<SubTexture name="CapUp0003" x="2679" y="0" width="507" height="684" frameX="0" frameY="-6" frameWidth="507" frameHeight="691"/>
+	<SubTexture name="CapUp0004" x="2679" y="0" width="507" height="684" frameX="0" frameY="-6" frameWidth="507" frameHeight="691"/>
+	<SubTexture name="CapUp0005" x="2679" y="0" width="507" height="684" frameX="0" frameY="-6" frameWidth="507" frameHeight="691"/>
+	<SubTexture name="CaptainLeft0000" x="3188" y="0" width="494" height="545" pivotX="-4.8" pivotY="-5.7" frameX="0" frameY="-1" frameWidth="495" frameHeight="546"/>
+	<SubTexture name="CaptainLeft0001" x="3188" y="0" width="494" height="545" frameX="0" frameY="-1" frameWidth="495" frameHeight="546"/>
+	<SubTexture name="CaptainLeft0002" x="0" y="693" width="487" height="546" frameX="-8" frameY="0" frameWidth="495" frameHeight="546"/>
+	<SubTexture name="CaptianGUNJAMMED0000" x="489" y="693" width="723" height="572" pivotX="217.95" pivotY="-2.2" frameX="-35" frameY="-92" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0001" x="489" y="693" width="723" height="572" frameX="-35" frameY="-92" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0002" x="1214" y="693" width="758" height="552" frameX="-2" frameY="-111" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0003" x="1214" y="693" width="758" height="552" frameX="-2" frameY="-111" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0004" x="1974" y="693" width="760" height="553" frameX="0" frameY="-110" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0005" x="1974" y="693" width="760" height="553" frameX="0" frameY="-110" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0006" x="1974" y="693" width="760" height="553" frameX="0" frameY="-110" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0007" x="2736" y="693" width="751" height="519" frameX="-7" frameY="-136" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0008" x="2736" y="693" width="751" height="519" frameX="-7" frameY="-136" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0009" x="3489" y="693" width="533" height="660" frameX="-233" frameY="-6" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0010" x="0" y="1355" width="544" height="651" frameX="-224" frameY="-14" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0011" x="546" y="1355" width="544" height="651" frameX="-224" frameY="-14" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0012" x="1092" y="1355" width="545" height="644" frameX="-221" frameY="-21" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0013" x="1639" y="1355" width="545" height="644" frameX="-221" frameY="-21" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0014" x="2186" y="1355" width="547" height="645" frameX="-218" frameY="-21" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0015" x="2735" y="1355" width="547" height="645" frameX="-218" frameY="-21" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0016" x="2735" y="1355" width="547" height="645" frameX="-218" frameY="-21" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0017" x="2735" y="1355" width="547" height="645" frameX="-218" frameY="-21" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0018" x="3284" y="1355" width="547" height="645" frameX="-218" frameY="-21" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0019" x="3284" y="1355" width="547" height="645" frameX="-218" frameY="-21" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0020" x="0" y="2008" width="551" height="639" frameX="-212" frameY="-26" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0021" x="553" y="2008" width="551" height="639" frameX="-212" frameY="-26" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0022" x="1106" y="2008" width="553" height="637" frameX="-209" frameY="-28" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0023" x="1661" y="2008" width="553" height="637" frameX="-209" frameY="-28" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0024" x="2216" y="2008" width="520" height="667" frameX="-246" frameY="0" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0025" x="2216" y="2008" width="520" height="667" frameX="-246" frameY="0" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0026" x="2738" y="2008" width="517" height="663" frameX="-247" frameY="-4" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0027" x="2738" y="2008" width="517" height="663" frameX="-247" frameY="-4" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0028" x="3257" y="2008" width="520" height="657" frameX="-243" frameY="-10" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0029" x="3257" y="2008" width="520" height="657" frameX="-243" frameY="-10" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0030" x="0" y="2677" width="520" height="656" frameX="-242" frameY="-11" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0031" x="0" y="2677" width="520" height="656" frameX="-242" frameY="-11" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0032" x="522" y="2677" width="519" height="657" frameX="-243" frameY="-10" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0033" x="522" y="2677" width="519" height="657" frameX="-243" frameY="-10" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0034" x="1043" y="2677" width="519" height="657" frameX="-243" frameY="-10" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0035" x="1043" y="2677" width="519" height="657" frameX="-243" frameY="-10" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianGUNJAMMED0036" x="1564" y="2677" width="519" height="657" frameX="-243" frameY="-10" frameWidth="768" frameHeight="667"/>
+	<SubTexture name="CaptianHITWITHBALL0000" x="2085" y="2677" width="477" height="565" pivotX="-82.05" pivotY="-87.1" frameX="-34" frameY="-8" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0001" x="2085" y="2677" width="477" height="565" frameX="-34" frameY="-8" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0002" x="2564" y="2677" width="499" height="515" frameX="0" frameY="-52" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0003" x="2564" y="2677" width="499" height="515" frameX="0" frameY="-52" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0004" x="2564" y="2677" width="499" height="515" frameX="0" frameY="-52" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0005" x="3065" y="2677" width="471" height="545" frameX="-4" frameY="-33" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0006" x="3065" y="2677" width="471" height="545" frameX="-4" frameY="-33" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0007" x="3538" y="2677" width="457" height="579" frameX="-5" frameY="0" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0008" x="3538" y="2677" width="457" height="579" frameX="-5" frameY="0" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0009" x="0" y="3336" width="456" height="565" frameX="-6" frameY="-14" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0010" x="0" y="3336" width="456" height="565" frameX="-6" frameY="-14" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0011" x="458" y="3336" width="456" height="564" frameX="-6" frameY="-15" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0012" x="458" y="3336" width="456" height="564" frameX="-6" frameY="-15" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianHITWITHBALL0013" x="458" y="3336" width="456" height="564" frameX="-6" frameY="-15" frameWidth="511" frameHeight="579"/>
+	<SubTexture name="CaptianIdle0000" x="916" y="3336" width="518" height="666" pivotX="-26.8" pivotY="-0.55" frameX="-1" frameY="-1" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0001" x="916" y="3336" width="518" height="666" frameX="-1" frameY="-1" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0002" x="1436" y="3336" width="511" height="661" frameX="-5" frameY="-5" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0003" x="1436" y="3336" width="511" height="661" frameX="-5" frameY="-5" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0004" x="1949" y="3336" width="517" height="657" frameX="0" frameY="-9" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0005" x="1949" y="3336" width="517" height="657" frameX="0" frameY="-9" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0006" x="2468" y="3336" width="517" height="664" frameX="-2" frameY="-2" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0007" x="2468" y="3336" width="517" height="664" frameX="-2" frameY="-2" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0008" x="2987" y="3336" width="515" height="665" frameX="-3" frameY="0" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0009" x="2987" y="3336" width="515" height="665" frameX="-3" frameY="0" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0010" x="2987" y="3336" width="515" height="665" frameX="-3" frameY="0" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0011" x="2987" y="3336" width="515" height="665" frameX="-3" frameY="0" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0012" x="2987" y="3336" width="515" height="665" frameX="-3" frameY="0" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianIdle0013" x="2987" y="3336" width="515" height="665" frameX="-3" frameY="0" frameWidth="519" frameHeight="667"/>
+	<SubTexture name="CaptianSkidding0000" x="3504" y="3336" width="440" height="621" pivotX="-118.5" pivotY="24.3"/>
+	<SubTexture name="CaptianSkidding0001" x="3504" y="3336" width="440" height="621"/>
+	<SubTexture name="CaptianSkidding0002" x="3504" y="3336" width="440" height="621"/>
+	<SubTexture name="CaptianSkidding0003" x="3504" y="3336" width="440" height="621"/>
+	<SubTexture name="CaptianUGH0000" x="0" y="4004" width="510" height="657" pivotX="-27.55" pivotY="-0.55" frameX="0" frameY="-4" frameWidth="510" frameHeight="665"/>
+	<SubTexture name="CaptianUGH0001" x="0" y="4004" width="510" height="657" frameX="0" frameY="-4" frameWidth="510" frameHeight="665"/>
+	<SubTexture name="CaptianUGH0002" x="512" y="4004" width="503" height="665" frameX="-2" frameY="0" frameWidth="510" frameHeight="665"/>
+	<SubTexture name="CaptianUGH0003" x="512" y="4004" width="503" height="665" frameX="-2" frameY="0" frameWidth="510" frameHeight="665"/>
+	<SubTexture name="CaptianUGH0004" x="1017" y="4004" width="503" height="665" frameX="-2" frameY="0" frameWidth="510" frameHeight="665"/>
+	<SubTexture name="CaptianUGH0005" x="1017" y="4004" width="503" height="665" frameX="-2" frameY="0" frameWidth="510" frameHeight="665"/>
+	<SubTexture name="CaptianUGH0006" x="1522" y="4004" width="503" height="665" frameX="-2" frameY="0" frameWidth="510" frameHeight="665"/>
+	<SubTexture name="CaptianUGH0007" x="1522" y="4004" width="503" height="665" frameX="-2" frameY="0" frameWidth="510" frameHeight="665"/>
+</TextureAtlas>

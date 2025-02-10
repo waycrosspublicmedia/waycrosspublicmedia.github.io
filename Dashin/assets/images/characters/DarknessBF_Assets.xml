@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DarknessBF_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DarknessBFDown0000" x="0" y="0" width="492" height="505" frameX="0" frameY="0" frameWidth="495" frameHeight="505"/>
+	<SubTexture name="DarknessBFDown0001" x="492" y="0" width="482" height="497" frameX="-13" frameY="-7" frameWidth="495" frameHeight="505"/>
+	<SubTexture name="DarknessBFDown0002" x="492" y="0" width="482" height="497" frameX="-13" frameY="-7" frameWidth="495" frameHeight="505"/>
+	<SubTexture name="DarknessBFDown0003" x="974" y="0" width="468" height="494" frameX="-26" frameY="-10" frameWidth="495" frameHeight="505"/>
+	<SubTexture name="DarknessBFDown0004" x="974" y="0" width="468" height="494" frameX="-26" frameY="-10" frameWidth="495" frameHeight="505"/>
+	<SubTexture name="DarknessBFDown0005" x="2845" y="519" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFDown0006" x="2845" y="519" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFDown0007" x="2845" y="519" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFDown0008" x="2845" y="519" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFDown0009" x="2845" y="519" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFDown0010" x="2845" y="519" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFDown0011" x="2845" y="519" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFDown0012" x="2845" y="519" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFDown0013" x="2845" y="519" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFIdle0000" x="1442" y="0" width="508" height="519"/>
+	<SubTexture name="DarknessBFIdle0001" x="1442" y="0" width="508" height="519"/>
+	<SubTexture name="DarknessBFIdle0002" x="1950" y="0" width="488" height="507" frameX="-14" frameY="-11" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFIdle0003" x="1950" y="0" width="488" height="507" frameX="-14" frameY="-11" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFIdle0004" x="2438" y="0" width="465" height="491" frameX="-31" frameY="-27" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFIdle0005" x="2438" y="0" width="465" height="491" frameX="-31" frameY="-27" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFIdle0006" x="2903" y="0" width="462" height="493" frameX="-33" frameY="-25" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFIdle0007" x="2903" y="0" width="462" height="493" frameX="-33" frameY="-25" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFIdle0008" x="3365" y="0" width="461" height="493" frameX="-34" frameY="-25" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFIdle0009" x="3365" y="0" width="461" height="493" frameX="-34" frameY="-25" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFIdle0010" x="3365" y="0" width="461" height="493" frameX="-34" frameY="-25" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFIdle0011" x="3365" y="0" width="461" height="493" frameX="-34" frameY="-25" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFIdle0012" x="3365" y="0" width="461" height="493" frameX="-34" frameY="-25" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFIdle0013" x="3365" y="0" width="461" height="493" frameX="-34" frameY="-25" frameWidth="508" frameHeight="519"/>
+	<SubTexture name="DarknessBFLeft0000" x="0" y="519" width="486" height="508"/>
+	<SubTexture name="DarknessBFLeft0001" x="486" y="519" width="474" height="499" frameX="-8" frameY="-9" frameWidth="486" frameHeight="508"/>
+	<SubTexture name="DarknessBFLeft0002" x="486" y="519" width="474" height="499" frameX="-8" frameY="-9" frameWidth="486" frameHeight="508"/>
+	<SubTexture name="DarknessBFLeft0003" x="960" y="519" width="469" height="495" frameX="-13" frameY="-13" frameWidth="486" frameHeight="508"/>
+	<SubTexture name="DarknessBFLeft0004" x="960" y="519" width="469" height="495" frameX="-13" frameY="-13" frameWidth="486" frameHeight="508"/>
+	<SubTexture name="DarknessBFLeft0005" x="2845" y="519" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFLeft0006" x="2845" y="519" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFLeft0007" x="2845" y="519" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFLeft0008" x="2845" y="519" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFLeft0009" x="2845" y="519" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFLeft0010" x="2845" y="519" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFLeft0011" x="2845" y="519" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFLeft0012" x="2845" y="519" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFLeft0013" x="2845" y="519" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0000" x="1429" y="519" width="478" height="502" frameX="-7" frameY="0" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0001" x="1907" y="519" width="471" height="497" frameX="-1" frameY="-5" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0002" x="1907" y="519" width="471" height="497" frameX="-1" frameY="-5" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0003" x="2378" y="519" width="467" height="494" frameX="0" frameY="-8" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0004" x="2378" y="519" width="467" height="494" frameX="0" frameY="-8" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0005" x="2845" y="519" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0006" x="2845" y="519" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0007" x="2845" y="519" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0008" x="2845" y="519" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0009" x="2845" y="519" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0010" x="2845" y="519" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0011" x="2845" y="519" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0012" x="2845" y="519" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFRight0013" x="2845" y="519" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFUp0000" x="3306" y="519" width="510" height="530"/>
+	<SubTexture name="DarknessBFUp0001" x="0" y="1049" width="498" height="521" frameX="-5" frameY="-9" frameWidth="510" frameHeight="530"/>
+	<SubTexture name="DarknessBFUp0002" x="0" y="1049" width="498" height="521" frameX="-5" frameY="-9" frameWidth="510" frameHeight="530"/>
+	<SubTexture name="DarknessBFUp0003" x="498" y="1049" width="473" height="501" frameX="-18" frameY="-29" frameWidth="510" frameHeight="530"/>
+	<SubTexture name="DarknessBFUp0004" x="498" y="1049" width="473" height="501" frameX="-18" frameY="-29" frameWidth="510" frameHeight="530"/>
+	<SubTexture name="DarknessBFUp0005" x="2845" y="519" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFUp0006" x="2845" y="519" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFUp0007" x="2845" y="519" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFUp0008" x="2845" y="519" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFUp0009" x="2845" y="519" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFUp0010" x="2845" y="519" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFUp0011" x="2845" y="519" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFUp0012" x="2845" y="519" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="DarknessBFUp0013" x="2845" y="519" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0000" x="971" y="1049" width="492" height="505"/>
+	<SubTexture name="MISSDarknessBFDown0001" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0002" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0003" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0004" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0005" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0006" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0007" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0008" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0009" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0010" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0011" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0012" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFDown0013" x="2427" y="1049" width="461" height="491" frameX="-30" frameY="-13" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0000" x="1463" y="1049" width="486" height="508"/>
+	<SubTexture name="MISSDarknessBFLeft0001" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0002" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0003" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0004" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0005" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0006" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0007" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0008" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0009" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0010" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0011" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0012" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFLeft0013" x="2427" y="1049" width="461" height="491" frameX="-16" frameY="-17" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0000" x="1949" y="1049" width="478" height="502" frameX="-7" frameY="0" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0001" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0002" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0003" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0004" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0005" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0006" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0007" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0008" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0009" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0010" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0011" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0012" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFRight0013" x="2427" y="1049" width="461" height="491" frameX="0" frameY="-11" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0000" x="2888" y="1049" width="510" height="530"/>
+	<SubTexture name="MISSDarknessBFUp0001" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0002" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0003" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0004" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0005" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0006" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0007" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0008" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0009" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0010" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0011" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0012" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+	<SubTexture name="MISSDarknessBFUp0013" x="2427" y="1049" width="461" height="491" frameX="-24" frameY="-38" frameWidth="485" frameHeight="502"/>
+</TextureAtlas>

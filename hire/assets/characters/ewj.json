@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jimidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jimleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-151
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jimdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				280
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jimup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jimright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ewj_assets",
+	"position": [
+		-320,
+		-160
+	],
+	"healthicon": "jim",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		112,
+		112
+	],
+	"camera_position": [
+		110,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

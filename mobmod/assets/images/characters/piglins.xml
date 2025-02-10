@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="piglins.png"><SubTexture name="zpig idle0000" x="0" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0001" x="500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0002" x="1000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0003" x="1500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0004" x="2000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0005" x="2500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0006" x="3000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0007" x="3500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0008" x="4000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0009" x="4500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0010" x="5000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0011" x="5500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0012" x="6000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0013" x="0" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0014" x="500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0015" x="1000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0016" x="1500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0017" x="2000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0018" x="2500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0019" x="3000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig idle0020" x="3500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig left0000" x="4000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig left0001" x="4500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig left0002" x="5000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig left0003" x="5500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig left0004" x="6000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig left0005" x="0" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig left0006" x="500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig left0007" x="1000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig left0008" x="1500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig left0009" x="2000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig left0010" x="2500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig down0000" x="3000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig down0001" x="3500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig down0002" x="4000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig down0003" x="4500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig down0004" x="5000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig down0005" x="5500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig down0006" x="6000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig down0007" x="0" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig down0008" x="500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig down0009" x="1000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig down0010" x="1500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig up0000" x="2000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig up0001" x="2500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig up0002" x="3000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig up0003" x="3500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig up0004" x="4000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig up0005" x="4500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig up0006" x="5000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig up0007" x="5500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig up0008" x="6000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig up0009" x="0" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig right0000" x="500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig right0001" x="1000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig right0002" x="1500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig right0003" x="2000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig right0004" x="2500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig right0005" x="3000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig right0006" x="3500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig right0007" x="4000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig right0008" x="4500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig right0009" x="5000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="zpig right0010" x="5500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0000" x="6000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0001" x="0" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0002" x="500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0003" x="1000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0004" x="1500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0005" x="2000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0006" x="2500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0007" x="3000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0008" x="3500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0009" x="4000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0010" x="4500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0011" x="5000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0012" x="5500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0013" x="6000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0014" x="0" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0015" x="500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0016" x="1000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0017" x="1500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0018" x="2000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0019" x="2500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0020" x="3000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0021" x="3500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0022" x="4000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0023" x="4500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0024" x="5000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0025" x="5500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0026" x="6000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0027" x="0" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0028" x="500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0029" x="1000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0030" x="1500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0031" x="2000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0032" x="2500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="mid song event0033" x="3000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0000" x="3500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0001" x="4000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0002" x="4500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0003" x="5000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0004" x="5500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0005" x="6000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0006" x="0" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0007" x="500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0008" x="1000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0009" x="1500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0010" x="2000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0011" x="2500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0012" x="3000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0013" x="3500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0014" x="4000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0015" x="4500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0016" x="5000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0017" x="5500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0018" x="6000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0019" x="0" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin idle0020" x="500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0000" x="1000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0001" x="1500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0002" x="2000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0003" x="2500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0004" x="3000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0005" x="3500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0006" x="4000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0007" x="4500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0008" x="5000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0009" x="5500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0010" x="6000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0011" x="0" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin left0012" x="500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin down0000" x="1000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin down0001" x="1500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin down0002" x="2000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin down0003" x="2500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin down0004" x="3000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin down0005" x="3500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin down0006" x="4000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin down0007" x="4500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin down0008" x="5000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin down0009" x="5500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin down0010" x="6000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0000" x="0" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0001" x="500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0002" x="1000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0003" x="1500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0004" x="2000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0005" x="2500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0006" x="3000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0007" x="3500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0008" x="4000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0009" x="4500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0010" x="5000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0011" x="5500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0012" x="6000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin up0013" x="0" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0000" x="500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0001" x="1000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0002" x="1500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0003" x="2000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0004" x="2500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0005" x="3000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0006" x="3500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0007" x="4000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0008" x="4500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0009" x="5000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0010" x="5500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="piglin right0011" x="6000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+</TextureAtlas>

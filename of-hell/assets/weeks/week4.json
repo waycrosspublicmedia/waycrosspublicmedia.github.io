@@ -1,0 +1,32 @@
+{
+	"storyName": "WEEK 4",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "week4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Mountain Peek",
+			"exeller",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

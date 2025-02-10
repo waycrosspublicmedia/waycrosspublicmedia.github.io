@@ -1,0 +1,43 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "PJ Berri (Nene)",
+	"flipX": false,
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"isPixel": false,
+	"singTime": 4,
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"isPixel": false,
+		"scale": 1,
+		"id": "parappa"
+	},
+	"assetPath": "characters/pjdjnene",
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				5
+			],
+			"frameRate": 24,
+			"prefix": "PJ+NENE idle",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "WEEK 2",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bingo Forest",
+			"Encore-bf",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Foggy Volcano",
+			"cream",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

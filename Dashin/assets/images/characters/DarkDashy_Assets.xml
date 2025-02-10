@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DarkDashy_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DarkDashyDown0000" x="0" y="0" width="259" height="227" frameX="0" frameY="-11" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0001" x="259" y="0" width="259" height="227" frameX="0" frameY="-6" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0002" x="259" y="0" width="259" height="227" frameX="0" frameY="-6" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0003" x="518" y="0" width="259" height="227" frameX="0" frameY="-2" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0004" x="518" y="0" width="259" height="227" frameX="0" frameY="-2" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0005" x="777" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0006" x="777" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0007" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0008" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0009" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0010" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0011" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0012" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyDown0013" x="1036" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="238"/>
+	<SubTexture name="DarkDashyIdle0000" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0001" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0002" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0003" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0004" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0005" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0006" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0007" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0008" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0009" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0010" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0011" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0012" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyIdle0013" x="1295" y="0" width="7" height="7"/>
+	<SubTexture name="DarkDashyLeft0000" x="1302" y="0" width="259" height="227" frameX="0" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0001" x="1561" y="0" width="259" height="227" frameX="-2" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0002" x="1561" y="0" width="259" height="227" frameX="-2" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0003" x="0" y="227" width="259" height="227" frameX="-5" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0004" x="0" y="227" width="259" height="227" frameX="-5" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0005" x="259" y="227" width="259" height="227" frameX="-7" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0006" x="259" y="227" width="259" height="227" frameX="-7" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0007" x="518" y="227" width="259" height="227" frameX="-7" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0008" x="518" y="227" width="259" height="227" frameX="-7" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0009" x="518" y="227" width="259" height="227" frameX="-7" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0010" x="518" y="227" width="259" height="227" frameX="-7" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0011" x="518" y="227" width="259" height="227" frameX="-7" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0012" x="518" y="227" width="259" height="227" frameX="-7" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyLeft0013" x="518" y="227" width="259" height="227" frameX="-7" frameY="0" frameWidth="266" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0000" x="777" y="227" width="259" height="227" frameX="-11" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0001" x="1036" y="227" width="259" height="227" frameX="-6" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0002" x="1036" y="227" width="259" height="227" frameX="-6" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0003" x="1295" y="227" width="259" height="227" frameX="-3" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0004" x="1295" y="227" width="259" height="227" frameX="-3" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0005" x="1554" y="227" width="259" height="227" frameX="0" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0006" x="1554" y="227" width="259" height="227" frameX="0" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0007" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0008" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0009" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0010" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0011" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0012" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyRight0013" x="0" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="270" frameHeight="227"/>
+	<SubTexture name="DarkDashyUp0000" x="259" y="454" width="259" height="227" frameX="0" frameY="0" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0001" x="518" y="454" width="259" height="227" frameX="0" frameY="-3" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0002" x="518" y="454" width="259" height="227" frameX="0" frameY="-3" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0003" x="777" y="454" width="259" height="227" frameX="0" frameY="-5" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0004" x="777" y="454" width="259" height="227" frameX="0" frameY="-5" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0005" x="1036" y="454" width="259" height="227" frameX="0" frameY="-7" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0006" x="1036" y="454" width="259" height="227" frameX="0" frameY="-7" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0007" x="1295" y="454" width="259" height="227" frameX="0" frameY="-7" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0008" x="1295" y="454" width="259" height="227" frameX="0" frameY="-7" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0009" x="1295" y="454" width="259" height="227" frameX="0" frameY="-7" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0010" x="1295" y="454" width="259" height="227" frameX="0" frameY="-7" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0011" x="1295" y="454" width="259" height="227" frameX="0" frameY="-7" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0012" x="1295" y="454" width="259" height="227" frameX="0" frameY="-7" frameWidth="259" frameHeight="234"/>
+	<SubTexture name="DarkDashyUp0013" x="1295" y="454" width="259" height="227" frameX="0" frameY="-7" frameWidth="259" frameHeight="234"/>
+</TextureAtlas>

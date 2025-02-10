@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boom_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOOMDown0000" x="0" y="0" width="547" height="698" frameX="-36" frameY="-47" frameWidth="670" frameHeight="781"/>
+	<SubTexture name="BOOMDown0001" x="547" y="0" width="598" height="750" frameX="-35" frameY="0" frameWidth="670" frameHeight="781"/>
+	<SubTexture name="BOOMDown0002" x="1145" y="0" width="635" height="768" frameX="-35" frameY="-13" frameWidth="670" frameHeight="781"/>
+	<SubTexture name="BOOMDown0003" x="1780" y="0" width="599" height="743" frameX="-34" frameY="-4" frameWidth="670" frameHeight="781"/>
+	<SubTexture name="BOOMDown0004" x="2379" y="0" width="565" height="688" frameX="-33" frameY="-57" frameWidth="670" frameHeight="781"/>
+	<SubTexture name="BOOMDown0005" x="2944" y="0" width="670" height="669" frameX="0" frameY="-76" frameWidth="670" frameHeight="781"/>
+	<SubTexture name="BOOMDown0006" x="3614" y="0" width="569" height="669" frameX="-32" frameY="-76" frameWidth="670" frameHeight="781"/>
+	<SubTexture name="BOOMDown0007" x="3614" y="0" width="569" height="669" frameX="-32" frameY="-76" frameWidth="670" frameHeight="781"/>
+	<SubTexture name="BOOMDown0008" x="3614" y="0" width="569" height="669" frameX="-32" frameY="-76" frameWidth="670" frameHeight="781"/>
+	<SubTexture name="BOOMDown0009" x="3614" y="0" width="569" height="669" frameX="-32" frameY="-76" frameWidth="670" frameHeight="781"/>
+	<SubTexture name="BOOMIdle0000" x="4183" y="0" width="445" height="744" frameX="-90" frameY="-92" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0001" x="4628" y="0" width="484" height="741" frameX="-61" frameY="-94" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0002" x="5112" y="0" width="676" height="801" frameX="0" frameY="-34" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0003" x="5788" y="0" width="633" height="777" frameX="-22" frameY="-59" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0004" x="6421" y="0" width="604" height="744" frameX="-28" frameY="-92" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0005" x="7025" y="0" width="443" height="817" frameX="-96" frameY="-18" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0006" x="7468" y="0" width="477" height="825" frameX="-61" frameY="-35" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0007" x="0" y="825" width="448" height="793" frameX="-89" frameY="-43" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0008" x="448" y="825" width="538" height="835" frameX="-63" frameY="0" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0009" x="986" y="825" width="448" height="782" frameX="-88" frameY="-53" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0010" x="1434" y="825" width="445" height="744" frameX="-90" frameY="-92" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0011" x="1434" y="825" width="445" height="744" frameX="-90" frameY="-92" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0012" x="1434" y="825" width="445" height="744" frameX="-90" frameY="-92" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0013" x="1434" y="825" width="445" height="744" frameX="-90" frameY="-92" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMIdle0014" x="1434" y="825" width="445" height="744" frameX="-90" frameY="-92" frameWidth="676" frameHeight="860"/>
+	<SubTexture name="BOOMLeft0000" x="1879" y="825" width="718" height="803" frameX="-47" frameY="-66" frameWidth="765" frameHeight="869"/>
+	<SubTexture name="BOOMLeft0001" x="2597" y="825" width="763" height="840" frameX="0" frameY="-29" frameWidth="765" frameHeight="869"/>
+	<SubTexture name="BOOMLeft0002" x="3360" y="825" width="754" height="855" frameX="-6" frameY="-14" frameWidth="765" frameHeight="869"/>
+	<SubTexture name="BOOMLeft0003" x="4114" y="825" width="728" height="869" frameX="-30" frameY="0" frameWidth="765" frameHeight="869"/>
+	<SubTexture name="BOOMLeft0004" x="4842" y="825" width="737" height="867" frameX="-18" frameY="-2" frameWidth="765" frameHeight="869"/>
+	<SubTexture name="BOOMLeft0005" x="5579" y="825" width="745" height="864" frameX="-7" frameY="-5" frameWidth="765" frameHeight="869"/>
+	<SubTexture name="BOOMLeft0006" x="6324" y="825" width="745" height="864" frameX="-7" frameY="-5" frameWidth="765" frameHeight="869"/>
+	<SubTexture name="BOOMLeft0007" x="6324" y="825" width="745" height="864" frameX="-7" frameY="-5" frameWidth="765" frameHeight="869"/>
+	<SubTexture name="BOOMLeft0008" x="6324" y="825" width="745" height="864" frameX="-7" frameY="-5" frameWidth="765" frameHeight="869"/>
+	<SubTexture name="BOOMLeft0009" x="6324" y="825" width="745" height="864" frameX="-7" frameY="-5" frameWidth="765" frameHeight="869"/>
+	<SubTexture name="BOOMRight0000" x="7069" y="825" width="627" height="815" frameX="-97" frameY="0" frameWidth="831" frameHeight="815"/>
+	<SubTexture name="BOOMRight0001" x="0" y="1694" width="752" height="771" frameX="0" frameY="-43" frameWidth="831" frameHeight="815"/>
+	<SubTexture name="BOOMRight0002" x="752" y="1694" width="779" height="784" frameX="-15" frameY="-30" frameWidth="831" frameHeight="815"/>
+	<SubTexture name="BOOMRight0003" x="1531" y="1694" width="719" height="797" frameX="-77" frameY="-17" frameWidth="831" frameHeight="815"/>
+	<SubTexture name="BOOMRight0004" x="2250" y="1694" width="729" height="797" frameX="-94" frameY="-17" frameWidth="831" frameHeight="815"/>
+	<SubTexture name="BOOMRight0005" x="2979" y="1694" width="738" height="797" frameX="-93" frameY="-18" frameWidth="831" frameHeight="815"/>
+	<SubTexture name="BOOMRight0006" x="3717" y="1694" width="721" height="797" frameX="-93" frameY="-18" frameWidth="831" frameHeight="815"/>
+	<SubTexture name="BOOMRight0007" x="3717" y="1694" width="721" height="797" frameX="-93" frameY="-18" frameWidth="831" frameHeight="815"/>
+	<SubTexture name="BOOMRight0008" x="3717" y="1694" width="721" height="797" frameX="-93" frameY="-18" frameWidth="831" frameHeight="815"/>
+	<SubTexture name="BOOMRight0009" x="3717" y="1694" width="721" height="797" frameX="-93" frameY="-18" frameWidth="831" frameHeight="815"/>
+	<SubTexture name="BOOMUp0000" x="4438" y="1694" width="477" height="907" frameX="-23" frameY="0" frameWidth="616" frameHeight="926"/>
+	<SubTexture name="BOOMUp0001" x="4915" y="1694" width="611" height="851" frameX="0" frameY="-56" frameWidth="616" frameHeight="926"/>
+	<SubTexture name="BOOMUp0002" x="5526" y="1694" width="611" height="906" frameX="-5" frameY="-1" frameWidth="616" frameHeight="926"/>
+	<SubTexture name="BOOMUp0003" x="6137" y="1694" width="521" height="883" frameX="-22" frameY="-30" frameWidth="616" frameHeight="926"/>
+	<SubTexture name="BOOMUp0004" x="6658" y="1694" width="492" height="839" frameX="-20" frameY="-74" frameWidth="616" frameHeight="926"/>
+	<SubTexture name="BOOMUp0005" x="7150" y="1694" width="530" height="876" frameX="-15" frameY="-50" frameWidth="616" frameHeight="926"/>
+	<SubTexture name="BOOMUp0006" x="7680" y="1694" width="503" height="857" frameX="-15" frameY="-50" frameWidth="616" frameHeight="926"/>
+	<SubTexture name="BOOMUp0007" x="7680" y="1694" width="503" height="857" frameX="-15" frameY="-50" frameWidth="616" frameHeight="926"/>
+	<SubTexture name="BOOMUp0008" x="7680" y="1694" width="503" height="857" frameX="-15" frameY="-50" frameWidth="616" frameHeight="926"/>
+	<SubTexture name="BOOMUp0009" x="7680" y="1694" width="503" height="857" frameX="-15" frameY="-50" frameWidth="616" frameHeight="926"/>
+</TextureAtlas>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mouse_beta.png"><SubTexture name="mouse_beta idle0000" x="1970" y="724" width="487" height="719" frameX="0" frameY="0" frameWidth="487" frameHeight="719" />
+<SubTexture name="mouse_beta idle0001" x="1970" y="724" width="487" height="719" frameX="0" frameY="0" frameWidth="487" frameHeight="719" />
+<SubTexture name="mouse_beta idle0002" x="1142" y="1469" width="484" height="711" frameX="0" frameY="0" frameWidth="484" frameHeight="711" />
+<SubTexture name="mouse_beta idle0003" x="1142" y="1469" width="484" height="711" frameX="0" frameY="0" frameWidth="484" frameHeight="711" />
+<SubTexture name="mouse_beta idle0004" x="2593" y="706" width="484" height="701" frameX="0" frameY="0" frameWidth="484" frameHeight="701" />
+<SubTexture name="mouse_beta idle0005" x="2593" y="706" width="484" height="701" frameX="0" frameY="0" frameWidth="484" frameHeight="701" />
+<SubTexture name="mouse_beta idle0006" x="2593" y="0" width="487" height="706" frameX="0" frameY="0" frameWidth="487" frameHeight="706" />
+<SubTexture name="mouse_beta idle0007" x="2593" y="0" width="487" height="706" frameX="0" frameY="0" frameWidth="487" frameHeight="706" />
+<SubTexture name="mouse_beta idle0008" x="0" y="2188" width="489" height="696" frameX="0" frameY="0" frameWidth="489" frameHeight="696" />
+<SubTexture name="mouse_beta idle0009" x="0" y="2188" width="489" height="696" frameX="0" frameY="0" frameWidth="489" frameHeight="696" />
+<SubTexture name="mouse_beta up0000" x="0" y="0" width="462" height="744" frameX="0" frameY="0" frameWidth="462" frameHeight="744" />
+<SubTexture name="mouse_beta up0001" x="0" y="0" width="462" height="744" frameX="0" frameY="0" frameWidth="462" frameHeight="744" />
+<SubTexture name="mouse_beta up0002" x="462" y="0" width="455" height="735" frameX="0" frameY="0" frameWidth="455" frameHeight="735" />
+<SubTexture name="mouse_beta up0003" x="462" y="0" width="455" height="735" frameX="0" frameY="0" frameWidth="455" frameHeight="735" />
+<SubTexture name="mouse_beta up0004" x="1519" y="0" width="451" height="724" frameX="0" frameY="0" frameWidth="451" frameHeight="724" />
+<SubTexture name="mouse_beta up0005" x="1519" y="0" width="451" height="724" frameX="0" frameY="0" frameWidth="451" frameHeight="724" />
+<SubTexture name="mouse_beta down0000" x="1085" y="2188" width="589" height="489" frameX="0" frameY="0" frameWidth="589" frameHeight="489" />
+<SubTexture name="mouse_beta down0001" x="1085" y="2188" width="589" height="489" frameX="0" frameY="0" frameWidth="589" frameHeight="489" />
+<SubTexture name="mouse_beta down0002" x="1674" y="2188" width="586" height="489" frameX="0" frameY="0" frameWidth="586" frameHeight="489" />
+<SubTexture name="mouse_beta down0003" x="1674" y="2188" width="586" height="489" frameX="0" frameY="0" frameWidth="586" frameHeight="489" />
+<SubTexture name="mouse_beta down0004" x="489" y="2188" width="596" height="496" frameX="0" frameY="0" frameWidth="596" frameHeight="496" />
+<SubTexture name="mouse_beta idle0010" x="489" y="2188" width="596" height="496" frameX="0" frameY="0" frameWidth="596" frameHeight="496" />
+<SubTexture name="mouse_beta right0000" x="0" y="1469" width="512" height="719" frameX="0" frameY="0" frameWidth="512" frameHeight="719" />
+<SubTexture name="mouse_beta right0001" x="0" y="1469" width="512" height="719" frameX="0" frameY="0" frameWidth="512" frameHeight="719" />
+<SubTexture name="mouse_beta right0002" x="0" y="744" width="526" height="725" frameX="0" frameY="0" frameWidth="526" frameHeight="725" />
+<SubTexture name="mouse_beta right0003" x="0" y="744" width="526" height="725" frameX="0" frameY="0" frameWidth="526" frameHeight="725" />
+<SubTexture name="mouse_beta right0004" x="526" y="744" width="545" height="725" frameX="0" frameY="0" frameWidth="545" frameHeight="725" />
+<SubTexture name="mouse_beta right0005" x="526" y="744" width="545" height="725" frameX="0" frameY="0" frameWidth="545" frameHeight="725" />
+<SubTexture name="mouse_beta left0000" x="512" y="1469" width="630" height="712" frameX="0" frameY="0" frameWidth="630" frameHeight="712" />
+<SubTexture name="mouse_beta left0001" x="512" y="1469" width="630" height="712" frameX="0" frameY="0" frameWidth="630" frameHeight="712" />
+<SubTexture name="mouse_beta left0002" x="1970" y="0" width="623" height="724" frameX="0" frameY="0" frameWidth="623" frameHeight="724" />
+<SubTexture name="mouse_beta left0003" x="1970" y="0" width="623" height="724" frameX="0" frameY="0" frameWidth="623" frameHeight="724" />
+<SubTexture name="mouse_beta left0004" x="917" y="0" width="602" height="735" frameX="0" frameY="0" frameWidth="602" frameHeight="735" />
+<SubTexture name="mouse_beta left0005" x="917" y="0" width="602" height="735" frameX="0" frameY="0" frameWidth="602" frameHeight="735" />
+<SubTexture name="mouse_beta hey0000" x="2082" y="1469" width="458" height="707" frameX="0" frameY="0" frameWidth="458" frameHeight="707" />
+<SubTexture name="mouse_beta hey0001" x="2082" y="1469" width="458" height="707" frameX="0" frameY="0" frameWidth="458" frameHeight="707" />
+<SubTexture name="mouse_beta hey0002" x="1626" y="1469" width="456" height="711" frameX="0" frameY="0" frameWidth="456" frameHeight="711" />
+<SubTexture name="mouse_beta hey0003" x="1626" y="1469" width="456" height="711" frameX="0" frameY="0" frameWidth="456" frameHeight="711" />
+</TextureAtlas>

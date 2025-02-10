@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pNotes2.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue hold end0000" x="0" y="173" width="37" height="101"/>
+	<SubTexture name="blue hold piece0000" x="47" y="173" width="35" height="61"/>
+	<SubTexture name="blue0000" x="0" y="0" width="153" height="163"/>
+	<SubTexture name="green hold end0000" x="0" y="173" width="37" height="101"/>
+	<SubTexture name="green hold piece0000" x="47" y="173" width="35" height="61"/>
+	<SubTexture name="green0000" x="163" y="0" width="153" height="163"/>
+	<SubTexture name="pruple end hold0000" x="0" y="173" width="37" height="101"/>
+	<SubTexture name="purple hold piece0000" x="47" y="173" width="35" height="61"/>
+	<SubTexture name="purple0000" x="326" y="0" width="163" height="153"/>
+	<SubTexture name="red hold end0000" x="0" y="173" width="37" height="101"/>
+	<SubTexture name="red hold piece0000" x="47" y="173" width="35" height="61"/>
+	<SubTexture name="red0000" x="92" y="173" width="162" height="153"/>
+</TextureAtlas>

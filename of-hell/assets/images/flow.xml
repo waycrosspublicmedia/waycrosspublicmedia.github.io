@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flow.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fleurs 10000" x="4" y="4" width="180" height="143" frameX="0" frameY="-4" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10001" x="4" y="4" width="180" height="143" frameX="0" frameY="-4" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10002" x="4" y="4" width="180" height="143" frameX="0" frameY="-4" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10003" x="188" y="4" width="182" height="136" frameX="-3" frameY="-9" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10004" x="188" y="4" width="182" height="136" frameX="-3" frameY="-9" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10005" x="188" y="4" width="182" height="136" frameX="-3" frameY="-9" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10006" x="374" y="4" width="175" height="145" frameX="-6" frameY="-4" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10007" x="374" y="4" width="175" height="145" frameX="-6" frameY="-4" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10008" x="374" y="4" width="175" height="145" frameX="-6" frameY="-4" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10009" x="553" y="4" width="177" height="152" frameX="-4" frameY="-1" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10010" x="553" y="4" width="177" height="152" frameX="-4" frameY="-1" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10011" x="553" y="4" width="177" height="152" frameX="-4" frameY="-1" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10012" x="734" y="4" width="177" height="153" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10013" x="734" y="4" width="177" height="153" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10014" x="734" y="4" width="177" height="153" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10015" x="4" y="161" width="177" height="153" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10016" x="4" y="161" width="177" height="153" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10017" x="4" y="161" width="177" height="153" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10018" x="185" y="161" width="177" height="150" frameX="-4" frameY="-3" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10019" x="185" y="161" width="177" height="150" frameX="-4" frameY="-3" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10020" x="185" y="161" width="177" height="150" frameX="-4" frameY="-3" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10021" x="366" y="161" width="177" height="152" frameX="-4" frameY="-1" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10022" x="366" y="161" width="177" height="152" frameX="-4" frameY="-1" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10023" x="366" y="161" width="177" height="152" frameX="-4" frameY="-1" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10024" x="553" y="4" width="177" height="152" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10025" x="553" y="4" width="177" height="152" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10026" x="553" y="4" width="177" height="152" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10027" x="734" y="4" width="177" height="153" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10028" x="734" y="4" width="177" height="153" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+	<SubTexture name="fleurs 10029" x="734" y="4" width="177" height="153" frameX="-4" frameY="0" frameWidth="185" frameHeight="153"/>
+</TextureAtlas>

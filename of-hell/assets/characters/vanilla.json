@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2335,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "vanilla dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1051,
+				-31
+			],
+			"anim": "chao",
+			"fps": 24,
+			"name": "chao",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2411,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "vanilla dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2413,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "vanilla dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2231,
+				-39
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "vanilla dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2395,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "vanilla dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6037,
+				0
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "vanilla dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2425,
+				0
+			],
+			"anim": "attacksd",
+			"fps": 24,
+			"name": "vanilla dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vanilla",
+	"position": [
+		-340,
+		-60
+	],
+	"healthicon": "vanilla",
+	"flip_x": false,
+	"healthbar_colors": [
+		233,
+		71,
+		85
+	],
+	"camera_position": [
+		-270,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="give up eggman exe.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="escape0000" x="0" y="0" width="1604" height="699" frameX="-3" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0001" x="1604" y="0" width="1604" height="699" frameX="-3" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0002" x="3208" y="0" width="1600" height="699" frameX="-6" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0003" x="3208" y="0" width="1600" height="699" frameX="-6" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0004" x="4808" y="0" width="1560" height="699" frameX="0" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0005" x="4808" y="0" width="1560" height="699" frameX="0" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0006" x="6368" y="0" width="1525" height="699" frameX="-33" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0007" x="6368" y="0" width="1525" height="699" frameX="-33" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0008" x="0" y="699" width="1374" height="699" frameX="-119" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0009" x="1374" y="699" width="1374" height="699" frameX="-119" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0010" x="2748" y="699" width="1322" height="709" frameX="-173" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0011" x="2748" y="699" width="1322" height="709" frameX="-173" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0012" x="4070" y="699" width="1171" height="699" frameX="-389" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0013" x="4070" y="699" width="1171" height="699" frameX="-389" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0014" x="5241" y="699" width="1137" height="699" frameX="-426" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0015" x="5241" y="699" width="1137" height="699" frameX="-426" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0016" x="6378" y="699" width="1177" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0017" x="6378" y="699" width="1177" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0018" x="0" y="1408" width="1174" height="699" frameX="-432" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0019" x="1174" y="1408" width="1174" height="699" frameX="-432" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0020" x="2348" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0021" x="2348" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0022" x="3478" y="1408" width="1128" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0023" x="3478" y="1408" width="1128" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0024" x="4606" y="1408" width="1063" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0025" x="4606" y="1408" width="1063" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0026" x="5669" y="1408" width="1065" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0027" x="5669" y="1408" width="1065" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0028" x="6734" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0029" x="6734" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0030" x="0" y="2107" width="1133" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0031" x="0" y="2107" width="1133" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0032" x="1133" y="2107" width="1177" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0033" x="1133" y="2107" width="1177" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0034" x="2310" y="2107" width="1176" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0035" x="2310" y="2107" width="1176" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0036" x="2348" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0037" x="2348" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0038" x="3478" y="1408" width="1128" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0039" x="3478" y="1408" width="1128" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0040" x="4606" y="1408" width="1063" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0041" x="4606" y="1408" width="1063" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0042" x="5669" y="1408" width="1065" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0043" x="5669" y="1408" width="1065" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0044" x="6734" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0045" x="6734" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0046" x="0" y="2107" width="1133" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0047" x="0" y="2107" width="1133" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0048" x="1133" y="2107" width="1177" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0049" x="1133" y="2107" width="1177" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0050" x="2310" y="2107" width="1176" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0051" x="2310" y="2107" width="1176" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0052" x="2348" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0053" x="2348" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0054" x="3478" y="1408" width="1128" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0055" x="3478" y="1408" width="1128" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0056" x="4606" y="1408" width="1063" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0057" x="4606" y="1408" width="1063" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0058" x="5669" y="1408" width="1065" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0059" x="5669" y="1408" width="1065" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0060" x="6734" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0061" x="6734" y="1408" width="1130" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0062" x="0" y="2107" width="1133" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="escape0063" x="0" y="2107" width="1133" height="699" frameX="-430" frameY="0" frameWidth="1607" frameHeight="709"/>
+	<SubTexture name="give up0000" x="3486" y="2107" width="1608" height="693" frameX="-2" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0001" x="5094" y="2107" width="1608" height="693" frameX="-2" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0002" x="0" y="2806" width="1559" height="693" frameX="-5" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0003" x="0" y="2806" width="1559" height="693" frameX="-5" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0004" x="1559" y="2806" width="1557" height="693" frameX="-5" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0005" x="1559" y="2806" width="1557" height="693" frameX="-5" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0006" x="3116" y="2806" width="1497" height="693" frameX="0" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0007" x="4613" y="2806" width="1495" height="693" frameX="-2" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0008" x="6108" y="2806" width="1496" height="694" frameX="-2" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0009" x="0" y="3500" width="1496" height="694" frameX="-2" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0010" x="1496" y="3500" width="1559" height="694" frameX="-5" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0011" x="1496" y="3500" width="1559" height="694" frameX="-5" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0012" x="3055" y="3500" width="1562" height="693" frameX="-5" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0013" x="3055" y="3500" width="1562" height="693" frameX="-5" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0014" x="4617" y="3500" width="1611" height="693" frameX="0" frameY="0" frameWidth="1611" frameHeight="694"/>
+	<SubTexture name="give up0015" x="6228" y="3500" width="1609" height="693" frameX="-2" frameY="0" frameWidth="1611" frameHeight="694"/>
+</TextureAtlas>

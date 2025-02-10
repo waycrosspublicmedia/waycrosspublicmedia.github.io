@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="press space.png"><SubTexture name="PRESS SPACE0000" x="0" y="0" width="55" height="28" frameX="0" frameY="0" frameWidth="55" frameHeight="28" />
+<SubTexture name="PRESS SPACE0001" x="55" y="0" width="55" height="28" frameX="0" frameY="0" frameWidth="55" frameHeight="28" />
+<SubTexture name="SPACE PRESSED0000" x="0" y="28" width="55" height="28" frameX="0" frameY="0" frameWidth="55" frameHeight="28" />
+<SubTexture name="SPACE PRESSED0001" x="55" y="28" width="55" height="28" frameX="0" frameY="0" frameWidth="55" frameHeight="28" />
+</TextureAtlas>

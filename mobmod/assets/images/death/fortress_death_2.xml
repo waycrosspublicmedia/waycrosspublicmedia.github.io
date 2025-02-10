@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fortress death 2.png"><SubTexture name="fortress death 2 zpig death0000" x="0" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0001" x="500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0002" x="1000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0003" x="1500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0004" x="2000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0005" x="0" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0006" x="500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0007" x="1000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0008" x="1500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0009" x="2000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0010" x="0" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0011" x="500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0012" x="1000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0013" x="1500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0014" x="2000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 zpig death0015" x="0" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0000" x="500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0001" x="1000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0002" x="1500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0003" x="2000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0004" x="0" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0005" x="500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0006" x="1000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0007" x="1500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0008" x="2000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0009" x="0" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0010" x="500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0011" x="1000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0012" x="1500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0013" x="2000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0014" x="0" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0015" x="500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0016" x="1000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0017" x="1500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress death 2 piglin death0018" x="2000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+</TextureAtlas>

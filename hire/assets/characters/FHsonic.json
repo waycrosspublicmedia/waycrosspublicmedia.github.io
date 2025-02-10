@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FH idle"
+		},
+		{
+			"offsets": [
+				67,
+				-27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "FH left0"
+		},
+		{
+			"offsets": [
+				55,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "FH down0"
+		},
+		{
+			"offsets": [
+				16,
+				45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "FH up0"
+		},
+		{
+			"offsets": [
+				29,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "FH right0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/FH_assets",
+	"position": [
+		10,
+		260
+	],
+	"healthicon": "FHsonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		255
+	],
+	"camera_position": [
+		40,
+		-600
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

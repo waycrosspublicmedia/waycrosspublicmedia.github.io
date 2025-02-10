@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TankGuyMainIdle"
+		},
+		{
+			"offsets": [
+				55,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TankGuyLeft"
+		},
+		{
+			"offsets": [
+				-38,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TankMainDudeRight"
+		},
+		{
+			"offsets": [
+				21,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TankGuyUp"
+		},
+		{
+			"offsets": [
+				31,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TankGuyDown"
+		},
+		{
+			"offsets": [
+				1010,
+				148
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "death",
+			"loop": false,
+			"name": "SportKnifeSpinANDDeath"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sportman",
+	"position": [
+		-130,
+		280
+	],
+	"healthicon": "sportman",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		-250,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

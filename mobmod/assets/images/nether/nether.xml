@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nether.png"><SubTexture name="nether left0000" x="0" y="0" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0001" x="724" y="0" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0002" x="1448" y="0" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0003" x="2172" y="0" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0004" x="2896" y="0" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0005" x="0" y="364" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0006" x="724" y="364" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0007" x="1448" y="364" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0008" x="2172" y="364" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0009" x="2896" y="364" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0010" x="0" y="728" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0011" x="724" y="728" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0012" x="1448" y="728" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0013" x="2172" y="728" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether left0014" x="2896" y="728" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0000" x="0" y="1092" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0001" x="724" y="1092" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0002" x="1448" y="1092" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0003" x="2172" y="1092" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0004" x="2896" y="1092" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0005" x="0" y="1456" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0006" x="724" y="1456" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0007" x="1448" y="1456" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0008" x="2172" y="1456" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0009" x="2896" y="1456" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0010" x="0" y="1820" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0011" x="724" y="1820" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0012" x="1448" y="1820" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0013" x="2172" y="1820" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+<SubTexture name="nether right0014" x="2896" y="1820" width="724" height="364" frameX="0" frameY="0" frameWidth="724" frameHeight="364" />
+</TextureAtlas>

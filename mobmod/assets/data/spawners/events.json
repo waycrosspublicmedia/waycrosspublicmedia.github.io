@@ -1,0 +1,696 @@
+{
+  "song": {
+    "events": [
+      [
+        0,
+        [
+          [
+            "fate bg",
+            "0",
+            ""
+          ],
+          [
+            "Set Property",
+            "boyfriend.alpha",
+            "0"
+          ],
+          [
+            "Set Property",
+            "skipCountdown",
+            "true"
+          ],
+          [
+            "Set Property",
+            "camHUD.alpha",
+            "0"
+          ]
+        ]
+      ],
+      [
+        794.117647058824,
+        [
+          [
+            "Set Property",
+            "boyfriend.alpha",
+            "1"
+          ],
+          [
+            "Play Animation",
+            "teleport",
+            "bf"
+          ]
+        ]
+      ],
+      [
+        1411.76470588235,
+        [
+          [
+            "fate bg",
+            "1",
+            "1"
+          ]
+        ]
+      ],
+      [
+        5647.05882352941,
+        [
+          [
+            "HUD Fate",
+            "1",
+            "1"
+          ]
+        ]
+      ],
+      [
+        9882.35294117647,
+        [
+          [
+            "Add Camera Zoom",
+            "0.06",
+            "0"
+          ]
+        ]
+      ],
+      [
+        9970.58823529412,
+        [
+          [
+            "Add Camera Zoom",
+            "0.06",
+            "0"
+          ]
+        ]
+      ],
+      [
+        10058.8235294118,
+        [
+          [
+            "Add Camera Zoom",
+            "0.06",
+            "0"
+          ]
+        ]
+      ],
+      [
+        10147.0588235294,
+        [
+          [
+            "Add Camera Zoom",
+            "0.06",
+            "0"
+          ]
+        ]
+      ],
+      [
+        10235.2941176471,
+        [
+          [
+            "Add Camera Zoom",
+            "0.06",
+            "0"
+          ]
+        ]
+      ],
+      [
+        10323.5294117647,
+        [
+          [
+            "Add Camera Zoom",
+            "0.06",
+            "0"
+          ]
+        ]
+      ],
+      [
+        10411.7647058824,
+        [
+          [
+            "Set Property",
+            "camGame.zoom",
+            "1.42"
+          ]
+        ]
+      ],
+      [
+        10500,
+        [
+          [
+            "Set Property",
+            "camGame.zoom",
+            "1.48"
+          ]
+        ]
+      ],
+      [
+        10588.2352941176,
+        [
+          [
+            "Set Property",
+            "camGame.zoom",
+            "1.54"
+          ]
+        ]
+      ],
+      [
+        10676.4705882353,
+        [
+          [
+            "Set Property",
+            "camGame.zoom",
+            "1.63"
+          ]
+        ]
+      ],
+      [
+        10941.1764705882,
+        [
+          [
+            "Set Property",
+            "camGame.zoom",
+            "1.72"
+          ]
+        ]
+      ],
+      [
+        11294.1176470588,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.3"
+          ],
+          [
+            "Set Property",
+            "camGame.zoom",
+            "2"
+          ]
+        ]
+      ],
+      [
+        22147.0588235294,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "1"
+          ]
+        ]
+      ],
+      [
+        22588.2352941176,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.3"
+          ]
+        ]
+      ],
+      [
+        33176.4705882353,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        33529.4117647059,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "1.1"
+          ]
+        ]
+      ],
+      [
+        33882.3529411765,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.3"
+          ],
+          [
+            "cameraSpeed",
+            "2",
+            ""
+          ]
+        ]
+      ],
+      [
+        45176.4705882353,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.9"
+          ]
+        ]
+      ],
+      [
+        50823.5294117647,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        53117.6470588235,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.3"
+          ]
+        ]
+      ],
+      [
+        53647.0588235294,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.9"
+          ]
+        ]
+      ],
+      [
+        56382.3529411764,
+        [
+          [
+            "angleCam",
+            "true",
+            ""
+          ]
+        ]
+      ],
+      [
+        56470.5882352941,
+        [
+          [
+            "Bar Eh",
+            "true",
+            ""
+          ],
+          [
+            "flash",
+            "1",
+            ""
+          ],
+          [
+            "noteBound",
+            "true",
+            ""
+          ],
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        78352.9411764705,
+        [
+          [
+            "ignite",
+            "",
+            ""
+          ],
+          [
+            "Bar Eh",
+            "",
+            ""
+          ],
+          [
+            "angleCam",
+            "",
+            ""
+          ],
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.5"
+          ],
+          [
+            "cameraSpeed",
+            "1",
+            ""
+          ]
+        ]
+      ],
+      [
+        79058.8235294117,
+        [
+          [
+            "Set Property",
+            "dad.alpha",
+            "0"
+          ],
+          [
+            "Set Property",
+            "boyfriend.alpha",
+            "0"
+          ],
+          [
+            "fate bg",
+            "0",
+            ""
+          ],
+          [
+            "flash",
+            "1",
+            ""
+          ],
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ],
+          [
+            "HUD Fate",
+            "0",
+            ""
+          ],
+          [
+            "explode",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        79147.0588235293,
+        [
+          [
+            "noteBound",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        79235.294117647,
+        [
+          [
+            "angleCam",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        80470.588235294,
+        [
+          [
+            "Change Character",
+            "dad",
+            "skelly"
+          ]
+        ]
+      ],
+      [
+        80558.8235294117,
+        [
+          [
+            "dad fate",
+            "1",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        81882.3529411764,
+        [
+          [
+            "flash",
+            "1",
+            ""
+          ],
+          [
+            "Set Property",
+            "boyfriend.alpha",
+            "1"
+          ],
+          [
+            "fate bg",
+            "1",
+            ""
+          ],
+          [
+            "HUD Fate",
+            "1",
+            ""
+          ]
+        ]
+      ],
+      [
+        87529.4117647058,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.3"
+          ]
+        ]
+      ],
+      [
+        93176.4705882352,
+        [
+          [
+            "camBound",
+            "true",
+            ""
+          ],
+          [
+            "zoomBound",
+            "true",
+            ""
+          ],
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ],
+          [
+            "cameraSpeed",
+            "2",
+            ""
+          ]
+        ]
+      ],
+      [
+        98823.5294117646,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.3"
+          ]
+        ]
+      ],
+      [
+        104470.588235294,
+        [
+          [
+            "Bar Eh",
+            "true",
+            ""
+          ],
+          [
+            "camBound",
+            "shut up",
+            ""
+          ],
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        107294.117647059,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.9"
+          ]
+        ]
+      ],
+      [
+        110117.647058823,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.7"
+          ]
+        ]
+      ],
+      [
+        112235.294117647,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.4"
+          ]
+        ]
+      ],
+      [
+        112941.176470588,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.9"
+          ]
+        ]
+      ],
+      [
+        115764.705882353,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.3"
+          ],
+          [
+            "camBound",
+            "true",
+            ""
+          ],
+          [
+            "flash",
+            "1",
+            ""
+          ]
+        ]
+      ],
+      [
+        121411.764705882,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.3"
+          ]
+        ]
+      ],
+      [
+        127058.823529412,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.3"
+          ],
+          [
+            "camBound",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        132705.882352941,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.3"
+          ]
+        ]
+      ],
+      [
+        136941.176470588,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.9"
+          ]
+        ]
+      ],
+      [
+        137117.647058823,
+        [
+          [
+            "zoomBound",
+            "",
+            ""
+          ],
+          [
+            "Play Animation",
+            "GUITAR",
+            "dad"
+          ],
+          [
+            "animSuffix",
+            "dad",
+            "-alt"
+          ]
+        ]
+      ],
+      [
+        151133.126934984,
+        [
+          [
+            "Set Property",
+            "defaultCamZoom",
+            "0.3"
+          ]
+        ]
+      ],
+      [
+        160685.758513932,
+        [
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        161238.390092879,
+        [
+          [
+            "explode",
+            "",
+            ""
+          ],
+          [
+            "flash",
+            "1",
+            ""
+          ],
+          [
+            "fate bg",
+            "0",
+            ""
+          ],
+          [
+            "Set Property",
+            "dad.alpha",
+            "0"
+          ],
+          [
+            "Set Property",
+            "boyfriend.alpha",
+            "0"
+          ]
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fg mobs.png"><SubTexture name="fg mobs dacow0000" x="0" y="0" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dacow0001" x="314" y="0" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dacow0002" x="628" y="0" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dacow0003" x="942" y="0" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dacow0004" x="1256" y="0" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dacow0005" x="1570" y="0" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dacow0006" x="0" y="284" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dacow0007" x="314" y="284" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dacow0008" x="628" y="284" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dacow0009" x="942" y="284" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dacow0010" x="1256" y="284" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0000" x="1570" y="284" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0001" x="0" y="568" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0002" x="314" y="568" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0003" x="628" y="568" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0004" x="942" y="568" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0005" x="1256" y="568" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0006" x="1570" y="568" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0007" x="0" y="852" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0008" x="314" y="852" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0009" x="628" y="852" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0010" x="942" y="852" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0011" x="1256" y="852" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0012" x="1570" y="852" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0013" x="0" y="1136" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0014" x="314" y="1136" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0015" x="628" y="1136" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dapig0016" x="942" y="1136" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dasheep0000" x="1256" y="1136" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dasheep0001" x="1570" y="1136" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dasheep0002" x="0" y="1420" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dasheep0003" x="314" y="1420" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dasheep0004" x="628" y="1420" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dasheep0005" x="942" y="1420" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dasheep0006" x="1256" y="1420" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dasheep0007" x="1570" y="1420" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dasheep0008" x="0" y="1704" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dasheep0009" x="314" y="1704" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+<SubTexture name="fg mobs dasheep0010" x="628" y="1704" width="314" height="284" frameX="0" frameY="0" frameWidth="314" frameHeight="284" />
+</TextureAtlas>

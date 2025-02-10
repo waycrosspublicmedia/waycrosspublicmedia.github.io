@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ThrowingThingTHROW.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ThrowingThingTHROW0000" x="0" y="0" width="1457" height="390" pivotX="0" pivotY="971.9" frameX="0" frameY="-971" frameWidth="1457" frameHeight="1361"/>
+	<SubTexture name="ThrowingThingTHROW0001" x="1459" y="0" width="1332" height="714" frameX="-125" frameY="-471" frameWidth="1457" frameHeight="1361"/>
+	<SubTexture name="ThrowingThingTHROW0002" x="2793" y="0" width="1231" height="970" frameX="-226" frameY="-215" frameWidth="1457" frameHeight="1361"/>
+	<SubTexture name="ThrowingThingTHROW0003" x="0" y="972" width="602" height="1185" frameX="-855" frameY="0" frameWidth="1457" frameHeight="1361"/>
+	<SubTexture name="ThrowingThingTHROW0004" x="0" y="972" width="602" height="1185" frameX="-855" frameY="0" frameWidth="1457" frameHeight="1361"/>
+	<SubTexture name="ThrowingThingTHROW0005" x="604" y="972" width="642" height="1182" frameX="-815" frameY="-3" frameWidth="1457" frameHeight="1361"/>
+	<SubTexture name="ThrowingThingTHROW0006" x="604" y="972" width="642" height="1182" frameX="-815" frameY="-3" frameWidth="1457" frameHeight="1361"/>
+	<SubTexture name="ThrowingThingTHROW0007" x="1248" y="972" width="659" height="1181" frameX="-798" frameY="-4" frameWidth="1457" frameHeight="1361"/>
+	<SubTexture name="ThrowingThingTHROW0008" x="1248" y="972" width="659" height="1181" frameX="-798" frameY="-4" frameWidth="1457" frameHeight="1361"/>
+</TextureAtlas>

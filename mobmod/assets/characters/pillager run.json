@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pillager run left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pillager run up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pillager run down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pillager run right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "pillager run idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pillager-run",
+	"position": [
+		-250,
+		300
+	],
+	"healthicon": "pillager",
+	"flip_x": false,
+	"healthbar_colors": [
+		138,
+		144,
+		144
+	],
+	"camera_position": [
+		-2500,
+		-1150
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

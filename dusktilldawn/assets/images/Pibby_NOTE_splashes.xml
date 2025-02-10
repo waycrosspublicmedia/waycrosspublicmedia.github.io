@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pibby_NOTE_splashes.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note splash blue 10000" x="0" y="0" width="93" height="132" frameX="-195" frameY="-196" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash blue 10001" x="143" y="0" width="270" height="317" frameX="-107" frameY="-85" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash blue 10002" x="463" y="0" width="441" height="448" frameX="-42" frameY="-27" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash blue 10003" x="954" y="0" width="483" height="487" frameX="-24" frameY="-14" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash blue 10004" x="1487" y="0" width="508" height="508" frameX="0" frameY="-12" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash blue 10005" x="2045" y="0" width="508" height="541"/>
+	<SubTexture name="note splash blue 10006" x="2603" y="0" width="485" height="541" frameX="-3" frameY="0" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash green 10000" x="3138" y="0" width="93" height="132" frameX="-196" frameY="-196" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash green 10001" x="3281" y="0" width="269" height="317" frameX="-108" frameY="-85" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash green 10002" x="3600" y="0" width="442" height="448" frameX="-42" frameY="-27" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash green 10003" x="0" y="591" width="483" height="487" frameX="-24" frameY="-14" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash green 10004" x="533" y="591" width="509" height="508" frameX="0" frameY="-12" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash green 10005" x="1092" y="591" width="509" height="541"/>
+	<SubTexture name="note splash green 10006" x="1651" y="591" width="486" height="541" frameX="-3" frameY="0" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash purple 10000" x="2187" y="591" width="93" height="133" frameX="-195" frameY="-195" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple 10001" x="2330" y="591" width="270" height="317" frameX="-107" frameY="-85" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple 10002" x="2650" y="591" width="441" height="448" frameX="-42" frameY="-27" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple 10003" x="3141" y="591" width="484" height="487" frameX="-23" frameY="-14" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple 10004" x="0" y="1182" width="508" height="508" frameX="0" frameY="-12" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple 10005" x="558" y="1182" width="508" height="540"/>
+	<SubTexture name="note splash purple 10006" x="1116" y="1182" width="485" height="540" frameX="-3" frameY="0" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red 10000" x="1651" y="1182" width="93" height="132" frameX="-195" frameY="-195" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red 10001" x="1794" y="1182" width="270" height="317" frameX="-107" frameY="-85" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red 10002" x="2114" y="1182" width="441" height="447" frameX="-42" frameY="-27" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red 10003" x="2605" y="1182" width="483" height="487" frameX="-24" frameY="-14" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red 10004" x="3138" y="1182" width="508" height="509" frameX="0" frameY="-11" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red 10005" x="0" y="1772" width="508" height="540"/>
+	<SubTexture name="note splash red 10006" x="558" y="1772" width="485" height="540" frameX="-3" frameY="0" frameWidth="508" frameHeight="540"/>
+</TextureAtlas>

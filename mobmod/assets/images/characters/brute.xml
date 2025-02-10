@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="brute.png"><SubTexture name="brute wall0000" x="0" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0001" x="500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0002" x="1000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0003" x="1500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0004" x="2000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0005" x="2500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0006" x="3000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0007" x="3500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0008" x="4000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0009" x="4500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0010" x="5000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0011" x="5500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0012" x="6000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0013" x="6500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0014" x="0" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0015" x="500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0016" x="1000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0017" x="1500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0018" x="2000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0019" x="2500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0020" x="3000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0021" x="3500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0022" x="4000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0023" x="4500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0024" x="5000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0025" x="5500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0026" x="6000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0027" x="6500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0028" x="0" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0029" x="500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0030" x="1000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute wall0031" x="1500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0000" x="2000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0001" x="2500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0002" x="3000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0003" x="3500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0004" x="4000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0005" x="4500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0006" x="5000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0007" x="5500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0008" x="6000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0009" x="6500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0010" x="0" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0011" x="500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0012" x="1000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0013" x="1500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0014" x="2000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0015" x="2500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0016" x="3000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0017" x="3500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0018" x="4000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0019" x="4500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0020" x="5000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0021" x="5500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0022" x="6000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0023" x="6500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0024" x="0" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0025" x="500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0026" x="1000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0027" x="1500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0028" x="2000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0029" x="2500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0030" x="3000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0031" x="3500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0032" x="4000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0033" x="4500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0034" x="5000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0035" x="5500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0036" x="6000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0037" x="6500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0038" x="0" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0039" x="500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0040" x="1000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0041" x="1500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0042" x="2000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0043" x="2500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0044" x="3000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0045" x="3500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0046" x="4000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0047" x="4500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0048" x="5000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0049" x="5500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0050" x="6000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0051" x="6500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0052" x="0" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0053" x="500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0054" x="1000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0055" x="1500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0056" x="2000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0057" x="2500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0058" x="3000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0059" x="3500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0060" x="4000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0061" x="4500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0062" x="5000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0063" x="5500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0064" x="6000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0065" x="6500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0066" x="0" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0067" x="500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0068" x="1000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0069" x="1500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0070" x="2000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0071" x="2500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0072" x="3000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0073" x="3500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0074" x="4000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0075" x="4500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0076" x="5000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute mid song event0077" x="5500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0000" x="6000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0001" x="6500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0002" x="0" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0003" x="500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0004" x="1000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0005" x="1500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0006" x="2000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0007" x="2500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0008" x="3000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0009" x="3500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0010" x="4000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0011" x="4500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0012" x="5000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0013" x="5500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0014" x="6000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0015" x="6500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0016" x="0" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0017" x="500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0018" x="1000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute alt idle normal0019" x="1500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0000" x="2000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0001" x="2500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0002" x="3000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0003" x="3500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0004" x="4000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0005" x="4500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0006" x="5000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0007" x="5500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0008" x="6000" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0009" x="6500" y="2412" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0010" x="0" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0011" x="500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0012" x="1000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0013" x="1500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute oink0014" x="2000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute left0000" x="2500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute left0001" x="3000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute left0002" x="3500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute left0003" x="4000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute left0004" x="4500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute left0005" x="5000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute left0006" x="5500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute left0007" x="6000" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute left0008" x="6500" y="2680" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute left0009" x="0" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute left0010" x="500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute down0000" x="1000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute down0001" x="1500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute down0002" x="2000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute down0003" x="2500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute down0004" x="3000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute down0005" x="3500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute down0006" x="4000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute down0007" x="4500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute down0008" x="5000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute down0009" x="5500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute down0010" x="6000" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0000" x="6500" y="2948" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0001" x="0" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0002" x="500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0003" x="1000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0004" x="1500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0005" x="2000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0006" x="2500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0007" x="3000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0008" x="3500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0009" x="4000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0010" x="4500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0011" x="5000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute up0012" x="5500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute right0000" x="6000" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute right0001" x="6500" y="3216" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute right0002" x="0" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute right0003" x="500" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute right0004" x="1000" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute right0005" x="1500" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute right0006" x="2000" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute right0007" x="2500" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute right0008" x="3000" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute right0009" x="3500" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute right0010" x="4000" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0000" x="4500" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0001" x="5000" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0002" x="5500" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0003" x="6000" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0004" x="6500" y="3484" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0005" x="0" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0006" x="500" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0007" x="1000" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0008" x="1500" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0009" x="2000" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0010" x="2500" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0011" x="3000" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0012" x="3500" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0013" x="4000" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0014" x="4500" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0015" x="5000" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0016" x="5500" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0017" x="6000" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0018" x="6500" y="3752" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0019" x="0" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0020" x="500" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0021" x="1000" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0022" x="1500" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0023" x="2000" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0024" x="2500" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0025" x="3000" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0026" x="3500" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0027" x="4000" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0028" x="4500" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0029" x="5000" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="brute kill0030" x="5500" y="4020" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				120
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "BF_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				90
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "BF_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				84
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "BF_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				230
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "BF_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				92
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "BF_Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SurvivorBF_Smile",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "triplefun",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

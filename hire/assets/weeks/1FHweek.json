@@ -1,0 +1,49 @@
+{
+	"storyName": "Funkin for Cash",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "bf",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"For Hire",
+			"FHsonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bet On Tails",
+			"tails",
+			[
+				255,
+				160,
+				40
+			]
+		],
+		[
+			"Dumbassery",
+			"dumbass",
+			[
+				0,
+				73,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "BF FOR HIRE"
+}

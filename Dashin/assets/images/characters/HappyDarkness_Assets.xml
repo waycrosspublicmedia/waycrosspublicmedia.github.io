@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HappyDarkness_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HappyDarknessAnimation0000" x="0" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0001" x="842" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0002" x="842" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0003" x="1684" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0004" x="2526" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0005" x="2526" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0006" x="2526" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0007" x="2526" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0008" x="2526" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0009" x="1684" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0010" x="3368" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0011" x="4210" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0012" x="5052" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0013" x="5894" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0014" x="5894" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0015" x="5894" y="0" width="842" height="590" frameX="-331" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0016" x="6736" y="0" width="883" height="651" frameX="-311" frameY="-188" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0017" x="0" y="651" width="909" height="691" frameX="-278" frameY="-148" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0018" x="909" y="651" width="951" height="761" frameX="-217" frameY="-73" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0019" x="1860" y="651" width="966" height="787" frameX="-169" frameY="0" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0020" x="1860" y="651" width="966" height="787" frameX="-169" frameY="0" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0021" x="1860" y="651" width="966" height="787" frameX="-169" frameY="0" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0022" x="1860" y="651" width="966" height="787" frameX="-169" frameY="0" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0023" x="1860" y="651" width="966" height="787" frameX="-169" frameY="0" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0024" x="1860" y="651" width="966" height="787" frameX="-169" frameY="0" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0025" x="1860" y="651" width="966" height="787" frameX="-169" frameY="0" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0026" x="2826" y="651" width="1066" height="746" frameX="-181" frameY="-82" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0027" x="3892" y="651" width="1508" height="700" frameX="0" frameY="-165" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0028" x="5400" y="651" width="1075" height="726" frameX="-277" frameY="-192" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0029" x="6475" y="651" width="986" height="669" frameX="-385" frameY="-223" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0030" x="0" y="1438" width="1025" height="727" frameX="-407" frameY="-218" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0031" x="1025" y="1438" width="1026" height="721" frameX="-418" frameY="-236" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0032" x="2051" y="1438" width="1049" height="728" frameX="-420" frameY="-238" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0033" x="3100" y="1438" width="1054" height="730" frameX="-429" frameY="-245" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0034" x="4154" y="1438" width="1060" height="746" frameX="-427" frameY="-243" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0035" x="5214" y="1438" width="1034" height="672" frameX="-456" frameY="-281" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0036" x="6248" y="1438" width="997" height="638" frameX="-491" frameY="-318" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0037" x="0" y="2184" width="991" height="635" frameX="-481" frameY="-308" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0038" x="991" y="2184" width="960" height="616" frameX="-461" frameY="-288" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0039" x="1951" y="2184" width="923" height="602" frameX="-451" frameY="-278" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0040" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0041" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0042" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0043" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0044" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0045" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0046" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0047" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0048" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0049" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0050" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0051" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0052" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0053" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessAnimation0054" x="2874" y="2184" width="917" height="595" frameX="-441" frameY="-268" frameWidth="1508" frameHeight="989"/>
+	<SubTexture name="HappyDarknessDown0000" x="3791" y="2184" width="966" height="648" frameX="-114" frameY="-128" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0001" x="4757" y="2184" width="967" height="648" frameX="-74" frameY="-64" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0002" x="5724" y="2184" width="956" height="629" frameX="-49" frameY="-57" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0003" x="6680" y="2184" width="941" height="600" frameX="-29" frameY="-27" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0004" x="0" y="2832" width="931" height="594" frameX="-2" frameY="0" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0005" x="0" y="2832" width="931" height="594" frameX="-2" frameY="0" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0006" x="931" y="2832" width="910" height="583" frameX="0" frameY="-13" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0007" x="931" y="2832" width="910" height="583" frameX="0" frameY="-13" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0008" x="931" y="2832" width="910" height="583" frameX="0" frameY="-13" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0009" x="931" y="2832" width="910" height="583" frameX="0" frameY="-13" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0010" x="931" y="2832" width="910" height="583" frameX="0" frameY="-13" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0011" x="931" y="2832" width="910" height="583" frameX="0" frameY="-13" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0012" x="931" y="2832" width="910" height="583" frameX="0" frameY="-13" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessDown0013" x="931" y="2832" width="910" height="583" frameX="0" frameY="-13" frameWidth="1080" frameHeight="776"/>
+	<SubTexture name="HappyDarknessIdle0000" x="1841" y="2832" width="842" height="630" frameX="0" frameY="0" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0001" x="2683" y="2832" width="842" height="630" frameX="0" frameY="-5" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0002" x="3525" y="2832" width="842" height="630" frameX="0" frameY="-10" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0003" x="2683" y="2832" width="842" height="630" frameX="0" frameY="-15" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0004" x="4367" y="2832" width="842" height="630" frameX="0" frameY="-20" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0005" x="2683" y="2832" width="842" height="630" frameX="0" frameY="-25" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0006" x="5209" y="2832" width="842" height="630" frameX="0" frameY="-30" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0007" x="5209" y="2832" width="842" height="630" frameX="0" frameY="-30" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0008" x="5209" y="2832" width="842" height="630" frameX="0" frameY="-30" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0009" x="2683" y="2832" width="842" height="630" frameX="0" frameY="-25" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0010" x="3525" y="2832" width="842" height="630" frameX="0" frameY="-20" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0011" x="2683" y="2832" width="842" height="630" frameX="0" frameY="-15" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0012" x="6051" y="2832" width="842" height="630" frameX="0" frameY="-10" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessIdle0013" x="2683" y="2832" width="842" height="630" frameX="0" frameY="-5" frameWidth="842" frameHeight="660"/>
+	<SubTexture name="HappyDarknessLeft0000" x="6893" y="2832" width="958" height="715" frameX="0" frameY="0" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0001" x="6893" y="2832" width="958" height="715" frameX="-21" frameY="-8" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0002" x="0" y="3547" width="924" height="659" frameX="-73" frameY="-56" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0003" x="924" y="3547" width="925" height="658" frameX="-105" frameY="-86" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0004" x="1849" y="3547" width="901" height="622" frameX="-153" frameY="-135" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0005" x="1849" y="3547" width="901" height="622" frameX="-153" frameY="-135" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0006" x="2750" y="3547" width="881" height="592" frameX="-185" frameY="-152" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0007" x="2750" y="3547" width="881" height="592" frameX="-185" frameY="-152" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0008" x="2750" y="3547" width="881" height="592" frameX="-185" frameY="-152" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0009" x="2750" y="3547" width="881" height="592" frameX="-185" frameY="-152" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0010" x="2750" y="3547" width="881" height="592" frameX="-185" frameY="-152" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0011" x="2750" y="3547" width="881" height="592" frameX="-185" frameY="-152" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0012" x="2750" y="3547" width="881" height="592" frameX="-185" frameY="-152" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessLeft0013" x="2750" y="3547" width="881" height="592" frameX="-185" frameY="-152" frameWidth="1066" frameHeight="757"/>
+	<SubTexture name="HappyDarknessRight 0000" x="3631" y="3547" width="799" height="703" frameX="-84" frameY="-41" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0001" x="4430" y="3547" width="799" height="702" frameX="-59" frameY="-23" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0002" x="5229" y="3547" width="779" height="677" frameX="-40" frameY="-23" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0003" x="6008" y="3547" width="779" height="677" frameX="-18" frameY="-5" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0004" x="6787" y="3547" width="763" height="656" frameX="-7" frameY="-7" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0005" x="6787" y="3547" width="763" height="656" frameX="0" frameY="0" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0006" x="0" y="4250" width="745" height="636" frameX="-4" frameY="-10" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0007" x="0" y="4250" width="745" height="636" frameX="-4" frameY="-10" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0008" x="0" y="4250" width="745" height="636" frameX="-4" frameY="-10" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0009" x="0" y="4250" width="745" height="636" frameX="-4" frameY="-10" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0010" x="0" y="4250" width="745" height="636" frameX="-4" frameY="-10" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0011" x="0" y="4250" width="745" height="636" frameX="-4" frameY="-10" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0012" x="0" y="4250" width="745" height="636" frameX="-4" frameY="-10" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessRight 0013" x="0" y="4250" width="745" height="636" frameX="-4" frameY="-10" frameWidth="883" frameHeight="744"/>
+	<SubTexture name="HappyDarknessUp0000" x="745" y="4250" width="704" height="797" frameX="0" frameY="0" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0001" x="1449" y="4250" width="704" height="736" frameX="0" frameY="-91" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0002" x="2153" y="4250" width="704" height="730" frameX="0" frameY="-136" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0003" x="2857" y="4250" width="704" height="730" frameX="0" frameY="-206" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0004" x="3561" y="4250" width="704" height="695" frameX="0" frameY="-282" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0005" x="3561" y="4250" width="704" height="695" frameX="0" frameY="-312" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0006" x="4265" y="4250" width="704" height="680" frameX="0" frameY="-336" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0007" x="4265" y="4250" width="704" height="680" frameX="0" frameY="-336" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0008" x="4265" y="4250" width="704" height="680" frameX="0" frameY="-336" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0009" x="4265" y="4250" width="704" height="680" frameX="0" frameY="-336" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0010" x="4265" y="4250" width="704" height="680" frameX="0" frameY="-336" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0011" x="4265" y="4250" width="704" height="680" frameX="0" frameY="-336" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0012" x="4265" y="4250" width="704" height="680" frameX="0" frameY="-336" frameWidth="704" frameHeight="1016"/>
+	<SubTexture name="HappyDarknessUp0013" x="4265" y="4250" width="704" height="680" frameX="0" frameY="-336" frameWidth="704" frameHeight="1016"/>
+</TextureAtlas>

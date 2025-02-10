@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="parappapixel.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="idle0001" x="0" y="0" width="41" height="40" frameX="-4" frameY="0" frameWidth="45" frameHeight="40"/>
+	
+	<SubTexture name="confirm0001" x="0" y="0" width="41" height="40" frameX="-4" frameY="0" frameWidth="45" frameHeight="40"/>
+	<SubTexture name="confirm0002" x="41" y="0" width="38" height="40" frameX="-6" frameY="0" frameWidth="45" frameHeight="40"/>
+	<SubTexture name="confirm0003" x="0" y="40" width="38" height="40" frameX="-6" frameY="0" frameWidth="45" frameHeight="40"/>
+	<SubTexture name="confirm0004" x="38" y="40" width="38" height="40" frameX="-6" frameY="0" frameWidth="45" frameHeight="40"/>
+	
+	<SubTexture name="confirm-hold0001" x="38" y="40" width="38" height="40" frameX="-6" frameY="0" frameWidth="45" frameHeight="40"/>
+</TextureAtlas>

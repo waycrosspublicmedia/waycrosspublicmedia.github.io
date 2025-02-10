@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PrivateSkittlesHut.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PrivateSkittlesHut0000" x="0" y="0" width="1743" height="1547" pivotX="40.15" pivotY="57.35" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0001" x="0" y="0" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0002" x="0" y="0" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0003" x="1745" y="0" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0004" x="1745" y="0" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0005" x="3490" y="0" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0006" x="3490" y="0" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0007" x="5235" y="0" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0008" x="5235" y="0" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0009" x="5235" y="0" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0010" x="0" y="1549" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0011" x="1745" y="1549" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0012" x="1745" y="1549" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0013" x="3490" y="1549" width="1780" height="1547" frameX="-3" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0014" x="3490" y="1549" width="1780" height="1547" frameX="-3" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0015" x="5272" y="1549" width="1783" height="1547"/>
+	<SubTexture name="PrivateSkittlesHut0016" x="0" y="3098" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+	<SubTexture name="PrivateSkittlesHut0017" x="0" y="3098" width="1743" height="1547" frameX="-40" frameY="0" frameWidth="1783" frameHeight="1547"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "zombpig idle"
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "zombpig left"
+		},
+		{
+			"offsets": [
+				35,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "zombpig up"
+		},
+		{
+			"offsets": [
+				13,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "zombpig down"
+		},
+		{
+			"offsets": [
+				-55,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "zombpig right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zombPig",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "zombPig",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		201,
+		201
+	],
+	"camera_position": [
+		-1800,
+		-500
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

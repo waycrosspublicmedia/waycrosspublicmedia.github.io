@@ -1,0 +1,59 @@
+{
+	"storyName": "WEEK 5",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "week5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"God Killer",
+			"exeller",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Weak Power",
+			"lightexeller",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Blood Temple",
+			"exetior",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Unless Spirit",
+			"exeller",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

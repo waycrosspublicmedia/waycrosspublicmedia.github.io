@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "gf winter idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gf winter left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "gf winter up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gf winter down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gf winter right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "snowball",
+			"loop": false,
+			"name": "gf winter snowball"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-winter",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "gf-minecraft",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		47,
+		86
+	],
+	"camera_position": [
+		-1900,
+		-730
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

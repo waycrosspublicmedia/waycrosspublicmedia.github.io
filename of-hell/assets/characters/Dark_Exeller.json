@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dark dance"
+		},
+		{
+			"offsets": [
+				83,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dark gauche"
+		},
+		{
+			"offsets": [
+				72,
+				-135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dark bas"
+		},
+		{
+			"offsets": [
+				-49,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dark haut"
+		},
+		{
+			"offsets": [
+				-105,
+				-119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dark droite"
+		},
+		{
+			"offsets": [
+				-109,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "flamme",
+			"indices": [],
+			"name": "dark flamme"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dark_Exeller",
+	"position": [
+		-60,
+		-50
+	],
+	"healthicon": "darkexeller",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		41,
+		48
+	],
+	"camera_position": [
+		10,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

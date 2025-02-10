@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bulles.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence bulles 10000" x="0" y="0" width="1150" height="253" frameX="-72" frameY="-24" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10001" x="0" y="0" width="1150" height="253" frameX="-72" frameY="-24" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10002" x="0" y="0" width="1150" height="253" frameX="-72" frameY="-24" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10003" x="0" y="0" width="1150" height="253" frameX="-72" frameY="-24" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10004" x="0" y="253" width="1156" height="254" frameX="-68" frameY="-23" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10005" x="0" y="253" width="1156" height="254" frameX="-68" frameY="-23" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10006" x="0" y="253" width="1156" height="254" frameX="-68" frameY="-23" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10007" x="0" y="253" width="1156" height="254" frameX="-68" frameY="-23" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10008" x="0" y="507" width="1164" height="260" frameX="-62" frameY="-19" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10009" x="0" y="507" width="1164" height="260" frameX="-62" frameY="-19" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10010" x="0" y="507" width="1164" height="260" frameX="-62" frameY="-19" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10011" x="0" y="507" width="1164" height="260" frameX="-62" frameY="-19" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10012" x="0" y="767" width="1174" height="262" frameX="-55" frameY="-17" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10013" x="0" y="767" width="1174" height="262" frameX="-55" frameY="-17" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10014" x="0" y="767" width="1174" height="262" frameX="-55" frameY="-17" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10015" x="0" y="1029" width="1177" height="268" frameX="-54" frameY="-13" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10016" x="0" y="1029" width="1177" height="268" frameX="-54" frameY="-13" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10017" x="0" y="1029" width="1177" height="268" frameX="-54" frameY="-13" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10018" x="0" y="1029" width="1177" height="268" frameX="-54" frameY="-13" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10019" x="0" y="1029" width="1177" height="268" frameX="-54" frameY="-13" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10020" x="0" y="1297" width="1201" height="281" frameX="-36" frameY="0" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10021" x="0" y="1297" width="1201" height="281" frameX="-36" frameY="0" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10022" x="0" y="1578" width="1259" height="268" frameX="0" frameY="-10" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10023" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10024" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10025" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10026" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10027" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10028" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10029" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10030" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10031" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10032" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10033" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10034" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10035" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10036" x="0" y="0" width="1150" height="253" frameX="-72" frameY="-24" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10037" x="0" y="0" width="1150" height="253" frameX="-72" frameY="-24" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10038" x="0" y="0" width="1150" height="253" frameX="-72" frameY="-24" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10039" x="0" y="0" width="1150" height="253" frameX="-72" frameY="-24" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10040" x="0" y="253" width="1156" height="254" frameX="-68" frameY="-23" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10041" x="0" y="253" width="1156" height="254" frameX="-68" frameY="-23" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10042" x="0" y="253" width="1156" height="254" frameX="-68" frameY="-23" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10043" x="0" y="253" width="1156" height="254" frameX="-68" frameY="-23" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10044" x="0" y="507" width="1164" height="260" frameX="-62" frameY="-19" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10045" x="0" y="507" width="1164" height="260" frameX="-62" frameY="-19" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10046" x="0" y="507" width="1164" height="260" frameX="-62" frameY="-19" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10047" x="0" y="507" width="1164" height="260" frameX="-62" frameY="-19" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10048" x="0" y="767" width="1174" height="262" frameX="-55" frameY="-17" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10049" x="0" y="767" width="1174" height="262" frameX="-55" frameY="-17" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10050" x="0" y="767" width="1174" height="262" frameX="-55" frameY="-17" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10051" x="0" y="1029" width="1177" height="268" frameX="-54" frameY="-13" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10052" x="0" y="1029" width="1177" height="268" frameX="-54" frameY="-13" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10053" x="0" y="1029" width="1177" height="268" frameX="-54" frameY="-13" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10054" x="0" y="1029" width="1177" height="268" frameX="-54" frameY="-13" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10055" x="0" y="1029" width="1177" height="268" frameX="-54" frameY="-13" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10056" x="0" y="1297" width="1201" height="281" frameX="-36" frameY="0" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10057" x="0" y="1297" width="1201" height="281" frameX="-36" frameY="0" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10058" x="0" y="1578" width="1259" height="268" frameX="0" frameY="-10" frameWidth="1259" frameHeight="281"/>
+	<SubTexture name="Occurrence bulles 10059" x="1259" y="1578" width="0" height="0" frameX="105" frameY="768" frameWidth="1259" frameHeight="281"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gouttes.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gouttes0000" x="4" y="4" width="3312" height="308" frameX="-223" frameY="-33" frameWidth="3667" frameHeight="430"/>
+	<SubTexture name="gouttes0001" x="4" y="4" width="3312" height="308" frameX="-223" frameY="-33" frameWidth="3667" frameHeight="430"/>
+	<SubTexture name="gouttes0002" x="4" y="316" width="3427" height="367" frameX="-180" frameY="-11" frameWidth="3667" frameHeight="430"/>
+	<SubTexture name="gouttes0003" x="4" y="316" width="3427" height="367" frameX="-180" frameY="-11" frameWidth="3667" frameHeight="430"/>
+	<SubTexture name="gouttes0004" x="4" y="687" width="3553" height="393" frameX="-114" frameY="-1" frameWidth="3667" frameHeight="430"/>
+	<SubTexture name="gouttes0005" x="4" y="687" width="3553" height="393" frameX="-114" frameY="-1" frameWidth="3667" frameHeight="430"/>
+	<SubTexture name="gouttes0006" x="4" y="1084" width="2932" height="402" frameX="-70" frameY="-14" frameWidth="3667" frameHeight="430"/>
+	<SubTexture name="gouttes0007" x="4" y="1084" width="2932" height="402" frameX="-70" frameY="-14" frameWidth="3667" frameHeight="430"/>
+	<SubTexture name="gouttes0008" x="4" y="1490" width="2759" height="430" frameX="-7" frameY="0" frameWidth="3667" frameHeight="430"/>
+	<SubTexture name="gouttes0009" x="4" y="1490" width="2759" height="430" frameX="-7" frameY="0" frameWidth="3667" frameHeight="430"/>
+	<SubTexture name="gouttes0010" x="4" y="1924" width="2543" height="231" frameX="0" frameY="-19" frameWidth="3667" frameHeight="430"/>
+	<SubTexture name="gouttes0011" x="4" y="1924" width="2543" height="231" frameX="0" frameY="-19" frameWidth="3667" frameHeight="430"/>
+</TextureAtlas>

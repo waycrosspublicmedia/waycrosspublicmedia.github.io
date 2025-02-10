@@ -1,0 +1,55 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "PJ Berri",
+	"flipX": false,
+	"cameraOffsets": [
+		0,
+		-150
+	],
+	"isPixel": false,
+	"singTime": 4,
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"isPixel": false,
+		"scale": 1,
+		"id": "parappa"
+	},
+	"assetPath": "characters/pjdj",
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				5
+			],
+			"frameRate": 24,
+			"prefix": "pj dancing beat",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				5
+			],
+			"frameRate": 24,
+			"prefix": "pj cheer",
+			"flipX": false,
+			"looped": false,
+			"name": "cheer"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				128,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				58,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-106,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-132,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amyturned",
+	"position": [
+		220,
+		140
+	],
+	"healthicon": "amy",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		140,
+		187
+	],
+	"camera_position": [
+		1320,
+		-770
+	],
+	"sing_duration": 6.1,
+	"scale": 2.5
+}

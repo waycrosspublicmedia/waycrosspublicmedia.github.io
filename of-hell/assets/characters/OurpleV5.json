@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				21
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left SMV5"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-111
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down SMV5"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				93
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up SMV5"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-21
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right SMV5"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle SMV5"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/smv5_ourple",
+	"position": [
+		-280,
+		0
+	],
+	"healthicon": "smv5",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		51,
+		81
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

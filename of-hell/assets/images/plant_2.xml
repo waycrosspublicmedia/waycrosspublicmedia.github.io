@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="plant 2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="plant0000" x="4" y="4" width="157" height="427" frameX="-97" frameY="0" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0001" x="4" y="4" width="157" height="427" frameX="-97" frameY="0" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0002" x="165" y="4" width="218" height="387" frameX="-46" frameY="-40" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0003" x="165" y="4" width="218" height="387" frameX="-46" frameY="-40" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0004" x="387" y="4" width="245" height="281" frameX="-19" frameY="-146" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0005" x="387" y="4" width="245" height="281" frameX="-19" frameY="-146" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0006" x="636" y="4" width="227" height="213" frameX="-30" frameY="-233" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0007" x="636" y="4" width="227" height="213" frameX="-30" frameY="-233" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0008" x="867" y="4" width="223" height="235" frameX="-31" frameY="-192" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0009" x="867" y="4" width="223" height="235" frameX="-31" frameY="-192" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0010" x="1094" y="4" width="239" height="282" frameX="-17" frameY="-145" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0011" x="1094" y="4" width="239" height="282" frameX="-17" frameY="-145" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0012" x="1337" y="4" width="263" height="293" frameX="0" frameY="-134" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0013" x="1337" y="4" width="263" height="293" frameX="0" frameY="-134" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0014" x="1604" y="4" width="269" height="306" frameX="-4" frameY="-121" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0015" x="1604" y="4" width="269" height="306" frameX="-4" frameY="-121" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0016" x="4" y="435" width="256" height="331" frameX="-28" frameY="-96" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0017" x="4" y="435" width="256" height="331" frameX="-28" frameY="-96" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0018" x="264" y="435" width="180" height="365" frameX="-95" frameY="-62" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0019" x="264" y="435" width="180" height="365" frameX="-95" frameY="-62" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0020" x="448" y="435" width="204" height="399" frameX="-96" frameY="-28" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0021" x="448" y="435" width="204" height="399" frameX="-96" frameY="-28" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0022" x="656" y="435" width="209" height="401" frameX="-97" frameY="-26" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0023" x="656" y="435" width="209" height="401" frameX="-97" frameY="-26" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0024" x="869" y="435" width="208" height="406" frameX="-98" frameY="-21" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0025" x="869" y="435" width="208" height="406" frameX="-98" frameY="-21" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0026" x="869" y="435" width="208" height="406" frameX="-98" frameY="-21" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0027" x="869" y="435" width="208" height="406" frameX="-98" frameY="-21" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0028" x="869" y="435" width="208" height="406" frameX="-98" frameY="-21" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0029" x="869" y="435" width="208" height="406" frameX="-98" frameY="-21" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0030" x="869" y="435" width="208" height="406" frameX="-98" frameY="-21" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0031" x="869" y="435" width="208" height="406" frameX="-98" frameY="-21" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0032" x="869" y="435" width="208" height="406" frameX="-98" frameY="-21" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0033" x="869" y="435" width="208" height="406" frameX="-98" frameY="-21" frameWidth="306" frameHeight="446"/>
+	<SubTexture name="plant0034" x="869" y="435" width="208" height="406" frameX="-98" frameY="-21" frameWidth="306" frameHeight="446"/>
+</TextureAtlas>

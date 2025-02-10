@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "marioidle0"
+		},
+		{
+			"offsets": [
+				121,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "marioleft0"
+		},
+		{
+			"offsets": [
+				52,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mariodown0"
+		},
+		{
+			"offsets": [
+				86,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "marioup0"
+		},
+		{
+			"offsets": [
+				-2,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "marioright0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "marioidle KNIFE"
+		},
+		{
+			"offsets": [
+				121,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "marioleft KNIFE"
+		},
+		{
+			"offsets": [
+				52,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "mariodown KNIFE"
+		},
+		{
+			"offsets": [
+				86,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "marioup KNIFE"
+		},
+		{
+			"offsets": [
+				-2,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "marioright KNIFE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				24
+			],
+			"anim": "shing",
+			"fps": 24,
+			"name": "marioSHING",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/forhiremario_assets",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

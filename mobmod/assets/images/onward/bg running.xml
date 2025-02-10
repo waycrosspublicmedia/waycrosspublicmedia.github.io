@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bg running.png"><SubTexture name="bg running idle0000" x="0" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0001" x="684" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0002" x="1368" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0003" x="2052" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0004" x="2736" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0005" x="0" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0006" x="684" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0007" x="1368" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0008" x="2052" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0009" x="2736" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0010" x="0" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0011" x="684" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0012" x="1368" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0013" x="2052" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0014" x="2736" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0015" x="0" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0016" x="684" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0017" x="1368" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0018" x="2052" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0019" x="2736" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0020" x="0" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0021" x="684" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0022" x="1368" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0023" x="2052" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0024" x="2736" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="bg running idle0025" x="0" y="2020" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+</TextureAtlas>

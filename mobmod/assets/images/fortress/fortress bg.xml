@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fortress bg.png"><SubTexture name="fortress bg zpigs0000" x="0" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0001" x="500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0002" x="1000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0003" x="1500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0004" x="2000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0005" x="2500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0006" x="3000" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0007" x="3500" y="0" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0008" x="0" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0009" x="500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0010" x="1000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0011" x="1500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0012" x="2000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0013" x="2500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0014" x="3000" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg zpigs0015" x="3500" y="268" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0000" x="0" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0001" x="500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0002" x="1000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0003" x="1500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0004" x="2000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0005" x="2500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0006" x="3000" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0007" x="3500" y="536" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0008" x="0" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0009" x="500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0010" x="1000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0011" x="1500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0012" x="2000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0013" x="2500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0014" x="3000" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0015" x="3500" y="804" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0016" x="0" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0017" x="500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0018" x="1000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0019" x="1500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0020" x="2000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0021" x="2500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0022" x="3000" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0023" x="3500" y="1072" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0024" x="0" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0025" x="500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0026" x="1000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0027" x="1500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0028" x="2000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0029" x="2500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0030" x="3000" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0031" x="3500" y="1340" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0032" x="0" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0033" x="500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg mid song event0034" x="1000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0000" x="1500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0001" x="2000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0002" x="2500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0003" x="3000" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0004" x="3500" y="1608" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0005" x="0" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0006" x="500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0007" x="1000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0008" x="1500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0009" x="2000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0010" x="2500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0011" x="3000" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0012" x="3500" y="1876" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0013" x="0" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0014" x="500" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+<SubTexture name="fortress bg piglins0015" x="1000" y="2144" width="500" height="268" frameX="0" frameY="0" frameWidth="500" frameHeight="268" />
+</TextureAtlas>

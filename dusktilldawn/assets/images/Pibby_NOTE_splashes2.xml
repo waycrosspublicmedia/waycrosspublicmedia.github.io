@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pibby_NOTE_splashes2.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note splash blue pibby 20000" x="0" y="0" width="100" height="128" frameX="-239" frameY="-181" frameWidth="564" frameHeight="519"/>
+	<SubTexture name="note splash blue pibby 20001" x="110" y="0" width="283" height="304" frameX="-151" frameY="-70" frameWidth="564" frameHeight="519"/>
+	<SubTexture name="note splash blue pibby 20002" x="403" y="0" width="495" height="435" frameX="-43" frameY="-22" frameWidth="564" frameHeight="519"/>
+	<SubTexture name="note splash blue pibby 20003" x="908" y="0" width="540" height="470" frameX="-24" frameY="-14" frameWidth="564" frameHeight="519"/>
+	<SubTexture name="note splash blue pibby 20004" x="1458" y="0" width="507" height="499" frameX="-5" frameY="-10" frameWidth="564" frameHeight="519"/>
+	<SubTexture name="note splash blue pibby 20005" x="1975" y="0" width="483" height="519" frameX="0" frameY="0" frameWidth="564" frameHeight="519"/>
+	<SubTexture name="note splash blue pibby 20006" x="2468" y="0" width="0" height="0" frameX="481" frameY="896" frameWidth="564" frameHeight="519"/>
+	<SubTexture name="note splash blue pibby 10000" x="2478" y="0" width="93" height="132" frameX="-195" frameY="-196" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash blue pibby 10001" x="2581" y="0" width="270" height="317" frameX="-107" frameY="-85" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash blue pibby 10002" x="2861" y="0" width="441" height="448" frameX="-42" frameY="-27" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash blue pibby 10003" x="3312" y="0" width="483" height="487" frameX="-24" frameY="-14" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash blue pibby 10004" x="0" y="529" width="508" height="508" frameX="0" frameY="-12" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash blue pibby 10005" x="518" y="529" width="485" height="541" frameX="-3" frameY="0" frameWidth="508" frameHeight="541"/>
+	<SubTexture name="note splash blue pibby 10006" x="2881" y="1631" width="0" height="0" frameX="533" frameY="476" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash green pibby 20000" x="1013" y="529" width="99" height="127" frameX="-225" frameY="-20" frameWidth="565" frameHeight="517"/>
+	<SubTexture name="note splash green pibby 20001" x="1122" y="529" width="283" height="303" frameX="-130" frameY="-145" frameWidth="565" frameHeight="517"/>
+	<SubTexture name="note splash green pibby 20002" x="1415" y="529" width="496" height="433" frameX="-26" frameY="-62" frameWidth="565" frameHeight="517"/>
+	<SubTexture name="note splash green pibby 20003" x="192" y="529" width="540" height="468" frameX="0" frameY="-35" frameWidth="565" frameHeight="517"/>
+	<SubTexture name="note splash green pibby 20004" x="2471" y="529" width="508" height="499" frameX="-52" frameY="-9" frameWidth="565" frameHeight="517"/>
+	<SubTexture name="note splash green pibby 20005" x="2989" y="529" width="485" height="517" frameX="-80" frameY="0" frameWidth="565" frameHeight="517"/>
+	<SubTexture name="note splash green pibby 20006" x="3484" y="529" width="0" height="0" frameX="852" frameY="871" frameWidth="565" frameHeight="517"/>
+	<SubTexture name="note splash green pibby 10000" x="3494" y="529" width="93" height="132" frameX="-196" frameY="-196" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash green pibby 10001" x="3597" y="529" width="269" height="317" frameX="-108" frameY="-85" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash green pibby 10002" x="0" y="1080" width="442" height="448" frameX="-42" frameY="-27" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash green pibby 10003" x="452" y="1080" width="483" height="487" frameX="-24" frameY="-14" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash green pibby 10004" x="945" y="1080" width="509" height="508" frameX="0" frameY="-12" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash green pibby 10005" x="1464" y="1080" width="486" height="541" frameX="-3" frameY="0" frameWidth="509" frameHeight="541"/>
+	<SubTexture name="note splash green pibby 10006" x="2881" y="1631" width="0" height="0" frameX="871" frameY="477" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple pibby 20000" x="1960" y="1080" width="127" height="99" frameX="-21" frameY="-239" frameWidth="520" frameHeight="563"/>
+	<SubTexture name="note splash purple pibby 20001" x="2097" y="1080" width="305" height="282" frameX="-145" frameY="-151" frameWidth="520" frameHeight="563"/>
+	<SubTexture name="note splash purple pibby 20002" x="2412" y="1080" width="436" height="494" frameX="-62" frameY="-43" frameWidth="520" frameHeight="563"/>
+	<SubTexture name="note splash purple pibby 20003" x="2858" y="1080" width="471" height="538" frameX="-35" frameY="-25" frameWidth="520" frameHeight="563"/>
+	<SubTexture name="note splash purple pibby 20004" x="3339" y="1080" width="501" height="508" frameX="-10" frameY="-5" frameWidth="520" frameHeight="563"/>
+	<SubTexture name="note splash purple pibby 20005" x="0" y="1631" width="520" height="484" frameX="0" frameY="0" frameWidth="520" frameHeight="563"/>
+	<SubTexture name="note splash purple pibby 20006" x="530" y="1631" width="0" height="0" frameX="167" frameY="833" frameWidth="520" frameHeight="563"/>
+	<SubTexture name="note splash purple pibby 10000" x="540" y="1631" width="93" height="133" frameX="-195" frameY="-195" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple pibby 10001" x="643" y="1631" width="270" height="317" frameX="-107" frameY="-85" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple pibby 10002" x="923" y="1631" width="441" height="448" frameX="-42" frameY="-27" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple pibby 10003" x="1374" y="1631" width="484" height="487" frameX="-23" frameY="-14" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple pibby 10004" x="1868" y="1631" width="508" height="508" frameX="0" frameY="-12" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple pibby 10005" x="2386" y="1631" width="485" height="540" frameX="-3" frameY="0" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash purple pibby 10006" x="2881" y="1631" width="0" height="0" frameX="194" frameY="464" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red pibby 20000" x="2891" y="1631" width="112" height="108" frameX="-193" frameY="-251" frameWidth="506" frameHeight="553"/>
+	<SubTexture name="note splash red pibby 20001" x="3013" y="1631" width="284" height="288" frameX="-85" frameY="-155" frameWidth="506" frameHeight="553"/>
+	<SubTexture name="note splash red pibby 20002" x="3307" y="1631" width="42" height="480" frameX="-38" frameY="-49" frameWidth="506" frameHeight="553"/>
+	<SubTexture name="note splash red pibby 20003" x="0" y="281" width="476" height="527" frameX="-14" frameY="-26" frameWidth="506" frameHeight="553"/>
+	<SubTexture name="note splash red pibby 20004" x="486" y="281" width="494" height="517" frameX="0" frameY="-8" frameWidth="506" frameHeight="553"/>
+	<SubTexture name="note splash red pibby 20005" x="990" y="281" width="505" height="532" frameX="-1" frameY="0" frameWidth="506" frameHeight="553"/>
+	<SubTexture name="note splash red pibby 20006" x="1505" y="281" width="0" height="0" frameX="1209" frameY="82" frameWidth="506" frameHeight="553"/>
+	<SubTexture name="note splash red pibby 10000" x="1515" y="281" width="93" height="132" frameX="-195" frameY="-195" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red pibby 10001" x="1618" y="281" width="270" height="317" frameX="-107" frameY="-85" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red pibby 10002" x="1898" y="281" width="441" height="447" frameX="-42" frameY="-27" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red pibby 10003" x="2349" y="281" width="483" height="487" frameX="-24" frameY="-14" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red pibby 10004" x="2842" y="281" width="508" height="509" frameX="0" frameY="-11" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red pibby 10005" x="3360" y="281" width="485" height="540" frameX="-3" frameY="0" frameWidth="508" frameHeight="540"/>
+	<SubTexture name="note splash red pibby 10006" x="2881" y="1631" width="0" height="0" frameX="1208" frameY="470" frameWidth="508" frameHeight="540"/>
+</TextureAtlas>

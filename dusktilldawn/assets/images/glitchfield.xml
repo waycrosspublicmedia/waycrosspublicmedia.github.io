@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glitchfield.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="the filter instance 10000" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="the filter instance 10001" x="1287" y="5" width="1280" height="720"/>
+	<SubTexture name="the filter instance 10002" x="2569" y="5" width="1280" height="720"/>
+	<SubTexture name="the filter instance 10003" x="5" y="727" width="1280" height="720"/>
+	<SubTexture name="the filter instance 10004" x="1287" y="727" width="1280" height="720"/>
+</TextureAtlas>

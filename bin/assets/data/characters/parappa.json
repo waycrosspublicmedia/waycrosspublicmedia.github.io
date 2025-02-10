@@ -1,0 +1,158 @@
+{
+	"version": "1.0.0",
+	"renderType": "multisparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "parappa",
+	"flipX": true,
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"isPixel": false,
+	"singTime": 4,
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"isPixel": false,
+		"scale": 1,
+		"id": "parappa"
+	},
+	"assetPath": "characters/parappa",
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				5
+			],
+			"frameRate": 24,
+			"prefix": "parappa idle dance",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				40,
+				-12
+			],
+			"frameRate": 24,
+			"prefix": "parappa left note",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-8,
+				17
+			],
+			"frameRate": 24,
+			"prefix": "parappa right note",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				6,
+				-39
+			],
+			"frameRate": 24,
+			"prefix": "parappa down note",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-6,
+				23
+			],
+			"frameRate": 24,
+			"prefix": "parappa up note",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-6,
+				23
+			],
+			"frameRate": 24,
+			"prefix": "parappa up miss note",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				6,
+				-39
+			],
+			"frameRate": 24,
+			"prefix": "parappa down miss note",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-8,
+				17
+			],
+			"frameRate": 24,
+			"prefix": "parappa right miss note",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				40,
+				-12
+			],
+			"frameRate": 24,
+			"prefix": "parappa left miss note",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTmiss"
+		},
+		{
+		  "name": "firstDeath",
+		  "prefix": "BF dies",
+		  "assetPath": "characters/BOYFRIEND",
+		  "offsets": [-37, -11]
+		},
+		{
+		  "name": "deathLoop",
+		  "prefix": "BF Dead Loop",
+		  "looped": true,
+		  "assetPath": "characters/BOYFRIEND",
+		  "offsets": [-37, -15]
+		},
+		{
+		  "name": "deathConfirm",
+		  "prefix": "BF Dead confirm",
+		  "assetPath": "characters/BOYFRIEND",
+		  "offsets": [-37, 49]
+		}
+	]
+}

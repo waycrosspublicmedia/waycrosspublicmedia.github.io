@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf and a bald man.png"><SubTexture name="gf and a bald man idle0000" x="0" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="gf and a bald man idle0001" x="684" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="gf and a bald man idle0002" x="0" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="gf and a bald man idle0003" x="684" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="gf and a bald man idle0004" x="0" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="gf and a bald man idle0005" x="684" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="gf and a bald man idle0006" x="0" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="gf and a bald man idle0007" x="684" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+</TextureAtlas>

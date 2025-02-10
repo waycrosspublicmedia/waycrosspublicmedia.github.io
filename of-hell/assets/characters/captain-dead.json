@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "TankGameOver0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-251,
+				-160
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "TankGameOverLOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-251,
+				-103
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "TankGameOverCONFIRM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CapDead",
+	"position": [
+		-280,
+		-60
+	],
+	"healthicon": "tankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

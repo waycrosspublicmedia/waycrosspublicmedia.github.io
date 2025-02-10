@@ -1,0 +1,58 @@
+{
+	"storyName": "Chapter 1",
+	"difficulties": "Hard, Peaceful",
+	"hideFreeplay": false,
+	"weekBackground": "chap1",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"onward",
+			"gf-minecraft",
+			[
+		154,
+		47,
+		86
+			]
+		],
+		[
+			"raid",
+			"pillager",
+			[
+		138,
+		144,
+		144
+			]
+		],
+		[
+			"spawners",
+			"zombolio",
+			[
+		74,
+		138,
+		64
+			]
+		],
+		[
+			"deep dark",
+			"warden",
+			[
+		0,
+		146,
+		149
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bonus"
+}

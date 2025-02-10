@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				55,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ShipDashyIdle"
+		},
+		{
+			"offsets": [
+				82,
+				117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ShipDashyLeft"
+		},
+		{
+			"offsets": [
+				60,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ShipDashyDown"
+		},
+		{
+			"offsets": [
+				57,
+				378
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ShipDashyUp"
+		},
+		{
+			"offsets": [
+				59,
+				142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ShipDashyRight"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ShipDashy_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dashy2",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		227,
+		0
+	],
+	"camera_position": [
+		-50,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf raid.png"><SubTexture name="bf raid idle0000" x="0" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0001" x="504" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0002" x="1008" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0003" x="1512" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0004" x="2016" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0005" x="2520" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0006" x="3024" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0007" x="3528" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0008" x="4032" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0009" x="4536" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0010" x="5040" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0011" x="5544" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0012" x="6048" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0013" x="0" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid idle0014" x="504" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid left0000" x="1008" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid left0001" x="1512" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid left0002" x="2016" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid left0003" x="2520" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid left0004" x="3024" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid left0005" x="3528" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid left0006" x="4032" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid left0007" x="4536" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid left0008" x="5040" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid left0009" x="5544" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid left0010" x="6048" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0000" x="0" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0001" x="504" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0002" x="1008" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0003" x="1512" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0004" x="2016" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0005" x="2520" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0006" x="3024" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0007" x="3528" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0008" x="4032" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0009" x="4536" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0010" x="5040" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid down0011" x="5544" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0000" x="6048" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0001" x="0" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0002" x="504" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0003" x="1008" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0004" x="1512" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0005" x="2016" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0006" x="2520" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0007" x="3024" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0008" x="3528" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0009" x="4032" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0010" x="4536" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0011" x="5040" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid up0012" x="5544" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0000" x="6048" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0001" x="0" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0002" x="504" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0003" x="1008" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0004" x="1512" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0005" x="2016" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0006" x="2520" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0007" x="3024" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0008" x="3528" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0009" x="4032" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0010" x="4536" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid right0011" x="5040" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0000" x="5544" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0001" x="6048" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0002" x="0" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0003" x="504" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0004" x="1008" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0005" x="1512" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0006" x="2016" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0007" x="2520" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0008" x="3024" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0009" x="3528" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0010" x="4032" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block left0011" x="4536" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0000" x="5040" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0001" x="5544" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0002" x="6048" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0003" x="0" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0004" x="504" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0005" x="1008" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0006" x="1512" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0007" x="2016" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0008" x="2520" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0009" x="3024" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0010" x="3528" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block down0011" x="4032" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0000" x="4536" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0001" x="5040" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0002" x="5544" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0003" x="6048" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0004" x="0" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0005" x="504" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0006" x="1008" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0007" x="1512" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0008" x="2016" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0009" x="2520" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0010" x="3024" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0011" x="3528" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block up0012" x="4032" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0000" x="4536" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0001" x="5040" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0002" x="5544" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0003" x="6048" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0004" x="0" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0005" x="504" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0006" x="1008" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0007" x="1512" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0008" x="2016" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0009" x="2520" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0010" x="3024" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid block right0011" x="3528" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0000" x="4032" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0001" x="4536" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0002" x="5040" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0003" x="5544" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0004" x="6048" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0005" x="0" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0006" x="504" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0007" x="1008" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0008" x="1512" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0009" x="2016" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0010" x="2520" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0011" x="3024" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0012" x="3528" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0013" x="4032" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0014" x="4536" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0015" x="5040" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0016" x="5544" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0017" x="6048" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0018" x="0" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0019" x="504" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0020" x="1008" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0021" x="1512" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0022" x="2016" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0023" x="2520" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0024" x="3024" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0025" x="3528" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0026" x="4032" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0027" x="4536" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0028" x="5040" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0029" x="5544" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0030" x="6048" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0031" x="0" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0032" x="504" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0033" x="1008" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0034" x="1512" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0035" x="2016" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0036" x="2520" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0037" x="3024" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0038" x="3528" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0039" x="4032" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0040" x="4536" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0041" x="5040" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0042" x="5544" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0043" x="6048" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0044" x="0" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0045" x="504" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0046" x="1008" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0047" x="1512" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0048" x="2016" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0049" x="2520" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0050" x="3024" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0051" x="3528" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0052" x="4032" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0053" x="4536" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0054" x="5040" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0055" x="5544" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0056" x="6048" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0057" x="0" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0058" x="504" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0059" x="1008" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0060" x="1512" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0061" x="2016" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0062" x="2520" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0063" x="3024" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0064" x="3528" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0065" x="4032" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0066" x="4536" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0067" x="5040" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0068" x="5544" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="bf raid mid song event0069" x="6048" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+</TextureAtlas>

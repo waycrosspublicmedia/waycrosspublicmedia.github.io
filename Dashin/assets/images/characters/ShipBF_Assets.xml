@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ShipBF_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MISSShipBFDown0000" x="0" y="0" width="810" height="507" frameX="0" frameY="-60" frameWidth="810" frameHeight="567"/>
+	<SubTexture name="MISSShipBFDown0001" x="810" y="0" width="810" height="520" frameX="0" frameY="-47" frameWidth="810" frameHeight="567"/>
+	<SubTexture name="MISSShipBFDown0002" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFDown0003" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFDown0004" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFDown0005" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFDown0006" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFDown0007" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFDown0008" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFDown0009" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFDown0010" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFDown0011" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFDown0012" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFDown0013" x="1620" y="0" width="810" height="567"/>
+	<SubTexture name="MISSShipBFLeft0000" x="2430" y="0" width="877" height="571" frameX="0" frameY="-45" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0001" x="3307" y="0" width="843" height="616" frameX="-35" frameY="0" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0002" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0003" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0004" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0005" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0006" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0007" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0008" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0009" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0010" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0011" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0012" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFLeft0013" x="4150" y="0" width="810" height="593" frameX="-67" frameY="-23" frameWidth="878" frameHeight="616"/>
+	<SubTexture name="MISSShipBFRight0000" x="4960" y="0" width="876" height="588"/>
+	<SubTexture name="MISSShipBFRight0001" x="5836" y="0" width="848" height="582" frameX="0" frameY="-6" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0002" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0003" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0004" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0005" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0006" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0007" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0008" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0009" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0010" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0011" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0012" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFRight0013" x="6684" y="0" width="810" height="576" frameX="0" frameY="-12" frameWidth="876" frameHeight="588"/>
+	<SubTexture name="MISSShipBFUp0000" x="0" y="616" width="810" height="698"/>
+	<SubTexture name="MISSShipBFUp0001" x="810" y="616" width="810" height="622" frameX="0" frameY="-76" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0002" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0003" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0004" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0005" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0006" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0007" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0008" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0009" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0010" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0011" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0012" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="MISSShipBFUp0013" x="1620" y="616" width="810" height="608" frameX="0" frameY="-90" frameWidth="810" frameHeight="698"/>
+	<SubTexture name="ShipBFDown0000" x="2430" y="616" width="972" height="545" frameX="0" frameY="-29" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0001" x="3402" y="616" width="995" height="555" frameX="0" frameY="-18" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0002" x="4397" y="616" width="1020" height="564" frameX="0" frameY="-10" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0003" x="5417" y="616" width="1043" height="573" frameX="0" frameY="0" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0004" x="6460" y="616" width="1020" height="565" frameX="0" frameY="-8" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0005" x="0" y="1314" width="995" height="565" frameX="0" frameY="-8" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0006" x="995" y="1314" width="972" height="558" frameX="0" frameY="-15" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0007" x="1967" y="1314" width="995" height="558" frameX="0" frameY="-15" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0008" x="2962" y="1314" width="1020" height="558" frameX="0" frameY="-15" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0009" x="3982" y="1314" width="1043" height="558" frameX="0" frameY="-15" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0010" x="5025" y="1314" width="1020" height="558" frameX="0" frameY="-15" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0011" x="1967" y="1314" width="995" height="558" frameX="0" frameY="-15" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0012" x="6045" y="1314" width="972" height="558" frameX="0" frameY="-15" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFDown0013" x="6045" y="1314" width="972" height="558" frameX="0" frameY="-15" frameWidth="1043" frameHeight="574"/>
+	<SubTexture name="ShipBFIdle0000" x="7017" y="1314" width="972" height="573" frameX="0" frameY="0" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0001" x="0" y="1887" width="995" height="574" frameX="0" frameY="0" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0002" x="995" y="1887" width="1020" height="571" frameX="0" frameY="-4" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0003" x="2015" y="1887" width="1043" height="572" frameX="0" frameY="-4" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0004" x="3058" y="1887" width="1020" height="570" frameX="0" frameY="-7" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0005" x="4078" y="1887" width="995" height="571" frameX="0" frameY="-7" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0006" x="5073" y="1887" width="972" height="567" frameX="0" frameY="-11" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0007" x="6045" y="1887" width="995" height="567" frameX="0" frameY="-11" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0008" x="7040" y="1887" width="1020" height="567" frameX="0" frameY="-10" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0009" x="0" y="2461" width="1043" height="566" frameX="0" frameY="-10" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0010" x="1043" y="2461" width="1020" height="565" frameX="0" frameY="-10" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0011" x="2063" y="2461" width="995" height="564" frameX="0" frameY="-10" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0012" x="3058" y="2461" width="972" height="563" frameX="0" frameY="-10" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFIdle0013" x="3058" y="2461" width="972" height="563" frameX="0" frameY="-10" frameWidth="1043" frameHeight="578"/>
+	<SubTexture name="ShipBFLeft0000" x="4030" y="2461" width="1021" height="596" frameX="0" frameY="0" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0001" x="5051" y="2461" width="1035" height="596" frameX="-8" frameY="0" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0002" x="6086" y="2461" width="1046" height="589" frameX="-22" frameY="-7" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0003" x="7132" y="2461" width="1057" height="589" frameX="-35" frameY="-7" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0004" x="0" y="3057" width="1020" height="575" frameX="-48" frameY="-21" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0005" x="1020" y="3057" width="995" height="575" frameX="-48" frameY="-21" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0006" x="2015" y="3057" width="972" height="568" frameX="-48" frameY="-28" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0007" x="2987" y="3057" width="995" height="568" frameX="-48" frameY="-28" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0008" x="3982" y="3057" width="1020" height="568" frameX="-48" frameY="-28" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0009" x="5002" y="3057" width="1043" height="568" frameX="-48" frameY="-28" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0010" x="6045" y="3057" width="1020" height="568" frameX="-48" frameY="-28" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0011" x="2987" y="3057" width="995" height="568" frameX="-48" frameY="-28" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0012" x="7065" y="3057" width="972" height="568" frameX="-48" frameY="-28" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFLeft0013" x="7065" y="3057" width="972" height="568" frameX="-48" frameY="-28" frameWidth="1092" frameHeight="596"/>
+	<SubTexture name="ShipBFRight0000" x="0" y="3632" width="1031" height="577" frameX="0" frameY="0" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0001" x="1031" y="3632" width="1041" height="577" frameX="0" frameY="0" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0002" x="2072" y="3632" width="1051" height="570" frameX="0" frameY="-7" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0003" x="3123" y="3632" width="1055" height="570" frameX="0" frameY="-7" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0004" x="4178" y="3632" width="1020" height="568" frameX="0" frameY="-9" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0005" x="5198" y="3632" width="995" height="568" frameX="0" frameY="-9" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0006" x="6193" y="3632" width="972" height="574" frameX="0" frameY="-3" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0007" x="7165" y="3632" width="995" height="574" frameX="0" frameY="-3" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0008" x="0" y="4209" width="1020" height="573" frameX="0" frameY="-4" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0009" x="1020" y="4209" width="1043" height="573" frameX="0" frameY="-4" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0010" x="2063" y="4209" width="1020" height="573" frameX="0" frameY="-4" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0011" x="3083" y="4209" width="995" height="573" frameX="0" frameY="-4" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0012" x="4078" y="4209" width="972" height="572" frameX="0" frameY="-5" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFRight0013" x="4078" y="4209" width="972" height="572" frameX="0" frameY="-5" frameWidth="1055" frameHeight="577"/>
+	<SubTexture name="ShipBFUp0000" x="5050" y="4209" width="972" height="667" frameX="0" frameY="0" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0001" x="6022" y="4209" width="995" height="658" frameX="0" frameY="-9" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0002" x="7017" y="4209" width="1020" height="637" frameX="0" frameY="-31" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0003" x="0" y="4876" width="1043" height="625" frameX="0" frameY="-43" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0004" x="1043" y="4876" width="1020" height="594" frameX="0" frameY="-73" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0005" x="2063" y="4876" width="995" height="594" frameX="0" frameY="-73" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0006" x="3058" y="4876" width="972" height="582" frameX="0" frameY="-85" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0007" x="4030" y="4876" width="995" height="582" frameX="0" frameY="-85" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0008" x="5025" y="4876" width="1020" height="583" frameX="0" frameY="-84" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0009" x="6045" y="4876" width="1043" height="583" frameX="0" frameY="-84" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0010" x="7088" y="4876" width="1020" height="582" frameX="0" frameY="-85" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0011" x="4030" y="4876" width="995" height="582" frameX="0" frameY="-85" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0012" x="0" y="5501" width="972" height="583" frameX="0" frameY="-84" frameWidth="1043" frameHeight="668"/>
+	<SubTexture name="ShipBFUp0013" x="0" y="5501" width="972" height="583" frameX="0" frameY="-84" frameWidth="1043" frameHeight="668"/>
+</TextureAtlas>

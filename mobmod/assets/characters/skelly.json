@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "skelly idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "skelly left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-5
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "skelly guitar left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "skelly up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-6
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "skelly guitar up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "skelly down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "skelly guitar down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "skelly right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "skelly guitar right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "GUITAR",
+			"indices": [],
+			"name": "skelly HE PULL GUITARRRRRRRR"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-7
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "skelly guitar idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skelly",
+	"position": [
+		70,
+		405
+	],
+	"healthicon": "skelly",
+	"flip_x": false,
+	"healthbar_colors": [
+		193,
+		193,
+		193
+	],
+	"camera_position": [
+		-490,
+		-340
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

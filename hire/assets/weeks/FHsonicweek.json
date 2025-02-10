@@ -1,0 +1,50 @@
+{
+	"storyName": "Sonic for Hire",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "sonic",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Kerosentinis",
+			"mbrain",
+			[
+				255,
+				113,
+				75
+			]
+		],
+		[
+			"Suit-Napped",
+			"jim",
+			[
+				255,
+				133,
+				135
+			]
+		],
+		[
+			"Sonuva",
+			"mario",
+			[
+				215,
+				40,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "SONIC FOR HIRE",
+	"hiddenUntilUnlocked": false
+}

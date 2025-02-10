@@ -1,0 +1,43 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "PJ Berri (GF)",
+	"flipX": false,
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"isPixel": false,
+	"singTime": 4,
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"isPixel": false,
+		"scale": 1,
+		"id": "parappa"
+	},
+	"assetPath": "characters/pjdjgf",
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				5
+			],
+			"frameRate": 24,
+			"prefix": "PJ+GF idle",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		}
+	]
+}

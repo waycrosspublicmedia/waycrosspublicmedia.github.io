@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pillager.png"><SubTexture name="pillager idle0000" x="0" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0001" x="504" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0002" x="1008" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0003" x="1512" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0004" x="2016" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0005" x="2520" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0006" x="3024" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0007" x="3528" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0008" x="4032" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0009" x="4536" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0010" x="5040" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0011" x="5544" y="0" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0012" x="0" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0013" x="504" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0014" x="1008" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager idle0015" x="1512" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0000" x="2016" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0001" x="2520" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0002" x="3024" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0003" x="3528" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0004" x="4032" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0005" x="4536" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0006" x="5040" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0007" x="5544" y="304" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0008" x="0" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0009" x="504" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0010" x="1008" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0011" x="1512" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0012" x="2016" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0013" x="2520" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0014" x="3024" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0015" x="3528" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager alt idle0016" x="4032" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager left0000" x="4536" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager left0001" x="5040" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager left0002" x="5544" y="608" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager left0003" x="0" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager left0004" x="504" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager left0005" x="1008" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager left0006" x="1512" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager left0007" x="2016" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager left0008" x="2520" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager left0009" x="3024" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager left0010" x="3528" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0000" x="4032" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0001" x="4536" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0002" x="5040" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0003" x="5544" y="912" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0004" x="0" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0005" x="504" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0006" x="1008" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0007" x="1512" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0008" x="2016" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0009" x="2520" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0010" x="3024" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager down0011" x="3528" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0000" x="4032" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0001" x="4536" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0002" x="5040" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0003" x="5544" y="1216" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0004" x="0" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0005" x="504" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0006" x="1008" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0007" x="1512" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0008" x="2016" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0009" x="2520" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0010" x="3024" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager up0011" x="3528" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager right0000" x="4032" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager right0001" x="4536" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager right0002" x="5040" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager right0003" x="5544" y="1520" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager right0004" x="0" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager right0005" x="504" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager right0006" x="1008" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager right0007" x="1512" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager right0008" x="2016" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager right0009" x="2520" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0000" x="3024" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0001" x="3528" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0002" x="4032" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0003" x="4536" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0004" x="5040" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0005" x="5544" y="1824" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0006" x="0" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0007" x="504" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0008" x="1008" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0009" x="1512" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0010" x="2016" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0011" x="2520" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0012" x="3024" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0013" x="3528" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0014" x="4032" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0015" x="4536" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0016" x="5040" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0017" x="5544" y="2128" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0018" x="0" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0019" x="504" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0020" x="1008" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager reload0021" x="1512" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0000" x="2016" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0001" x="2520" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0002" x="3024" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0003" x="3528" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0004" x="4032" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0005" x="4536" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0006" x="5040" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0007" x="5544" y="2432" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0008" x="0" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0009" x="504" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0010" x="1008" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0011" x="1512" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0012" x="2016" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0013" x="2520" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager shoot0014" x="3024" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0000" x="3528" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0001" x="4032" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0002" x="4536" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0003" x="5040" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0004" x="5544" y="2736" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0005" x="0" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0006" x="504" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0007" x="1008" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0008" x="1512" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0009" x="2016" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0010" x="2520" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0011" x="3024" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0012" x="3528" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0013" x="4032" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0014" x="4536" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0015" x="5040" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0016" x="5544" y="3040" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0017" x="0" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0018" x="504" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0019" x="1008" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0020" x="1512" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0021" x="2016" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0022" x="2520" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0023" x="3024" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0024" x="3528" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0025" x="4032" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0026" x="4536" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0027" x="5040" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0028" x="5544" y="3344" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0029" x="0" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0030" x="504" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0031" x="1008" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0032" x="1512" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0033" x="2016" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0034" x="2520" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0035" x="3024" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0036" x="3528" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0037" x="4032" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0038" x="4536" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0039" x="5040" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0040" x="5544" y="3648" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0041" x="0" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0042" x="504" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0043" x="1008" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0044" x="1512" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+<SubTexture name="pillager mid song event0045" x="2016" y="3952" width="504" height="304" frameX="0" frameY="0" frameWidth="504" frameHeight="304" />
+</TextureAtlas>

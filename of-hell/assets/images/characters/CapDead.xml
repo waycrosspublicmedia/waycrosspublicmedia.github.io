@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CapDead.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TankGameOver0000" x="0" y="0" width="615" height="696" pivotX="229.3" pivotY="122.25" frameX="-323" frameY="-7" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0001" x="617" y="0" width="657" height="703" frameX="-291" frameY="0" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0002" x="1276" y="0" width="699" height="658" frameX="-256" frameY="-44" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0003" x="1276" y="0" width="699" height="658" frameX="-256" frameY="-44" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0004" x="1977" y="0" width="699" height="672" frameX="-251" frameY="-52" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0005" x="1977" y="0" width="699" height="672" frameX="-251" frameY="-52" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0006" x="2678" y="0" width="612" height="671" frameX="-253" frameY="-53" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0007" x="2678" y="0" width="612" height="671" frameX="-253" frameY="-53" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0008" x="3292" y="0" width="558" height="657" frameX="-254" frameY="-67" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0009" x="3292" y="0" width="558" height="657" frameX="-254" frameY="-67" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0010" x="3292" y="0" width="558" height="657" frameX="-254" frameY="-67" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0011" x="3292" y="0" width="558" height="657" frameX="-254" frameY="-67" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0012" x="3292" y="0" width="558" height="657" frameX="-254" frameY="-67" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0013" x="3292" y="0" width="558" height="657" frameX="-254" frameY="-67" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0014" x="3292" y="0" width="558" height="657" frameX="-254" frameY="-67" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0015" x="0" y="705" width="558" height="656" frameX="-254" frameY="-68" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0016" x="0" y="705" width="558" height="656" frameX="-254" frameY="-68" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0017" x="0" y="705" width="558" height="656" frameX="-254" frameY="-68" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0018" x="560" y="705" width="558" height="656" frameX="-254" frameY="-68" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0019" x="560" y="705" width="558" height="656" frameX="-254" frameY="-68" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0020" x="1120" y="705" width="558" height="654" frameX="-254" frameY="-70" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0021" x="1120" y="705" width="558" height="654" frameX="-254" frameY="-70" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0022" x="1680" y="705" width="564" height="651" frameX="-248" frameY="-73" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0023" x="1680" y="705" width="564" height="651" frameX="-248" frameY="-73" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0024" x="2246" y="705" width="632" height="613" frameX="-180" frameY="-111" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0025" x="2880" y="705" width="768" height="564" frameX="-44" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0026" x="2880" y="705" width="768" height="564" frameX="-44" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0027" x="0" y="1363" width="812" height="795" frameX="0" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0028" x="814" y="1363" width="555" height="564" frameX="-257" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0029" x="1371" y="1363" width="557" height="564" frameX="-255" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0030" x="1371" y="1363" width="557" height="564" frameX="-255" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0031" x="1930" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0032" x="1930" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0033" x="1930" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0034" x="2493" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0035" x="1930" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0036" x="1930" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0037" x="2493" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0038" x="2493" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0039" x="3056" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0040" x="3056" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0041" x="3056" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0042" x="3056" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0043" x="3056" y="1363" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0044" x="0" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0045" x="0" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0046" x="0" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0047" x="0" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0048" x="0" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0049" x="563" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0050" x="563" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0051" x="563" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0052" x="563" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0053" x="563" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0054" x="1126" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0055" x="1126" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0056" x="1126" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOver0057" x="1126" y="2160" width="561" height="564" frameX="-251" frameY="-160" frameWidth="955" frameHeight="955"/>
+	<SubTexture name="TankGameOverCONFIRM0000" x="1689" y="2160" width="561" height="564" pivotX="-22.7" pivotY="19" frameX="0" frameY="-57" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0001" x="2252" y="2160" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0002" x="2815" y="2160" width="561" height="621"/>
+	<SubTexture name="TankGameOverCONFIRM0003" x="3378" y="2160" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0004" x="0" y="2783" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0005" x="563" y="2783" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0006" x="1126" y="2783" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0007" x="1689" y="2783" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0008" x="2252" y="2783" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0009" x="2815" y="2783" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0010" x="3378" y="2783" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0011" x="0" y="3376" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0012" x="563" y="3376" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0013" x="1126" y="3376" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0014" x="1689" y="3376" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0015" x="2252" y="3376" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0016" x="2815" y="3376" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0017" x="3378" y="3376" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0018" x="0" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0019" x="563" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0020" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0021" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0022" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0023" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0024" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0025" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0026" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0027" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0028" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0029" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0030" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0031" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0032" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverCONFIRM0033" x="1126" y="3969" width="561" height="591" frameX="0" frameY="-30" frameWidth="561" frameHeight="621"/>
+	<SubTexture name="TankGameOverLOOP0000" x="1689" y="3969" width="561" height="564" pivotX="-22.7" pivotY="-38.6"/>
+	<SubTexture name="TankGameOverLOOP0001" x="2252" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0002" x="2252" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0003" x="2815" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0004" x="2815" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0005" x="3378" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0006" x="3378" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0007" x="0" y="4562" width="558" height="563" frameX="-3" frameY="0" frameWidth="561" frameHeight="564"/>
+	<SubTexture name="TankGameOverLOOP0008" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0009" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0010" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0011" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0012" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0013" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0014" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0015" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0016" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0017" x="1689" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0018" x="2252" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0019" x="2252" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0020" x="2815" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0021" x="2815" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0022" x="3378" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0023" x="3378" y="3969" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0024" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0025" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0026" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0027" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0028" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0029" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0030" x="1123" y="4562" width="560" height="562" frameX="-1" frameY="0" frameWidth="561" frameHeight="564"/>
+	<SubTexture name="TankGameOverLOOP0031" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0032" x="560" y="4562" width="561" height="564"/>
+	<SubTexture name="TankGameOverLOOP0033" x="560" y="4562" width="561" height="564"/>
+</TextureAtlas>

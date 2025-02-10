@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DarknessGD_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DarknessGDDown0000" x="0" y="0" width="589" height="513" frameX="0" frameY="-28" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0001" x="589" y="0" width="589" height="527" frameX="0" frameY="-14" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0002" x="589" y="0" width="589" height="527" frameX="0" frameY="-14" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0003" x="1178" y="0" width="589" height="539" frameX="0" frameY="-3" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0004" x="1178" y="0" width="589" height="539" frameX="0" frameY="-3" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0005" x="1767" y="0" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0006" x="1767" y="0" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0007" x="2356" y="0" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0008" x="2356" y="0" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0009" x="2356" y="0" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0010" x="2356" y="0" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0011" x="2356" y="0" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0012" x="2356" y="0" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDDown0013" x="2356" y="0" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0000" x="2945" y="0" width="589" height="524" frameX="0" frameY="-18" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0001" x="2945" y="0" width="589" height="524" frameX="0" frameY="-18" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0002" x="0" y="541" width="589" height="528" frameX="0" frameY="-13" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0003" x="0" y="541" width="589" height="528" frameX="0" frameY="-13" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0004" x="589" y="541" width="589" height="534" frameX="0" frameY="-7" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0005" x="589" y="541" width="589" height="534" frameX="0" frameY="-7" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0006" x="1178" y="541" width="589" height="539" frameX="0" frameY="-3" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0007" x="1178" y="541" width="589" height="539" frameX="0" frameY="-3" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0008" x="1767" y="541" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0009" x="1767" y="541" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0010" x="1767" y="541" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0011" x="1767" y="541" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0012" x="1767" y="541" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDIdle0013" x="1767" y="541" width="589" height="541" frameX="0" frameY="0" frameWidth="589" frameHeight="542"/>
+	<SubTexture name="DarknessGDLeft0000" x="2356" y="541" width="578" height="529" frameX="0" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0001" x="2934" y="541" width="567" height="529" frameX="-11" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0002" x="2934" y="541" width="567" height="529" frameX="-11" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0003" x="3501" y="541" width="559" height="529" frameX="-20" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0004" x="3501" y="541" width="559" height="529" frameX="-20" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0005" x="0" y="1082" width="554" height="529" frameX="-24" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0006" x="554" y="1082" width="554" height="529" frameX="-24" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0007" x="1108" y="1082" width="554" height="529" frameX="-24" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0008" x="1108" y="1082" width="554" height="529" frameX="-24" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0009" x="1108" y="1082" width="554" height="529" frameX="-24" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0010" x="1108" y="1082" width="554" height="529" frameX="-24" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0011" x="1108" y="1082" width="554" height="529" frameX="-24" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0012" x="1108" y="1082" width="554" height="529" frameX="-24" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDLeft0013" x="1108" y="1082" width="554" height="529" frameX="-24" frameY="0" frameWidth="579" frameHeight="529"/>
+	<SubTexture name="DarknessGDRight0000" x="1662" y="1082" width="585" height="514"/>
+	<SubTexture name="DarknessGDRight0001" x="2247" y="1082" width="576" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0002" x="2247" y="1082" width="576" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0003" x="2823" y="1082" width="567" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0004" x="2823" y="1082" width="567" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0005" x="3390" y="1082" width="562" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0006" x="3390" y="1082" width="562" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0007" x="3390" y="1082" width="562" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0008" x="3390" y="1082" width="562" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0009" x="3390" y="1082" width="562" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0010" x="3390" y="1082" width="562" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0011" x="3390" y="1082" width="562" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0012" x="3390" y="1082" width="562" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDRight0013" x="3390" y="1082" width="562" height="514" frameX="0" frameY="0" frameWidth="585" frameHeight="514"/>
+	<SubTexture name="DarknessGDUp0000" x="0" y="1611" width="583" height="516"/>
+	<SubTexture name="DarknessGDUp0001" x="583" y="1611" width="583" height="510" frameX="0" frameY="-6" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0002" x="583" y="1611" width="583" height="510" frameX="0" frameY="-6" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0003" x="1166" y="1611" width="583" height="503" frameX="0" frameY="-13" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0004" x="1166" y="1611" width="583" height="503" frameX="0" frameY="-13" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0005" x="1749" y="1611" width="583" height="498" frameX="0" frameY="-18" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0006" x="2332" y="1611" width="583" height="498" frameX="0" frameY="-18" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0007" x="2915" y="1611" width="583" height="498" frameX="0" frameY="-18" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0008" x="3498" y="1611" width="583" height="498" frameX="0" frameY="-18" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0009" x="3498" y="1611" width="583" height="498" frameX="0" frameY="-18" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0010" x="3498" y="1611" width="583" height="498" frameX="0" frameY="-18" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0011" x="3498" y="1611" width="583" height="498" frameX="0" frameY="-18" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0012" x="3498" y="1611" width="583" height="498" frameX="0" frameY="-18" frameWidth="583" frameHeight="516"/>
+	<SubTexture name="DarknessGDUp0013" x="3498" y="1611" width="583" height="498" frameX="0" frameY="-18" frameWidth="583" frameHeight="516"/>
+</TextureAtlas>

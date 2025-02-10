@@ -1,0 +1,101 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Middle Scroll",
+						"",
+						""
+					],
+					[
+						"Hide_HealthBar",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"whisper"
+					],
+					[
+						"Play Animation",
+						"debut",
+						"bf"
+					]
+				]
+			],
+			[
+				41438.8489208633,
+				[
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				82877.6978417267,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98417.2661870504,
+				[
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				138129.496402878,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				167482.014388489,
+				[
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				212374.100719425,
+				[
+					[
+						"Play Animation",
+						"fin",
+						"bf"
+					]
+				]
+			],
+			[
+				214532.37410072,
+				[
+					[
+						"Change Character",
+						"bf",
+						"die"
+					]
+				]
+			]
+		]
+	}
+}

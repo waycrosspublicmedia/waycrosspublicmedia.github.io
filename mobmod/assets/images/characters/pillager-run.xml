@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pillager run.png"><SubTexture name="pillager run idle0000" x="0" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run idle0001" x="684" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run idle0002" x="1368" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run idle0003" x="2052" y="0" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run idle0004" x="0" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run idle0005" x="684" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run idle0006" x="1368" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run idle0007" x="2052" y="404" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run left0000" x="0" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run left0001" x="684" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run left0002" x="1368" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run left0003" x="2052" y="808" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run down0000" x="0" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run down0001" x="684" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run down0002" x="1368" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run down0003" x="2052" y="1212" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run up0000" x="0" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run up0001" x="684" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run up0002" x="1368" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run up0003" x="2052" y="1616" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run right0000" x="0" y="2020" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run right0001" x="684" y="2020" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run right0002" x="1368" y="2020" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+<SubTexture name="pillager run right0003" x="2052" y="2020" width="684" height="404" frameX="0" frameY="0" frameWidth="684" frameHeight="404" />
+</TextureAtlas>

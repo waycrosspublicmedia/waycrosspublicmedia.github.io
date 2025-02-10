@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "gf walk 1 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "gf walk 2 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gf walk left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gf walk up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gf walk down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gf walk right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "kill",
+			"fps": 24,
+			"name": "gf walk snowball",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-walk",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "gf-minecraft",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		47,
+		86
+	],
+	"camera_position": [
+		-2050,
+		-700
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-258,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-326,
+				-127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-137,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-177,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-148,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/soul sonic",
+	"position": [
+		-50,
+		40
+	],
+	"healthicon": "soul-sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		153,
+		153
+	],
+	"camera_position": [
+		-130,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

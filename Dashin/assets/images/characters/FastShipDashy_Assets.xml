@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FastShipDashy_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FastShipDashyDown0000" x="0" y="0" width="1102" height="485" frameX="0" frameY="-38" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyDown0001" x="1102" y="0" width="925" height="478" frameX="-41" frameY="-40" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyDown0002" x="2027" y="0" width="1030" height="502" frameX="0" frameY="-21" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyDown0003" x="3057" y="0" width="851" height="495" frameX="-41" frameY="-23" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyDown0004" x="3908" y="0" width="1102" height="518" frameX="0" frameY="-5" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyDown0005" x="5010" y="0" width="925" height="511" frameX="-41" frameY="-7" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyDown0006" x="5935" y="0" width="1030" height="523" frameX="0" frameY="0" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyDown0007" x="6965" y="0" width="851" height="515" frameX="-41" frameY="-2" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyDown0008" x="0" y="523" width="1102" height="523"/>
+	<SubTexture name="FastShipDashyDown0009" x="1102" y="523" width="925" height="515" frameX="-41" frameY="-2" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyDown0010" x="5935" y="0" width="1030" height="523" frameX="0" frameY="0" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyDown0011" x="6965" y="0" width="851" height="515" frameX="-41" frameY="-2" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyDown0012" x="0" y="523" width="1102" height="523"/>
+	<SubTexture name="FastShipDashyDown0013" x="1102" y="523" width="925" height="515" frameX="-41" frameY="-2" frameWidth="1102" frameHeight="523"/>
+	<SubTexture name="FastShipDashyIdle0000" x="2027" y="523" width="1102" height="492" frameX="0" frameY="-18" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0001" x="3129" y="523" width="925" height="485" frameX="-41" frameY="-20" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0002" x="4054" y="523" width="1030" height="501" frameX="0" frameY="-11" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0003" x="5084" y="523" width="851" height="494" frameX="-41" frameY="-13" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0004" x="5935" y="523" width="1102" height="511" frameX="0" frameY="-3" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0005" x="7037" y="523" width="925" height="504" frameX="-41" frameY="-5" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0006" x="0" y="1046" width="1030" height="516" frameX="0" frameY="0" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0007" x="1030" y="1046" width="851" height="508" frameX="-41" frameY="-2" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0008" x="1881" y="1046" width="1102" height="515" frameX="0" frameY="0" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0009" x="2983" y="1046" width="925" height="506" frameX="-41" frameY="-2" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0010" x="3908" y="1046" width="1030" height="513" frameX="0" frameY="0" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0011" x="4938" y="1046" width="851" height="504" frameX="-41" frameY="-2" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0012" x="1881" y="1046" width="1102" height="515" frameX="0" frameY="0" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyIdle0013" x="2983" y="1046" width="925" height="506" frameX="-41" frameY="-2" frameWidth="1102" frameHeight="516"/>
+	<SubTexture name="FastShipDashyLeft0000" x="5789" y="1046" width="1125" height="523"/>
+	<SubTexture name="FastShipDashyLeft0001" x="6914" y="1046" width="948" height="515" frameX="-41" frameY="-2" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0002" x="0" y="1569" width="1045" height="523" frameX="-8" frameY="0" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0003" x="1045" y="1569" width="866" height="515" frameX="-49" frameY="-2" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0004" x="1911" y="1569" width="1108" height="523" frameX="-17" frameY="0" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0005" x="3019" y="1569" width="931" height="515" frameX="-58" frameY="-2" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0006" x="3950" y="1569" width="1030" height="523" frameX="-23" frameY="0" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0007" x="4980" y="1569" width="851" height="515" frameX="-64" frameY="-2" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0008" x="5831" y="1569" width="1102" height="523" frameX="-23" frameY="0" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0009" x="6933" y="1569" width="925" height="515" frameX="-64" frameY="-2" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0010" x="3950" y="1569" width="1030" height="523" frameX="-23" frameY="0" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0011" x="4980" y="1569" width="851" height="515" frameX="-64" frameY="-2" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0012" x="5831" y="1569" width="1102" height="523" frameX="-23" frameY="0" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyLeft0013" x="6933" y="1569" width="925" height="515" frameX="-64" frameY="-2" frameWidth="1125" frameHeight="523"/>
+	<SubTexture name="FastShipDashyRight0000" x="0" y="2092" width="1120" height="533" frameX="0" frameY="-15" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0001" x="1120" y="2092" width="963" height="525" frameX="-41" frameY="-17" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0002" x="2083" y="2092" width="1045" height="540" frameX="0" frameY="-8" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0003" x="3128" y="2092" width="881" height="532" frameX="-41" frameY="-10" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0004" x="4009" y="2092" width="1106" height="546" frameX="0" frameY="-2" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0005" x="5115" y="2092" width="930" height="538" frameX="-41" frameY="-4" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0006" x="6045" y="2092" width="1030" height="548" frameX="0" frameY="0" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0007" x="7075" y="2092" width="851" height="540" frameX="-41" frameY="-2" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0008" x="0" y="2640" width="1102" height="548" frameX="0" frameY="0" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0009" x="1102" y="2640" width="925" height="540" frameX="-41" frameY="-2" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0010" x="6045" y="2092" width="1030" height="548" frameX="0" frameY="0" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0011" x="7075" y="2092" width="851" height="540" frameX="-41" frameY="-2" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0012" x="0" y="2640" width="1102" height="548" frameX="0" frameY="0" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyRight0013" x="2027" y="2640" width="925" height="540" frameX="-41" frameY="-2" frameWidth="1120" frameHeight="548"/>
+	<SubTexture name="FastShipDashyUp0000" x="2952" y="2640" width="1102" height="782" frameX="0" frameY="0" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0001" x="4054" y="2640" width="925" height="747" frameX="-41" frameY="-30" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0002" x="4979" y="2640" width="1030" height="721" frameX="0" frameY="-61" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0003" x="6009" y="2640" width="851" height="674" frameX="-41" frameY="-103" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0004" x="6860" y="2640" width="1102" height="622" frameX="0" frameY="-160" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0005" x="0" y="3422" width="925" height="528" frameX="-41" frameY="-249" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0006" x="925" y="3422" width="1030" height="527" frameX="0" frameY="-256" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0007" x="1955" y="3422" width="851" height="532" frameX="-41" frameY="-245" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0008" x="2806" y="3422" width="1102" height="540" frameX="0" frameY="-243" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0009" x="3908" y="3422" width="925" height="532" frameX="-41" frameY="-245" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0010" x="4833" y="3422" width="1030" height="540" frameX="0" frameY="-243" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0011" x="1955" y="3422" width="851" height="532" frameX="-41" frameY="-245" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0012" x="2806" y="3422" width="1102" height="540" frameX="0" frameY="-243" frameWidth="1102" frameHeight="783"/>
+	<SubTexture name="FastShipDashyUp0013" x="3908" y="3422" width="925" height="532" frameX="-41" frameY="-245" frameWidth="1102" frameHeight="783"/>
+</TextureAtlas>

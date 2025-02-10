@@ -1,0 +1,42 @@
+import flixel.FlxG;
+import funkin.play.PlayState;
+import funkin.play.stage.Stage;
+
+class ParappaTownStage extends Stage
+{
+	function new()
+	{
+		super('parappaTown');
+	}
+
+	function onCreate(event:ScriptEvent):Void
+	{
+			super.onCreate(event);
+	}
+
+	override function buildStage()
+	{
+		super.buildStage();
+
+		// Give the clouds a random position, and a velocity to make them move.
+		var clouds = getNamedProp('clouds');
+		clouds.active = true;
+		clouds.x = FlxG.random.int(-4792, -4692);
+		clouds.y = FlxG.random.int(-175, -145);
+		clouds.velocity.x = FlxG.random.float(5, 15);
+
+	}
+
+
+	function onSongRetry(event:ScriptEvent)
+	{
+		super.onSongRetry(event);
+
+		// resets the clouds!
+		var clouds = getNamedProp('clouds');
+		clouds.active = true;
+		clouds.x = FlxG.random.int(-4792, -4692);
+		clouds.y = FlxG.random.int(-175, -145);
+		clouds.velocity.x = FlxG.random.float(5, 15);
+	}
+}

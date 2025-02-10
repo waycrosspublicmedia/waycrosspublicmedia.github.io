@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RECUPERE_12242_pluid.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pluie 0000" x="4" y="4" width="2881" height="1845" frameX="-388" frameY="0" frameWidth="3269" frameHeight="1943"/>
+	<SubTexture name="pluie 0001" x="4" y="4" width="2881" height="1845" frameX="-388" frameY="0" frameWidth="3269" frameHeight="1943"/>
+	<SubTexture name="pluie 0002" x="2889" y="4" width="3004" height="1813" frameX="-209" frameY="-110" frameWidth="3269" frameHeight="1943"/>
+	<SubTexture name="pluie 0003" x="2889" y="4" width="3004" height="1813" frameX="-209" frameY="-110" frameWidth="3269" frameHeight="1943"/>
+	<SubTexture name="pluie 0004" x="4" y="1853" width="3147" height="1864" frameX="0" frameY="-79" frameWidth="3269" frameHeight="1943"/>
+	<SubTexture name="pluie 0005" x="4" y="1853" width="3147" height="1864" frameX="0" frameY="-79" frameWidth="3269" frameHeight="1943"/>
+</TextureAtlas>

@@ -1,0 +1,92 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "PaRappa The Rapper",
+	"flipX": true,
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"isPixel": false,
+	"singTime": 4,
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"flipX": false,
+		"id": "parappa"
+	},
+	"assetPath": "characters/parappa",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				5
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "parappa idle dance",
+			"name": "idle",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-10,
+				13
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "parappa right note",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-8,
+				-18
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "parappa left note",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				21,
+				-39
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "parappa down note",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-11,
+				13
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "parappa up note",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false
+		}
+	]
+}

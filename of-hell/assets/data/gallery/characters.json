@@ -1,0 +1,65 @@
+
+{
+	"name": "Boyfriend",
+	"imagePath": "bf",
+	"iconPath": "Encore-bf",
+	"redPlatform": false,
+	"offsets": [20, 16],
+	"description": "Known as Boyfriend.xml, he is a really known rapper that fought against a lot characters, involving exeller, he also has a girlfriend that usually stay with him."
+},
+{
+	"name": "Tails",
+	"imagePath": "tails",
+	"iconPath": "tails",
+	"redPlatform": false,
+	"offsets": [44, 24],
+	"description": "Miles Tails Power is a 9 years old fox that loves mechanic, he helps sonic a lot while defeating eggman or other villains, he is also known for his high IQ."
+},
+{
+	"name": "Knuckles",
+	"imagePath": "Knux",
+	"iconPath": "knuckles",
+	"redPlatform": false,
+	"offsets": [40, 12],
+	"description": "Protector of the Master Emerald, he is an 15 years old echidna, he seems serious and mean but in reality he is a really naive character."
+},
+{
+	"name": "Dr.Eggman",
+	"imagePath": "eggman",
+	"iconPath": "Eggman",
+	"redPlatform": false,
+	"offsets": [28, -12],
+	"description": "He was known for calling him self Doctor Ivo but after an experiment with sonic that went bad, he adapted his villain and mean version of him."
+},
+{
+	"name": "Amy",
+	"imagePath": "amy",
+	"iconPath": "amy",
+	"redPlatform": false,
+	"offsets": [24, 12],
+	"description": "Amy Rose is an hedgehog that has 13 years old, she had 9 years old before but she used one of Sally’s machine to grow up and she became what she is today."
+},
+{
+	"name": "Cream",
+	"imagePath": "cream",
+	"iconPath": "cream",
+	"redPlatform": false,
+	"offsets": [24, 24],
+	"description": "Cream The Rabbit is an 6 years old children, she is a really shy and lovely person, she also have a friend called Cheese that she loves so much."
+},
+{
+	"name": "Sally",
+	"imagePath": "sally",
+	"iconPath": "sally",
+	"redPlatform": false,
+	"offsets": [16, 8],
+	"description": "Queen of mobius, she is 16 but still a really known queen, she also have a bracelet that give her 5 powers that are: Earth, Water, Fire, Wind and Electricity."
+},
+{
+	"name": "Exeller",
+	"imagePath": "Exeller",
+	"iconPath": "exeller",
+	"redPlatform": true,
+	"offsets": [28, 12],
+	"description": "You don’t need to have information about this character Yet."
+}

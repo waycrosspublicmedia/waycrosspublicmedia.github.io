@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ctails.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alt down ctails0000" x="25" y="25" width="286" height="241" frameX="0" frameY="-4" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0001" x="25" y="25" width="286" height="241" frameX="0" frameY="-4" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0002" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0003" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0004" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0005" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0006" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0007" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0008" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0009" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0010" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0011" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0012" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt down ctails0013" x="336" y="25" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="alt left ctails 0000" x="639" y="25" width="277" height="238" frameX="0" frameY="-6" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0001" x="639" y="25" width="277" height="238" frameX="0" frameY="-6" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0002" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0003" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0004" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0005" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0006" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0007" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0008" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0009" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0010" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0011" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0012" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt left ctails 0013" x="941" y="25" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="alt right ctails0000" x="1235" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0001" x="1235" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0002" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0003" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0004" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0005" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0006" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0007" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0008" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0009" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0010" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0011" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0012" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt right ctails0013" x="1506" y="25" width="246" height="250"/>
+	<SubTexture name="alt up ctails0000" x="1777" y="25" width="232" height="298" frameX="-6" frameY="0" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0001" x="1777" y="25" width="232" height="298" frameX="-6" frameY="0" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0002" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0003" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0004" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0005" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0006" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0007" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0008" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0009" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0010" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0011" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0012" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="alt up ctails0013" x="25" y="348" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="down ctails0000" x="307" y="348" width="286" height="241" frameX="0" frameY="-4" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0001" x="307" y="348" width="286" height="241" frameX="0" frameY="-4" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0002" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0003" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0004" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0005" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0006" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0007" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0008" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0009" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0010" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0011" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0012" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="down ctails0013" x="618" y="348" width="278" height="245" frameX="-4" frameY="0" frameWidth="286" frameHeight="245"/>
+	<SubTexture name="idle ctails0000" x="921" y="348" width="268" height="252" frameX="-1" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0001" x="921" y="348" width="268" height="252" frameX="-1" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0002" x="1214" y="348" width="265" height="255" frameX="0" frameY="0" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0003" x="1214" y="348" width="265" height="255" frameX="0" frameY="0" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0004" x="1504" y="348" width="262" height="253" frameX="-3" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0005" x="1504" y="348" width="262" height="253" frameX="-3" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0006" x="25" y="666" width="255" height="252" frameX="-7" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0007" x="25" y="666" width="255" height="252" frameX="-7" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0008" x="25" y="666" width="255" height="252" frameX="-7" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0009" x="25" y="666" width="255" height="252" frameX="-7" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0010" x="25" y="666" width="255" height="252" frameX="-7" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0011" x="25" y="666" width="255" height="252" frameX="-7" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0012" x="25" y="666" width="255" height="252" frameX="-7" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="idle ctails0013" x="25" y="666" width="255" height="252" frameX="-7" frameY="-2" frameWidth="269" frameHeight="255"/>
+	<SubTexture name="left ctails0000" x="305" y="666" width="277" height="238" frameX="0" frameY="-6" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0001" x="305" y="666" width="277" height="238" frameX="0" frameY="-6" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0002" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0003" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0004" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0005" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0006" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0007" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0008" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0009" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0010" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0011" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0012" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="left ctails0013" x="607" y="666" width="269" height="236" frameX="-4" frameY="0" frameWidth="277" frameHeight="244"/>
+	<SubTexture name="right ctails 0000" x="901" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0001" x="901" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0002" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0003" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0004" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0005" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0006" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0007" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0008" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0009" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0010" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0011" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0012" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="right ctails 0013" x="1172" y="666" width="246" height="250"/>
+	<SubTexture name="up ctails0000" x="1443" y="666" width="232" height="298" frameX="-6" frameY="0" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0001" x="1443" y="666" width="232" height="298" frameX="-6" frameY="0" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0002" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0003" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0004" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0005" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0006" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0007" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0008" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0009" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0010" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0011" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0012" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+	<SubTexture name="up ctails0013" x="1700" y="666" width="257" height="293" frameX="0" frameY="-7" frameWidth="257" frameHeight="300"/>
+</TextureAtlas>

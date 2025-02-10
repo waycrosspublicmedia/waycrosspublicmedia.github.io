@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PibbyTwilight.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Twi_Down instance 10000" x="0" y="0" width="533" height="524" frameX="-272" frameY="0" frameWidth="905" frameHeight="623"/>
+	<SubTexture name="Twi_Down instance 10001" x="583" y="0" width="809" height="438" frameX="-96" frameY="-101" frameWidth="905" frameHeight="623"/>
+	<SubTexture name="Twi_Down instance 10002" x="1442" y="0" width="901" height="429" frameX="0" frameY="-105" frameWidth="905" frameHeight="623"/>
+	<SubTexture name="Twi_Down instance 10003" x="2393" y="0" width="882" height="440" frameX="-4" frameY="-96" frameWidth="905" frameHeight="623"/>
+	<SubTexture name="Twi_Down instance 10004" x="3325" y="0" width="775" height="525" frameX="-106" frameY="-98" frameWidth="905" frameHeight="623"/>
+	<SubTexture name="Twi_Down instance 10005" x="4150" y="0" width="757" height="522" frameX="-124" frameY="-100" frameWidth="905" frameHeight="623"/>
+	<SubTexture name="Twi_Idle instance 10000" x="4957" y="0" width="575" height="526" frameX="-2" frameY="-1" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10001" x="5582" y="0" width="575" height="527" frameX="-1" frameY="0" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10002" x="6207" y="0" width="575" height="526" frameX="0" frameY="-1" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10003" x="6832" y="0" width="576" height="525" frameX="0" frameY="-2" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10004" x="7458" y="0" width="576" height="523" frameX="-1" frameY="-4" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10005" x="0" y="577" width="576" height="520" frameX="-2" frameY="-7" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10006" x="626" y="577" width="578" height="516" frameX="-3" frameY="-11" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10007" x="1254" y="577" width="578" height="513" frameX="-4" frameY="-14" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10008" x="1882" y="577" width="580" height="509" frameX="-6" frameY="-18" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10009" x="2512" y="577" width="581" height="505" frameX="-9" frameY="-22" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10010" x="3143" y="577" width="581" height="501" frameX="-13" frameY="-26" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10011" x="3774" y="577" width="582" height="497" frameX="-16" frameY="-30" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10012" x="4406" y="577" width="580" height="495" frameX="-20" frameY="-32" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10013" x="5036" y="577" width="578" height="494" frameX="-24" frameY="-33" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10014" x="5664" y="577" width="576" height="494" frameX="-27" frameY="-33" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10015" x="6290" y="577" width="574" height="494" frameX="-29" frameY="-33" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10016" x="6914" y="577" width="572" height="497" frameX="-30" frameY="-30" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10017" x="7536" y="577" width="570" height="500" frameX="-29" frameY="-27" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10018" x="0" y="1147" width="569" height="505" frameX="-27" frameY="-22" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10019" x="619" y="1147" width="570" height="511" frameX="-21" frameY="-16" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10020" x="1239" y="1147" width="571" height="517" frameX="-15" frameY="-10" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10021" x="1860" y="1147" width="571" height="521" frameX="-11" frameY="-6" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Idle instance 10022" x="2481" y="1147" width="573" height="525" frameX="-6" frameY="-2" frameWidth="603" frameHeight="527"/>
+	<SubTexture name="Twi_Left instance 10000" x="3104" y="1147" width="468" height="465" frameX="-9" frameY="-64" frameWidth="478" frameHeight="529"/>
+	<SubTexture name="Twi_Left instance 10001" x="3622" y="1147" width="470" height="506" frameX="-8" frameY="-13" frameWidth="478" frameHeight="529"/>
+	<SubTexture name="Twi_Left instance 10002" x="4142" y="1147" width="475" height="517" frameX="-3" frameY="-2" frameWidth="478" frameHeight="529"/>
+	<SubTexture name="Twi_Left instance 10003" x="4667" y="1147" width="478" height="519" frameX="0" frameY="0" frameWidth="478" frameHeight="529"/>
+	<SubTexture name="Twi_Left instance 10004" x="5195" y="1147" width="478" height="518" frameX="0" frameY="-1" frameWidth="478" frameHeight="529"/>
+	<SubTexture name="Twi_Left instance 10005" x="5723" y="1147" width="476" height="518" frameX="-2" frameY="-1" frameWidth="478" frameHeight="529"/>
+	<SubTexture name="Twi_Right instance 10000" x="6249" y="1147" width="691" height="512" frameX="0" frameY="-54" frameWidth="751" frameHeight="566"/>
+	<SubTexture name="Twi_Right instance 10001" x="6990" y="1147" width="707" height="555" frameX="-44" frameY="-11" frameWidth="751" frameHeight="566"/>
+	<SubTexture name="Twi_Right instance 10002" x="0" y="1752" width="685" height="564" frameX="-47" frameY="-2" frameWidth="751" frameHeight="566"/>
+	<SubTexture name="Twi_Right instance 10003" x="735" y="1752" width="682" height="566" frameX="-50" frameY="0" frameWidth="751" frameHeight="566"/>
+	<SubTexture name="Twi_Right instance 10004" x="1467" y="1752" width="685" height="566" frameX="-48" frameY="0" frameWidth="751" frameHeight="566"/>
+	<SubTexture name="Twi_Right instance 10005" x="2202" y="1752" width="677" height="564" frameX="-48" frameY="-2" frameWidth="751" frameHeight="566"/>
+	<SubTexture name="Twi_Up instance 10000" x="2929" y="1752" width="585" height="490" frameX="0" frameY="-160" frameWidth="585" frameHeight="684"/>
+	<SubTexture name="Twi_Up instance 10001" x="3564" y="1752" width="481" height="684" frameX="-87" frameY="0" frameWidth="585" frameHeight="684"/>
+	<SubTexture name="Twi_Up instance 10002" x="4095" y="1752" width="519" height="607" frameX="-46" frameY="-55" frameWidth="585" frameHeight="684"/>
+	<SubTexture name="Twi_Up instance 10003" x="4664" y="1752" width="523" height="580" frameX="-40" frameY="-74" frameWidth="585" frameHeight="684"/>
+	<SubTexture name="Twi_Up instance 10004" x="5237" y="1752" width="523" height="582" frameX="-40" frameY="-73" frameWidth="585" frameHeight="684"/>
+	<SubTexture name="Twi_Up instance 10005" x="5810" y="1752" width="523" height="589" frameX="-41" frameY="-68" frameWidth="585" frameHeight="684"/>
+</TextureAtlas>
