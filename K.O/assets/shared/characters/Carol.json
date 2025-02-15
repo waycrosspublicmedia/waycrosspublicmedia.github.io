@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				226,
+				428
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				6,
+				8,
+				9,
+				10
+			],
+			"name": "idle instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				225,
+				428
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				6,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				225,
+				428
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				6,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				226,
+				428
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				6,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				225,
+				428
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				6,
+				8,
+				9,
+				10
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/youngercarol_spritesheet",
+	"position": [
+		-110,
+		680
+	],
+	"healthicon": "carol",
+	"flip_x": false,
+	"healthbar_colors": [
+		228,
+		124,
+		85
+	],
+	"camera_position": [
+		-70,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

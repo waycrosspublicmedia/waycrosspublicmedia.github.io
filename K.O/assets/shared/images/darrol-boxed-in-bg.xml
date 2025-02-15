@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="darrol-boxed-in-bg.png" width="6587" height="2206">
+	<SubTexture name="idle0000" x="2812" y="1" width="221" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="firsttease0000" x="1" y="1" width="250.5" height="2203.5" frameX="-0" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="firsttease0002" x="253" y="1" width="249.5" height="2203.5" frameX="-0" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="leftworried0000" x="504" y="1" width="234.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="leftworried0001" x="740" y="1" width="234.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="normalspeak0000" x="976" y="1" width="234" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="normalspeak0001" x="1211.5" y="1" width="234" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="worried0000" x="1447" y="1" width="234" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="leftworried0002" x="1682.5" y="1" width="227" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="normalspeak0002" x="1911" y="1" width="225.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="worried0002" x="2138" y="1" width="225" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="secondtease0002" x="2364.5" y="1" width="222.5" height="2203.5" frameX="-27" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="secondtease0000" x="2588.5" y="1" width="222" height="2203.5" frameX="-27" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="blinking_idle0000" x="2812" y="1" width="221" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="open_eye_idle0000" x="3034.5" y="1" width="221" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="open_eye_idle0001" x="3257" y="1" width="221" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="blinking_idle0002" x="3479.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="blinking_idle0003" x="3701.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="blinking_idle0004" x="3923.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="blinking_idle0006" x="4145.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="blinking_idle0007" x="4367.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="idle0004" x="4589.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="leftworried0004" x="4811.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="open_eye_idle0002" x="5033.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="open_eye_idle0003" x="5255.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="open_eye_idle0004" x="5477.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="open_eye_idle0005" x="5699.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="open_eye_idle0006" x="5921.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="open_eye_idle0007" x="6143.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="worried0004" x="6365.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="blinking_idle0001" x="2812" y="1" width="221" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="idle0001" x="2812" y="1" width="221" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="idle0002" x="3479.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="idle0003" x="3479.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="blinking_idle0005" x="3923.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="idle0006" x="4367.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="idle0007" x="4367.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="normalspeak0004" x="4367.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="normalspeak0005" x="4367.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="firsttease0001" x="1" y="1" width="250.5" height="2203.5" frameX="-0" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="firsttease0003" x="253" y="1" width="249.5" height="2203.5" frameX="-0" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="idle0005" x="4589.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="leftworried0003" x="1682.5" y="1" width="227" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="leftworried0005" x="4811.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="normalspeak0003" x="1911" y="1" width="225.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="secondtease0001" x="2588.5" y="1" width="222" height="2203.5" frameX="-27" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="secondtease0003" x="2364.5" y="1" width="222.5" height="2203.5" frameX="-27" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="worried0001" x="1447" y="1" width="234" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="worried0003" x="2138" y="1" width="225" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+	<SubTexture name="worried0005" x="6365.5" y="1" width="220.5" height="2203.5" frameX="-29" frameY="-0" frameWidth="268.5" frameHeight="2212.5"/>
+</TextureAtlas>

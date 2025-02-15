@@ -1,0 +1,163 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				6,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-4
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up_miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				234
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right_miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-161,
+				231
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left_miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				293,
+				-161
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down_miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				6,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				6,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				6,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instance 1",
+			"indices": [
+				1,
+				2,
+				3,
+				6,
+				8,
+				9,
+				10
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/babyko_spritesheet",
+	"position": [
+		-180,
+		170
+	],
+	"healthicon": "baby",
+	"flip_x": true,
+	"healthbar_colors": [
+		217,
+		43,
+		45
+	],
+	"camera_position": [
+		100,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,74 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-12,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deathLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 55,
+			"name": "deathConfirm",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"offsets": [
+				9,
+				0
+			],
+			"indices": [],
+			"fps": 50,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "firstDeath"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deadboyfriend",
+	"position": [
+		-60,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rms.png">
+<SubTexture name="down0000" x="3520" y="1407" width="463" height="363" frameX="-102" frameY="-396" frameWidth="800" frameHeight="800" />
+<SubTexture name="down0001" x="3520" y="1038" width="460" height="369" frameX="-101" frameY="-390" frameWidth="800" frameHeight="800" />
+<SubTexture name="left0000" x="3076" y="0" width="444" height="527" frameX="-183" frameY="-231" frameWidth="800" frameHeight="800" />
+<SubTexture name="left0001" x="2328" y="2504" width="444" height="531" frameX="-190" frameY="-227" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0000" x="0" y="1358" width="314" height="578" frameX="-258" frameY="-181" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0001" x="2152" y="1936" width="315" height="561" frameX="-258" frameY="-198" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0002" x="1378" y="1936" width="315" height="564" frameX="-258" frameY="-195" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0003" x="2233" y="570" width="315" height="567" frameX="-258" frameY="-192" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0004" x="1392" y="1358" width="315" height="572" frameX="-258" frameY="-187" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0005" x="314" y="1358" width="315" height="575" frameX="-258" frameY="-184" frameWidth="800" frameHeight="800" />
+<SubTexture name="right0000" x="3520" y="521" width="658" height="517" frameX="-117" frameY="-242" frameWidth="800" frameHeight="800" />
+<SubTexture name="right0001" x="3520" y="0" width="660" height="521" frameX="-108" frameY="-238" frameWidth="800" frameHeight="800" />
+<SubTexture name="up0000" x="1525" y="608" width="299" height="586" frameX="-255" frameY="-172" frameWidth="800" frameHeight="800" />
+<SubTexture name="up0001" x="1935" y="0" width="298" height="583" frameX="-256" frameY="-175" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionIN0000" x="1707" y="1358" width="309" height="572" frameX="-268" frameY="-187" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionIN0001" x="2233" y="1137" width="321" height="566" frameX="-268" frameY="-193" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionIN0002" x="2685" y="1679" width="290" height="558" frameX="-268" frameY="-201" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionIN0003" x="1935" y="583" width="276" height="577" frameX="-246" frameY="-182" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionIN0004" x="2685" y="561" width="340" height="559" frameX="-210" frameY="-201" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionIN0005" x="0" y="1936" width="468" height="568" frameX="-165" frameY="-191" frameWidth="800" frameHeight="800" />
+<SubTexture name="altLEFT0000" x="917" y="2504" width="392" height="556" frameX="-173" frameY="-204" frameWidth="800" frameHeight="800" />
+<SubTexture name="altLEFT0001" x="2685" y="0" width="391" height="561" frameX="-172" frameY="-199" frameWidth="800" frameHeight="800" />
+<SubTexture name="altIDLE0000" x="2233" y="0" width="452" height="570" frameX="-171" frameY="-189" frameWidth="800" frameHeight="800" />
+<SubTexture name="altIDLE0001" x="458" y="2504" width="459" height="557" frameX="-171" frameY="-202" frameWidth="800" frameHeight="800" />
+<SubTexture name="altIDLE0002" x="0" y="2504" width="458" height="560" frameX="-171" frameY="-199" frameWidth="800" frameHeight="800" />
+<SubTexture name="altIDLE0003" x="1693" y="1936" width="459" height="563" frameX="-170" frameY="-196" frameWidth="800" frameHeight="800" />
+<SubTexture name="altIDLE0004" x="922" y="1936" width="456" height="567" frameX="-171" frameY="-192" frameWidth="800" frameHeight="800" />
+<SubTexture name="altIDLE0005" x="468" y="1936" width="454" height="568" frameX="-171" frameY="-191" frameWidth="800" frameHeight="800" />
+<SubTexture name="altRIGHT0000" x="629" y="1358" width="381" height="575" frameX="-239" frameY="-184" frameWidth="800" frameHeight="800" />
+<SubTexture name="altRIGHT0001" x="1010" y="1358" width="382" height="573" frameX="-240" frameY="-186" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0000" x="2685" y="1120" width="355" height="559" frameX="-218" frameY="-201" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0001" x="1309" y="2504" width="355" height="554" frameX="-206" frameY="-206" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0002" x="2006" y="2504" width="322" height="543" frameX="-199" frameY="-217" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0003" x="1664" y="2504" width="342" height="549" frameX="-171" frameY="-211" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0004" x="1098" y="697" width="389" height="621" frameX="-141" frameY="-138" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0005" x="1127" y="0" width="398" height="661" frameX="-119" frameY="-98" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0006" x="0" y="697" width="412" height="661" frameX="-107" frameY="-98" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0007" x="413" y="0" width="419" height="688" frameX="-102" frameY="-71" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0008" x="0" y="0" width="413" height="697" frameX="-107" frameY="-62" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0009" x="1525" y="0" width="410" height="608" frameX="-102" frameY="-151" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0010" x="718" y="697" width="380" height="633" frameX="-138" frameY="-126" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0011" x="412" y="697" width="306" height="659" frameX="-208" frameY="-100" frameWidth="800" frameHeight="800" />
+<SubTexture name="transitionOUT0012" x="832" y="0" width="295" height="672" frameX="-243" frameY="-87" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

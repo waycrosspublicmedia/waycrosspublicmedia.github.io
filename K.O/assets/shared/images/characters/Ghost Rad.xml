@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Ghost Rad.png" width="557" height="3542">
+	<SubTexture name="down0000" x="1.4" y="1.4" width="554.4" height="400.4" frameX="-5.6" frameY="-131.6" frameWidth="564.1999999999999" frameHeight="560"/>
+	<SubTexture name="down0001" x="1.4" y="403.9" width="553.6999999999999" height="402.5" frameX="-4.8999999999999995" frameY="-129.5" frameWidth="564.1999999999999" frameHeight="560"/>
+	<SubTexture name="left0000" x="1.4" y="2067.1" width="532" height="418.59999999999997" frameX="-11.899999999999999" frameY="-113.39999999999999" frameWidth="560" frameHeight="560"/>
+	<SubTexture name="left0001" x="1.4" y="1229.1999999999998" width="536.9" height="430.5" frameX="-9.799999999999999" frameY="-101.5" frameWidth="560" frameHeight="560"/>
+	<SubTexture name="right0000" x="1.4" y="1661.8" width="534.1" height="403.2" frameX="-11.2" frameY="-128.79999999999998" frameWidth="560" frameHeight="560"/>
+	<SubTexture name="right0001" x="1.4" y="808.5" width="552.3" height="418.59999999999997" frameX="-2.8" frameY="-113.39999999999999" frameWidth="560" frameHeight="560"/>
+	<SubTexture name="up0000" x="1.4" y="2487.7999999999997" width="500.49999999999994" height="530.6" frameX="-9.799999999999999" frameY="-1.4" frameWidth="560" frameHeight="560"/>
+	<SubTexture name="up0001" x="1.4" y="3020.5" width="508.2" height="520.1" frameX="-6.3" frameY="-11.899999999999999" frameWidth="560" frameHeight="560"/>
+</TextureAtlas>

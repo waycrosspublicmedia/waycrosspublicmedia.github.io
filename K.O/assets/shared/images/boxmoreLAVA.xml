@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boxmoreLAVA.png">
+<SubTexture name="anim0000" x="0" y="0" width="1858" height="1048" frameX="-702" frameY="0" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="anim0001" x="1858" y="0" width="1858" height="1048" frameX="-702" frameY="0" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="anim0002" x="0" y="1048" width="1858" height="1048" frameX="-702" frameY="0" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="anim0003" x="1858" y="1048" width="1858" height="1048" frameX="-702" frameY="0" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="anim0004" x="0" y="2096" width="1858" height="1048" frameX="-702" frameY="0" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="anim0005" x="1858" y="2096" width="1858" height="1048" frameX="-702" frameY="0" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="anim0006" x="3716" y="0" width="1858" height="1048" frameX="-702" frameY="0" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="enid-stand.png">
+<SubTexture name="down0000" x="939" y="1292" width="410" height="501" frameX="-227" frameY="-274" frameWidth="800" frameHeight="800" />
+<SubTexture name="down0001" x="1560" y="575" width="410" height="505" frameX="-227" frameY="-269" frameWidth="800" frameHeight="800" />
+<SubTexture name="left0000" x="471" y="1292" width="468" height="541" frameX="-76" frameY="-230" frameWidth="800" frameHeight="800" />
+<SubTexture name="left0001" x="0" y="1292" width="471" height="543" frameX="-73" frameY="-227" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0000" x="596" y="0" width="322" height="621" frameX="-227" frameY="-149" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0001" x="638" y="686" width="319" height="596" frameX="-226" frameY="-175" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0002" x="319" y="686" width="319" height="600" frameX="-226" frameY="-171" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0003" x="0" y="686" width="319" height="606" frameX="-226" frameY="-165" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0004" x="1240" y="0" width="320" height="613" frameX="-226" frameY="-158" frameWidth="800" frameHeight="800" />
+<SubTexture name="idle0005" x="918" y="0" width="322" height="617" frameX="-226" frameY="-154" frameWidth="800" frameHeight="800" />
+<SubTexture name="right0000" x="1560" y="0" width="422" height="575" frameX="-227" frameY="-199" frameWidth="800" frameHeight="800" />
+<SubTexture name="right0001" x="957" y="686" width="421" height="576" frameX="-227" frameY="-198" frameWidth="800" frameHeight="800" />
+<SubTexture name="up0000" x="0" y="0" width="295" height="686" frameX="-239" frameY="-84" frameWidth="800" frameHeight="800" />
+<SubTexture name="up0001" x="295" y="0" width="301" height="676" frameX="-232" frameY="-94" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="grabBeam.png">
+<SubTexture name="anim0000" x="155" y="0" width="155" height="154" frameX="-1" frameY="0" frameWidth="150" frameHeight="150" />
+<SubTexture name="anim0001" x="0" y="0" width="155" height="157" frameX="-3" frameY="0" frameWidth="150" frameHeight="150" />
+<SubTexture name="anim0002" x="310" y="0" width="156" height="154" frameX="-2" frameY="-5" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

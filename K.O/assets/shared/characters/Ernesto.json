@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				226,
+				428
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				300,
+				435
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				380,
+				442
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				284,
+				549
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				326,
+				339
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ernesto",
+	"position": [
+		90,
+		200
+	],
+	"healthicon": "ernesto",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		71,
+		127
+	],
+	"camera_position": [
+		-90,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

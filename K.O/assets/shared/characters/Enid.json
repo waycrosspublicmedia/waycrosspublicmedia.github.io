@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				226,
+				428
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle instancia 1",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				241,
+				417
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left instancia 1"
+		},
+		{
+			"offsets": [
+				215,
+				426
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right instancia 1"
+		},
+		{
+			"offsets": [
+				239,
+				448
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up instancia 1"
+		},
+		{
+			"offsets": [
+				236,
+				423
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Enid",
+	"position": [
+		550,
+		430
+	],
+	"healthicon": "enid",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		53,
+		158
+	],
+	"camera_position": [
+		-130,
+		-380
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

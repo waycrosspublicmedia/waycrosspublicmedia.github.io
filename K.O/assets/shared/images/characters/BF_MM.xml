@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF_MM.png">
+<SubTexture name="danceLeft0000" x="0" y="0" width="596" height="1203" frameX="-7" frameY="-10" frameWidth="600" frameHeight="1200" />
+<SubTexture name="danceLeft0001" x="596" y="0" width="596" height="1203" frameX="-7" frameY="-10" frameWidth="600" frameHeight="1200" />
+<SubTexture name="danceLeft0002" x="1192" y="0" width="596" height="1203" frameX="-7" frameY="-10" frameWidth="600" frameHeight="1200" />
+<SubTexture name="danceLeft0003" x="1788" y="0" width="596" height="1203" frameX="-7" frameY="-10" frameWidth="600" frameHeight="1200" />
+<SubTexture name="danceLeft0004" x="2384" y="0" width="596" height="1203" frameX="-7" frameY="-10" frameWidth="600" frameHeight="1200" />
+<SubTexture name="danceRight0000" x="0" y="1203" width="596" height="1203" frameX="-7" frameY="-10" frameWidth="600" frameHeight="1200" />
+<SubTexture name="danceRight0001" x="596" y="1203" width="596" height="1203" frameX="-7" frameY="-10" frameWidth="600" frameHeight="1200" />
+<SubTexture name="danceRight0002" x="1192" y="1203" width="596" height="1203" frameX="-7" frameY="-10" frameWidth="600" frameHeight="1200" />
+<SubTexture name="danceRight0003" x="1788" y="1203" width="596" height="1203" frameX="-7" frameY="-10" frameWidth="600" frameHeight="1200" />
+<SubTexture name="danceRight0004" x="2384" y="1203" width="596" height="1203" frameX="-7" frameY="-10" frameWidth="600" frameHeight="1200" />
+</TextureAtlas>

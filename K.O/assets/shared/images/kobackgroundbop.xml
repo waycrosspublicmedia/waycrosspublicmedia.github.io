@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="kobackgroundbop.png" width="280" height="1955">
+	<SubTexture name="idle0000" x="0.9" y="1576.3500000000001" width="272.7" height="378" frameX="-0" frameY="-17.55" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0008" x="0.9" y="0.9" width="278.1" height="395.55" frameX="-0" frameY="-0" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0006" x="0.9" y="397.8" width="277.2" height="395.1" frameX="-0" frameY="-0.45" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0004" x="0.9" y="794.25" width="273.6" height="391.5" frameX="-0" frameY="-4.05" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0002" x="0.9" y="1187.1000000000001" width="270" height="387.90000000000003" frameX="-0" frameY="-7.65" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0001" x="0.9" y="1576.3500000000001" width="272.7" height="378" frameX="-0" frameY="-17.55" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0003" x="0.9" y="1187.1000000000001" width="270" height="387.90000000000003" frameX="-0" frameY="-7.65" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0005" x="0.9" y="794.25" width="273.6" height="391.5" frameX="-0" frameY="-4.05" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0007" x="0.9" y="397.8" width="277.2" height="395.1" frameX="-0" frameY="-0.45" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0009" x="0.9" y="0.9" width="278.1" height="395.55" frameX="-0" frameY="-0" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0010" x="0.9" y="0.9" width="278.1" height="395.55" frameX="-0" frameY="-0" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0011" x="0.9" y="0.9" width="278.1" height="395.55" frameX="-0" frameY="-0" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0012" x="0.9" y="0.9" width="278.1" height="395.55" frameX="-0" frameY="-0" frameWidth="278.1" frameHeight="396"/>
+	<SubTexture name="idle0013" x="0.9" y="0.9" width="278.1" height="395.55" frameX="-0" frameY="-0" frameWidth="278.1" frameHeight="396"/>
+</TextureAtlas>
