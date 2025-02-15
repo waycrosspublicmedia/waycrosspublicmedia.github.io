@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				122
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kb up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				-153
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kb down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-226,
+				-78
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kb right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				214,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kb left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "kb idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/QT_assets/KB",
+	"position": [
+		-410,
+		-70
+	],
+	"healthicon": "kb",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		128,
+		128
+	],
+	"camera_position": [
+		-150,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

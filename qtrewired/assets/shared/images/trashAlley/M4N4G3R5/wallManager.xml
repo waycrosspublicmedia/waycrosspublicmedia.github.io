@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="wallManager.png" width="2673" height="5235">
+	<SubTexture name="wall-Normal" x="1" y="3928" width="2668" height="1306" frameX="-0" frameY="-0" frameWidth="2670" frameHeight="1309"/>
+	<SubTexture name="wall-KillerBot" x="1" y="1310" width="2671" height="1306" frameX="-0" frameY="-0" frameWidth="2674" frameHeight="1309"/>
+	<SubTexture name="wall-Blue" x="1" y="1" width="2671" height="1306" frameX="-0" frameY="-0" frameWidth="2674" frameHeight="1309"/>
+	<SubTexture name="wall-Red" x="1" y="2619" width="2671" height="1306" frameX="-0" frameY="-0" frameWidth="2674" frameHeight="1309"/>
+</TextureAtlas>
