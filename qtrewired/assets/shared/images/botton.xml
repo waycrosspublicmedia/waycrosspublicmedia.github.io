@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="botton.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="static0000" x="0" y="0" width="137" height="129" frameX="2" frameY="0" frameWidth="133" frameHeight="127"/>
+	<SubTexture name="press0000" x="137" y="0" width="135" height="127" frameX="2" frameY="2" frameWidth="131" frameHeight="125"/>
+</TextureAtlas>

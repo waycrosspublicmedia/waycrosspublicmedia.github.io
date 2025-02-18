@@ -1,0 +1,11 @@
+{
+	
+	"image": "QT",
+	"position": [
+		100,
+		70
+	],
+	"scale": 0.7,
+	"idle_anim": "qt_idle",
+	"confirm_anim": "qt_hey"
+}

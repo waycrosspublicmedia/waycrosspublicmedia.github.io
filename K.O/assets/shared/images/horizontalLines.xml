@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="horizontalLines.png" width="1284" height="2051">
+	<SubTexture name="anim0001" x="2" y="2" width="1280" height="685" frameX="-0" frameY="-15" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="anim0002" x="2" y="690" width="1280" height="678" frameX="-0" frameY="-22" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="anim0003" x="2" y="1371" width="1280" height="678" frameX="-0" frameY="-22" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

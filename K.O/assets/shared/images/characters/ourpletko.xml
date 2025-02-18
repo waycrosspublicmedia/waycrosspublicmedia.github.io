@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="ourpletko.png" width="3386" height="3513">
+	<SubTexture name="tko idle0000" x="1234" y="3106" width="395" height="405" rotated="true" frameX="-278" frameY="-154" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missdown0001" x="2" y="2" width="611" height="329" frameX="-200" frameY="-232" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missleft0001" x="2" y="334" width="605" height="443" frameX="-127" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missleft0003" x="616" y="2" width="443" height="603" rotated="true" frameX="-134" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missup0003" x="2" y="780" width="597" height="516" frameX="-251" frameY="-42" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missdown0003" x="610" y="608" width="348" height="594" rotated="true" frameX="-209" frameY="-213" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko left0000" x="1062" y="2" width="427" height="589" rotated="true" frameX="-131" frameY="-126" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missup0001" x="961" y="608" width="523" height="589" rotated="true" frameX="-254" frameY="-37" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko down0000" x="2" y="1299" width="558" height="322" frameX="-236" frameY="-221" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko left0002" x="602" y="1205" width="555" height="411" frameX="-156" frameY="-136" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0048" x="1492" y="2" width="232" height="540" rotated="true" frameX="-177" frameY="-330" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0049" x="1492" y="545" width="232" height="540" rotated="true" frameX="-177" frameY="-330" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0050" x="1160" y="1200" width="540" height="232" frameX="-177" frameY="-330" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0051" x="2" y="1624" width="540" height="232" frameX="-177" frameY="-330" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0045" x="563" y="1619" width="539" height="233" frameX="-177" frameY="-329" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0046" x="1105" y="1619" width="539" height="233" frameX="-177" frameY="-329" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0047" x="1727" y="2" width="233" height="539" rotated="true" frameX="-177" frameY="-329" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0043" x="1703" y="1088" width="234" height="538" rotated="true" frameX="-178" frameY="-328" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0044" x="1727" y="544" width="233" height="538" rotated="true" frameX="-178" frameY="-329" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0042" x="2" y="1859" width="537" height="234" frameX="-178" frameY="-328" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0040" x="545" y="1855" width="536" height="235" frameX="-179" frameY="-327" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0041" x="1084" y="1855" width="536" height="234" frameX="-179" frameY="-328" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0039" x="1963" y="2" width="236" height="535" rotated="true" frameX="-179" frameY="-326" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0038" x="1623" y="1855" width="533" height="237" frameX="-180" frameY="-325" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0037" x="1940" y="1085" width="237" height="531" rotated="true" frameX="-181" frameY="-324" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0036" x="2" y="2096" width="529" height="239" frameX="-182" frameY="-322" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0035" x="542" y="2093" width="525" height="241" frameX="-184" frameY="-320" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko down0002" x="2202" y="2" width="340" height="515" rotated="true" frameX="-258" frameY="-203" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0028" x="1963" y="540" width="450" height="503" rotated="true" frameX="-211" frameY="-108" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0030" x="2" y="2338" width="493" height="398" frameX="-210" frameY="-151" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0026" x="1084" y="2092" width="492" height="484" frameX="-234" frameY="-74" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0019" x="1579" y="2095" width="465" height="491" rotated="true" frameX="-246" frameY="-95" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0023" x="2047" y="2095" width="490" height="462" rotated="true" frameX="-243" frameY="-68" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0021" x="2545" y="2" width="465" height="487" frameX="-240" frameY="-71" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko up0000" x="498" y="2338" width="474" height="363" rotated="true" frameX="-328" frameY="-87" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missright0001" x="2545" y="492" width="461" height="410" frameX="-366" frameY="-154" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0033" x="2540" y="905" width="455" height="303" frameX="-245" frameY="-252" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missright0003" x="2540" y="1211" width="454" height="413" frameX="-365" frameY="-151" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko up0002" x="2159" y="1627" width="389" height="448" frameX="-314" frameY="-111" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko confused0000" x="2551" y="1627" width="426" height="371" rotated="true" frameX="-297" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0018" x="2551" y="2001" width="418" height="389" rotated="true" frameX="-238" frameY="-144" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0008" x="2" y="2739" width="417" height="371" rotated="true" frameX="-271" frameY="-136" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0010" x="422" y="2739" width="417" height="371" rotated="true" frameX="-288" frameY="-136" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0012" x="842" y="2704" width="417" height="370" rotated="true" frameX="-280" frameY="-136" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0014" x="2540" y="2393" width="417" height="371" rotated="true" frameX="-282" frameY="-136" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0016" x="2047" y="2560" width="417" height="371" rotated="true" frameX="-281" frameY="-136" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0010" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0000" x="1636" y="2589" width="371" height="416" frameX="-253" frameY="-140" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0002" x="3013" y="2" width="371" height="416" frameX="-311" frameY="-140" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0002" x="2998" y="905" width="382" height="416" rotated="true" frameX="-270" frameY="-167" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0024" x="3013" y="421" width="371" height="416" frameX="-298" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0032" x="2467" y="2767" width="413" height="336" frameX="-259" frameY="-215" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0008" x="2960" y="2393" width="413" height="371" rotated="true" frameX="-296" frameY="-137" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0006" x="2972" y="2001" width="410" height="378" rotated="true" frameX="-291" frameY="-140" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko right0000" x="2" y="3113" width="407" height="398" rotated="true" frameX="-379" frameY="-149" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko right0002" x="2997" y="1324" width="382" height="407" frameX="-382" frameY="-148" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0017" x="842" y="3106" width="389" height="405" frameX="-271" frameY="-153" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0004" x="1632" y="3106" width="385" height="402" rotated="true" frameX="-277" frameY="-163" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko confused0001" x="2551" y="1627" width="426" height="371" rotated="true" frameX="-297" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko confused0002" x="2551" y="1627" width="426" height="371" rotated="true" frameX="-297" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko confused0003" x="2551" y="1627" width="426" height="371" rotated="true" frameX="-297" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko confused0004" x="2551" y="1627" width="426" height="371" rotated="true" frameX="-297" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko confused0005" x="2551" y="1627" width="426" height="371" rotated="true" frameX="-297" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko confused0006" x="2551" y="1627" width="426" height="371" rotated="true" frameX="-297" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko confused0007" x="2551" y="1627" width="426" height="371" rotated="true" frameX="-297" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko confused0008" x="2551" y="1627" width="426" height="371" rotated="true" frameX="-297" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko confused0009" x="2551" y="1627" width="426" height="371" rotated="true" frameX="-297" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko down0001" x="2" y="1299" width="558" height="322" frameX="-236" frameY="-221" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missdown0000" x="2" y="1299" width="558" height="322" frameX="-236" frameY="-221" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko down0003" x="2202" y="2" width="340" height="515" rotated="true" frameX="-258" frameY="-203" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missdown0002" x="2" y="2" width="611" height="329" frameX="-200" frameY="-232" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missdown0004" x="610" y="608" width="348" height="594" rotated="true" frameX="-209" frameY="-213" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0001" x="1636" y="2589" width="371" height="416" frameX="-253" frameY="-140" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0004" x="1636" y="2589" width="371" height="416" frameX="-253" frameY="-140" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0005" x="1636" y="2589" width="371" height="416" frameX="-253" frameY="-140" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0003" x="3013" y="2" width="371" height="416" frameX="-311" frameY="-140" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0006" x="3013" y="2" width="371" height="416" frameX="-311" frameY="-140" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0007" x="3013" y="2" width="371" height="416" frameX="-311" frameY="-140" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0009" x="2" y="2739" width="417" height="371" rotated="true" frameX="-271" frameY="-136" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0011" x="422" y="2739" width="417" height="371" rotated="true" frameX="-288" frameY="-136" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0013" x="842" y="2704" width="417" height="370" rotated="true" frameX="-280" frameY="-136" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0015" x="2540" y="2393" width="417" height="371" rotated="true" frameX="-282" frameY="-136" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0020" x="1579" y="2095" width="465" height="491" rotated="true" frameX="-246" frameY="-95" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0022" x="2545" y="2" width="465" height="487" frameX="-240" frameY="-71" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0024" x="2047" y="2095" width="490" height="462" rotated="true" frameX="-243" frameY="-68" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0025" x="2047" y="2095" width="490" height="462" rotated="true" frameX="-243" frameY="-68" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0027" x="1084" y="2092" width="492" height="484" frameX="-234" frameY="-74" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0029" x="1963" y="540" width="450" height="503" rotated="true" frameX="-211" frameY="-108" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0031" x="2" y="2338" width="493" height="398" frameX="-210" frameY="-151" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko hit0034" x="2540" y="905" width="455" height="303" frameX="-245" frameY="-252" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0001" x="1234" y="3106" width="395" height="405" rotated="true" frameX="-278" frameY="-154" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0003" x="2998" y="905" width="382" height="416" rotated="true" frameX="-270" frameY="-167" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0005" x="1632" y="3106" width="385" height="402" rotated="true" frameX="-277" frameY="-163" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0007" x="2972" y="2001" width="410" height="378" rotated="true" frameX="-291" frameY="-140" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0009" x="2960" y="2393" width="413" height="371" rotated="true" frameX="-296" frameY="-137" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0011" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0012" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0013" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0014" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0015" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0016" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0017" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0018" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0019" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0020" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0021" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0022" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko idle0023" x="1262" y="2589" width="371" height="417" frameX="-296" frameY="-133" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko left0001" x="1062" y="2" width="427" height="589" rotated="true" frameX="-131" frameY="-126" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missleft0000" x="1062" y="2" width="427" height="589" rotated="true" frameX="-131" frameY="-126" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko left0003" x="602" y="1205" width="555" height="411" frameX="-156" frameY="-136" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missleft0002" x="2" y="334" width="605" height="443" frameX="-127" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missleft0004" x="616" y="2" width="443" height="603" rotated="true" frameX="-134" frameY="-123" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko right0001" x="2" y="3113" width="407" height="398" rotated="true" frameX="-379" frameY="-149" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missright0000" x="2" y="3113" width="407" height="398" rotated="true" frameX="-379" frameY="-149" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko right0003" x="2997" y="1324" width="382" height="407" frameX="-382" frameY="-148" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missright0002" x="2545" y="492" width="461" height="410" frameX="-366" frameY="-154" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missright0004" x="2540" y="1211" width="454" height="413" frameX="-365" frameY="-151" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko up0001" x="498" y="2338" width="474" height="363" rotated="true" frameX="-328" frameY="-87" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missup0000" x="498" y="2338" width="474" height="363" rotated="true" frameX="-328" frameY="-87" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko up0003" x="2159" y="1627" width="389" height="448" frameX="-314" frameY="-111" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missup0002" x="961" y="608" width="523" height="589" rotated="true" frameX="-254" frameY="-37" frameWidth="855" frameHeight="592"/>
+	<SubTexture name="tko missup0004" x="2" y="780" width="597" height="516" frameX="-251" frameY="-42" frameWidth="855" frameHeight="592"/>
+</TextureAtlas>

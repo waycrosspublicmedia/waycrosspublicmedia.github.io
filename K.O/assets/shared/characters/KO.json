@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				228,
+				588
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "idle instancia 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				341,
+				513
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instancia 1",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"offsets": [
+				233,
+				578
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "right instancia 1"
+		},
+		{
+			"offsets": [
+				366,
+				608
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "up instancia 1"
+		},
+		{
+			"offsets": [
+				354,
+				572
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "left instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KO",
+	"position": [
+		300,
+		923
+	],
+	"healthicon": "ko",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		39,
+		41
+	],
+	"camera_position": [
+		0,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

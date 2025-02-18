@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tv_lights_assets.png" width="5937" height="4731">
+	<SubTexture name="tv lights animated0000" x="1983" y="592" width="983" height="590" frameX="-28" frameY="-29" frameWidth="1043" frameHeight="645" />
+	<SubTexture name="tv lights animated0001" x="0" y="595" width="990" height="590" frameX="-25" frameY="-32" frameWidth="1043" frameHeight="645" />
+	<SubTexture name="tv lights animated0002" x="992" y="595" width="990" height="590" frameX="-25" frameY="-32" frameWidth="1043" frameHeight="645" />
+	<SubTexture name="tv lights animated0003" x="1984" y="0" width="983" height="590" frameX="-28" frameY="-29" frameWidth="1043" frameHeight="645" />
+	<SubTexture name="tv lights animated0004" x="1983" y="1183" width="983" height="590" frameX="-28" frameY="-29" frameWidth="1043" frameHeight="645" />
+	<SubTexture name="tv lights animated0005" x="993" y="0" width="990" height="590" frameX="-25" frameY="-32" frameWidth="1043" frameHeight="645" />
+	<SubTexture name="tv lights animated0006" x="985" y="1187" width="983" height="586" frameX="-28" frameY="-32" frameWidth="1043" frameHeight="645" />
+	<SubTexture name="tv lights animated0007" x="0" y="1187" width="983" height="590" frameX="-28" frameY="-29" frameWidth="1043" frameHeight="645" />
+	<SubTexture name="tv lights animated0008" x="985" y="1775" width="983" height="590" frameX="-28" frameY="-29" frameWidth="1043" frameHeight="645" />
+	<SubTexture name="blue" x="0" y="0" width="991" height="593" frameX="-25" frameY="-29" frameWidth="1045" frameHeight="646" />
+	<SubTexture name="red" x="0" y="1778" width="978" height="580" frameX="-31" frameY="-35" frameWidth="1045" frameHeight="646" />
+</TextureAtlas>

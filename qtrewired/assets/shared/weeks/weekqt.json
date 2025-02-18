@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"blissful",
+			"qt",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"obliterated",
+			"qt",
+			[
+				255,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"storyName": "qt",
+	"weekName": "qtweek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

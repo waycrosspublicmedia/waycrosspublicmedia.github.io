@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "idle instancia 1"
+		},
+		{
+			"offsets": [
+				32,
+				47
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 22,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left instancia 1"
+		},
+		{
+			"offsets": [
+				-1,
+				-38
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 22,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down instancia 1"
+		},
+		{
+			"offsets": [
+				139,
+				160
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 22,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right instancia 1"
+		},
+		{
+			"offsets": [
+				0,
+				152
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 22,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boxman",
+	"position": [
+		-30,
+		-190
+	],
+	"healthicon": "boxman",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		140,
+		-190
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.9
+}

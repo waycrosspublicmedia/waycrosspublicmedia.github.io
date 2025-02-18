@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				-37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-52,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				20,
+				43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				120,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				90,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missleft"
+		},
+		{
+			"offsets": [
+				-69,
+				-26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				11,
+				-28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missdown"
+		},
+		{
+			"offsets": [
+				7,
+				43
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/okkoboyfriend",
+	"position": [
+		-140,
+		120
+	],
+	"healthicon": "icon-okkobf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		102,
+		203
+	],
+	"camera_position": [
+		-20,
+		90
+	],
+	"sing_duration": 5,
+	"scale": 0.5
+}

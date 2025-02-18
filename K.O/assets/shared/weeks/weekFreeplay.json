@@ -1,0 +1,76 @@
+{
+	"storyName": "Freeplay",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Framed",
+			"rms",
+			[
+				204,
+				20,
+				80
+			]
+		],
+		[
+			"Java Jokes",
+			"joe",
+			[
+				207,
+				198,
+				251
+			]
+		],
+		[
+			"Ourpley Figure",
+			"figure",
+			[
+				175,
+				102,
+				206
+			]
+		],
+		[
+			"Power Hungry",
+			"wishful",
+			[
+				175,
+				102,
+				206
+			]
+		],
+		[
+			"Fireball",
+			"fireball",
+			[
+				170,
+				53,
+				158
+			]
+		],
+		[
+			"Metal Mirror",
+			"k0",
+			[
+				26,
+				26,
+				113
+			]
+		]
+	],
+	"weekName": "!"
+}

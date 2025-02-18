@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Dj Fireball.png" width="701" height="4804">
+	<SubTexture name=" down0000" x="2" y="335" width="696" height="295" frameX="-45" frameY="-205" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" down0001" x="2" y="633" width="696" height="305" frameX="-45" frameY="-195" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" left0000" x="2" y="2870" width="696" height="336" frameX="-45" frameY="-164" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" left0001" x="2" y="3209" width="696" height="337" frameX="-45" frameY="-163" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" idle0000" x="2" y="941" width="696" height="326" frameX="-45" frameY="-174" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" idle0001" x="2" y="1270" width="696" height="310" frameX="-45" frameY="-190" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" idle0002" x="2" y="1583" width="696" height="314" frameX="-45" frameY="-186" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" idle0003" x="2" y="1900" width="696" height="317" frameX="-45" frameY="-183" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" idle0004" x="2" y="2220" width="696" height="321" frameX="-45" frameY="-179" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" idle0005" x="2" y="2544" width="696" height="323" frameX="-45" frameY="-177" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" right0000" x="2" y="3549" width="696" height="330" frameX="-45" frameY="-170" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" right0001" x="2" y="2" width="697" height="330" frameX="-44" frameY="-170" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" up0000" x="2" y="3882" width="696" height="461" frameX="-45" frameY="-39" frameWidth="800" frameHeight="800"/>
+	<SubTexture name=" up0001" x="2" y="4346" width="696" height="456" frameX="-45" frameY="-44" frameWidth="800" frameHeight="800"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+{
+	"storyName": "How Handy",
+	"difficulties": "Modchart, No Modchart",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Handy Dandy",
+			"dendy",
+			[
+				55,
+				161,
+				147
+			]
+		]
+	],
+	"weekName": "!"
+}

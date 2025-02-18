@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flipBeam.png">
+<SubTexture name="anim0000" x="457" y="0" width="455" height="154" frameX="-3" frameY="-5" frameWidth="450" frameHeight="150" />
+<SubTexture name="anim0001" x="0" y="0" width="457" height="156" frameX="-3" frameY="-4" frameWidth="450" frameHeight="150" />
+<SubTexture name="anim0002" x="0" y="156" width="456" height="155" frameX="-1" frameY="-3" frameWidth="450" frameHeight="150" />
+</TextureAtlas>

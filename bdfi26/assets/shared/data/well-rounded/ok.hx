@@ -1,0 +1,1 @@
+function onCreate() {game.showRating = game.showComboNum = game.grpNoteSplashes.visible = false;}
