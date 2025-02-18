@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "angry",
+			"expression": "smile",
+			"text": "I really want to spend time with you today!"
+		},
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "So you should really get here!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "... ..."
+		},
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "angry",
+			"expression": "sad",
+			"text": "EXCUSE ME, DON'T BE SALTY!"
+		},
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "angry",
+			"expression": "sad",
+			"text": "That was very unholy of you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "*sigh* You know what? Just get here, okay? I'll see you soon, I have some guests over."
+		}
+	]
+}

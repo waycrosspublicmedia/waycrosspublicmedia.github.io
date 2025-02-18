@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "angery",
+			"text": "..."
+		},
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "You finally came by..."
+		},
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "..."
+		},
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I'm sorry for the trouble, Ruv...But looks like you have to see me like this..."
+		},
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "..."
+		},
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "It's k."
+		},
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "It's my job to handle this kind of stuff too, anyway..."
+		}
+	]
+}

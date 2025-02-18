@@ -1,0 +1,12 @@
+{
+	"dialogue": [
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "devil",
+			"text": "But I won't."
+		}
+	]
+}

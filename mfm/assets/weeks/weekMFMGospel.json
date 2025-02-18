@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Gospel",
+			"sarvente-lucifer",
+			[
+				255,
+				73,
+				153
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Easy, Normal, Hard, Alt",
+	"weekCharacters": [
+		"",
+		"sickle",
+		""
+	],
+	"storyName": "Gospel",
+	"weekName": "weekMFMGospel",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "weekMFM",
+	"startUnlocked": true
+}

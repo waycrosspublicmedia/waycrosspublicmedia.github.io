@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "You've pushed quite a lot of buttons while I was away, huh?"
+		},
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Well you really should've just ran away or joined the church while you could."
+		},
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "But you decided to pull a struggle. So here we are."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bop bop bee pa?!"
+		},
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Name's Ruv by the way. But that is the last name you will probably be hearing after this."
+		},
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "I would be too tired to do these kind of stuff, but..."
+		},
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "angery",
+			"text": "...I have to do what I'm meant to do."
+		},
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "I'd say break a leg, but I might end up breaking yours literally, and I'm going to make this as painful as possible for you..."
+		},
+		{
+			"sound": "ruv_sound",
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "...and your little girlfriend."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "!!!"
+		}
+	]
+}
