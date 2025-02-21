@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "rigby_idle0"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "rigby_left0"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "rigby_down0"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "rigby_up0"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "rigby_right0"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "rigby_left0"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "rigby_down0"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "rigby_up0"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "rigby_right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/weeklyrigby",
+	"position": [
+		0,
+		110
+	],
+	"healthicon": "rigby",
+	"flip_x": true,
+	"healthbar_colors": [
+		93,
+		59,
+		39
+	],
+	"camera_position": [
+		-110,
+		380
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

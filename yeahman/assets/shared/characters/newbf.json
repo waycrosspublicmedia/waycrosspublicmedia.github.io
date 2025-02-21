@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				65,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idlebf"
+		},
+		{
+			"offsets": [
+				223,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leftbf"
+		},
+		{
+			"offsets": [
+				21,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "downbf"
+		},
+		{
+			"offsets": [
+				17,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upbf"
+		},
+		{
+			"offsets": [
+				21,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rightbf"
+		},
+		{
+			"offsets": [
+				218,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Leftmiss"
+		},
+		{
+			"offsets": [
+				26,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "downmiss"
+		},
+		{
+			"offsets": [
+				33,
+				68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "upmiss"
+		},
+		{
+			"offsets": [
+				23,
+				67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "rightmiss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bfyeahman",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		104,
+		198,
+		255
+	],
+	"camera_position": [
+		180,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="darei.png" width="5316" height="777" spritePadding="3" borderPadding="1">
+	<SubTexture name="down0000" x="498" y="1" width="476" height="688" frameX="-4" frameY="-5" frameWidth="495" frameHeight="688"/>
+	<SubTexture name="down0001" x="498" y="1" width="476" height="688" frameX="-4" frameY="-5" frameWidth="495" frameHeight="688"/>
+	<SubTexture name="down0002" x="1" y="1" width="494" height="687" frameX="0" frameY="0" frameWidth="495" frameHeight="688"/>
+	<SubTexture name="idle0000" x="1921" y="1" width="463" height="744" frameX="0" frameY="0" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="idle0001" x="1921" y="1" width="463" height="744" frameX="0" frameY="0" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="idle0002" x="1921" y="1" width="463" height="744" frameX="0" frameY="0" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="idle0003" x="1454" y="1" width="464" height="736" frameX="-2" frameY="-5" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="idle0004" x="1454" y="1" width="464" height="736" frameX="-2" frameY="-5" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="idle0005" x="1454" y="1" width="464" height="736" frameX="-2" frameY="-5" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="idle0006" x="2387" y="1" width="463" height="744" frameX="0" frameY="0" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="idle0007" x="2387" y="1" width="463" height="744" frameX="0" frameY="0" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="idle0008" x="2387" y="1" width="463" height="744" frameX="0" frameY="0" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="idle0009" x="1454" y="1" width="464" height="736" frameX="-2" frameY="-5" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="idle0010" x="1454" y="1" width="464" height="736" frameX="-2" frameY="-5" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="idle0011" x="1454" y="1" width="464" height="736" frameX="-2" frameY="-5" frameWidth="464" frameHeight="744"/>
+	<SubTexture name="left0000" x="977" y="1" width="474" height="732" frameX="0" frameY="-10" frameWidth="481" frameHeight="746"/>
+	<SubTexture name="left0001" x="977" y="1" width="474" height="732" frameX="0" frameY="-10" frameWidth="481" frameHeight="746"/>
+	<SubTexture name="left0002" x="2853" y="1" width="481" height="746" frameX="-2" frameY="0" frameWidth="481" frameHeight="746"/>
+	<SubTexture name="right0000" x="3830" y="1" width="509" height="756" frameX="0" frameY="0" frameWidth="509" frameHeight="756"/>
+	<SubTexture name="right0001" x="3830" y="1" width="509" height="756" frameX="0" frameY="0" frameWidth="509" frameHeight="756"/>
+	<SubTexture name="right0002" x="3337" y="1" width="490" height="751" frameX="-9" frameY="-6" frameWidth="509" frameHeight="756"/>
+	<SubTexture name="up0000" x="4833" y="1" width="482" height="775" frameX="-3" frameY="0" frameWidth="488" frameHeight="775"/>
+	<SubTexture name="up0001" x="4833" y="1" width="482" height="775" frameX="-3" frameY="0" frameWidth="488" frameHeight="775"/>
+	<SubTexture name="up0002" x="4342" y="1" width="488" height="772" frameX="0" frameY="-7" frameWidth="488" frameHeight="775"/>
+</TextureAtlas>

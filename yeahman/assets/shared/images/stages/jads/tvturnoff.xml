@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="tvturnoff.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Symbol 16 instance 10000" x="10" y="10" width="1667" height="1060"/>
+	<SubTexture name="Symbol 16 instance 10001" x="1677" y="10" width="1667" height="1060"/>
+	<SubTexture name="Symbol 16 instance 10002" x="3344" y="10" width="1667" height="1060"/>
+	<SubTexture name="Symbol 16 instance 10003" x="5011" y="10" width="1667" height="1060"/>
+	<SubTexture name="Symbol 16 instance 10004" x="10" y="1070" width="1667" height="1060"/>
+	<SubTexture name="Symbol 16 instance 10005" x="1677" y="1070" width="1667" height="1060"/>
+	<SubTexture name="Symbol 16 instance 10006" x="3344" y="1070" width="1667" height="1060"/>
+	<SubTexture name="Symbol 16 instance 10007" x="5011" y="1070" width="1667" height="1060"/>
+	<SubTexture name="Symbol 16 instance 10008" x="10" y="2130" width="1667" height="1060"/>
+</TextureAtlas>

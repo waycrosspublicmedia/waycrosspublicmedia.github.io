@@ -1,0 +1,24 @@
+{
+	"animations": [],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/empty",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jimmy",
+	"flip_x": false,
+	"healthbar_colors": [
+		90,
+		170,
+		189
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

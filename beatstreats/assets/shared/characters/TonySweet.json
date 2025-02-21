@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				359
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "tonysweet idle"
+		},
+		{
+			"offsets": [
+				123,
+				363
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tonysweet up"
+		},
+		{
+			"offsets": [
+				131,
+				348
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tonysweet down"
+		},
+		{
+			"offsets": [
+				211,
+				352
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tonysweet left"
+		},
+		{
+			"offsets": [
+				113,
+				358
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tonysweet right"
+		}
+	],
+	"vocals_file": "tonysweet",
+	"no_antialiasing": false,
+	"image": "characters/Tony Sweet",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tonysweet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		192,
+		187
+	],
+	"camera_position": [
+		100,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

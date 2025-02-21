@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titleEnter.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ENTER FREEZE0000" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0001" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0002" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0003" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0004" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0005" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0006" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0007" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0008" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0009" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0010" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0011" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0012" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0013" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0014" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0015" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0016" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0017" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0018" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER FREEZE0019" x="4" y="4" width="176" height="53"/>
+	<SubTexture name="ENTER IDLE0000" x="184" y="4" width="169" height="45"/>
+	<SubTexture name="ENTER PRESSED0000" x="4" y="61" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0001" x="4" y="61" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0002" x="196" y="61" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0003" x="196" y="61" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0004" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0005" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0006" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0007" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0008" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0009" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0010" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0011" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0012" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0013" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0014" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0015" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0016" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0017" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0018" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0019" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0020" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0021" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0022" x="4" y="130" width="188" height="65"/>
+	<SubTexture name="ENTER PRESSED0023" x="4" y="130" width="188" height="65"/>
+</TextureAtlas>

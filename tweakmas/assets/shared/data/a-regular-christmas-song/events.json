@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				7200,
+				[
+					[
+						"Regular Show Events",
+						"hud on",
+						""
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Regular Show Events",
+						"unlock cam",
+						""
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Regular Show Events",
+						"bye mord",
+						""
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Regular Show Events",
+						"switch scene",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.25"
+					]
+				]
+			],
+			[
+				166800,
+				[
+					[
+						"Regular Show Events",
+						"bye mord",
+						""
+					]
+				]
+			]
+		]
+	}
+}

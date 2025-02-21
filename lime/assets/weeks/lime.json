@@ -1,0 +1,59 @@
+{
+	"storyName": "Vs. Lime Impostor",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Lemon Lime",
+			"lime",
+			[
+				60,
+				255,
+				100
+			]
+		],
+		[
+			"Chlorophyll",
+			"lime",
+			[
+				60,
+				255,
+				100
+			]
+		],
+		[
+			"inflorescence",
+			"lime",
+			[
+				60,
+				255,
+				100
+			]
+		],
+		[
+			"Stargazer",
+			"lime",
+			[
+				60,
+				255,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Lime Impostor",
+	"hiddenUntilUnlocked": false
+}

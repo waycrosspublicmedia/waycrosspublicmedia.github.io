@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="vivi.png" width="789" height="8129" spritePadding="3" borderPadding="1">
+	<SubTexture name="ay0000" x="391" y="2298" width="379" height="748" frameX="-6" frameY="-15" frameWidth="397" frameHeight="769"/>
+	<SubTexture name="ay0001" x="391" y="2298" width="379" height="748" frameX="-6" frameY="-15" frameWidth="397" frameHeight="769"/>
+	<SubTexture name="ay0002" x="1" y="1544" width="387" height="751" frameX="-3" frameY="-5" frameWidth="397" frameHeight="769"/>
+	<SubTexture name="ay0003" x="1" y="1544" width="387" height="751" frameX="-3" frameY="-5" frameWidth="397" frameHeight="769"/>
+	<SubTexture name="ay0004" x="391" y="1544" width="387" height="751" frameX="-3" frameY="-5" frameWidth="397" frameHeight="769"/>
+	<SubTexture name="ay0005" x="391" y="1544" width="387" height="751" frameX="-3" frameY="-5" frameWidth="397" frameHeight="769"/>
+	<SubTexture name="ay0006" x="1" y="2298" width="387" height="751" frameX="-3" frameY="-5" frameWidth="397" frameHeight="769"/>
+	<SubTexture name="ay0007" x="1" y="2298" width="387" height="751" frameX="-3" frameY="-5" frameWidth="397" frameHeight="769"/>
+	<SubTexture name="ay0008" x="1" y="2298" width="387" height="751" frameX="-3" frameY="-5" frameWidth="397" frameHeight="769"/>
+	<SubTexture name="danceleft0000" x="1" y="4495" width="369" height="729" frameX="-17" frameY="-1" frameWidth="400" frameHeight="737"/>
+	<SubTexture name="danceleft0001" x="1" y="4495" width="369" height="729" frameX="-17" frameY="-1" frameWidth="400" frameHeight="737"/>
+	<SubTexture name="danceleft0002" x="1" y="3052" width="383" height="724" frameX="-10" frameY="-7" frameWidth="400" frameHeight="737"/>
+	<SubTexture name="danceleft0003" x="1" y="3052" width="383" height="724" frameX="-10" frameY="-7" frameWidth="400" frameHeight="737"/>
+	<SubTexture name="danceleft0004" x="1" y="5954" width="367" height="716" frameX="-16" frameY="-10" frameWidth="400" frameHeight="737"/>
+	<SubTexture name="danceleft0005" x="1" y="5954" width="367" height="716" frameX="-16" frameY="-10" frameWidth="400" frameHeight="737"/>
+	<SubTexture name="danceleft0006" x="1" y="3779" width="385" height="713" frameX="-4" frameY="-14" frameWidth="400" frameHeight="737"/>
+	<SubTexture name="danceleft0007" x="1" y="3779" width="385" height="713" frameX="-4" frameY="-14" frameWidth="400" frameHeight="737"/>
+	<SubTexture name="danceleft0008" x="1" y="3779" width="385" height="713" frameX="-4" frameY="-14" frameWidth="400" frameHeight="737"/>
+	<SubTexture name="danceleft0009" x="1" y="3779" width="385" height="713" frameX="-4" frameY="-14" frameWidth="400" frameHeight="737"/>
+	<SubTexture name="danceright0000" x="373" y="4495" width="369" height="729" frameX="-17" frameY="-1" frameWidth="400" frameHeight="739"/>
+	<SubTexture name="danceright0001" x="373" y="4495" width="369" height="729" frameX="-17" frameY="-1" frameWidth="400" frameHeight="739"/>
+	<SubTexture name="danceright0002" x="387" y="3052" width="383" height="724" frameX="-10" frameY="-7" frameWidth="400" frameHeight="739"/>
+	<SubTexture name="danceright0003" x="387" y="3052" width="383" height="724" frameX="-10" frameY="-7" frameWidth="400" frameHeight="739"/>
+	<SubTexture name="danceright0004" x="1" y="5227" width="367" height="724" frameX="-16" frameY="-10" frameWidth="400" frameHeight="739"/>
+	<SubTexture name="danceright0005" x="1" y="5227" width="367" height="724" frameX="-16" frameY="-10" frameWidth="400" frameHeight="739"/>
+	<SubTexture name="danceright0006" x="389" y="3779" width="385" height="713" frameX="-4" frameY="-14" frameWidth="400" frameHeight="739"/>
+	<SubTexture name="ha0000" x="371" y="5227" width="374" height="706" frameX="-3" frameY="-1" frameWidth="558" frameHeight="723"/>
+	<SubTexture name="ha0001" x="371" y="5227" width="374" height="706" frameX="-3" frameY="-1" frameWidth="558" frameHeight="723"/>
+	<SubTexture name="ha0002" x="371" y="5954" width="371" height="708" frameX="-8" frameY="-9" frameWidth="558" frameHeight="723"/>
+	<SubTexture name="ha0003" x="371" y="5954" width="371" height="708" frameX="-8" frameY="-9" frameWidth="558" frameHeight="723"/>
+	<SubTexture name="ha0004" x="1" y="6673" width="371" height="708" frameX="-8" frameY="-9" frameWidth="558" frameHeight="723"/>
+	<SubTexture name="ha0005" x="1" y="6673" width="371" height="708" frameX="-8" frameY="-9" frameWidth="558" frameHeight="723"/>
+	<SubTexture name="ha0006" x="375" y="6673" width="371" height="708" frameX="-8" frameY="-9" frameWidth="558" frameHeight="723"/>
+	<SubTexture name="ha0007" x="375" y="6673" width="371" height="708" frameX="-8" frameY="-9" frameWidth="558" frameHeight="723"/>
+	<SubTexture name="sigh0000" x="337" y="7384" width="333" height="735" frameX="-6" frameY="-6" frameWidth="345" frameHeight="750"/>
+	<SubTexture name="sigh0001" x="337" y="7384" width="333" height="735" frameX="-6" frameY="-6" frameWidth="345" frameHeight="750"/>
+	<SubTexture name="sigh0002" x="1" y="7384" width="333" height="744" frameX="-4" frameY="0" frameWidth="345" frameHeight="750"/>
+	<SubTexture name="sigh0003" x="1" y="7384" width="333" height="744" frameX="-4" frameY="0" frameWidth="345" frameHeight="750"/>
+	<SubTexture name="sigh0004" x="1" y="7384" width="333" height="744" frameX="-4" frameY="0" frameWidth="345" frameHeight="750"/>
+	<SubTexture name="sigh0005" x="1" y="7384" width="333" height="744" frameX="-4" frameY="0" frameWidth="345" frameHeight="750"/>
+	<SubTexture name="sigh0006" x="1" y="7384" width="333" height="744" frameX="-4" frameY="0" frameWidth="345" frameHeight="750"/>
+	<SubTexture name="sigh0007" x="1" y="7384" width="333" height="744" frameX="-4" frameY="0" frameWidth="345" frameHeight="750"/>
+	<SubTexture name="what0000" x="1" y="1" width="395" height="778" frameX="-3" frameY="-2" frameWidth="405" frameHeight="789"/>
+	<SubTexture name="what0001" x="1" y="1" width="395" height="778" frameX="-3" frameY="-2" frameWidth="405" frameHeight="789"/>
+	<SubTexture name="what0002" x="399" y="1" width="389" height="759" frameX="-5" frameY="-24" frameWidth="405" frameHeight="789"/>
+	<SubTexture name="what0003" x="399" y="1" width="389" height="759" frameX="-5" frameY="-24" frameWidth="405" frameHeight="789"/>
+	<SubTexture name="what0004" x="1" y="782" width="389" height="759" frameX="-5" frameY="-24" frameWidth="405" frameHeight="789"/>
+	<SubTexture name="what0005" x="1" y="782" width="389" height="759" frameX="-5" frameY="-24" frameWidth="405" frameHeight="789"/>
+	<SubTexture name="what0006" x="393" y="782" width="389" height="759" frameX="-5" frameY="-24" frameWidth="405" frameHeight="789"/>
+	<SubTexture name="what0007" x="393" y="782" width="389" height="759" frameX="-5" frameY="-24" frameWidth="405" frameHeight="789"/>
+	<SubTexture name="what0008" x="393" y="782" width="389" height="759" frameX="-5" frameY="-24" frameWidth="405" frameHeight="789"/>
+</TextureAtlas>

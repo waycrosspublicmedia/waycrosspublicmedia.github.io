@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="verb_bg.png">
+<SubTexture name="loop0000" x="0" y="0" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="540" />
+<SubTexture name="loop0001" x="960" y="0" width="960" height="540" frameX="0" frameY="0" frameWidth="960" frameHeight="540" />
+</TextureAtlas>

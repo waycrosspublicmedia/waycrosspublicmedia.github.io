@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jaicutscene2.png">
+<SubTexture name="thang0000" x="0.0" y="0.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0001" x="640.0" y="0.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0002" x="0.0" y="360.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0003" x="640.0" y="360.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0004" x="0.0" y="720.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0005" x="640.0" y="720.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0006" x="1280.0" y="0.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0007" x="1280.0" y="360.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0008" x="1280.0" y="720.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0009" x="0.0" y="1080.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0010" x="640.0" y="1080.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0011" x="1280.0" y="1080.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0012" x="0.0" y="1440.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0013" x="640.0" y="1440.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0014" x="1280.0" y="1440.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0015" x="1920.0" y="0.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0016" x="1920.0" y="360.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0017" x="1920.0" y="720.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0018" x="1920.0" y="1080.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0019" x="1920.0" y="1440.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0020" x="0.0" y="1800.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0021" x="640.0" y="1800.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0022" x="1280.0" y="1800.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0023" x="1920.0" y="1800.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0024" x="0.0" y="2160.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0025" x="640.0" y="2160.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0026" x="1280.0" y="2160.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0027" x="1920.0" y="2160.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0028" x="2560.0" y="0.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0029" x="2560.0" y="360.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0030" x="2560.0" y="720.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0031" x="2560.0" y="1080.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0032" x="2560.0" y="1440.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0033" x="2560.0" y="1800.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0034" x="2560.0" y="2160.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0035" x="0.0" y="2520.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0036" x="640.0" y="2520.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0037" x="1280.0" y="2520.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0038" x="1920.0" y="2520.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+<SubTexture name="thang0039" x="2560.0" y="2520.0" width="640.0" height="360.0" frameX="0.0" frameY="0.0" frameWidth="640.0" frameHeight="360.0" />
+</TextureAtlas>

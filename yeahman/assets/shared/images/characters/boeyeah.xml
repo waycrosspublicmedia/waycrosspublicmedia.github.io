@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boeyeah.png">
+<SubTexture name="boeyeah idle0000" x="1755" y="1662" width="817" height="1545" frameX="-113" frameY="-185" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0001" x="1755" y="1662" width="817" height="1545" frameX="-113" frameY="-185" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0002" x="1580" y="0" width="834" height="1553" frameX="-102" frameY="-175" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0003" x="1580" y="0" width="834" height="1553" frameX="-102" frameY="-175" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0004" x="1580" y="0" width="834" height="1553" frameX="-102" frameY="-175" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0005" x="0" y="1662" width="833" height="1549" frameX="-102" frameY="-164" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0006" x="0" y="1662" width="833" height="1549" frameX="-102" frameY="-164" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0007" x="0" y="1662" width="833" height="1549" frameX="-102" frameY="-164" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0008" x="0" y="1662" width="833" height="1549" frameX="-102" frameY="-164" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0009" x="0" y="1662" width="833" height="1549" frameX="-102" frameY="-164" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0010" x="0" y="1662" width="833" height="1549" frameX="-102" frameY="-164" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0011" x="0" y="1662" width="833" height="1549" frameX="-102" frameY="-164" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0012" x="0" y="1662" width="833" height="1549" frameX="-102" frameY="-164" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0013" x="0" y="1662" width="833" height="1549" frameX="-102" frameY="-164" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah idle0014" x="0" y="1662" width="833" height="1549" frameX="-102" frameY="-164" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah right0000" x="3452" y="0" width="904" height="1535" frameX="-157" frameY="-191" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah right0001" x="3452" y="0" width="904" height="1535" frameX="-157" frameY="-191" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah right0002" x="833" y="1662" width="922" height="1546" frameX="-129" frameY="-172" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah right0003" x="833" y="1662" width="922" height="1546" frameX="-129" frameY="-172" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah left0000" x="2414" y="0" width="1038" height="1553" frameX="-25" frameY="-179" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah left0001" x="2414" y="0" width="1038" height="1553" frameX="-25" frameY="-179" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah left0002" x="4356" y="0" width="1025" height="1522" frameX="-59" frameY="-197" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah left0003" x="4356" y="0" width="1025" height="1522" frameX="-59" frameY="-197" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah down0000" x="3452" y="1535" width="886" height="1534" frameX="-116" frameY="-198" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah down0001" x="3452" y="1535" width="886" height="1534" frameX="-116" frameY="-198" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah down0002" x="4356" y="1522" width="843" height="1501" frameX="-135" frameY="-231" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah down0003" x="4356" y="1522" width="843" height="1501" frameX="-135" frameY="-231" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah up0000" x="0" y="0" width="812" height="1662" frameX="-141" frameY="-70" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah up0001" x="0" y="0" width="812" height="1662" frameX="-141" frameY="-70" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah up0002" x="812" y="0" width="768" height="1633" frameX="-145" frameY="-94" frameWidth="1187" frameHeight="1732" />
+<SubTexture name="boeyeah up0003" x="812" y="0" width="768" height="1633" frameX="-145" frameY="-94" frameWidth="1187" frameHeight="1732" />
+</TextureAtlas>

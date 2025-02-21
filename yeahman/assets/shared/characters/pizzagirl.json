@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-16,
+				-84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left Pose"
+		},
+		{
+			"offsets": [
+				-132,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Pose"
+		},
+		{
+			"offsets": [
+				-78,
+				-182
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Pose"
+		},
+		{
+			"offsets": [
+				-72,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Pose"
+		},
+		{
+			"offsets": [
+				170,
+				145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Peace",
+			"indices": [],
+			"name": "Taunt"
+		},
+		{
+			"offsets": [
+				-90,
+				-80
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Pizzagirl",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pg",
+	"flip_x": false,
+	"healthbar_colors": [
+		208,
+		134,
+		107,
+		255
+	],
+	"camera_position": [
+		90,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

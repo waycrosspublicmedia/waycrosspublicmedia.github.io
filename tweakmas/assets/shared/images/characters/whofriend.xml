@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="whofriend.png"><SubTexture name="whofriend down0000" x="1105" y="0" width="179" height="345" frameX="-407" frameY="-364" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend down0001" x="1105" y="0" width="179" height="345" frameX="-407" frameY="-364" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend down0002" x="1105" y="0" width="179" height="345" frameX="-407" frameY="-364" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend down0003" x="199" y="406" width="171" height="371" frameX="-408" frameY="-349" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend down0004" x="199" y="406" width="171" height="371" frameX="-408" frameY="-349" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend down0005" x="199" y="406" width="171" height="371" frameX="-408" frameY="-349" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0000" x="0" y="406" width="199" height="372" frameX="-397" frameY="-348" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0001" x="0" y="406" width="199" height="372" frameX="-397" frameY="-348" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0002" x="585" y="406" width="195" height="361" frameX="-397" frameY="-357" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0003" x="585" y="406" width="195" height="361" frameX="-397" frameY="-357" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0004" x="585" y="406" width="195" height="361" frameX="-397" frameY="-357" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0005" x="688" y="0" width="184" height="382" frameX="-407" frameY="-334" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0006" x="688" y="0" width="184" height="382" frameX="-407" frameY="-334" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0007" x="688" y="0" width="184" height="382" frameX="-407" frameY="-334" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0008" x="342" y="0" width="173" height="391" frameX="-426" frameY="-323" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0009" x="342" y="0" width="173" height="391" frameX="-426" frameY="-323" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0010" x="342" y="0" width="173" height="391" frameX="-426" frameY="-323" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0011" x="175" y="0" width="167" height="395" frameX="-437" frameY="-323" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0012" x="175" y="0" width="167" height="395" frameX="-437" frameY="-323" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend idle0013" x="175" y="0" width="167" height="395" frameX="-437" frameY="-323" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend left0000" x="872" y="0" width="233" height="357" frameX="-360" frameY="-360" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend left0001" x="872" y="0" width="233" height="357" frameX="-360" frameY="-360" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend left0002" x="872" y="0" width="233" height="357" frameX="-360" frameY="-360" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend left0003" x="370" y="406" width="215" height="364" frameX="-379" frameY="-357" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend left0004" x="370" y="406" width="215" height="364" frameX="-379" frameY="-357" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend left0005" x="370" y="406" width="215" height="364" frameX="-379" frameY="-357" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend right0000" x="0" y="778" width="237" height="330" frameX="-469" frameY="-366" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend right0001" x="0" y="778" width="237" height="330" frameX="-469" frameY="-366" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend right0002" x="0" y="778" width="237" height="330" frameX="-469" frameY="-366" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend right0003" x="872" y="357" width="213" height="356" frameX="-466" frameY="-340" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend right0004" x="872" y="357" width="213" height="356" frameX="-466" frameY="-340" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend right0005" x="872" y="357" width="213" height="356" frameX="-466" frameY="-340" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend up0000" x="0" y="0" width="175" height="406" frameX="-426" frameY="-311" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend up0001" x="0" y="0" width="175" height="406" frameX="-426" frameY="-311" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend up0002" x="0" y="0" width="175" height="406" frameX="-426" frameY="-311" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend up0003" x="515" y="0" width="173" height="390" frameX="-425" frameY="-320" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend up0004" x="515" y="0" width="173" height="390" frameX="-425" frameY="-320" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="whofriend up0005" x="515" y="0" width="173" height="390" frameX="-425" frameY="-320" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"yuh",
+			"fuego",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"contrast",
+			"chroma",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"paint",
+			"jayui",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"sprite": [
+		"storymenu/resident",
+		230,
+		516
+	],
+	"hitbox": [
+		20,
+		-20,
+		250,
+		110
+	],
+	"hideFreeplay": false,
+	"difficulties": "Normal",
+	"weekBackground": "resident",
+	"storyName": "resident",
+	"weekName": "resident",
+	"startUnlocked": true,
+	"weekBefore": ""
+}

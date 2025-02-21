@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marrdance.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marrdance instance 10000" x="5" y="5" width="938" height="1782"/>
+	<SubTexture name="marrdance instance 10001" x="5" y="5" width="938" height="1782"/>
+	<SubTexture name="marrdance instance 10002" x="948" y="5" width="938" height="1779" frameX="0" frameY="0" frameWidth="938" frameHeight="1782"/>
+	<SubTexture name="marrdance instance 10003" x="948" y="5" width="938" height="1779" frameX="0" frameY="0" frameWidth="938" frameHeight="1782"/>
+	<SubTexture name="marrdance instance 10004" x="948" y="5" width="938" height="1779" frameX="0" frameY="0" frameWidth="938" frameHeight="1782"/>
+	<SubTexture name="marrdance instance 10005" x="948" y="5" width="938" height="1779" frameX="0" frameY="0" frameWidth="938" frameHeight="1782"/>
+	<SubTexture name="marrdance instance 10006" x="948" y="5" width="938" height="1779" frameX="0" frameY="0" frameWidth="938" frameHeight="1782"/>
+	<SubTexture name="marrdance instance 10007" x="948" y="5" width="938" height="1779" frameX="0" frameY="0" frameWidth="938" frameHeight="1782"/>
+</TextureAtlas>

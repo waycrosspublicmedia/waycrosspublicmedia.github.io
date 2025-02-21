@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mello idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mello left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mello right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				81
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mello up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mello down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/kidnplay/mello-yeahman",
+	"position": [
+		-160,
+		-40
+	],
+	"healthicon": "mello",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		125,
+		0
+	],
+	"camera_position": [
+		0,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

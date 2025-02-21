@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				98
+			],
+			"anim": "danceRight",
+			"fps": 15,
+			"name": "kat idleR",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				92
+			],
+			"anim": "danceLeft",
+			"fps": 15,
+			"name": "kat idleL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				91
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "kat up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				47
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "kat down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				75
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "kat left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				88
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "kat right",
+			"indices": []
+		}
+	],
+	"vocals_file": "kat",
+	"no_antialiasing": false,
+	"image": "characters/Kat",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kat",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		145,
+		233
+	],
+	"camera_position": [
+		140,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

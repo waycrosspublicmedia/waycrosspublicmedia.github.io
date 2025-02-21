@@ -1,0 +1,104 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "juno idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "juno left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "juno down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "juno up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			],
+			"fps": 8,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "juno right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/juno",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		50,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

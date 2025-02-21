@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dingus idle"
+		},
+		{
+			"offsets": [
+				60,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dingus left"
+		},
+		{
+			"offsets": [
+				-8,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dingus down"
+		},
+		{
+			"offsets": [
+				-7,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dingis right"
+		},
+		{
+			"offsets": [
+				5,
+				34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dingus up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/kidnplay/dingus-yeahman",
+	"position": [
+		-50,
+		220
+	],
+	"healthicon": "dingus",
+	"flip_x": true,
+	"healthbar_colors": [
+		95,
+		147,
+		255
+	],
+	"camera_position": [
+		-30,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

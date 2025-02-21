@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Little Love", "charlie", [255, 183, 95]],
+		["Hook To Grind", "futaba", [0, 255, 61]],
+		["Team Effort", "alph", [70, 205, 255]],
+		["Garlic Soul", "grinch", [134, 170, 22]],
+		["The Lie", "simian", [97, 89, 114]],
+		["A Regular Christmas Song", "quillgin", [149, 64, 73]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Bad Guys Boss Rush",
+	"weekBefore": "",
+	"weekName": "Bad Guys Boss Rush",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weeklogo": "TheTweakBeforeChristmas"
+}

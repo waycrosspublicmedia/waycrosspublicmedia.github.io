@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="texture.png" width="2520" height="2360">
+	<SubTexture name="bluetooth0000" x="705" y="1129" width="697" height="351" rotated="true" frameX="-1" frameY="-11" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0001" x="705" y="1129" width="697" height="351" rotated="true" frameX="-1" frameY="-11" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0002" x="705" y="1129" width="697" height="351" rotated="true" frameX="-1" frameY="-11" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0003" x="705" y="1129" width="697" height="351" rotated="true" frameX="-1" frameY="-11" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0004" x="705" y="1129" width="697" height="351" rotated="true" frameX="-1" frameY="-11" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0005" x="705" y="1129" width="697" height="351" rotated="true" frameX="-1" frameY="-11" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0006" x="705" y="1129" width="697" height="351" rotated="true" frameX="-1" frameY="-11" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0007" x="1437" y="704" width="349" height="692" frameX="-5" frameY="-16" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0008" x="1437" y="704" width="349" height="692" frameX="-5" frameY="-16" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0009" x="1082" y="2" width="350" height="698" frameX="-3" frameY="-10" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0010" x="1082" y="2" width="350" height="698" frameX="-3" frameY="-10" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0011" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0012" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0013" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0014" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0015" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0016" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0017" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0018" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0019" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0020" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0021" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0022" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0023" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0024" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0025" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0026" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0027" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0028" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0029" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0030" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0031" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0032" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0033" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0034" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0035" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0036" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0037" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0038" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0039" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0040" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0041" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0042" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0043" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0044" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0045" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0046" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0047" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0048" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0049" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0050" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0051" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0052" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0053" x="710" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0054" x="710" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0055" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0056" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0057" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0058" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0059" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0060" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0061" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0062" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0063" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0064" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0065" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0066" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0067" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0068" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0069" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0070" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0071" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0072" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0073" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0074" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0075" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0076" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0077" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0078" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0079" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0080" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0081" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0082" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0083" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0084" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0085" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0086" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0087" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0088" x="728" y="2" width="349" height="704" frameX="-2" frameY="-2" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bluetooth0089" x="2" y="772" width="703" height="352" rotated="true" frameX="-1" frameY="-5" frameWidth="361" frameHeight="714"/>
+	<SubTexture name="bump0000" x="1393" y="1485" width="686" height="401" rotated="true" frameX="-19" frameY="-8" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0001" x="1393" y="1485" width="686" height="401" rotated="true" frameX="-19" frameY="-8" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0002" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0003" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0004" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0005" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0006" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0007" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0008" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0009" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0010" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0011" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0012" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0013" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0014" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0015" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0016" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0017" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0018" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0019" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0020" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0021" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0022" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0023" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="bump0024" x="2" y="1485" width="692" height="415" rotated="true" frameX="-3" frameY="-2" frameWidth="426" frameHeight="700"/>
+	<SubTexture name="down0000" x="2145" y="696" width="360" height="585" frameX="-2" frameY="-2" frameWidth="367" frameHeight="593"/>
+	<SubTexture name="down0001" x="2145" y="696" width="360" height="585" frameX="-2" frameY="-2" frameWidth="367" frameHeight="593"/>
+	<SubTexture name="down0002" x="2145" y="1286" width="357" height="585" frameX="-4" frameY="-1" frameWidth="367" frameHeight="593"/>
+	<SubTexture name="down0003" x="2145" y="1286" width="357" height="585" frameX="-4" frameY="-1" frameWidth="367" frameHeight="593"/>
+	<SubTexture name="down0004" x="2145" y="1286" width="357" height="585" frameX="-4" frameY="-1" frameWidth="367" frameHeight="593"/>
+	<SubTexture name="down0005" x="2145" y="1286" width="357" height="585" frameX="-4" frameY="-1" frameWidth="367" frameHeight="593"/>
+	<SubTexture name="down0006" x="2145" y="1286" width="357" height="585" frameX="-4" frameY="-1" frameWidth="367" frameHeight="593"/>
+	<SubTexture name="down0007" x="2145" y="1286" width="357" height="585" frameX="-4" frameY="-1" frameWidth="367" frameHeight="593"/>
+	<SubTexture name="down0008" x="2145" y="1286" width="357" height="585" frameX="-4" frameY="-1" frameWidth="367" frameHeight="593"/>
+	<SubTexture name="down0009" x="2145" y="1286" width="357" height="585" frameX="-4" frameY="-1" frameWidth="367" frameHeight="593"/>
+	<SubTexture name="idle0000" x="1385" y="1891" width="678" height="347" rotated="true" frameX="-3" frameY="-17" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0001" x="1385" y="1891" width="678" height="347" rotated="true" frameX="-3" frameY="-17" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0002" x="2174" y="2" width="344" height="674" frameX="-4" frameY="-21" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0003" x="2174" y="2" width="344" height="674" frameX="-4" frameY="-21" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0004" x="1792" y="696" width="348" height="688" frameX="-3" frameY="-6" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0005" x="1792" y="696" width="348" height="688" frameX="-3" frameY="-6" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0006" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0007" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0008" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0009" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0010" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0011" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0012" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0013" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0014" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0015" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0016" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0017" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0018" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0019" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0020" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0021" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0022" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0023" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0024" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0025" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0026" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0027" x="1437" y="2" width="350" height="697" frameX="-1" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0028" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="idle0029" x="2" y="1129" width="698" height="351" rotated="true" frameX="-0" frameY="-2" frameWidth="358" frameHeight="706"/>
+	<SubTexture name="left0000" x="699" y="1485" width="689" height="379" rotated="true" frameX="-2" frameY="-2" frameWidth="388" frameHeight="697"/>
+	<SubTexture name="left0001" x="699" y="1485" width="689" height="379" rotated="true" frameX="-2" frameY="-2" frameWidth="388" frameHeight="697"/>
+	<SubTexture name="left0002" x="1792" y="2" width="377" height="689" frameX="-5" frameY="-2" frameWidth="388" frameHeight="697"/>
+	<SubTexture name="left0003" x="1792" y="2" width="377" height="689" frameX="-5" frameY="-2" frameWidth="388" frameHeight="697"/>
+	<SubTexture name="left0004" x="1792" y="2" width="377" height="689" frameX="-5" frameY="-2" frameWidth="388" frameHeight="697"/>
+	<SubTexture name="left0005" x="1792" y="2" width="377" height="689" frameX="-5" frameY="-2" frameWidth="388" frameHeight="697"/>
+	<SubTexture name="left0006" x="1792" y="2" width="377" height="689" frameX="-5" frameY="-2" frameWidth="388" frameHeight="697"/>
+	<SubTexture name="left0007" x="1792" y="2" width="377" height="689" frameX="-5" frameY="-2" frameWidth="388" frameHeight="697"/>
+	<SubTexture name="left0008" x="1792" y="2" width="377" height="689" frameX="-5" frameY="-2" frameWidth="388" frameHeight="697"/>
+	<SubTexture name="left0009" x="1792" y="2" width="377" height="689" frameX="-5" frameY="-2" frameWidth="388" frameHeight="697"/>
+	<SubTexture name="right0000" x="2" y="1905" width="681" height="453" rotated="true" frameX="-5" frameY="-2" frameWidth="465" frameHeight="688"/>
+	<SubTexture name="right0001" x="2" y="1905" width="681" height="453" rotated="true" frameX="-5" frameY="-2" frameWidth="465" frameHeight="688"/>
+	<SubTexture name="right0002" x="699" y="1869" width="681" height="445" rotated="true" frameX="-2" frameY="-2" frameWidth="465" frameHeight="688"/>
+	<SubTexture name="right0003" x="699" y="1869" width="681" height="445" rotated="true" frameX="-2" frameY="-2" frameWidth="465" frameHeight="688"/>
+	<SubTexture name="right0004" x="699" y="1869" width="681" height="445" rotated="true" frameX="-2" frameY="-2" frameWidth="465" frameHeight="688"/>
+	<SubTexture name="right0005" x="699" y="1869" width="681" height="445" rotated="true" frameX="-2" frameY="-2" frameWidth="465" frameHeight="688"/>
+	<SubTexture name="right0006" x="699" y="1869" width="681" height="445" rotated="true" frameX="-2" frameY="-2" frameWidth="465" frameHeight="688"/>
+	<SubTexture name="right0007" x="699" y="1869" width="681" height="445" rotated="true" frameX="-2" frameY="-2" frameWidth="465" frameHeight="688"/>
+	<SubTexture name="right0008" x="699" y="1869" width="681" height="445" rotated="true" frameX="-2" frameY="-2" frameWidth="465" frameHeight="688"/>
+	<SubTexture name="right0009" x="699" y="1869" width="681" height="445" rotated="true" frameX="-2" frameY="-2" frameWidth="465" frameHeight="688"/>
+	<SubTexture name="up0000" x="2" y="2" width="721" height="382" rotated="true" frameX="-1" frameY="-3" frameWidth="390" frameHeight="729"/>
+	<SubTexture name="up0001" x="2" y="2" width="721" height="382" rotated="true" frameX="-1" frameY="-3" frameWidth="390" frameHeight="729"/>
+	<SubTexture name="up0002" x="2" y="389" width="712" height="378" rotated="true" frameX="-6" frameY="-11" frameWidth="390" frameHeight="729"/>
+	<SubTexture name="up0003" x="2" y="389" width="712" height="378" rotated="true" frameX="-6" frameY="-11" frameWidth="390" frameHeight="729"/>
+	<SubTexture name="up0004" x="2" y="389" width="712" height="378" rotated="true" frameX="-6" frameY="-11" frameWidth="390" frameHeight="729"/>
+	<SubTexture name="up0005" x="2" y="389" width="712" height="378" rotated="true" frameX="-6" frameY="-11" frameWidth="390" frameHeight="729"/>
+	<SubTexture name="up0006" x="2" y="389" width="712" height="378" rotated="true" frameX="-6" frameY="-11" frameWidth="390" frameHeight="729"/>
+	<SubTexture name="up0007" x="2" y="389" width="712" height="378" rotated="true" frameX="-6" frameY="-11" frameWidth="390" frameHeight="729"/>
+	<SubTexture name="up0008" x="2" y="389" width="712" height="378" rotated="true" frameX="-6" frameY="-11" frameWidth="390" frameHeight="729"/>
+	<SubTexture name="up0009" x="2" y="389" width="712" height="378" rotated="true" frameX="-6" frameY="-11" frameWidth="390" frameHeight="729"/>
+</TextureAtlas>
