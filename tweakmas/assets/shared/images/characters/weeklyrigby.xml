@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weeklyrigby.png">
+	<!-- Created with Adobe Animate version 23.0.10.176 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rigby_down0000" x="5" y="5" width="1000" height="1000"/>
+	<SubTexture name="rigby_down0001" x="5" y="5" width="1000" height="1000"/>
+	<SubTexture name="rigby_down0002" x="1010" y="5" width="1000" height="1000"/>
+	<SubTexture name="rigby_down0003" x="2015" y="5" width="1000" height="1000"/>
+	<SubTexture name="rigby_down0004" x="1010" y="5" width="1000" height="1000"/>
+	<SubTexture name="rigby_down0005" x="2015" y="5" width="1000" height="1000"/>
+	<SubTexture name="rigby_down0006" x="1010" y="5" width="1000" height="1000"/>
+	<SubTexture name="rigby_down0007" x="2015" y="5" width="1000" height="1000"/>
+	<SubTexture name="rigby_idle0000" x="3020" y="5" width="1000" height="1000"/>
+	<SubTexture name="rigby_idle0001" x="5" y="1010" width="1000" height="1000"/>
+	<SubTexture name="rigby_idle0002" x="1010" y="1010" width="1000" height="1000"/>
+	<SubTexture name="rigby_idle0003" x="2015" y="1010" width="1000" height="1000"/>
+	<SubTexture name="rigby_left0000" x="3020" y="1010" width="1000" height="1000"/>
+	<SubTexture name="rigby_left0001" x="3020" y="1010" width="1000" height="1000"/>
+	<SubTexture name="rigby_left0002" x="5" y="2015" width="1000" height="1000"/>
+	<SubTexture name="rigby_left0003" x="1010" y="2015" width="1000" height="1000"/>
+	<SubTexture name="rigby_left0004" x="5" y="2015" width="1000" height="1000"/>
+	<SubTexture name="rigby_left0005" x="1010" y="2015" width="1000" height="1000"/>
+	<SubTexture name="rigby_left0006" x="5" y="2015" width="1000" height="1000"/>
+	<SubTexture name="rigby_left0007" x="1010" y="2015" width="1000" height="1000"/>
+	<SubTexture name="rigby_right0000" x="2015" y="2015" width="1000" height="1000"/>
+	<SubTexture name="rigby_right0001" x="2015" y="2015" width="1000" height="1000"/>
+	<SubTexture name="rigby_right0002" x="3020" y="2015" width="1000" height="1000"/>
+	<SubTexture name="rigby_right0003" x="5" y="3020" width="1000" height="1000"/>
+	<SubTexture name="rigby_right0004" x="3020" y="2015" width="1000" height="1000"/>
+	<SubTexture name="rigby_right0005" x="5" y="3020" width="1000" height="1000"/>
+	<SubTexture name="rigby_right0006" x="3020" y="2015" width="1000" height="1000"/>
+	<SubTexture name="rigby_right0007" x="5" y="3020" width="1000" height="1000"/>
+	<SubTexture name="rigby_up0000" x="1010" y="3020" width="1000" height="1000"/>
+	<SubTexture name="rigby_up0001" x="1010" y="3020" width="1000" height="1000"/>
+	<SubTexture name="rigby_up0002" x="2015" y="3020" width="1000" height="1000"/>
+	<SubTexture name="rigby_up0003" x="3020" y="3020" width="1000" height="1000"/>
+	<SubTexture name="rigby_up0004" x="2015" y="3020" width="1000" height="1000"/>
+	<SubTexture name="rigby_up0005" x="3020" y="3020" width="1000" height="1000"/>
+	<SubTexture name="rigby_up0006" x="2015" y="3020" width="1000" height="1000"/>
+	<SubTexture name="rigby_up0007" x="3020" y="3020" width="1000" height="1000"/>
+</TextureAtlas>

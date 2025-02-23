@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				230
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "carmint idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				240
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "carmint up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				188
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "carmint down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				230
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "carmint left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				241
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "carmint right",
+			"indices": []
+		}
+	],
+	"vocals_file": "carmint",
+	"no_antialiasing": false,
+	"image": "characters/Carmint",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "carmint",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		133,
+		163
+	],
+	"camera_position": [
+		180,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

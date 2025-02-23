@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="paper.png">
+<SubTexture name="paper move0000" x="0" y="0" width="3978" height="2574" frameX="0" frameY="0" frameWidth="3978" frameHeight="2574" />
+<SubTexture name="paper move0001" x="3978" y="0" width="3978" height="2574" frameX="0" frameY="0" frameWidth="3978" frameHeight="2574" />
+</TextureAtlas>

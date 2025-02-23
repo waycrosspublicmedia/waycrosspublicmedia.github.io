@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="speedz.png" width="2608" height="3294" spritePadding="3" borderPadding="1">
+	<SubTexture name="speeddown0000" x="1" y="2546" width="546" height="686" frameX="-2" frameY="-24" frameWidth="554" frameHeight="716"/>
+	<SubTexture name="speeddown0001" x="1" y="2546" width="546" height="686" frameX="-2" frameY="-24" frameWidth="554" frameHeight="716"/>
+	<SubTexture name="speeddown0002" x="1836" y="2515" width="529" height="708" frameX="-10" frameY="-3" frameWidth="554" frameHeight="716"/>
+	<SubTexture name="speeddown0003" x="1836" y="2515" width="529" height="708" frameX="-10" frameY="-3" frameWidth="554" frameHeight="716"/>
+	<SubTexture name="speedidle0000" x="1" y="899" width="618" height="804" frameX="-2" frameY="-35" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0001" x="1" y="899" width="618" height="804" frameX="-2" frameY="-35" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0002" x="2019" y="1" width="588" height="818" frameX="-24" frameY="-17" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0003" x="2019" y="1" width="588" height="818" frameX="-24" frameY="-17" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0004" x="2019" y="1" width="588" height="818" frameX="-24" frameY="-17" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0005" x="1925" y="1681" width="569" height="831" frameX="-35" frameY="-2" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0006" x="1925" y="1681" width="569" height="831" frameX="-35" frameY="-2" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0007" x="1925" y="1681" width="569" height="831" frameX="-35" frameY="-2" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0008" x="1925" y="1681" width="569" height="831" frameX="-35" frameY="-2" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0009" x="1925" y="1681" width="569" height="831" frameX="-35" frameY="-2" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0010" x="1925" y="1681" width="569" height="831" frameX="-35" frameY="-2" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0011" x="1925" y="1681" width="569" height="831" frameX="-35" frameY="-2" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0012" x="1925" y="1681" width="569" height="831" frameX="-35" frameY="-2" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedidle0013" x="1925" y="1681" width="569" height="831" frameX="-35" frameY="-2" frameWidth="626" frameHeight="838"/>
+	<SubTexture name="speedlaugh0000" x="720" y="879" width="609" height="822" frameX="-1" frameY="-18" frameWidth="615" frameHeight="844"/>
+	<SubTexture name="speedlaugh0001" x="720" y="879" width="609" height="822" frameX="-1" frameY="-18" frameWidth="615" frameHeight="844"/>
+	<SubTexture name="speedlaugh0002" x="1332" y="879" width="590" height="830" frameX="-15" frameY="-10" frameWidth="615" frameHeight="844"/>
+	<SubTexture name="speedlaugh0003" x="1332" y="879" width="590" height="830" frameX="-15" frameY="-10" frameWidth="615" frameHeight="844"/>
+	<SubTexture name="speedlaugh0004" x="1436" y="1" width="580" height="837" frameX="-22" frameY="-2" frameWidth="615" frameHeight="844"/>
+	<SubTexture name="speedlaugh0005" x="1436" y="1" width="580" height="837" frameX="-22" frameY="-2" frameWidth="615" frameHeight="844"/>
+	<SubTexture name="speedlaugh0006" x="1436" y="1" width="580" height="837" frameX="-22" frameY="-2" frameWidth="615" frameHeight="844"/>
+	<SubTexture name="speedlaugh0007" x="1436" y="1" width="580" height="837" frameX="-22" frameY="-2" frameWidth="615" frameHeight="844"/>
+	<SubTexture name="speedlaugh0008" x="1436" y="1" width="580" height="837" frameX="-22" frameY="-2" frameWidth="615" frameHeight="844"/>
+	<SubTexture name="speedleft0000" x="1253" y="1712" width="636" height="766" frameX="-3" frameY="-16" frameWidth="644" frameHeight="787"/>
+	<SubTexture name="speedleft0001" x="1253" y="1712" width="636" height="766" frameX="-3" frameY="-16" frameWidth="644" frameHeight="787"/>
+	<SubTexture name="speedleft0002" x="622" y="1704" width="628" height="778" frameX="-16" frameY="-3" frameWidth="644" frameHeight="787"/>
+	<SubTexture name="speedleft0003" x="622" y="1704" width="628" height="778" frameX="-16" frameY="-3" frameWidth="644" frameHeight="787"/>
+	<SubTexture name="speedleft0004" x="622" y="1704" width="628" height="778" frameX="-16" frameY="-3" frameWidth="644" frameHeight="787"/>
+	<SubTexture name="speedright0000" x="1253" y="2481" width="580" height="808" frameX="-4" frameY="-3" frameWidth="587" frameHeight="814"/>
+	<SubTexture name="speedright0001" x="1253" y="2481" width="580" height="808" frameX="-4" frameY="-3" frameWidth="587" frameHeight="814"/>
+	<SubTexture name="speedright0002" x="571" y="2485" width="573" height="808" frameX="-1" frameY="-2" frameWidth="587" frameHeight="814"/>
+	<SubTexture name="speedright0003" x="571" y="2485" width="573" height="808" frameX="-1" frameY="-2" frameWidth="587" frameHeight="814"/>
+	<SubTexture name="speedtalk0000" x="1" y="1706" width="567" height="837" frameX="-12" frameY="-4" frameWidth="587" frameHeight="844"/>
+	<SubTexture name="speedtalk0001" x="1" y="1706" width="567" height="837" frameX="-12" frameY="-4" frameWidth="587" frameHeight="844"/>
+	<SubTexture name="speedtalk0002" x="1925" y="841" width="580" height="837" frameX="-2" frameY="-2" frameWidth="587" frameHeight="844"/>
+	<SubTexture name="speedtalk0003" x="1925" y="841" width="580" height="837" frameX="-2" frameY="-2" frameWidth="587" frameHeight="844"/>
+	<SubTexture name="speedtalk0004" x="1925" y="841" width="580" height="837" frameX="-2" frameY="-2" frameWidth="587" frameHeight="844"/>
+	<SubTexture name="speedtalk0005" x="1925" y="841" width="580" height="837" frameX="-2" frameY="-2" frameWidth="587" frameHeight="844"/>
+	<SubTexture name="speedtalk0006" x="1925" y="841" width="580" height="837" frameX="-2" frameY="-2" frameWidth="587" frameHeight="844"/>
+	<SubTexture name="speedtalk0007" x="1925" y="841" width="580" height="837" frameX="-2" frameY="-2" frameWidth="587" frameHeight="844"/>
+	<SubTexture name="speedtalk0008" x="1925" y="841" width="580" height="837" frameX="-2" frameY="-2" frameWidth="587" frameHeight="844"/>
+	<SubTexture name="speedup0000" x="1" y="1" width="716" height="895" frameX="-2" frameY="-2" frameWidth="724" frameHeight="901"/>
+	<SubTexture name="speedup0001" x="1" y="1" width="716" height="895" frameX="-2" frameY="-2" frameWidth="724" frameHeight="901"/>
+	<SubTexture name="speedup0002" x="720" y="1" width="713" height="875" frameX="-2" frameY="-23" frameWidth="724" frameHeight="901"/>
+	<SubTexture name="speedup0003" x="720" y="1" width="713" height="875" frameX="-2" frameY="-23" frameWidth="724" frameHeight="901"/>
+	<SubTexture name="speedup0004" x="720" y="1" width="713" height="875" frameX="-2" frameY="-23" frameWidth="724" frameHeight="901"/>
+</TextureAtlas>

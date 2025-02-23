@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="menuObjects.png" width="863" height="829" spritePadding="3" borderPadding="2">
+	<SubTexture name="Credits0000" x="420" y="697" width="417" height="128" frameX="-6" frameY="-3" frameWidth="434" frameHeight="142"/>
+	<SubTexture name="Credits0001" x="420" y="697" width="417" height="128" frameX="-6" frameY="-3" frameWidth="434" frameHeight="142"/>
+	<SubTexture name="Credits0002" x="2" y="698" width="415" height="129" frameX="-7" frameY="-4" frameWidth="434" frameHeight="142"/>
+	<SubTexture name="Credits0003" x="2" y="698" width="415" height="129" frameX="-7" frameY="-4" frameWidth="434" frameHeight="142"/>
+	<SubTexture name="Credits0004" x="734" y="2" width="127" height="414" rotated="true" frameX="-7" frameY="-5" frameWidth="434" frameHeight="142"/>
+	<SubTexture name="Credits0005" x="734" y="2" width="127" height="414" rotated="true" frameX="-7" frameY="-5" frameWidth="434" frameHeight="142"/>
+	<SubTexture name="Freeplay0000" x="2" y="346" width="550" height="167" frameX="-8" frameY="-7" frameWidth="567" frameHeight="185"/>
+	<SubTexture name="Freeplay0001" x="2" y="346" width="550" height="167" frameX="-8" frameY="-7" frameWidth="567" frameHeight="185"/>
+	<SubTexture name="Freeplay0002" x="2" y="2" width="550" height="169" frameX="-9" frameY="-7" frameWidth="567" frameHeight="185"/>
+	<SubTexture name="Freeplay0003" x="2" y="2" width="550" height="169" frameX="-9" frameY="-7" frameWidth="567" frameHeight="185"/>
+	<SubTexture name="Freeplay0004" x="2" y="174" width="547" height="169" frameX="-10" frameY="-8" frameWidth="567" frameHeight="185"/>
+	<SubTexture name="Freeplay0005" x="2" y="174" width="547" height="169" frameX="-10" frameY="-8" frameWidth="567" frameHeight="185"/>
+	<SubTexture name="Options0000" x="657" y="515" width="89" height="92" frameX="-8" frameY="-5" frameWidth="108" frameHeight="107"/>
+	<SubTexture name="Options0001" x="657" y="515" width="89" height="92" frameX="-8" frameY="-5" frameWidth="108" frameHeight="107"/>
+	<SubTexture name="Options0002" x="649" y="419" width="90" height="92" frameX="-8" frameY="-4" frameWidth="108" frameHeight="107"/>
+	<SubTexture name="Options0003" x="649" y="419" width="90" height="92" frameX="-8" frameY="-4" frameWidth="108" frameHeight="107"/>
+	<SubTexture name="Options0004" x="555" y="419" width="91" height="92" frameX="-6" frameY="-5" frameWidth="108" frameHeight="107"/>
+	<SubTexture name="Options0005" x="555" y="419" width="91" height="92" frameX="-6" frameY="-5" frameWidth="108" frameHeight="107"/>
+	<SubTexture name="Options0006" x="742" y="419" width="89" height="93" frameX="-7" frameY="-4" frameWidth="108" frameHeight="107"/>
+	<SubTexture name="Options0007" x="742" y="419" width="89" height="93" frameX="-7" frameY="-4" frameWidth="108" frameHeight="107"/>
+	<SubTexture name="Play0000" x="2" y="516" width="325" height="179" frameX="-8" frameY="-7" frameWidth="353" frameHeight="199"/>
+	<SubTexture name="Play0001" x="2" y="516" width="325" height="179" frameX="-8" frameY="-7" frameWidth="353" frameHeight="199"/>
+	<SubTexture name="Play0002" x="555" y="2" width="176" height="324" rotated="true" frameX="-9" frameY="-8" frameWidth="353" frameHeight="199"/>
+	<SubTexture name="Play0003" x="555" y="2" width="176" height="324" rotated="true" frameX="-9" frameY="-8" frameWidth="353" frameHeight="199"/>
+	<SubTexture name="Play0004" x="330" y="516" width="324" height="178" frameX="-11" frameY="-9" frameWidth="353" frameHeight="199"/>
+	<SubTexture name="Play0005" x="330" y="516" width="324" height="178" frameX="-11" frameY="-9" frameWidth="353" frameHeight="199"/>
+</TextureAtlas>

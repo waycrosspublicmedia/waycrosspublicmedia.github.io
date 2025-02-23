@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-59,
+				-126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KNEELINGDAREILEFT"
+		},
+		{
+			"offsets": [
+				-80,
+				-143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "KNEELINGDAREIDOWN"
+		},
+		{
+			"offsets": [
+				-63,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KNEELINGDAREIUP"
+		},
+		{
+			"offsets": [
+				-44,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KNEELINGDAREIRIGHT"
+		},
+		{
+			"offsets": [
+				-78,
+				-121
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KNEELINGDAREIIDLE"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dareikneel",
+	"position": [
+		-100,
+		-160
+	],
+	"healthicon": "darei",
+	"flip_x": true,
+	"healthbar_colors": [
+		205,
+		77,
+		66
+	],
+	"camera_position": [
+		40,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

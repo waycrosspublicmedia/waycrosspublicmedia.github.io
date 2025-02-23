@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gumball_idle"
+		},
+		{
+			"offsets": [
+				-8,
+				2
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gumball_down"
+		},
+		{
+			"offsets": [
+				-3,
+				50
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gumball_up"
+		},
+		{
+			"offsets": [
+				-67,
+				16
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gumball_right"
+		},
+		{
+			"offsets": [
+				75,
+				-6
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gumball_left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gumball_jolly",
+	"position": [
+		-70,
+		0
+	],
+	"healthicon": "gumballanais",
+	"flip_x": true,
+	"healthbar_colors": [
+		84,
+		174,
+		215
+	],
+	"camera_position": [
+		130,
+		-30
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

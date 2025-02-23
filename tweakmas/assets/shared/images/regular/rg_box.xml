@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rg_box.png">
+	<!-- Created with Adobe Animate version 23.0.10.176 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="box24_quillgan0000" x="5" y="5" width="529" height="458" frameX="0" frameY="-46" frameWidth="529" frameHeight="504"/>
+	<SubTexture name="box24_quillgan0001" x="5" y="5" width="529" height="458" frameX="0" frameY="-46" frameWidth="529" frameHeight="504"/>
+	<SubTexture name="box24_quillgan0002" x="539" y="5" width="529" height="492" frameX="0" frameY="-12" frameWidth="529" frameHeight="504"/>
+	<SubTexture name="box24_quillgan0003" x="539" y="5" width="529" height="492" frameX="0" frameY="-12" frameWidth="529" frameHeight="504"/>
+	<SubTexture name="box24_quillgan0004" x="1073" y="5" width="529" height="504"/>
+	<SubTexture name="box24_quillgan0005" x="1073" y="5" width="529" height="504"/>
+	<SubTexture name="box24_quillgan0006" x="5" y="514" width="529" height="458" frameX="0" frameY="-46" frameWidth="529" frameHeight="504"/>
+	<SubTexture name="box24_quillgan0007" x="5" y="514" width="529" height="458" frameX="0" frameY="-46" frameWidth="529" frameHeight="504"/>
+	<SubTexture name="box24_rigby0000" x="539" y="514" width="529" height="458" frameX="0" frameY="-46" frameWidth="529" frameHeight="504"/>
+	<SubTexture name="box24_rigby0001" x="539" y="514" width="529" height="458" frameX="0" frameY="-46" frameWidth="529" frameHeight="504"/>
+	<SubTexture name="box24_rigby0002" x="1073" y="514" width="529" height="492" frameX="0" frameY="-12" frameWidth="529" frameHeight="504"/>
+	<SubTexture name="box24_rigby0003" x="1073" y="514" width="529" height="492" frameX="0" frameY="-12" frameWidth="529" frameHeight="504"/>
+	<SubTexture name="box24_rigby0004" x="5" y="1011" width="529" height="504"/>
+	<SubTexture name="box24_rigby0005" x="5" y="1011" width="529" height="504"/>
+	<SubTexture name="box24_rigby0006" x="539" y="1011" width="529" height="458" frameX="0" frameY="-46" frameWidth="529" frameHeight="504"/>
+	<SubTexture name="box24_rigby0007" x="539" y="1011" width="529" height="458" frameX="0" frameY="-46" frameWidth="529" frameHeight="504"/>
+</TextureAtlas>

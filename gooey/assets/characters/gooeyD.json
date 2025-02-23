@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "henod",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 14,
+			"name": "missedr",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 14,
+			"name": "missedl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singUPmiss",
+			"fps": 14,
+			"name": "missedu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singDOWNmiss",
+			"fps": 14,
+			"name": "missedd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "hey",
+			"fps": 14,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "cheer",
+			"fps": 14,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "hit",
+			"fps": 14,
+			"name": "owie",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GooeyD",
+	"position": [
+		10,
+		370
+	],
+	"healthicon": "gooey",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-50,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

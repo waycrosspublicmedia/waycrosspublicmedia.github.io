@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="futaba.png" width="2048" height="2048">
+  <SubTexture name="up00" x="5" y="5"  width="476" height="786" frameX="-0" frameY="-0" frameWidth="476" frameHeight="786"/>
+  <SubTexture name="left00" x="5" y="801"  width="563" height="785" frameX="-0" frameY="-0" frameWidth="563" frameHeight="785"/>
+  <SubTexture name="down00" x="5" y="1596" width="699" height="436" rotated="true"  frameX="-0" frameY="-0" frameWidth="436" frameHeight="699"/>
+  <SubTexture name="idle00" x="491" y="5"  width="514" height="761" frameX="-0" frameY="-0" frameWidth="514" frameHeight="761"/>
+  <SubTexture name="right00" x="578" y="776"  width="633" height="728" frameX="-0" frameY="-0" frameWidth="633" frameHeight="728"/>
+</TextureAtlas>

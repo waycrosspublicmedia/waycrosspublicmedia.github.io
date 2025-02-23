@@ -1,0 +1,32 @@
+{
+	"storyName": "TUTORIAL",
+	"difficulties": "Easy, Normal, Hard, Alt",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Tutorial Remix",
+			"gf",
+			[
+				175,
+				0,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "MFMTutorial",
+	"hiddenUntilUnlocked": false
+}

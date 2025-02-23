@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MDPlightbulb.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Frame_000000" x="852" y="1254" width="284" height="627" frameX="-239" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_010000" x="0" y="627" width="285" height="627" frameX="-239" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_020000" x="568" y="1254" width="284" height="627" frameX="-240" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_030000" x="570" y="0" width="285" height="627" frameX="-240" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_040000" x="569" y="627" width="284" height="627" frameX="-242" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_050000" x="1709" y="0" width="284" height="627" frameX="-243" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_060000" x="283" y="1881" width="283" height="627" frameX="-245" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_070000" x="1425" y="0" width="284" height="627" frameX="-246" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_080000" x="849" y="1881" width="283" height="627" frameX="-248" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_090000" x="2261" y="1881" width="282" height="627" frameX="-251" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_100000" x="2843" y="1254" width="282" height="627" frameX="-253" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_110000" x="1979" y="1881" width="282" height="627" frameX="-255" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_120000" x="3125" y="1881" width="281" height="627" frameX="-258" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_130000" x="3125" y="0" width="281" height="627" frameX="-260" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_140000" x="1685" y="2508" width="280" height="627" frameX="-263" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_150000" x="2245" y="2508" width="280" height="627" frameX="-266" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_160000" x="1405" y="2508" width="280" height="627" frameX="-268" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_170000" x="3125" y="627" width="281" height="627" frameX="-270" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_180000" x="0" y="2508" width="281" height="627" frameX="-272" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_190000" x="2561" y="0" width="282" height="627" frameX="-274" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_200000" x="2843" y="0" width="282" height="627" frameX="-276" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_210000" x="2561" y="627" width="282" height="627" frameX="-278" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_220000" x="2277" y="627" width="283" height="627" frameX="-280" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_230000" x="1136" y="1254" width="284" height="627" frameX="-281" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_240000" x="1132" y="1881" width="283" height="627" frameX="-283" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_250000" x="1993" y="1254" width="284" height="627" frameX="-284" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_260000" x="2277" y="0" width="284" height="627" frameX="-285" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_270000" x="1140" y="0" width="285" height="627" frameX="-286" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_280000" x="1137" y="627" width="284" height="627" frameX="-287" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_290000" x="0" y="0" width="285" height="627" frameX="-287" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_300000" x="285" y="627" width="284" height="627" frameX="-288" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_310000" x="285" y="0" width="285" height="627" frameX="-287" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_320000" x="1704" y="1254" width="284" height="627" frameX="-287" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_330000" x="1993" y="627" width="284" height="627" frameX="-286" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_340000" x="1709" y="627" width="284" height="627" frameX="-285" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_350000" x="284" y="1254" width="284" height="627" frameX="-284" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_360000" x="0" y="1254" width="284" height="627" frameX="-282" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_370000" x="2277" y="1254" width="283" height="627" frameX="-281" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_380000" x="0" y="1881" width="283" height="627" frameX="-279" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_390000" x="2561" y="1254" width="282" height="627" frameX="-277" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_400000" x="2561" y="1881" width="282" height="627" frameX="-275" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_410000" x="2843" y="1881" width="281" height="627" frameX="-273" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_420000" x="3125" y="1254" width="281" height="627" frameX="-271" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_430000" x="843" y="2508" width="281" height="627" frameX="-268" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_440000" x="1965" y="2508" width="280" height="627" frameX="-266" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_450000" x="281" y="2508" width="281" height="627" frameX="-263" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_460000" x="1124" y="2508" width="281" height="627" frameX="-261" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_470000" x="562" y="2508" width="281" height="627" frameX="-258" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_480000" x="2843" y="627" width="282" height="627" frameX="-255" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_490000" x="1415" y="1881" width="282" height="627" frameX="-253" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_500000" x="1697" y="1881" width="282" height="627" frameX="-251" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_510000" x="566" y="1881" width="283" height="627" frameX="-248" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_520000" x="1993" y="0" width="284" height="627" frameX="-246" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_530000" x="1420" y="1254" width="284" height="627" frameX="-244" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_540000" x="1425" y="627" width="284" height="627" frameX="-243" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_550000" x="853" y="627" width="284" height="627" frameX="-241" frameY="2" frameWidth="800" frameHeight="800"/>
+	<SubTexture name="Frame_560000" x="855" y="0" width="285" height="627" frameX="-240" frameY="2" frameWidth="800" frameHeight="800"/>
+</TextureAtlas>

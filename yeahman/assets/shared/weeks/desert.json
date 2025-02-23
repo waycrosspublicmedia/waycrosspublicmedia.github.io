@@ -1,0 +1,38 @@
+{
+	"songs": [
+		[
+			"crypwalk",
+			"cryp"
+		],
+		[
+			"nova",
+			"jads"
+		],
+		[
+			"pizza-time",
+			"pg"
+		],
+		[
+			"biz4rr3",
+			"spooky"
+		]
+	],
+	"sprite": [
+		"storymenu/desert",
+		174,
+		130
+	],
+	"hitbox": [
+		-35,
+		0,
+		270,
+		115
+	],
+	"hideFreeplay": false,
+	"difficulties": "Normal",
+	"weekBackground": "desert",
+	"storyName": "desert",
+	"weekName": "desert",
+	"startUnlocked": true,
+	"weekBefore": "forest"
+}

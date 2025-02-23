@@ -1,0 +1,7 @@
+resident
+forest
+desert
+lake
+plaza
+york
+execution

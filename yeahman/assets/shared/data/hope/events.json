@@ -1,0 +1,486 @@
+{
+	"song": {
+		"events": [
+			[
+				10344.8275862069,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				10689.6551724138,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				13448.275862069,
+				[
+					[
+						"Play Animation",
+						"what",
+						"gf"
+					]
+				]
+			],
+			[
+				17413.7931034483,
+				[
+					[
+						"ahha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17758.6206896552,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"gf"
+					]
+				]
+			],
+			[
+				24482.7586206897,
+				[
+					[
+						"Play Animation",
+						"sigh",
+						"GF"
+					]
+				]
+			],
+			[
+				30344.8275862069,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				30431.0344827586,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				30689.6551724138,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				30862.0689655173,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				31034.4827586207,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				31206.8965517242,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				31379.3103448276,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				32068.9655172414,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				32413.7931034483,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				32419.1810344828,
+				[
+					[
+						"Play Animation",
+						"sigh",
+						"GF"
+					]
+				]
+			],
+			[
+				32758.6206896552,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				32762.2126436782,
+				[
+					[
+						"Play Animation",
+						"ay",
+						"GF"
+					]
+				]
+			],
+			[
+				43448.275862069,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				43793.1034482759,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				43796.6954022989,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"gf"
+					]
+				]
+			],
+			[
+				54482.7586206897,
+				[
+					[
+						"ahha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54827.5862068966,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"gf"
+					]
+				]
+			],
+			[
+				60344.8275862069,
+				[
+					[
+						"Play Animation",
+						"sigh",
+						"GF"
+					]
+				]
+			],
+			[
+				65172.4137931035,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				65517.2413793104,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				65862.0689655173,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				65865.6609195403,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"gf"
+					]
+				]
+			],
+			[
+				76896.5517241379,
+				[
+					[
+						"Play Animation",
+						"sigh",
+						"GF"
+					]
+				]
+			],
+			[
+				79655.1724137931,
+				[
+					[
+						"Play Animation",
+						"what",
+						"GF"
+					]
+				]
+			],
+			[
+				90689.6551724137,
+				[
+					[
+						"Play Animation",
+						"sigh",
+						"GF"
+					]
+				]
+			],
+			[
+				98965.5172413792,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"GF"
+					]
+				]
+			],
+			[
+				108965.517241379,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				109051.724137931,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				109310.344827586,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				109482.758620689,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				109655.172413793,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				109827.586206896,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				110000,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				113103.448275862,
+				[
+					[
+						"ahha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113448.275862069,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"GF"
+					]
+				]
+			],
+			[
+				114482.758620689,
+				[
+					[
+						"ahha",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114827.586206896,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"GF"
+					]
+				]
+			],
+			[
+				116206.896551724,
+				[
+					[
+						"Play Animation",
+						"ay",
+						"GF"
+					]
+				]
+			],
+			[
+				127241.379310345,
+				[
+					[
+						"Play Animation",
+						"ay",
+						"GF"
+					]
+				]
+			],
+			[
+				131034.48275862,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				131379.310344827,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				131724.137931034,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}

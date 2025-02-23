@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Greetings! Sorry for the inconvenience, are you interested in joining?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep beep boop ba"
+		},
+		{
+			"sound": "gf_sound",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Me and my boyfriend were just looking for the bathroom."
+		},
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Awh! But it seems like you two seem really good for this place. I'm sure of it!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep ba bop beep!"
+		},
+		{
+			"sound": "sarv_sound",
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Huh?...I didn't quite understand what you said, but let me show you why it's really good to join!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Skbeep?"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "q_idle"
+		},
+		{
+			"offsets": [
+				9,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "q_left"
+		},
+		{
+			"offsets": [
+				-1,
+				-56
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "q_down"
+		},
+		{
+			"offsets": [
+				4,
+				109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "q_up"
+		},
+		{
+			"offsets": [
+				4,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "q_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/quillgin_2",
+	"position": [
+		-360,
+		170
+	],
+	"healthicon": "quillgin",
+	"flip_x": false,
+	"healthbar_colors": [149, 64, 73],
+	"camera_position": [
+		-570,
+		480
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

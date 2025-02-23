@@ -1,0 +1,38 @@
+{
+	"songs": [
+		[
+			"mania mode",
+			"face",
+			[
+				166,
+				173,
+				0
+			]
+		],
+			[
+			"giggletoe",
+			"face",
+			[
+				166,
+				173,
+				0
+			]
+		]
+
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

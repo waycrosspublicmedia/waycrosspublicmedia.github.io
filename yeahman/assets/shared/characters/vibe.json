@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				244,
+				343
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				324
+			],
+			"anim": "singRIGHT",
+			"fps": 22,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				404
+			],
+			"anim": "singUP",
+			"fps": 22,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				267
+			],
+			"anim": "singDOWN",
+			"fps": 22,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				205,
+				335
+			],
+			"anim": "singLEFT",
+			"fps": 22,
+			"name": "Left",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Viber",
+	"position": [
+		10,
+		620
+	],
+	"healthicon": "vibe",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		0,
+		51
+	],
+	"camera_position": [
+		30,
+		-500
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

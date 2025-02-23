@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Parish",
+			"sarvente",
+			[
+				226,
+				153,
+				213
+			]
+		],
+		[
+			"Worship",
+			"sarvente",
+			[
+				226,
+				153,
+				213
+			]
+		],
+		[
+			"Zavodila",
+			"ruv",
+			[
+				93,
+				93,
+				113
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Easy, Normal, Hard, Alt",
+	"weekCharacters": [
+		"sickle",
+		"bf",
+		"gf"
+	],
+	"storyName": "MID-FIGHT MASSES",
+	"weekName": "MFM",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorialMFM",
+	"startUnlocked": true
+}

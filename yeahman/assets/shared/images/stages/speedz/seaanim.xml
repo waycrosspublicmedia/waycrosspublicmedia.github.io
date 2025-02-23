@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="seaanim.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sea0000" x="0" y="0" width="2000" height="478"/>
+	<SubTexture name="sea0001" x="2000" y="0" width="2000" height="478"/>
+	<SubTexture name="sea0002" x="0" y="478" width="2000" height="478"/>
+	<SubTexture name="sea0003" x="2000" y="478" width="2000" height="478"/>
+	<SubTexture name="sea0004" x="0" y="956" width="2000" height="478"/>
+	<SubTexture name="sea0005" x="2000" y="956" width="2000" height="478"/>
+	<SubTexture name="sea0006" x="0" y="1434" width="2000" height="478"/>
+	<SubTexture name="sea0007" x="2000" y="1434" width="2000" height="478"/>
+	<SubTexture name="sea0008" x="0" y="1912" width="2000" height="478"/>
+	<SubTexture name="sea0009" x="2000" y="1912" width="2000" height="478"/>
+</TextureAtlas>

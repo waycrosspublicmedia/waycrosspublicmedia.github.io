@@ -1,0 +1,38 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"loop": false,
+			"name": "darwin_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/darwin_jolly",
+	"position": [
+		-70,
+		210
+	],
+	"healthicon": "gumballanais",
+	"flip_x": true,
+	"healthbar_colors": [
+		140,
+		120,
+		40
+	],
+	"camera_position": [
+		90,
+		10
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

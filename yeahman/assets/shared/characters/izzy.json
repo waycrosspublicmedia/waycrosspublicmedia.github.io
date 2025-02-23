@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				93
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				174
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-77,
+				83
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-19,
+				-11
+			],
+			"anim": "sorry",
+			"fps": 24,
+			"name": "Sorry instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-58,
+				62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "RightAlt instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/izzysprites",
+	"position": [
+		-80,
+		0
+	],
+	"healthicon": "izzy",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		246,
+		219
+	],
+	"camera_position": [
+		90,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

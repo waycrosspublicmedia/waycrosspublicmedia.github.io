@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-126,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-257,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-73,
+				351
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-278,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-220
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-10
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				570,
+				-100
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSdown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-231,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				570,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "MISSdown"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/pluto v2",
+	"position": [
+		-150,
+		100
+	],
+	"healthicon": "pluto",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		195,
+		0
+	],
+	"camera_position": [
+		660,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

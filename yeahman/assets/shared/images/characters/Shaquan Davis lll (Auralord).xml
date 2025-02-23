@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Shaquan Davis lll (Auralord).png">
+<SubTexture name="Shaquan Davis lll (Auralord) down0000" x="525" y="1093" width="532" height="347" frameX="-71" frameY="-287" frameWidth="640" frameHeight="640" />
+<SubTexture name="Shaquan Davis lll (Auralord) down0001" x="0" y="1093" width="525" height="431" frameX="-65" frameY="-208" frameWidth="640" frameHeight="640" />
+<SubTexture name="Shaquan Davis lll (Auralord) up0000" x="0" y="0" width="475" height="574" frameX="-78" frameY="-29" frameWidth="640" frameHeight="640" />
+<SubTexture name="Shaquan Davis lll (Auralord) up0001" x="475" y="0" width="488" height="553" frameX="-81" frameY="-51" frameWidth="640" frameHeight="640" />
+<SubTexture name="Shaquan Davis lll (Auralord) left0000" x="0" y="574" width="457" height="519" frameX="-84" frameY="-84" frameWidth="640" frameHeight="640" />
+<SubTexture name="Shaquan Davis lll (Auralord) left0001" x="1427" y="0" width="477" height="480" frameX="-73" frameY="-121" frameWidth="640" frameHeight="640" />
+<SubTexture name="Shaquan Davis lll (Auralord) right0000" x="963" y="0" width="464" height="540" frameX="-122" frameY="-70" frameWidth="640" frameHeight="640" />
+<SubTexture name="Shaquan Davis lll (Auralord) right0001" x="457" y="574" width="462" height="516" frameX="-129" frameY="-91" frameWidth="640" frameHeight="640" />
+<SubTexture name="Shaquan Davis lll (Auralord) idle0000" x="1427" y="480" width="379" height="462" frameX="-152" frameY="-151" frameWidth="640" frameHeight="640" />
+<SubTexture name="Shaquan Davis lll (Auralord) idle0001" x="919" y="574" width="374" height="482" frameX="-136" frameY="-132" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

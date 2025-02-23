@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				153,
+				227
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left Pose"
+		},
+		{
+			"offsets": [
+				-8,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Pose"
+		},
+		{
+			"offsets": [
+				-59,
+				320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Pose"
+		},
+		{
+			"offsets": [
+				-76,
+				214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Pose"
+		},
+		{
+			"offsets": [
+				80,
+				273
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Miss_L"
+		},
+		{
+			"offsets": [
+				80,
+				273
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Miss_D"
+		},
+		{
+			"offsets": [
+				80,
+				273
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Miss_U"
+		},
+		{
+			"offsets": [
+				80,
+				273
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Miss_R"
+		},
+		{
+			"offsets": [
+				-11,
+				335
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Yeah!"
+		},
+		{
+			"offsets": [
+				-25,
+				239
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/SonicCk",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "ck",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		80,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

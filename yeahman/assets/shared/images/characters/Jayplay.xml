@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Jayplay.png" width="648" height="5921" spritePadding="3" borderPadding="1">
+	<SubTexture name="idle 0000" x="1" y="1317" width="646" height="655" frameX="-1224" frameY="-425" frameWidth="650" frameHeight="659"/>
+	<SubTexture name="up0000" x="1" y="4607" width="646" height="655" frameX="-1224" frameY="-425" frameWidth="650" frameHeight="659"/>
+	<SubTexture name="up0001" x="1" y="5265" width="646" height="655" frameX="-1224" frameY="-425" frameWidth="650" frameHeight="659"/>
+	<SubTexture name="left0000" x="1" y="1975" width="646" height="655" frameX="-1224" frameY="-425" frameWidth="650" frameHeight="659"/>
+	<SubTexture name="left0001" x="1" y="2633" width="646" height="655" frameX="-1224" frameY="-425" frameWidth="650" frameHeight="659"/>
+	<SubTexture name="down0000" x="1" y="1" width="646" height="655" frameX="-1224" frameY="-425" frameWidth="650" frameHeight="659"/>
+	<SubTexture name="down0001" x="1" y="659" width="646" height="655" frameX="-1224" frameY="-425" frameWidth="650" frameHeight="659"/>
+	<SubTexture name="right0000" x="1" y="3291" width="646" height="655" frameX="-1224" frameY="-425" frameWidth="650" frameHeight="659"/>
+	<SubTexture name="right0001" x="1" y="3949" width="646" height="655" frameX="-1224" frameY="-425" frameWidth="650" frameHeight="659"/>
+</TextureAtlas>

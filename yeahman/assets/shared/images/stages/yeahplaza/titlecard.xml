@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titlecard.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="title card instance 10000" x="8" y="549" width="1132" height="531" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10001" x="8" y="549" width="1132" height="531" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10002" x="8" y="549" width="1132" height="531" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10003" x="8" y="549" width="1132" height="531" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10004" x="8" y="549" width="1132" height="531" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10005" x="8" y="549" width="1132" height="531" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10006" x="8" y="549" width="1132" height="531" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10007" x="8" y="549" width="1132" height="531" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10008" x="8" y="549" width="1132" height="531" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10009" x="8" y="549" width="1132" height="531" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10010" x="8" y="8" width="1133" height="533" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10011" x="8" y="8" width="1133" height="533" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10012" x="8" y="8" width="1133" height="533" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10013" x="8" y="8" width="1133" height="533" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10014" x="8" y="8" width="1133" height="533" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10015" x="8" y="8" width="1133" height="533" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10016" x="8" y="8" width="1133" height="533" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10017" x="8" y="8" width="1133" height="533" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10018" x="8" y="8" width="1133" height="533" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10019" x="8" y="8" width="1133" height="533" frameX="0" frameY="0" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10020" x="8" y="1088" width="1127" height="529" frameX="-4" frameY="-2" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10021" x="8" y="1088" width="1127" height="529" frameX="-4" frameY="-2" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10022" x="8" y="1088" width="1127" height="529" frameX="-4" frameY="-2" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10023" x="8" y="1088" width="1127" height="529" frameX="-4" frameY="-2" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10024" x="8" y="1088" width="1127" height="529" frameX="-4" frameY="-2" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10025" x="8" y="1088" width="1127" height="529" frameX="-4" frameY="-2" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10026" x="8" y="1088" width="1127" height="529" frameX="-4" frameY="-2" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10027" x="8" y="1088" width="1127" height="529" frameX="-4" frameY="-2" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10028" x="8" y="1088" width="1127" height="529" frameX="-4" frameY="-2" frameWidth="1133" frameHeight="532"/>
+	<SubTexture name="title card instance 10029" x="8" y="1088" width="1127" height="529" frameX="-4" frameY="-2" frameWidth="1133" frameHeight="532"/>
+</TextureAtlas>

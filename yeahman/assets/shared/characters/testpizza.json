@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-27
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jidle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jleft instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jdown instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jup instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jright instance 1",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/testpizza",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "pg",
+	"flip_x": false,
+	"healthbar_colors": [
+		212,
+		136,
+		109
+	],
+	"camera_position": [
+		20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

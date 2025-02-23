@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="woodstock.png" width="512" height="1024">
+  <SubTexture name="flyout0009" x="3" y="3"  width="61" height="218" frameX="-0" frameY="-187" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0011" x="3" y="227"  width="69" height="189" frameX="-42" frameY="-66" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0006" x="70" y="3" width="58" height="188" rotated="true"  frameX="-309" frameY="-480" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0014" x="3" y="422" width="87" height="186" rotated="true"  frameX="-198" frameY="-494" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0007" x="78" y="197"  width="98" height="169" frameX="-16" frameY="-318" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0013" x="134" y="3"  width="94" height="161" frameX="-65" frameY="-0" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0008" x="3" y="614" width="84" height="150" rotated="true"  frameX="-222" frameY="-442" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0010" x="3" y="770" width="87" height="148" rotated="true"  frameX="-254" frameY="-364" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0000" x="93" y="614"  width="112" height="145" frameX="-690" frameY="-176" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0004" x="96" y="372" width="111" height="145" rotated="true"  frameX="-480" frameY="-396" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0018" x="182" y="523" width="87" height="85" rotated="true"  frameX="-79" frameY="-436" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0003" x="96" y="523"  width="80" height="85" frameX="-126" frameY="-433" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0012" x="182" y="170"  width="82" height="138" frameX="-343" frameY="-391" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0002" x="234" y="3"  width="103" height="129" frameX="-648" frameY="-262" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0016" x="213" y="314" width="83" height="104" rotated="true"  frameX="-117" frameY="-480" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0020" x="270" y="424"  width="85" height="87" frameX="-76" frameY="-432" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0005" x="270" y="138" width="99" height="103" rotated="true"  frameX="-53" frameY="-396" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0022" x="361" y="3"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0000" x="302" y="247"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0001" x="375" y="96"  width="80" height="84" frameX="-109" frameY="-438" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0001" x="93" y="614"  width="112" height="145" frameX="-690" frameY="-176" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0003" x="234" y="3"  width="103" height="129" frameX="-648" frameY="-262" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0005" x="96" y="372" width="111" height="145" rotated="true"  frameX="-480" frameY="-396" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0007" x="70" y="3" width="58" height="188" rotated="true"  frameX="-309" frameY="-480" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0009" x="3" y="614" width="84" height="150" rotated="true"  frameX="-222" frameY="-442" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0011" x="3" y="770" width="87" height="148" rotated="true"  frameX="-254" frameY="-364" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0013" x="182" y="170"  width="82" height="138" frameX="-343" frameY="-391" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0015" x="3" y="422" width="87" height="186" rotated="true"  frameX="-198" frameY="-494" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0017" x="213" y="314" width="83" height="104" rotated="true"  frameX="-117" frameY="-480" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0019" x="182" y="523" width="87" height="85" rotated="true"  frameX="-79" frameY="-436" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyin0021" x="270" y="424"  width="85" height="87" frameX="-76" frameY="-432" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0000" x="361" y="3"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0003" x="361" y="3"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0004" x="361" y="3"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0007" x="361" y="3"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0008" x="361" y="3"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0011" x="361" y="3"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0012" x="361" y="3"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0015" x="361" y="3"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0016" x="361" y="3"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0001" x="302" y="247"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0002" x="302" y="247"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0005" x="302" y="247"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0006" x="302" y="247"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0009" x="302" y="247"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0010" x="302" y="247"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0013" x="302" y="247"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0014" x="302" y="247"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="idle0017" x="302" y="247"  width="85" height="87" frameX="-74" frameY="-430" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0002" x="375" y="96"  width="80" height="84" frameX="-109" frameY="-438" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0004" x="96" y="523"  width="80" height="85" frameX="-126" frameY="-433" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0006" x="270" y="138" width="99" height="103" rotated="true"  frameX="-53" frameY="-396" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0008" x="78" y="197"  width="98" height="169" frameX="-16" frameY="-318" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0010" x="3" y="3"  width="61" height="218" frameX="-0" frameY="-187" frameWidth="802" frameHeight="581"/>
+  <SubTexture name="flyout0012" x="3" y="227"  width="69" height="189" frameX="-42" frameY="-66" frameWidth="802" frameHeight="581"/>
+</TextureAtlas>

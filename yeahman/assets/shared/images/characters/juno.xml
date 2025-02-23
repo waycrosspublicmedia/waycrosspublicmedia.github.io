@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="juno.png">
+<SubTexture name="juno idle0000" x="0" y="0" width="540" height="602" frameX="-5" frameY="-6" frameWidth="554" frameHeight="614" />
+<SubTexture name="juno idle0001" x="540" y="0" width="540" height="602" frameX="-5" frameY="-6" frameWidth="554" frameHeight="614" />
+<SubTexture name="juno idle0002" x="1080" y="0" width="540" height="602" frameX="-5" frameY="-6" frameWidth="554" frameHeight="614" />
+<SubTexture name="juno right0000" x="0" y="602" width="540" height="602" frameX="-5" frameY="-6" frameWidth="554" frameHeight="614" />
+<SubTexture name="juno right0001" x="540" y="602" width="540" height="602" frameX="-5" frameY="-6" frameWidth="554" frameHeight="614" />
+<SubTexture name="juno down0000" x="1080" y="602" width="540" height="602" frameX="-5" frameY="-6" frameWidth="554" frameHeight="614" />
+<SubTexture name="juno down0001" x="1620" y="0" width="540" height="602" frameX="-5" frameY="-6" frameWidth="554" frameHeight="614" />
+<SubTexture name="juno left0000" x="1620" y="602" width="540" height="602" frameX="-5" frameY="-6" frameWidth="554" frameHeight="614" />
+<SubTexture name="juno left0001" x="0" y="1204" width="540" height="602" frameX="-5" frameY="-6" frameWidth="554" frameHeight="614" />
+<SubTexture name="juno up0000" x="540" y="1204" width="540" height="602" frameX="-5" frameY="-6" frameWidth="554" frameHeight="614" />
+<SubTexture name="juno up0001" x="1080" y="1204" width="540" height="602" frameX="-5" frameY="-6" frameWidth="554" frameHeight="614" />
+</TextureAtlas>

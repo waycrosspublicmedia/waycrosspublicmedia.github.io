@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "LuciferSarvIdle"
+		},
+		{
+			"offsets": [
+				272,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LuciferSarvLeft"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "LuciferSarvDown"
+		},
+		{
+			"offsets": [
+				-50,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "LuciferSarvUp"
+		},
+		{
+			"offsets": [
+				-80,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "LuciferSarvRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/smokinhotbabe",
+	"position": [
+		0,
+		-120
+	],
+	"healthicon": "sarvente-lucifer",
+	"flip_x": false,
+	"healthbar_colors": [
+		218,
+		49,
+		125
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Treat.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bump1color0000" x="1" y="1" width="648" height="646" frameX="-6" frameY="-8" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0001" x="1" y="1" width="648" height="646" frameX="-6" frameY="-8" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0002" x="650" y="1" width="654" height="646" frameX="0" frameY="-8" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0003" x="650" y="1" width="654" height="646" frameX="0" frameY="-8" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0004" x="1305" y="1" width="637" height="653" frameX="-13" frameY="-1" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0005" x="1305" y="1" width="637" height="653" frameX="-13" frameY="-1" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0006" x="1" y="655" width="627" height="654" frameX="-20" frameY="0" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0007" x="1" y="655" width="627" height="654" frameX="-20" frameY="0" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0008" x="629" y="655" width="627" height="654" frameX="-20" frameY="0" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0009" x="629" y="655" width="627" height="654" frameX="-20" frameY="0" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0010" x="629" y="655" width="627" height="654" frameX="-20" frameY="0" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0011" x="629" y="655" width="627" height="654" frameX="-20" frameY="0" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0012" x="629" y="655" width="627" height="654" frameX="-20" frameY="0" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0013" x="629" y="655" width="627" height="654" frameX="-20" frameY="0" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="bump1color0014" x="629" y="655" width="627" height="654" frameX="-20" frameY="0" frameWidth="654" frameHeight="654"/>
+	<SubTexture name="ok1color0000" x="1257" y="655" width="649" height="655"/>
+	<SubTexture name="ok1color0001" x="1257" y="655" width="649" height="655"/>
+	<SubTexture name="ok1color0002" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0003" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0004" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0005" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0006" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0007" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0008" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0009" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0010" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0011" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0012" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0013" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+	<SubTexture name="ok1color0014" x="1" y="1311" width="644" height="655" frameX="-1" frameY="0" frameWidth="649" frameHeight="655"/>
+</TextureAtlas>

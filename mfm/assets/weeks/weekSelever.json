@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Casanova",
+			"selever",
+			[
+				155,
+				0,
+				73
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard, Alt",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "SELEVER",
+	"weekName": "Selever",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekMFM",
+	"startUnlocked": true
+}

@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"12am",
+			"mello"
+		],
+		[
+			"kidnplay",
+			"punkett"
+		]
+	],
+	"sprite": [
+		"storymenu/plaza",
+		491,
+		240
+	],
+	"hitbox": [
+		-45,
+		-40,
+		230,
+		255
+	],
+	"hideFreeplay": false,
+	"difficulties": "Normal",
+	"weekBackground": "plaza",
+	"storyName": "plaza",
+	"weekName": "plaza",
+	"startUnlocked": true,
+	"weekBefore": "lake"
+}

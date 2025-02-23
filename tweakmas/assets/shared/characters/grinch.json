@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "grinch idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "grinch up"
+		},
+		{
+			"offsets": [
+				-6,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "grinch left"
+		},
+		{
+			"offsets": [
+				-130,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "grinch right"
+		},
+		{
+			"offsets": [
+				-8,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "grinch down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/grinch",
+	"position": [
+		-340,
+		-90
+	],
+	"healthicon": "grinch",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		155,
+		20
+	],
+	"camera_position": [
+		-120,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

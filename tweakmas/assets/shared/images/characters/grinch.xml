@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="grinch.png"><SubTexture name="grinch down0000" x="1251" y="733" width="273" height="571" frameX="-377" frameY="-297" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch down0001" x="1251" y="733" width="273" height="571" frameX="-377" frameY="-297" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch down0002" x="1251" y="733" width="273" height="571" frameX="-377" frameY="-297" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch down0003" x="1002" y="733" width="249" height="607" frameX="-386" frameY="-255" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch down0004" x="1002" y="733" width="249" height="607" frameX="-386" frameY="-255" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch down0005" x="1002" y="733" width="249" height="607" frameX="-386" frameY="-255" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch idle0000" x="530" y="0" width="231" height="731" frameX="-416" frameY="-162" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch idle0001" x="530" y="0" width="231" height="731" frameX="-416" frameY="-162" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch idle0002" x="530" y="0" width="231" height="731" frameX="-416" frameY="-162" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch idle0003" x="530" y="0" width="231" height="731" frameX="-416" frameY="-162" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch idle0004" x="530" y="0" width="231" height="731" frameX="-416" frameY="-162" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch idle0005" x="297" y="0" width="233" height="732" frameX="-416" frameY="-160" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch idle0006" x="297" y="0" width="233" height="732" frameX="-416" frameY="-160" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch idle0007" x="297" y="0" width="233" height="732" frameX="-416" frameY="-160" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch idle0008" x="297" y="0" width="233" height="732" frameX="-416" frameY="-160" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch idle0009" x="297" y="0" width="233" height="732" frameX="-416" frameY="-160" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch left0000" x="761" y="0" width="269" height="721" frameX="-344" frameY="-176" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch left0001" x="761" y="0" width="269" height="721" frameX="-344" frameY="-176" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch left0002" x="761" y="0" width="269" height="721" frameX="-344" frameY="-176" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch left0003" x="1030" y="0" width="259" height="721" frameX="-357" frameY="-175" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch left0004" x="1030" y="0" width="259" height="721" frameX="-357" frameY="-175" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch left0005" x="1030" y="0" width="259" height="721" frameX="-357" frameY="-175" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch right0000" x="0" y="733" width="510" height="611" frameX="-256" frameY="-207" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch right0001" x="0" y="733" width="510" height="611" frameX="-256" frameY="-207" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch right0002" x="0" y="733" width="510" height="611" frameX="-256" frameY="-207" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch right0003" x="510" y="733" width="492" height="609" frameX="-254" frameY="-207" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch right0004" x="510" y="733" width="492" height="609" frameX="-254" frameY="-207" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch right0005" x="510" y="733" width="492" height="609" frameX="-254" frameY="-207" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch up0000" x="0" y="0" width="297" height="733" frameX="-445" frameY="-101" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch up0001" x="0" y="0" width="297" height="733" frameX="-445" frameY="-101" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch up0002" x="0" y="0" width="297" height="733" frameX="-445" frameY="-101" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch up0003" x="1289" y="0" width="309" height="714" frameX="-437" frameY="-121" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch up0004" x="1289" y="0" width="309" height="714" frameX="-437" frameY="-121" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="grinch up0005" x="1289" y="0" width="309" height="714" frameX="-437" frameY="-121" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

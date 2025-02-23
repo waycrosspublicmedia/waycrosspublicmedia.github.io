@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bitchass.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bitchass0000" x="2" y="2" width="1828" height="968" frameX="-85" frameY="-30" frameWidth="1973" frameHeight="1048"/>
+	<SubTexture name="bitchass0001" x="2" y="2" width="1828" height="968" frameX="-85" frameY="-30" frameWidth="1973" frameHeight="1048"/>
+	<SubTexture name="bitchass0002" x="1880" y="2" width="1973" height="1048"/>
+	<SubTexture name="bitchass0003" x="1880" y="2" width="1973" height="1048"/>
+</TextureAtlas>

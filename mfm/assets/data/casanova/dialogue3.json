@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "xd",
+			"text": "AHAHAHAHAHAH YOU DUMB FUCK, DID YOU REALLY EXPECT A REWARDING ENDING ???",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sel",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "It's as if you forgot what I said the first time you entered my game LOL!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sel",
+			"boxState": "normal",
+			"expression": "xd",
+			"text": "Anyway! Thanks for letting me waste your time! Have fun collapsing with this universe!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sel",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Quite sad to see you die like this, but I couldn't care less."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sel",
+			"boxState": "angry",
+			"expression": "happy",
+			"text": "BYE!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ras",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ras",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Maybe next time... I will be allowed to meet real Mama and Papa..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ras",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ras",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "...someday..."
+		}
+	]
+}

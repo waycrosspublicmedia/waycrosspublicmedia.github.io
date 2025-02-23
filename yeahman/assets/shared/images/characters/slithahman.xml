@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="slithahman.png" width="3457" height="1611" spritePadding="3" borderPadding="1">
+	<SubTexture name="down instance 10000" x="1" y="1" width="504" height="710" frameX="0" frameY="-5" frameWidth="504" frameHeight="715"/>
+	<SubTexture name="down instance 10001" x="508" y="1" width="488" height="715" frameX="-8" frameY="0" frameWidth="504" frameHeight="715"/>
+	<SubTexture name="idle instance 10000" x="999" y="1" width="489" height="773" frameX="0" frameY="0" frameWidth="489" frameHeight="773"/>
+	<SubTexture name="idle instance 10001" x="1491" y="1" width="489" height="773" frameX="0" frameY="0" frameWidth="489" frameHeight="773"/>
+	<SubTexture name="idle instance 10002" x="1983" y="1" width="489" height="773" frameX="0" frameY="0" frameWidth="489" frameHeight="773"/>
+	<SubTexture name="idle instance 10003" x="2475" y="1" width="489" height="773" frameX="0" frameY="0" frameWidth="489" frameHeight="773"/>
+	<SubTexture name="idle instance 10004" x="2967" y="1" width="489" height="773" frameX="0" frameY="0" frameWidth="489" frameHeight="773"/>
+	<SubTexture name="left instance 10000" x="1" y="777" width="566" height="736" frameX="0" frameY="-1" frameWidth="566" frameHeight="737"/>
+	<SubTexture name="left instance 10001" x="570" y="777" width="543" height="736" frameX="-27" frameY="-1" frameWidth="566" frameHeight="737"/>
+	<SubTexture name="right instance 10000" x="1116" y="777" width="628" height="728" frameX="0" frameY="-16" frameWidth="628" frameHeight="744"/>
+	<SubTexture name="right instance 10001" x="1747" y="777" width="569" height="744" frameX="-3" frameY="0" frameWidth="628" frameHeight="744"/>
+	<SubTexture name="up instance 10000" x="2319" y="777" width="458" height="833" frameX="-5" frameY="0" frameWidth="464" frameHeight="833"/>
+	<SubTexture name="up instance 10001" x="2780" y="777" width="464" height="810" frameX="0" frameY="-23" frameWidth="464" frameHeight="833"/>
+</TextureAtlas>

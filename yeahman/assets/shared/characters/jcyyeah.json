@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-119,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jcyyeah left"
+		},
+		{
+			"offsets": [
+				-199,
+				-16
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jcyyeah right"
+		},
+		{
+			"offsets": [
+				-99,
+				32
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jcyyeah up"
+		},
+		{
+			"offsets": [
+				-161,
+				-8
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jcyyeah down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-92,
+				0
+			],
+			"anim": "idle",
+			"fps": 4,
+			"name": "jcyyeah idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/jcyyeah",
+	"position": [
+		-860,
+		-700
+	],
+	"healthicon": "jcyym",
+	"flip_x": false,
+	"healthbar_colors": [
+		166,
+		154,
+		130
+	],
+	"camera_position": [
+		720,
+		620
+	],
+	"sing_duration": 4,
+	"scale": 0.5,
+	"_editor_isPlayer": false
+}

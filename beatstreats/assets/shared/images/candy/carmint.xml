@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carmint.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="carmint idle0000" x="1" y="1" width="245" height="375" frameX="-3" frameY="-9" frameWidth="251" frameHeight="384"/>
+	<SubTexture name="carmint idle0001" x="247" y="1" width="245" height="373" frameX="-6" frameY="-11" frameWidth="251" frameHeight="384"/>
+	<SubTexture name="carmint idle0002" x="493" y="1" width="242" height="380" frameX="-5" frameY="-4" frameWidth="251" frameHeight="384"/>
+	<SubTexture name="carmint idle0003" x="1" y="382" width="242" height="384" frameX="-2" frameY="0" frameWidth="251" frameHeight="384"/>
+	<SubTexture name="carmint idle0004" x="244" y="382" width="244" height="384" frameX="0" frameY="0" frameWidth="251" frameHeight="384"/>
+</TextureAtlas>
