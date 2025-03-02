@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="stat.png">
-<SubTexture name="i0000" x="0" y="0" width="600" height="338" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
-<SubTexture name="i0001" x="600" y="0" width="600" height="338" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
-<SubTexture name="i0002" x="0" y="338" width="600" height="338" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
-<SubTexture name="i0003" x="600" y="338" width="600" height="338" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
-<SubTexture name="i0004" x="0" y="676" width="600" height="338" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
-</TextureAtlas>

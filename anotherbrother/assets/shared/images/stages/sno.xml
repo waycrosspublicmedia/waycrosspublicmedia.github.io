@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="sno.png">
-	<!-- Created using the Spritesheet and XML generator -->
-	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
-	<SubTexture name="sno10000" x="0" y="304" width="504" height="304" frameX="2" frameY="2" frameWidth="500" frameHeight="300"/>
-	<SubTexture name="sno20000" x="0" y="0" width="504" height="304" frameX="2" frameY="2" frameWidth="500" frameHeight="300"/>
-	<SubTexture name="sno30000" x="504" y="304" width="504" height="304" frameX="2" frameY="2" frameWidth="500" frameHeight="300"/>
-	<SubTexture name="sno40000" x="504" y="0" width="504" height="304" frameX="2" frameY="2" frameWidth="500" frameHeight="300"/>
-</TextureAtlas>

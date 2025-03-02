@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Miribop.png">
-	<!-- Created using the Spritesheet and XML generator -->
-	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
-	<SubTexture name="idle 0000" x="0" y="0" width="465" height="795" frameX="-728" frameY="-58" frameWidth="1920" frameHeight="1080"/>
-</TextureAtlas>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="tombstone.png">
-	<!-- Created with Adobe Animate version 21.0.6.41649 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="tombstone0000" x="2" y="2" width="1049" height="1279" frameX="0" frameY="-1" frameWidth="1049" frameHeight="1292"/>
-	<SubTexture name="tombstone0001" x="2" y="2" width="1049" height="1279" frameX="0" frameY="-1" frameWidth="1049" frameHeight="1292"/>
-	<SubTexture name="tombstone0002" x="1101" y="2" width="1001" height="1292" frameX="-30" frameY="0" frameWidth="1049" frameHeight="1292"/>
-	<SubTexture name="tombstone0003" x="1101" y="2" width="1001" height="1292" frameX="-30" frameY="0" frameWidth="1049" frameHeight="1292"/>
-</TextureAtlas>
