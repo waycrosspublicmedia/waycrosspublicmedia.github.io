@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="jcy4.png">
-<SubTexture name="jcy4 wind0000" x="2860" y="0" width="2862" height="826" frameX="-644" frameY="-573" frameWidth="3978" frameHeight="2574" />
-<SubTexture name="jcy4 wind0001" x="0" y="827" width="2862" height="821" frameX="-647" frameY="-574" frameWidth="3978" frameHeight="2574" />
-<SubTexture name="jcy4 wind0002" x="0" y="0" width="2860" height="827" frameX="-647" frameY="-574" frameWidth="3978" frameHeight="2574" />
-</TextureAtlas>
